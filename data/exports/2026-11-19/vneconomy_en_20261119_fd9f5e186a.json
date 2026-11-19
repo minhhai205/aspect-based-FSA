@@ -1,0 +1,82 @@
+[
+  {
+    "sent_id": "vneconomy_en_20261119_fd9f5e186a#0",
+    "doc_id": "vneconomy_en_20261119_fd9f5e186a",
+    "sent_idx": 0,
+    "text": "Vietnam launches tool to assess firms' digital and green transition readiness",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vneconomy_en_20261119_fd9f5e186a#1",
+    "doc_id": "vneconomy_en_20261119_fd9f5e186a",
+    "sent_idx": 1,
+    "text": "Vietnam's Agency for Private Enterprise and Collective Economy Development under the Ministry of Finance, in collaboration with the German Agency for International Cooperation (GIZ), launched the Twin Maturity Assessment Tool (TMA) on November 17.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261119_fd9f5e186a#2",
+    "doc_id": "vneconomy_en_20261119_fd9f5e186a",
+    "sent_idx": 2,
+    "text": "Issued by the Ministry of Finance under a Decision dated September 8, 2026, and made available digitally through the National Business Information Portal, TMA is Vietnam's first assessment framework to integrate digital transformation and green transition into a single tool for businesses, with a particular focus on small and medium-sized enterprises (SMEs).",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261119_fd9f5e186a#3",
+    "doc_id": "vneconomy_en_20261119_fd9f5e186a",
+    "sent_idx": 3,
+    "text": "Developed under the German Government-funded Twin Transition Hub (TTH) project, the tool builds on international standards while being tailored to the specific conditions of Vietnamese businesses.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261119_fd9f5e186a#4",
+    "doc_id": "vneconomy_en_20261119_fd9f5e186a",
+    "sent_idx": 4,
+    "text": "TMA provides a standardised, data-driven framework that enables companies to identify gaps in their current capabilities and determine appropriate transformation priorities based on their available resources.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261119_fd9f5e186a#5",
+    "doc_id": "vneconomy_en_20261119_fd9f5e186a",
+    "sent_idx": 5,
+    "text": "Notably, the tool has been officially recognised by Synesgy, a global ESG self-assessment platform, allowing businesses to reuse data previously submitted during assessments.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261119_fd9f5e186a#6",
+    "doc_id": "vneconomy_en_20261119_fd9f5e186a",
+    "sent_idx": 6,
+    "text": "This integration is expected to reduce duplicate reporting requirements, help Vietnamese firms meet stringent requirements from foreign partners and facilitate their participation in international supply chains.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261119_fd9f5e186a#7",
+    "doc_id": "vneconomy_en_20261119_fd9f5e186a",
+    "sent_idx": 7,
+    "text": "Meanwhile, aggregated data collected through TMA assessments will provide valuable insights for policymakers.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261119_fd9f5e186a#8",
+    "doc_id": "vneconomy_en_20261119_fd9f5e186a",
+    "sent_idx": 8,
+    "text": "The Ministry of Finance and business support organisations can use this information to better understand companies' actual conditions and needs, enabling more targeted support through consultancy services, expert networks, technology solutions and financial resources.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261119_fd9f5e186a#9",
+    "doc_id": "vneconomy_en_20261119_fd9f5e186a",
+    "sent_idx": 9,
+    "text": "The tool is expected to help Vietnamese businesses, particularly SMEs, assess their current readiness and identify where to begin their digital and green transformation journeys.",
+    "lang": "en",
+    "is_title": false
+  }
+]

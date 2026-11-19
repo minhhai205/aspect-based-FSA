@@ -1,0 +1,586 @@
+[
+  {
+    "sent_id": "vneconomy_en_20261119_24b4ddb9a0#0",
+    "doc_id": "vneconomy_en_20261119_24b4ddb9a0",
+    "sent_idx": 0,
+    "text": "Leaving Google and Meta, a Vietnamese founds an AI cybersecurity startup",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vneconomy_en_20261119_24b4ddb9a0#1",
+    "doc_id": "vneconomy_en_20261119_24b4ddb9a0",
+    "sent_idx": 1,
+    "text": "Dr. Vuong first rose to prominence after winning the Gold Cup at the 2006 Tri Tue Viet Nam (Vietnamese Wisdom) IT competition.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261119_24b4ddb9a0#2",
+    "doc_id": "vneconomy_en_20261119_24b4ddb9a0",
+    "sent_idx": 2,
+    "text": "He later earned his bachelor's degree from Nanyang Technological University (Singapore) and went on to complete his Ph.D. in Computer Science at the University of Wisconsin - Madison (US) with a perfect GPA.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261119_24b4ddb9a0#3",
+    "doc_id": "vneconomy_en_20261119_24b4ddb9a0",
+    "sent_idx": 3,
+    "text": "Prior to founding Innosearch AI and Cyfendo, he spent over a decade in senior engineering management and machine learning research roles at global technology giants including Google, Meta, and Walmart.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261119_24b4ddb9a0#4",
+    "doc_id": "vneconomy_en_20261119_24b4ddb9a0",
+    "sent_idx": 4,
+    "text": "Before founding Cyfendo, you held leadership roles in AI and cybersecurity at major tech corporations like Google and Meta.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261119_24b4ddb9a0#5",
+    "doc_id": "vneconomy_en_20261119_24b4ddb9a0",
+    "sent_idx": 5,
+    "text": "What motivated you to leave those environments to build your own tech company in Silicon Valley?",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261119_24b4ddb9a0#6",
+    "doc_id": "vneconomy_en_20261119_24b4ddb9a0",
+    "sent_idx": 6,
+    "text": "First, despite working at leading technology corporations with professional, modern environments and strong compensation, I always harbored a desire to build my own company and products.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261119_24b4ddb9a0#7",
+    "doc_id": "vneconomy_en_20261119_24b4ddb9a0",
+    "sent_idx": 7,
+    "text": "I wanted to create solutions that deliver tangible value to users while giving back to the community, including Vietnam.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261119_24b4ddb9a0#8",
+    "doc_id": "vneconomy_en_20261119_24b4ddb9a0",
+    "sent_idx": 8,
+    "text": "Second, the rapid advancement of AI in recent years has unlocked tremendous new opportunities.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261119_24b4ddb9a0#9",
+    "doc_id": "vneconomy_en_20261119_24b4ddb9a0",
+    "sent_idx": 9,
+    "text": "Problems that were previously daunting, or even impossible to solve can now be tackled more simply and effectively with AI.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261119_24b4ddb9a0#10",
+    "doc_id": "vneconomy_en_20261119_24b4ddb9a0",
+    "sent_idx": 10,
+    "text": "This technology is also paving the way for entirely new product categories and business models.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261119_24b4ddb9a0#11",
+    "doc_id": "vneconomy_en_20261119_24b4ddb9a0",
+    "sent_idx": 11,
+    "text": "Among these opportunities, applying AI to security and cybersecurity stood out as an area of immense potential.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261119_24b4ddb9a0#12",
+    "doc_id": "vneconomy_en_20261119_24b4ddb9a0",
+    "sent_idx": 12,
+    "text": "AI can resolve complex challenges where traditional methods fall short.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261119_24b4ddb9a0#13",
+    "doc_id": "vneconomy_en_20261119_24b4ddb9a0",
+    "sent_idx": 13,
+    "text": "Therefore, I decided to turn my entrepreneurial ambition into reality by founding a company focused on AI-driven cybersecurity.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261119_24b4ddb9a0#14",
+    "doc_id": "vneconomy_en_20261119_24b4ddb9a0",
+    "sent_idx": 14,
+    "text": "In fact, the idea of starting my own company had been brewing for a long time, and in 2026, I officially took the plunge.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261119_24b4ddb9a0#15",
+    "doc_id": "vneconomy_en_20261119_24b4ddb9a0",
+    "sent_idx": 15,
+    "text": "The market already offers numerous solutions for scanning and detecting vulnerabilities in source code.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261119_24b4ddb9a0#16",
+    "doc_id": "vneconomy_en_20261119_24b4ddb9a0",
+    "sent_idx": 16,
+    "text": "How does Cyfendo differentiate its approach from traditional tools?",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261119_24b4ddb9a0#17",
+    "doc_id": "vneconomy_en_20261119_24b4ddb9a0",
+    "sent_idx": 17,
+    "text": "Detecting vulnerabilities in source code is not a new field; many companies, including major tech firms, have developed solutions for this problem.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261119_24b4ddb9a0#18",
+    "doc_id": "vneconomy_en_20261119_24b4ddb9a0",
+    "sent_idx": 18,
+    "text": "However, most traditional tools still rely on rule-based methodologies to flag potentially flawed code segments.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261119_24b4ddb9a0#19",
+    "doc_id": "vneconomy_en_20261119_24b4ddb9a0",
+    "sent_idx": 19,
+    "text": "The drawback of this approach is that it frequently generates a high volume of false positives, undermining overall testing efficiency.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261119_24b4ddb9a0#20",
+    "doc_id": "vneconomy_en_20261119_24b4ddb9a0",
+    "sent_idx": 20,
+    "text": "At Cyfendo, we deploy advanced AI models across three stages: discovery, vulnerability validation, and patch generation.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261119_24b4ddb9a0#21",
+    "doc_id": "vneconomy_en_20261119_24b4ddb9a0",
+    "sent_idx": 21,
+    "text": "Our first key differentiator is the ability to verify detected vulnerabilities.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261119_24b4ddb9a0#22",
+    "doc_id": "vneconomy_en_20261119_24b4ddb9a0",
+    "sent_idx": 22,
+    "text": "Specifically, our system places suspected flawed code into a sandbox environment and simulates a hacker's attack workflow to test whether the vulnerability actually allows system intrusion.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261119_24b4ddb9a0#23",
+    "doc_id": "vneconomy_en_20261119_24b4ddb9a0",
+    "sent_idx": 23,
+    "text": "Only when exploitability is confirmed does the system classify it as a genuine vulnerability posing real risk to the enterprise.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261119_24b4ddb9a0#24",
+    "doc_id": "vneconomy_en_20261119_24b4ddb9a0",
+    "sent_idx": 24,
+    "text": "Our second differentiator is automated patch generation to remediate the flaw.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261119_24b4ddb9a0#25",
+    "doc_id": "vneconomy_en_20261119_24b4ddb9a0",
+    "sent_idx": 25,
+    "text": "A patch must not only resolve the security vulnerability but also ensure that all other software functionalities continue operating normally without introducing new bugs.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261119_24b4ddb9a0#26",
+    "doc_id": "vneconomy_en_20261119_24b4ddb9a0",
+    "sent_idx": 26,
+    "text": "Simultaneously detecting, validating, and patching vulnerabilities demands high precision.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261119_24b4ddb9a0#27",
+    "doc_id": "vneconomy_en_20261119_24b4ddb9a0",
+    "sent_idx": 27,
+    "text": "What concrete benchmark results has Cyfendo achieved in testing?",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261119_24b4ddb9a0#28",
+    "doc_id": "vneconomy_en_20261119_24b4ddb9a0",
+    "sent_idx": 28,
+    "text": "In this domain, two key metrics are typically used to evaluate product performance.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261119_24b4ddb9a0#29",
+    "doc_id": "vneconomy_en_20261119_24b4ddb9a0",
+    "sent_idx": 29,
+    "text": "The first is recall, the ability to detect actual vulnerabilities out of the total existing flaws.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261119_24b4ddb9a0#30",
+    "doc_id": "vneconomy_en_20261119_24b4ddb9a0",
+    "sent_idx": 30,
+    "text": "Cyfendo achieves approximately 94% on this metric.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261119_24b4ddb9a0#31",
+    "doc_id": "vneconomy_en_20261119_24b4ddb9a0",
+    "sent_idx": 31,
+    "text": "The second is alert precision, the proportion of flagged vulnerabilities that are genuine security flaws.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261119_24b4ddb9a0#32",
+    "doc_id": "vneconomy_en_20261119_24b4ddb9a0",
+    "sent_idx": 32,
+    "text": "On this front, we achieve around 96%.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261119_24b4ddb9a0#33",
+    "doc_id": "vneconomy_en_20261119_24b4ddb9a0",
+    "sent_idx": 33,
+    "text": "Currently, some products on the market detect a high number of bugs at the expense of high false-positive rates, while other tools maintain high precision but miss critical vulnerabilities.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261119_24b4ddb9a0#34",
+    "doc_id": "vneconomy_en_20261119_24b4ddb9a0",
+    "sent_idx": 34,
+    "text": "Cyfendo's goal is to excel simultaneously on both metrics: missing virtually no vulnerabilities while minimizing false alerts.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261119_24b4ddb9a0#35",
+    "doc_id": "vneconomy_en_20261119_24b4ddb9a0",
+    "sent_idx": 35,
+    "text": "These results were benchmarked against the OWASP Benchmark, a widely recognized standard developed by the Open Worldwide Application Security Project (OWASP), a leading authority in application security.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261119_24b4ddb9a0#36",
+    "doc_id": "vneconomy_en_20261119_24b4ddb9a0",
+    "sent_idx": 36,
+    "text": "Source code is a vital corporate asset containing highly sensitive data.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261119_24b4ddb9a0#37",
+    "doc_id": "vneconomy_en_20261119_24b4ddb9a0",
+    "sent_idx": 37,
+    "text": "When clients connect their code repositories to Cyfendo's platform, how are data privacy and security guaranteed?",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261119_24b4ddb9a0#38",
+    "doc_id": "vneconomy_en_20261119_24b4ddb9a0",
+    "sent_idx": 38,
+    "text": "This is a very practical concern for our clients.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261119_24b4ddb9a0#39",
+    "doc_id": "vneconomy_en_20261119_24b4ddb9a0",
+    "sent_idx": 39,
+    "text": "With our solution, clients can run the system directly on Cyfendo's servers.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261119_24b4ddb9a0#40",
+    "doc_id": "vneconomy_en_20261119_24b4ddb9a0",
+    "sent_idx": 40,
+    "text": "In this setup, source code is encrypted both in transit and at rest.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261119_24b4ddb9a0#41",
+    "doc_id": "vneconomy_en_20261119_24b4ddb9a0",
+    "sent_idx": 41,
+    "text": "Even internal Cyfendo employees are barred from accessing client source code, and all code data is automatically purged from the system after 15 days.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261119_24b4ddb9a0#42",
+    "doc_id": "vneconomy_en_20261119_24b4ddb9a0",
+    "sent_idx": 42,
+    "text": "For clients who prefer not to share their source code externally, we offer a Private Scan mode.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261119_24b4ddb9a0#43",
+    "doc_id": "vneconomy_en_20261119_24b4ddb9a0",
+    "sent_idx": 43,
+    "text": "This allows organizations to use their own large language models (LLMs) and execute the entire scanning process on their own internal servers.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261119_24b4ddb9a0#44",
+    "doc_id": "vneconomy_en_20261119_24b4ddb9a0",
+    "sent_idx": 44,
+    "text": "No data is shared with Cyfendo, neither source code nor details of the vulnerabilities discovered.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261119_24b4ddb9a0#45",
+    "doc_id": "vneconomy_en_20261119_24b4ddb9a0",
+    "sent_idx": 45,
+    "text": "Why are small and medium-sized enterprises (SMEs) a core customer segment for Cyfendo?",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261119_24b4ddb9a0#46",
+    "doc_id": "vneconomy_en_20261119_24b4ddb9a0",
+    "sent_idx": 46,
+    "text": "What obstacles do they typically face when implementing security solutions?",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261119_24b4ddb9a0#47",
+    "doc_id": "vneconomy_en_20261119_24b4ddb9a0",
+    "sent_idx": 47,
+    "text": "SMEs are a primary focus for Cyfendo not only in Vietnam but across all our target markets.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261119_24b4ddb9a0#48",
+    "doc_id": "vneconomy_en_20261119_24b4ddb9a0",
+    "sent_idx": 48,
+    "text": "These businesses generally encounter three main hurdles.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261119_24b4ddb9a0#49",
+    "doc_id": "vneconomy_en_20261119_24b4ddb9a0",
+    "sent_idx": 49,
+    "text": "Second, a shortage of dedicated personnel.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261119_24b4ddb9a0#50",
+    "doc_id": "vneconomy_en_20261119_24b4ddb9a0",
+    "sent_idx": 50,
+    "text": "These two barriers are very common, as not every business has the resources to invest heavily in security tools or build an in-house team of specialized security engineers.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261119_24b4ddb9a0#51",
+    "doc_id": "vneconomy_en_20261119_24b4ddb9a0",
+    "sent_idx": 51,
+    "text": "Third, and equally critical is a lack of deep cybersecurity expertise.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261119_24b4ddb9a0#52",
+    "doc_id": "vneconomy_en_20261119_24b4ddb9a0",
+    "sent_idx": 52,
+    "text": "Through conversations with many clients, I've found that most recognize security as essential and are willing to invest, yet they simply do not know where to begin.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261119_24b4ddb9a0#53",
+    "doc_id": "vneconomy_en_20261119_24b4ddb9a0",
+    "sent_idx": 53,
+    "text": "Cybersecurity is a vast, complex field with countless products and solutions serving different purposes.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261119_24b4ddb9a0#54",
+    "doc_id": "vneconomy_en_20261119_24b4ddb9a0",
+    "sent_idx": 54,
+    "text": "Selecting the right tools and deploying them effectively to match practical business needs remains a major challenge for SMEs.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261119_24b4ddb9a0#55",
+    "doc_id": "vneconomy_en_20261119_24b4ddb9a0",
+    "sent_idx": 55,
+    "text": "Cyfendo is a Silicon Valley-born startup founded by a Vietnamese entrepreneur with global ambitions.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261119_24b4ddb9a0#56",
+    "doc_id": "vneconomy_en_20261119_24b4ddb9a0",
+    "sent_idx": 56,
+    "text": "What advantages does this background provide when approaching international clients, and what challenges do you face in bringing the product to market?",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261119_24b4ddb9a0#57",
+    "doc_id": "vneconomy_en_20261119_24b4ddb9a0",
+    "sent_idx": 57,
+    "text": "One of our distinct advantages is being incorporated in the US, combined with my background working in this specialized domain at tech giants like Google and Meta.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261119_24b4ddb9a0#58",
+    "doc_id": "vneconomy_en_20261119_24b4ddb9a0",
+    "sent_idx": 58,
+    "text": "When engaging with clients in the US and other international markets, building trust is paramount.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261119_24b4ddb9a0#59",
+    "doc_id": "vneconomy_en_20261119_24b4ddb9a0",
+    "sent_idx": 59,
+    "text": "When clients have confidence in the capabilities of the founding team and the company, they are far more open to exploring, partnering with, and adopting the product.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261119_24b4ddb9a0#60",
+    "doc_id": "vneconomy_en_20261119_24b4ddb9a0",
+    "sent_idx": 60,
+    "text": "Thus, our Silicon Valley roots and founding track record give Cyfendo an edge in initiating conversations and establishing credibility with prospective clients.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261119_24b4ddb9a0#61",
+    "doc_id": "vneconomy_en_20261119_24b4ddb9a0",
+    "sent_idx": 61,
+    "text": "Nevertheless, Cyfendo is still a young company without widespread brand recognition.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261119_24b4ddb9a0#62",
+    "doc_id": "vneconomy_en_20261119_24b4ddb9a0",
+    "sent_idx": 62,
+    "text": "When clients are unfamiliar with a company and its offerings, they naturally require more time to evaluate and build confidence, making it challenging to persuade them to adopt a new solution.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261119_24b4ddb9a0#63",
+    "doc_id": "vneconomy_en_20261119_24b4ddb9a0",
+    "sent_idx": 63,
+    "text": "Our second challenge relates to human resources.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261119_24b4ddb9a0#64",
+    "doc_id": "vneconomy_en_20261119_24b4ddb9a0",
+    "sent_idx": 64,
+    "text": "Operating with the lean headcount of an early-stage startup makes it demanding to reach and support a large volume of customers simultaneously.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261119_24b4ddb9a0#65",
+    "doc_id": "vneconomy_en_20261119_24b4ddb9a0",
+    "sent_idx": 65,
+    "text": "We need sufficient talent to drive market expansion while maintaining top-tier customer support throughout product adoption.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261119_24b4ddb9a0#66",
+    "doc_id": "vneconomy_en_20261119_24b4ddb9a0",
+    "sent_idx": 66,
+    "text": "Vietnam's tech workforce is well regarded for its technical aptitude.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261119_24b4ddb9a0#67",
+    "doc_id": "vneconomy_en_20261119_24b4ddb9a0",
+    "sent_idx": 67,
+    "text": "What plans does Cyfendo have to collaborate with universities to nurture AI and cybersecurity talent in Vietnam?",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261119_24b4ddb9a0#68",
+    "doc_id": "vneconomy_en_20261119_24b4ddb9a0",
+    "sent_idx": 68,
+    "text": "We are currently in discussions with several universities regarding potential partnerships, including Nguyen Tat Thanh University in Ho Chi Minh City, though these initiatives are still in their early stages.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261119_24b4ddb9a0#69",
+    "doc_id": "vneconomy_en_20261119_24b4ddb9a0",
+    "sent_idx": 69,
+    "text": "Our first objective is to collaborate with universities to bring practical knowledge of AI and cybersecurity closer to students, particularly seniors preparing for graduation.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261119_24b4ddb9a0#70",
+    "doc_id": "vneconomy_en_20261119_24b4ddb9a0",
+    "sent_idx": 70,
+    "text": "Second, we aim to establish hands-on training programs where students can apply their knowledge to real-world problems.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261119_24b4ddb9a0#71",
+    "doc_id": "vneconomy_en_20261119_24b4ddb9a0",
+    "sent_idx": 71,
+    "text": "For example, we could organize bootcamps in which students work together to solve a specific project, gaining practical experience beyond classroom theory.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261119_24b4ddb9a0#72",
+    "doc_id": "vneconomy_en_20261119_24b4ddb9a0",
+    "sent_idx": 72,
+    "text": "Additionally, Cyfendo will work with universities to identify high-potential students passionate about technology, AI, and cybersecurity, creating pathways for them to join our team directly.",
+    "lang": "en",
+    "is_title": false
+  }
+]

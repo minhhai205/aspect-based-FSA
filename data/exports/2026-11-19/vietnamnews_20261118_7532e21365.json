@@ -1,0 +1,218 @@
+[
+  {
+    "sent_id": "vietnamnews_20261118_7532e21365#0",
+    "doc_id": "vietnamnews_20261118_7532e21365",
+    "sent_idx": 0,
+    "text": "Strong selling force pushes VN-Index back around 1,700 point-level",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261118_7532e21365#1",
+    "doc_id": "vietnamnews_20261118_7532e21365",
+    "sent_idx": 1,
+    "text": "HÀ NỘI - The domestic stock market fell sharply on Wednesday as heavy selling in large-cap stocks intensified towards the end of the afternoon session, sending the VN-Index briefly below 1,700 points before it recovered some losses.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261118_7532e21365#2",
+    "doc_id": "vietnamnews_20261118_7532e21365",
+    "sent_idx": 2,
+    "text": "On the Hochiminh Stock Exchange (HoSE), the VN-Index closed at 1,703.01 points, down 24.71 points.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261118_7532e21365#3",
+    "doc_id": "vietnamnews_20261118_7532e21365",
+    "sent_idx": 3,
+    "text": "During the afternoon session, the benchmark even plunged by more than 50 points, falling to around 1,693 points and losing the 1,700-point threshold.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261118_7532e21365#4",
+    "doc_id": "vietnamnews_20261118_7532e21365",
+    "sent_idx": 4,
+    "text": "The breadth of the market was negative, as decliners outnumbered gainers by more than four to one.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261118_7532e21365#5",
+    "doc_id": "vietnamnews_20261118_7532e21365",
+    "sent_idx": 5,
+    "text": "Liquidity, however, soared from the previous trade to over VNĐ17.4 trillion (US$678.4 million).",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261118_7532e21365#6",
+    "doc_id": "vietnamnews_20261118_7532e21365",
+    "sent_idx": 6,
+    "text": "The HNX-Index on the Hanoi Stock Exchange (HNX) also declined, falling 2.36 per cent to 242.73 points.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261118_7532e21365#7",
+    "doc_id": "vietnamnews_20261118_7532e21365",
+    "sent_idx": 7,
+    "text": "Selling pressure was concentrated in large-cap stocks, with Vingroup (VIC) putting the greatest downward influence on the VN-Index.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261118_7532e21365#8",
+    "doc_id": "vietnamnews_20261118_7532e21365",
+    "sent_idx": 8,
+    "text": "Although the stock fell by 1.6 per cent, it shaved 4.85 points off the benchmark.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261118_7532e21365#9",
+    "doc_id": "vietnamnews_20261118_7532e21365",
+    "sent_idx": 9,
+    "text": "VCB of Vietcombank declined 2.5 per cent, reducing the index by 2.24 points, while Vinhomes (VHM) lost 1.6 per cent, taking another 1.7 points off the benchmark.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261118_7532e21365#10",
+    "doc_id": "vietnamnews_20261118_7532e21365",
+    "sent_idx": 10,
+    "text": "Banking stocks faced widespread selling pressure.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261118_7532e21365#11",
+    "doc_id": "vietnamnews_20261118_7532e21365",
+    "sent_idx": 11,
+    "text": "VPBank (VPB) fell 2.8 per cent, while VietinBank (CTG) dropped 1.5 per cent, with each contributing to a decline of more than one point in the VN-Index.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261118_7532e21365#12",
+    "doc_id": "vietnamnews_20261118_7532e21365",
+    "sent_idx": 12,
+    "text": "BIDV (BID) and Techcombank (TCB) both lost 1.9 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261118_7532e21365#13",
+    "doc_id": "vietnamnews_20261118_7532e21365",
+    "sent_idx": 13,
+    "text": "LPBank (LPB) recorded a sharper fall of 4.6 per cent, amid a negotiated transaction involving 80 million shares worth over VNĐ2.7 trillion.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261118_7532e21365#14",
+    "doc_id": "vietnamnews_20261118_7532e21365",
+    "sent_idx": 14,
+    "text": "A few banking stocks managed to stay in positive territory, including ABBank (ABB), which gained 1.2 per cent, Maritime Bank (MSB), up 0.9 per cent, and Orient Commercial Joint Stock Bank (OCB), which advanced 0.5 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261118_7532e21365#15",
+    "doc_id": "vietnamnews_20261118_7532e21365",
+    "sent_idx": 15,
+    "text": "However, their contributions to the overall market were modest.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261118_7532e21365#16",
+    "doc_id": "vietnamnews_20261118_7532e21365",
+    "sent_idx": 16,
+    "text": "Securities companies also recorded a weak session, with Orient Commercial Joint Stock Bank (ORS) falling 4.3 per cent, EVS Securities (EVS) declining 4.1 per cent and Vietcap Securities (VCI) losing 2.3 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261118_7532e21365#17",
+    "doc_id": "vietnamnews_20261118_7532e21365",
+    "sent_idx": 17,
+    "text": "SSI Securities (SSI) and Saigon - Hanoi Securities (SHS) both dropped 1.5 per cent, while Vietinbank Securities (CTS) was among the few gainers, rising 1.5 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261118_7532e21365#18",
+    "doc_id": "vietnamnews_20261118_7532e21365",
+    "sent_idx": 18,
+    "text": "Materials and industrial stocks mostly closed lower.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261118_7532e21365#19",
+    "doc_id": "vietnamnews_20261118_7532e21365",
+    "sent_idx": 19,
+    "text": "GEE and GEX, both associated with the GELEX group, fell 3.5 per cent and 2.7 per cent, respectively.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261118_7532e21365#20",
+    "doc_id": "vietnamnews_20261118_7532e21365",
+    "sent_idx": 20,
+    "text": "MSR plunged 8.3 per cent, while HPG of Hoa Phat Group lost approximately 2.6 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261118_7532e21365#21",
+    "doc_id": "vietnamnews_20261118_7532e21365",
+    "sent_idx": 21,
+    "text": "Consumer goods and consumer services stocks provided some limited support.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261118_7532e21365#22",
+    "doc_id": "vietnamnews_20261118_7532e21365",
+    "sent_idx": 22,
+    "text": "Sabeco (SAB) rose 1.4 per cent, contributing around 0.16 points to the VN-Index, while Masan Consumer (MCH) gained 0.3 per cent, adding approximately 0.11 points.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261118_7532e21365#23",
+    "doc_id": "vietnamnews_20261118_7532e21365",
+    "sent_idx": 23,
+    "text": "Vietnam Airlines (HVN) advanced 0.9 per cent, contributing 0.13 points to the benchmark.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261118_7532e21365#24",
+    "doc_id": "vietnamnews_20261118_7532e21365",
+    "sent_idx": 24,
+    "text": "Foreign investors added to the selling pressure, recording net sales of more than VNĐ1.1 trillion on HoSE.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261118_7532e21365#25",
+    "doc_id": "vietnamnews_20261118_7532e21365",
+    "sent_idx": 25,
+    "text": "FPT faced the heaviest foreign net selling, estimated at nearly VNĐ226 billion.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261118_7532e21365#26",
+    "doc_id": "vietnamnews_20261118_7532e21365",
+    "sent_idx": 26,
+    "text": "VIC followed with approximately VNĐ186 billion in net sales. - BIZHUB/VNS",
+    "lang": "en",
+    "is_title": false
+  }
+]

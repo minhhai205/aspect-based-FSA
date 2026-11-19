@@ -1,0 +1,42 @@
+[
+  {
+    "sent_id": "vneconomy_en_20261119_ab531c9572#0",
+    "doc_id": "vneconomy_en_20261119_ab531c9572",
+    "sent_idx": 0,
+    "text": "Annual securities forum to focus on credit ratings and corporate governance",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vneconomy_en_20261119_ab531c9572#1",
+    "doc_id": "vneconomy_en_20261119_ab531c9572",
+    "sent_idx": 1,
+    "text": "The Vietnam Institute of Directors (VIOD), in collaboration with the State Securities Commission (SSC) and the International Finance Corporation (IFC), announced at a press briefing on November 18 that its 9th Annual Forum (AF9) is scheduled to take place on December 3, in Ho Chi Minh City, under the theme \"Enhancing Corporate Value in Capital Markets: Credit Ratings and Corporate Governance.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261119_ab531c9572#2",
+    "doc_id": "vneconomy_en_20261119_ab531c9572",
+    "sent_idx": 2,
+    "text": "AF9 is expected to bring together around 350 senior executives from 250 listed companies, public companies and large private enterprises, alongside representatives of regulatory agencies, financial institutions, credit rating organisations and domestic and international investment funds.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261119_ab531c9572#3",
+    "doc_id": "vneconomy_en_20261119_ab531c9572",
+    "sent_idx": 3,
+    "text": "The agenda will feature three in-depth presentations by leading experts, covering Vietnam's economic outlook for 2026-2028 and its implications for capital markets; opportunities to secure medium-term funding through bond issuance supported by credit ratings; and the role of professional institutions in strengthening boards of directors in line with international standards.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261119_ab531c9572#4",
+    "doc_id": "vneconomy_en_20261119_ab531c9572",
+    "sent_idx": 4,
+    "text": "A high-level panel discussion will also examine practical measures that boards of directors should take to enhance corporate value, strengthen governance practices and improve businesses' access to capital markets.",
+    "lang": "en",
+    "is_title": false
+  }
+]

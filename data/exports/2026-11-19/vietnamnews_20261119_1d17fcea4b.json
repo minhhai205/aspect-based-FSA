@@ -1,0 +1,170 @@
+[
+  {
+    "sent_id": "vietnamnews_20261119_1d17fcea4b#0",
+    "doc_id": "vietnamnews_20261119_1d17fcea4b",
+    "sent_idx": 0,
+    "text": "Exchange rate holds steady amid global market volatility",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261119_1d17fcea4b#1",
+    "doc_id": "vietnamnews_20261119_1d17fcea4b",
+    "sent_idx": 1,
+    "text": "HÀ NỘI - Despite unpredictable fluctuations in global financial and geopolitical markets, the domestic USD/VNĐ exchange rate has maintained a positive and stable trend.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261119_1d17fcea4b#2",
+    "doc_id": "vietnamnews_20261119_1d17fcea4b",
+    "sent_idx": 2,
+    "text": "According to the MB Securities Company (MBS), the US Dollar Index (DXY), which measures the strength of the US dollar, surpassed the 102-point mark for the first time in 2026 during the month of October.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261119_1d17fcea4b#3",
+    "doc_id": "vietnamnews_20261119_1d17fcea4b",
+    "sent_idx": 3,
+    "text": "It reached an 18-month high of 102.59 points on October 12, before cooling down to approximately 101.9 points by the end of the month (an increase of 0.4 per cent compared to the end of September).",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261119_1d17fcea4b#4",
+    "doc_id": "vietnamnews_20261119_1d17fcea4b",
+    "sent_idx": 4,
+    "text": "This upward momentum was driven by escalating tensions in the Middle East, which pushed the price of Brent crude oil toward $117 per barrel, its highest level since late April 2026, thereby fuelling concerns regarding inflation.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261119_1d17fcea4b#5",
+    "doc_id": "vietnamnews_20261119_1d17fcea4b",
+    "sent_idx": 5,
+    "text": "In contrast to the upward movement of the US Dollar Index (DXY) in October, the domestic USD/VNĐ exchange rate continued to decline.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261119_1d17fcea4b#6",
+    "doc_id": "vietnamnews_20261119_1d17fcea4b",
+    "sent_idx": 6,
+    "text": "Data from the MB Securities Company indicated that the interbank exchange rate fell to VNĐ25,802 per dollar by the end of October, a decrease of 1.8 per cent compared to the end of 2025 and 0.6 per cent from the end of September, marking the sixth consecutive month of decline.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261119_1d17fcea4b#7",
+    "doc_id": "vietnamnews_20261119_1d17fcea4b",
+    "sent_idx": 7,
+    "text": "Meanwhile, the State Bank of Vietnam (SBV)'s exchange rate saw a slight upward adjustment of 0.04 per cent, reaching VNĐ25,637 per dollar, an increase of 2.04 per cent relative to the end of 2025.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261119_1d17fcea4b#8",
+    "doc_id": "vietnamnews_20261119_1d17fcea4b",
+    "sent_idx": 8,
+    "text": "The resilience of the Vietnamese đồng is underpinned by a favourable foreign currency supply-demand dynamic.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261119_1d17fcea4b#9",
+    "doc_id": "vietnamnews_20261119_1d17fcea4b",
+    "sent_idx": 9,
+    "text": "According to the National Statistics Office's data, the trade balance for goods has shown clear improvement following a period of significant trade deficits earlier in the year, a trend driven by businesses ramping up imports of raw materials for year-end orders.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261119_1d17fcea4b#10",
+    "doc_id": "vietnamnews_20261119_1d17fcea4b",
+    "sent_idx": 10,
+    "text": "October 2026 alone recorded a trade surplus for the second consecutive month, amounting to $7.31 billion, which helped narrow the cumulative trade deficit for the year to $12.07 billion.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261119_1d17fcea4b#11",
+    "doc_id": "vietnamnews_20261119_1d17fcea4b",
+    "sent_idx": 11,
+    "text": "Furthermore, a report by the VCB Securities Company (VCBS) highlighted that disbursed foreign direct investment (FDI) reached an estimated $24.08 billion in the first 10 months of 2026, a 13.1 per cent year-on-year increase and the highest level in five years.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261119_1d17fcea4b#12",
+    "doc_id": "vietnamnews_20261119_1d17fcea4b",
+    "sent_idx": 12,
+    "text": "Additionally, the tourism sector generated approximately $9 billion in revenue from international visitors during the first six months of the year.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261119_1d17fcea4b#13",
+    "doc_id": "vietnamnews_20261119_1d17fcea4b",
+    "sent_idx": 13,
+    "text": "At the same time, banks and businesses have proactively secured capital from abroad.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261119_1d17fcea4b#14",
+    "doc_id": "vietnamnews_20261119_1d17fcea4b",
+    "sent_idx": 14,
+    "text": "Alongside this abundant supply, the State Bank of Vietnam (SBV) has also consistently deployed tools to manage liquidity and foreign exchange reserves.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261119_1d17fcea4b#15",
+    "doc_id": "vietnamnews_20261119_1d17fcea4b",
+    "sent_idx": 15,
+    "text": "Specifically, on November 6, 2026, the central bank announced a USD/VNĐ foreign exchange swap arrangement with a 182-day tenor and a maximum volume of $2 billion.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261119_1d17fcea4b#16",
+    "doc_id": "vietnamnews_20261119_1d17fcea4b",
+    "sent_idx": 16,
+    "text": "This initiative is intended to alleviate seasonal pressures toward the end of the year and the Lunar New Year, mitigate risks associated with short-term debt rollovers and reduce volatility in interbank interest rates.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261119_1d17fcea4b#17",
+    "doc_id": "vietnamnews_20261119_1d17fcea4b",
+    "sent_idx": 17,
+    "text": "Assessing the outlook through the end of 2026, VCBS's analysts forecast a favourable scenario, anticipating a positive and stable exchange rate.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261119_1d17fcea4b#18",
+    "doc_id": "vietnamnews_20261119_1d17fcea4b",
+    "sent_idx": 18,
+    "text": "They believed this outlook is underpinned by an improved supply of foreign currency - driven by recovering exports, FDI disbursements, year-end remittances, and corporate USD-denominated borrowing - alongside a cooling DXY, diminished speculative sentiment, and proactive policy interventions by the SBV.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261119_1d17fcea4b#19",
+    "doc_id": "vietnamnews_20261119_1d17fcea4b",
+    "sent_idx": 19,
+    "text": "Meanwhile, MBS's analysts had a more cautious stance, noting that the exchange rate remains under pressure from a potential strengthening of the dollar - a scenario likely if oil prices stay elevated and the US Federal Reserve (Fed) keeps interest rates high.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261119_1d17fcea4b#20",
+    "doc_id": "vietnamnews_20261119_1d17fcea4b",
+    "sent_idx": 20,
+    "text": "Although the local currency is supported by high domestic interest rates, robust FDI inflows, and peak-season exports, the MBS analysts forecast that the USD/VNĐ exchange rate will fluctuate between VNĐ26,400 and VNĐ26,600 per dollar by the end of 2026, representing an increase of 0.5-1.2 percentage points compared to the beginning of the year. - BIZHUB/VNS",
+    "lang": "en",
+    "is_title": false
+  }
+]

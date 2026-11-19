@@ -1,0 +1,122 @@
+[
+  {
+    "sent_id": "vietnamnews_20261119_408c7ff195#0",
+    "doc_id": "vietnamnews_20261119_408c7ff195",
+    "sent_idx": 0,
+    "text": "Russia increases banana imports from Việt Nam",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261119_408c7ff195#1",
+    "doc_id": "vietnamnews_20261119_408c7ff195",
+    "sent_idx": 1,
+    "text": "MOSCOW - Russia is increasing banana imports from Việt Nam as it seeks to diversify supplies and reduce reliance on traditional sources, particularly Ecuador, according to Vedomosti, an independent economic newspaper of Russia.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261119_408c7ff195#2",
+    "doc_id": "vietnamnews_20261119_408c7ff195",
+    "sent_idx": 2,
+    "text": "Natalya Solovyeva, from Russia's Federal Service for Veterinary and Phytosanitary Supervision (Rosselkhoznadzor), told Vedomosti that the first shipments of Vietnamese bananas entered the Russian market in 2025.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261119_408c7ff195#3",
+    "doc_id": "vietnamnews_20261119_408c7ff195",
+    "sent_idx": 3,
+    "text": "In the first 10 months of 2026, imports from Việt Nam reached 3,800 tonnes, up 6.7-fold year on year.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261119_408c7ff195#4",
+    "doc_id": "vietnamnews_20261119_408c7ff195",
+    "sent_idx": 4,
+    "text": "Despite the strong growth, Việt Nam still accounts for only a small share of Russia's total banana imports, which amounted to 1.3 million tonnes in the first months of 2026.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261119_408c7ff195#5",
+    "doc_id": "vietnamnews_20261119_408c7ff195",
+    "sent_idx": 5,
+    "text": "Ecuador remains the dominant supplier, with more than 92 per cent of the market, or 1.2 million tonnes, up 8.3 per cent year on year.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261119_408c7ff195#6",
+    "doc_id": "vietnamnews_20261119_408c7ff195",
+    "sent_idx": 6,
+    "text": "Ecuadorian bananas also made up over 95 per cent of supplies to major Russian retail chains.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261119_408c7ff195#7",
+    "doc_id": "vietnamnews_20261119_408c7ff195",
+    "sent_idx": 7,
+    "text": "Other major suppliers included the Republic of Korea, China and Costa Rica.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261119_408c7ff195#8",
+    "doc_id": "vietnamnews_20261119_408c7ff195",
+    "sent_idx": 8,
+    "text": "According to the Association of Retail Companies (AKORT), bananas are among Russia's most popular fruits, with per capita consumption averaging around 10kg a year.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261119_408c7ff195#9",
+    "doc_id": "vietnamnews_20261119_408c7ff195",
+    "sent_idx": 9,
+    "text": "Russia's search for new suppliers, including Việt Nam, followed the disruption caused by its heavy reliance on a single source.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261119_408c7ff195#10",
+    "doc_id": "vietnamnews_20261119_408c7ff195",
+    "sent_idx": 10,
+    "text": "In February 2024, Rosselkhoznadzor asked Ecuador to suspend certification for five exporters after detecting polyphagous humpback flies, a quarantine pest.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261119_408c7ff195#11",
+    "doc_id": "vietnamnews_20261119_408c7ff195",
+    "sent_idx": 11,
+    "text": "This prompted Russia to seek broader supplies from Asian countries.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261119_408c7ff195#12",
+    "doc_id": "vietnamnews_20261119_408c7ff195",
+    "sent_idx": 12,
+    "text": "Rosselkhoznadzor statistics show that Russia imported 1.4 million tonnes of bananas in 2025, mainly from Ecuador, China, Costa Rica, Colombia and the Philippines.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261119_408c7ff195#13",
+    "doc_id": "vietnamnews_20261119_408c7ff195",
+    "sent_idx": 13,
+    "text": "Meanwhile, UN Comtrade data recorded Ecuador's banana exports to Russia at 1.63 million tonnes, worth over US$800 million.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261119_408c7ff195#14",
+    "doc_id": "vietnamnews_20261119_408c7ff195",
+    "sent_idx": 14,
+    "text": "Dmitry Leonov, deputy chairman of the association of manufacturers and suppliers of food products (Rusprodsoyuz), said Russia is gradually diversifying its import channels following logistics adjustments in 2025-26. - VNA/VNS",
+    "lang": "en",
+    "is_title": false
+  }
+]

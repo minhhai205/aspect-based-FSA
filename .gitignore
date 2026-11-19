@@ -2,6 +2,8 @@ __pycache__/
 *.py[cod]
 .venv/
 .env
+
+# DB là file nhị phân, đổi mỗi lần crawl -> không commit, tái tạo bằng ./absa crawl
 data/absa.db
 data/absa.db-*
-data/exports/
+data/crawl.log
