@@ -1,37 +1,42 @@
-# Crawl tin tài chính → JSON
+# Vietnamese financial news crawler → JSON
 
-Thu thập tin tài chính về Việt Nam từ RSS, tách câu, lưu SQLite, xuất JSON cho model.
+Collects financial news about Vietnam from RSS feeds, extracts article bodies,
+splits them into sentences, stores everything in SQLite and exports JSON for the
+aspect-based sentiment model.
 
-Hiện bật 2 nguồn tiếng Anh. Danh sách 13 nguồn (gồm 11 tiếng Việt) ở `doc/nguon-du-lieu.md`.
+Two English sources are enabled. The full list of 13 sources (including 11
+Vietnamese ones) is in `doc/nguon-du-lieu.md`.
 
-## Cài đặt
+## Install
 
 ```bash
 python3 -m venv .venv
 .venv/bin/pip install -r requirements.txt
 ```
 
-## Dùng
+## Usage
 
 ```bash
-./absa crawl                      # crawl bài mới
-./absa stats                      # xem đã có gì trong DB
-./absa export --day 2026-11-19    # xuất JSON
-./absa --help                     # xem hết tùy chọn
+./absa crawl                      # fetch new articles
+./absa stats                      # show what is in the database
+./absa export --day 2026-11-19    # write JSON
+./absa --help                     # all options
 ```
 
-Lần chạy đầu lấy hết bài đang có trong feed. Các lần sau chỉ lấy bài mới,
-khử trùng lặp theo URL.
+The first run takes everything currently in the feeds. Later runs only pick up
+new articles, deduplicated by URL.
 
-Chạy định kỳ mỗi giờ (feed hẹp nhất chỉ phủ ~31 giờ, chạy thưa hơn là mất bài):
+Run hourly — the narrowest feed only covers about 31 hours, so running less
+often loses articles permanently:
 
 ```cron
-0 * * * * cd /đường/dẫn/aspect-based-FSA && ./absa crawl >> data/crawl.log 2>&1
+0 * * * * cd /path/to/aspect-based-FSA && ./absa crawl >> data/crawl.log 2>&1
 ```
 
-## Đầu ra
+## Output
 
-Mỗi bài một file `<doc_id>.json` trong `data/exports/<ngày>/` — mảng câu:
+One file per article, `<doc_id>.json` under `data/exports/<day>/`, holding an
+array of sentences:
 
 ```json
 [
@@ -46,25 +51,31 @@ Mỗi bài một file `<doc_id>.json` trong `data/exports/<ngày>/` — mảng c
 ]
 ```
 
-`sent_id` = `<doc_id>#<sent_idx>`. `sent_idx = 0` là tiêu đề bài.
+`sent_id` is `<doc_id>#<sent_idx>`. `sent_idx = 0` is the article title.
 
-## Cấu trúc
+A sample export for 2026-11-19 (34 articles, 839 sentences) is committed under
+`data/exports/`.
+
+## Layout
 
 ```
 src/absa_fsa/
-  config.py     danh sách nguồn + cấu hình từ .env
-  fetch.py      HTTP: robots.txt, giãn nhịp 1s/tên miền, thử lại
-  feeds.py      đọc RSS/Atom, xử lý ngày lệch chuẩn và mốc tương lai
-  extract.py    HTML → tiêu đề + thân bài (thuật toán chung cho mọi báo)
-  textnorm.py   chuẩn hóa chữ + tách câu
+  config.py     source registry and .env-based settings
+  fetch.py      HTTP layer: robots.txt, 1s per-domain rate limit, retries
+  feeds.py      RSS/Atom parsing, tolerant dates, future-timestamp clamping
+  extract.py    HTML to title and body (one generic algorithm for all sites)
+  textnorm.py   text normalisation and sentence splitting
   db.py         SQLite: articles, sentences, crawl_runs
-  pipeline.py   ghép các bước + xuất JSON
-  cli.py        dòng lệnh
+  pipeline.py   wiring plus JSON export
+  cli.py        command line
 ```
 
-## Lưu ý
+## Notes
 
-- **Offset tính trên text đã chuẩn hóa.** `normalize()` chạy một lần trước khi tách câu.
-  Không chuẩn hóa lại sau đó, nếu không span của model sẽ lệch.
-- Python 3.14 chạy tốt cho crawler. Khi nào thêm model/dịch máy thì cần 3.12
-  (torch/transformers chưa hỗ trợ 3.14).
+- **Offsets are computed on normalised text.** `normalize()` runs once, before
+  sentence splitting. Do not normalise again afterwards or the model's target
+  spans will be off by a few characters.
+- The SQLite database is not committed: it is a binary file that changes on
+  every crawl. Rebuild it with `./absa crawl`.
+- Python 3.14 is fine for the crawler. Adding the model or machine translation
+  will need 3.12, since torch and transformers do not support 3.14 yet.
