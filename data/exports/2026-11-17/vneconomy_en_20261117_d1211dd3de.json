@@ -1,0 +1,434 @@
+[
+  {
+    "sent_id": "vneconomy_en_20261117_d1211dd3de#0",
+    "doc_id": "vneconomy_en_20261117_d1211dd3de",
+    "sent_idx": 0,
+    "text": "Shaping Vietnam's national education governance ecosystem via digital platforms and shared data",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vneconomy_en_20261117_d1211dd3de#1",
+    "doc_id": "vneconomy_en_20261117_d1211dd3de",
+    "sent_idx": 1,
+    "text": "Departing from the traditional format of a standard reporting conference, the seminar, titled \"Digital Platforms Creating a National Education Governance Ecosystem,\" was recently held ahead of Vietnamese Teachers' Day (November 20).",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261117_d1211dd3de#2",
+    "doc_id": "vneconomy_en_20261117_d1211dd3de",
+    "sent_idx": 2,
+    "text": "Co-organized by the Department of Science, Technology and Information under the Ministry of Education and Training (MoET) and Intel Corporation, the event brought together IT leaders from Vietnam's top 20 universities, fostering a substantive and candid dialogue.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261117_d1211dd3de#3",
+    "doc_id": "vneconomy_en_20261117_d1211dd3de",
+    "sent_idx": 3,
+    "text": "In his opening remarks, Mr. To Hong Nam, Deputy Director General of the Department of Science, Technology and Information, directly addressed the sector's current needs.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261117_d1211dd3de#4",
+    "doc_id": "vneconomy_en_20261117_d1211dd3de",
+    "sent_idx": 4,
+    "text": "Following a period of rapid-fire digital transformation, he noted, IT teams across the education sector require an open, approachable forum to reflect on their progress, stay abreast of emerging technological trends, and recharge for the next stage of development.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261117_d1211dd3de#5",
+    "doc_id": "vneconomy_en_20261117_d1211dd3de",
+    "sent_idx": 5,
+    "text": "Representing the private sector, Mr. Phung Viet Thang, Country Manager of Intel Vietnam, highlighted a fresh approach to educational collaboration.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261117_d1211dd3de#6",
+    "doc_id": "vneconomy_en_20261117_d1211dd3de",
+    "sent_idx": 6,
+    "text": "Rather than staging product showcases to push rigid adoption, Intel Vietnam chose to listen and learn directly from the on-the-ground challenges facing university IT leaders.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261117_d1211dd3de#7",
+    "doc_id": "vneconomy_en_20261117_d1211dd3de",
+    "sent_idx": 7,
+    "text": "Mr. Thang emphasized that technology providers can only optimize solutions to meet real-world educational needs through frank exchanges at the grassroots level.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261117_d1211dd3de#8",
+    "doc_id": "vneconomy_en_20261117_d1211dd3de",
+    "sent_idx": 8,
+    "text": "\"Intel wants to accompany university representatives in discussing how to realize the true value of AI, by selecting and deploying it effectively with strong governance as operations scale,\" he said.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261117_d1211dd3de#9",
+    "doc_id": "vneconomy_en_20261117_d1211dd3de",
+    "sent_idx": 9,
+    "text": "Forging a Legal Corridor and Shared Data Core",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261117_d1211dd3de#10",
+    "doc_id": "vneconomy_en_20261117_d1211dd3de",
+    "sent_idx": 10,
+    "text": "Mr. Nguyen Hoai Nam, Deputy Head of the Division of Technology Development and Digital Human Resources at the Department of Science, Technology and Information, noted that the Department continues to serve as the nucleus in establishing legal corridors, building shared infrastructure, and driving digital adoption across the sector.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261117_d1211dd3de#11",
+    "doc_id": "vneconomy_en_20261117_d1211dd3de",
+    "sent_idx": 11,
+    "text": "In steering the sector's digital transformation, MoET is focusing on four core priorities:",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261117_d1211dd3de#12",
+    "doc_id": "vneconomy_en_20261117_d1211dd3de",
+    "sent_idx": 12,
+    "text": "First, accelerating institutional review and refinement.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261117_d1211dd3de#13",
+    "doc_id": "vneconomy_en_20261117_d1211dd3de",
+    "sent_idx": 13,
+    "text": "The Department has advised on the issuance of Circular No. 49/2026/TT-BGDĐT, which consolidates previously fragmented regulations, ranging from distance learning and online teaching to technical infrastructure into a unified management framework.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261117_d1211dd3de#14",
+    "doc_id": "vneconomy_en_20261117_d1211dd3de",
+    "sent_idx": 14,
+    "text": "Guided by the master direction for digital transformation during the 2026-2030 period, the Department has also finalized a dossier for MoET leadership to submit to the Prime Minister.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261117_d1211dd3de#15",
+    "doc_id": "vneconomy_en_20261117_d1211dd3de",
+    "sent_idx": 15,
+    "text": "The proposal seeks approval for an integrated Master Plan on Digital Transformation and AI Application in Education and Training, replacing the previous Decision No. 131 to establish a new comprehensive roadmap for the entire sector.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261117_d1211dd3de#16",
+    "doc_id": "vneconomy_en_20261117_d1211dd3de",
+    "sent_idx": 16,
+    "text": "Second, upholding core principles in AI education.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261117_d1211dd3de#17",
+    "doc_id": "vneconomy_en_20261117_d1211dd3de",
+    "sent_idx": 17,
+    "text": "AI must serve strictly as a supportive tool, never replacing the decision-making authority and accountability of educators and administrators.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261117_d1211dd3de#18",
+    "doc_id": "vneconomy_en_20261117_d1211dd3de",
+    "sent_idx": 18,
+    "text": "At the general education (K-12) level, AI literacy should focus on awareness, ethics, and responsibility, with particular emphasis on academic integrity.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261117_d1211dd3de#19",
+    "doc_id": "vneconomy_en_20261117_d1211dd3de",
+    "sent_idx": 19,
+    "text": "Furthermore, all AI applications must undergo rigorous piloting and evaluation for suitability, safety, and accuracy prior to official deployment.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261117_d1211dd3de#20",
+    "doc_id": "vneconomy_en_20261117_d1211dd3de",
+    "sent_idx": 20,
+    "text": "Third, restructuring shared infrastructure and streamlining data.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261117_d1211dd3de#21",
+    "doc_id": "vneconomy_en_20261117_d1211dd3de",
+    "sent_idx": 21,
+    "text": "The Department has been tasked with leading the research, advisory, and construction of core infrastructure and shared platforms synchronized with VNeID (Vietnam's national electronic identification system), allowing universities to proactively build specialized applications atop this ecosystem.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261117_d1211dd3de#22",
+    "doc_id": "vneconomy_en_20261117_d1211dd3de",
+    "sent_idx": 22,
+    "text": "Two parallel systems will operate on this single national data core: the Digital Education Governance Platform (for administration) and the Smart Digital Education Platform (for teaching and learning).",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261117_d1211dd3de#23",
+    "doc_id": "vneconomy_en_20261117_d1211dd3de",
+    "sent_idx": 23,
+    "text": "In Q1 2027, the Department will release technical and operational criteria to help localities, educational institutions, research bodies, and enterprises define investment components and prevent duplication.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261117_d1211dd3de#24",
+    "doc_id": "vneconomy_en_20261117_d1211dd3de",
+    "sent_idx": 24,
+    "text": "Fourth, addressing internal institutional gaps at educational institutions.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261117_d1211dd3de#25",
+    "doc_id": "vneconomy_en_20261117_d1211dd3de",
+    "sent_idx": 25,
+    "text": "The Department identified internal governance as an urgent priority, pointing out that many universities possess robust physical infrastructure yet lack internal operating regulations regarding information security, data accountability, and AI usage standards.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261117_d1211dd3de#26",
+    "doc_id": "vneconomy_en_20261117_d1211dd3de",
+    "sent_idx": 26,
+    "text": "Issuing stringent internal rules not only ensures consistency in implementation but also acts as a legal \"shield\" for technical staff, protecting IT teams from legal liabilities in the event of data incidents.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261117_d1211dd3de#27",
+    "doc_id": "vneconomy_en_20261117_d1211dd3de",
+    "sent_idx": 27,
+    "text": "Overall, the Department of Science, Technology and Information is spearheading a decisive shift from \"administrative management and manual data collection\" to \"platform creation, architectural transparency, and the protection of academic integrity.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261117_d1211dd3de#28",
+    "doc_id": "vneconomy_en_20261117_d1211dd3de",
+    "sent_idx": 28,
+    "text": "Alongside this, major technology partners like Intel will provide technical support to help institutions enhance intelligent data analytics for better forecasting and decision-making.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261117_d1211dd3de#29",
+    "doc_id": "vneconomy_en_20261117_d1211dd3de",
+    "sent_idx": 29,
+    "text": "This strategic direction drew strong consensus and support from the university IT leaders in attendance.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261117_d1211dd3de#30",
+    "doc_id": "vneconomy_en_20261117_d1211dd3de",
+    "sent_idx": 30,
+    "text": "Tech Giant Powering Vietnam's National Education Ecosystem",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261117_d1211dd3de#31",
+    "doc_id": "vneconomy_en_20261117_d1211dd3de",
+    "sent_idx": 31,
+    "text": "Translating MoET's core directives into action, Intel Vietnam reaffirmed its commitment to positioning AI as a trusted digital infrastructure, optimizing university governance, cultivating a secure digital academic environment, and developing future talent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261117_d1211dd3de#32",
+    "doc_id": "vneconomy_en_20261117_d1211dd3de",
+    "sent_idx": 32,
+    "text": "Drawing on a 50-year global legacy and over two decades of presence in Vietnam, Intel is demonstrating a clear strategic evolution.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261117_d1211dd3de#33",
+    "doc_id": "vneconomy_en_20261117_d1211dd3de",
+    "sent_idx": 33,
+    "text": "In practice, Intel has moved far beyond its traditional role as a pure-play hardware component manufacturer.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261117_d1211dd3de#34",
+    "doc_id": "vneconomy_en_20261117_d1211dd3de",
+    "sent_idx": 34,
+    "text": "Intel Vietnam representatives noted that the company today does not merely supply chips, but co-creates end-to-end solutions anchored on an open technology ecosystem.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261117_d1211dd3de#35",
+    "doc_id": "vneconomy_en_20261117_d1211dd3de",
+    "sent_idx": 35,
+    "text": "Locally, Intel's manufacturing facility in Ho Chi Minh City operates assembly and testing lines for the most advanced chip generations, serving both domestic and export markets while contributing directly to national value chains and economic growth.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261117_d1211dd3de#36",
+    "doc_id": "vneconomy_en_20261117_d1211dd3de",
+    "sent_idx": 36,
+    "text": "Shifting from hardware capabilities to solution architecture, Intel is pursuing a strategy to integrate AI across every platform-from client devices and edge computing to data centers and the cloud-to bring \"AI Everywhere.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261117_d1211dd3de#37",
+    "doc_id": "vneconomy_en_20261117_d1211dd3de",
+    "sent_idx": 37,
+    "text": "Data from the JLL Data Center Outlook (2025) indicates that global data center workloads are projected to double over the next five years, with AI workloads surging from 23% to 50%, driven primarily by AI inference (expected to account for 37% by 2030).",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261117_d1211dd3de#38",
+    "doc_id": "vneconomy_en_20261117_d1211dd3de",
+    "sent_idx": 38,
+    "text": "Delivering a presentation titled \"Powering AI with Intel,\" Mr. Le Quan, Technical Specialist at Intel, argued that in education, specialized generative AI models represent the \"solution to problems of scale\" through practical scenarios such as teaching assistants, student study companions, and smart parent-school communication portals.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261117_d1211dd3de#39",
+    "doc_id": "vneconomy_en_20261117_d1211dd3de",
+    "sent_idx": 39,
+    "text": "Powered by next-generation computing platforms featuring Intel Xeon 6 and Intel Core Ultra processors, Intel's hybrid AI orchestration strategy seamlessly bridges the edge and the cloud, enabling institutions to optimize inference performance while safeguarding data security, integrity, and privacy.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261117_d1211dd3de#40",
+    "doc_id": "vneconomy_en_20261117_d1211dd3de",
+    "sent_idx": 40,
+    "text": "At the classroom level, instructional models are rapidly pivoting toward generative AI, immersive learning, gamification/esports, and AI-driven personalized learning.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261117_d1211dd3de#41",
+    "doc_id": "vneconomy_en_20261117_d1211dd3de",
+    "sent_idx": 41,
+    "text": "Speaking on \"Mastering the Power of AI with Intel,\" Ms. Bui Le Thuy Linh, Sales Director for Government, Education, and Healthcare at Intel Vietnam, stressed the urgent need to equip educators and learners with PCs capable of supporting these new pedagogical methods.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261117_d1211dd3de#42",
+    "doc_id": "vneconomy_en_20261117_d1211dd3de",
+    "sent_idx": 42,
+    "text": "\"As teaching and learning shift toward AI-assisted personalized education and next-generation integrated schooling, the key challenge lies in tightly combining on-PC AI, cloud AI, connectivity, and security,\" Ms. Linh noted, pointing to the goal of \"integrating physical and digital infrastructure to achieve maximum resilience and build a solid foundation for schools.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261117_d1211dd3de#43",
+    "doc_id": "vneconomy_en_20261117_d1211dd3de",
+    "sent_idx": 43,
+    "text": "The urgency of this security infrastructure is underscored by Intel's research on cybersecurity and risk management in education.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261117_d1211dd3de#44",
+    "doc_id": "vneconomy_en_20261117_d1211dd3de",
+    "sent_idx": 44,
+    "text": "Globally, 63% of K-12 schools suffered ransomware attacks in 2024.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261117_d1211dd3de#45",
+    "doc_id": "vneconomy_en_20261117_d1211dd3de",
+    "sent_idx": 45,
+    "text": "The Asia-Pacific region recorded an average of 6,002 weekly cyberattacks targeting the education and research sectors, while AI-related privacy incidents jumped 56.4% in 2025, even as roughly 61% of surveyed K-12 schools still lack a dedicated cybersecurity budget.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261117_d1211dd3de#46",
+    "doc_id": "vneconomy_en_20261117_d1211dd3de",
+    "sent_idx": 46,
+    "text": "Fostering Digital Readiness and Sustainable AI Capabilities",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261117_d1211dd3de#47",
+    "doc_id": "vneconomy_en_20261117_d1211dd3de",
+    "sent_idx": 47,
+    "text": "Technological infrastructure and security shields can only reach their full potential when paired with human mastery.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261117_d1211dd3de#48",
+    "doc_id": "vneconomy_en_20261117_d1211dd3de",
+    "sent_idx": 48,
+    "text": "Addressing both cybersecurity challenges and digital transformation demands, Intel Vietnam emphasized the concept of Digital Readiness, encompassing the skills, trust, and capability to use technology responsibly and effectively for broader socio-economic benefits.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261117_d1211dd3de#49",
+    "doc_id": "vneconomy_en_20261117_d1211dd3de",
+    "sent_idx": 49,
+    "text": "In her remarks, Ms. Linh highlighted education as the cornerstone for preparing future digital citizens.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261117_d1211dd3de#50",
+    "doc_id": "vneconomy_en_20261117_d1211dd3de",
+    "sent_idx": 50,
+    "text": "Accordingly, Intel's Digital Readiness portfolio in Vietnam is tailored to distinct demographics: spanning AI for Citizens, AI for Youth, AI for Current and Future Workforces, and Digital Readiness for Leaders, alongside the AI Global Impact Festival.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261117_d1211dd3de#51",
+    "doc_id": "vneconomy_en_20261117_d1211dd3de",
+    "sent_idx": 51,
+    "text": "This holistic approach ensures that educational institutions go beyond merely procuring hardware and software, progressively building sustainable adaptability across faculty, students, and administrative leadership.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261117_d1211dd3de#52",
+    "doc_id": "vneconomy_en_20261117_d1211dd3de",
+    "sent_idx": 52,
+    "text": "Through this suite of initiatives, Intel Vietnam directly supports universities and K-12 schools in developing curriculum frameworks, learning materials, and hands-on tools, while training core groups of master trainers.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261117_d1211dd3de#53",
+    "doc_id": "vneconomy_en_20261117_d1211dd3de",
+    "sent_idx": 53,
+    "text": "Consequently, schools can gradually achieve self-reliance in rolling out structured, safe AI training that aligns closely with the practical talent demands of the digital labor market.",
+    "lang": "en",
+    "is_title": false
+  }
+]

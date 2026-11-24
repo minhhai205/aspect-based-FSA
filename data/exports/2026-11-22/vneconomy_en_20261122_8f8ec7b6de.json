@@ -1,0 +1,58 @@
+[
+  {
+    "sent_id": "vneconomy_en_20261122_8f8ec7b6de#0",
+    "doc_id": "vneconomy_en_20261122_8f8ec7b6de",
+    "sent_idx": 0,
+    "text": "HCMC's lending to social housing, industrial parks and tourism tops $4.25b",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vneconomy_en_20261122_8f8ec7b6de#1",
+    "doc_id": "vneconomy_en_20261122_8f8ec7b6de",
+    "sent_idx": 1,
+    "text": "Outstanding real estate loans for social housing, industrial parks and export processing zones (EPZs), and tourism in Ho Chi Minh City exceeded VND112 trillion ($4.25 billion) as of the end of October 2026.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261122_8f8ec7b6de#2",
+    "doc_id": "vneconomy_en_20261122_8f8ec7b6de",
+    "sent_idx": 2,
+    "text": "The figure accounts for approximately 7% of the city's total outstanding real estate credit, according to data from the State Bank of Vietnam's Region 2 Branch.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261122_8f8ec7b6de#3",
+    "doc_id": "vneconomy_en_20261122_8f8ec7b6de",
+    "sent_idx": 3,
+    "text": "Social housing loans reached VND5.873 trillion, up 36% from the end of 2025 and 39% year-on-year.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261122_8f8ec7b6de#4",
+    "doc_id": "vneconomy_en_20261122_8f8ec7b6de",
+    "sent_idx": 4,
+    "text": "The growth was supported by commercial banks' continued implementation of the Government's social housing development policy, alongside credit and lending rate measures introduced by the State Bank of Vietnam.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261122_8f8ec7b6de#5",
+    "doc_id": "vneconomy_en_20261122_8f8ec7b6de",
+    "sent_idx": 5,
+    "text": "Meanwhile, real estate credit for infrastructure development in industrial parks and EPZs reached VND78.868 trillion, up 2.24% from the end of 2025 and 11.1% year-on-year.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261122_8f8ec7b6de#6",
+    "doc_id": "vneconomy_en_20261122_8f8ec7b6de",
+    "sent_idx": 6,
+    "text": "By contrast, outstanding loans to restaurants, hotels, tourist areas, eco-tourism sites and resorts stood at VND27.847 trillion, down 15.7% from the end of 2025 and 9.6% year-on-year.",
+    "lang": "en",
+    "is_title": false
+  }
+]

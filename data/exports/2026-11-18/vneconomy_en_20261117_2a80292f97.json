@@ -1,0 +1,90 @@
+[
+  {
+    "sent_id": "vneconomy_en_20261117_2a80292f97#0",
+    "doc_id": "vneconomy_en_20261117_2a80292f97",
+    "sent_idx": 0,
+    "text": "Vietnam's coffee exports earn $7.08b in 10M",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vneconomy_en_20261117_2a80292f97#1",
+    "doc_id": "vneconomy_en_20261117_2a80292f97",
+    "sent_idx": 1,
+    "text": "Vietnam exported 108,800 tons of coffee worth $501.2 million in October 2026, up 53.2% in volume and 22.9% in value year-on-year, according to the Vietnam Customs.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261117_2a80292f97#2",
+    "doc_id": "vneconomy_en_20261117_2a80292f97",
+    "sent_idx": 2,
+    "text": "However, the average export price fell 19.8% from October 2025 to $4,606 per ton, despite edging up 1.9% from September.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261117_2a80292f97#3",
+    "doc_id": "vneconomy_en_20261117_2a80292f97",
+    "sent_idx": 3,
+    "text": "In the first 10 months of 2026, coffee exports totalled 1.56 million tons, generating $7.08 billion.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261117_2a80292f97#4",
+    "doc_id": "vneconomy_en_20261117_2a80292f97",
+    "sent_idx": 4,
+    "text": "While volume increased 18.5% year-on-year, export value declined 5.2%, mainly due to an approximately 20% drop in average prices as supplies from the new harvest began to increase, putting downward pressure on domestic and international markets.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261117_2a80292f97#5",
+    "doc_id": "vneconomy_en_20261117_2a80292f97",
+    "sent_idx": 5,
+    "text": "The European Union remained Vietnam's largest coffee market, accounting for 40.9% of export value.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261117_2a80292f97#6",
+    "doc_id": "vneconomy_en_20261117_2a80292f97",
+    "sent_idx": 6,
+    "text": "Shipments to the bloc reached 681,800 tons worth $2.89 billion, up 25% in volume but down 3.9% in value year-on-year.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261117_2a80292f97#7",
+    "doc_id": "vneconomy_en_20261117_2a80292f97",
+    "sent_idx": 7,
+    "text": "Exports to the United States rose 47% in volume and 15.7% in value to 109,800 tons and $471.1 million, respectively.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261117_2a80292f97#8",
+    "doc_id": "vneconomy_en_20261117_2a80292f97",
+    "sent_idx": 8,
+    "text": "Demand from Russia and China also strengthened.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261117_2a80292f97#9",
+    "doc_id": "vneconomy_en_20261117_2a80292f97",
+    "sent_idx": 9,
+    "text": "Vietnam shipped 83,700 tons to Russia, up 30.3%, and 59,900 tons to China, up 49%.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261117_2a80292f97#10",
+    "doc_id": "vneconomy_en_20261117_2a80292f97",
+    "sent_idx": 10,
+    "text": "The Vietnam Coffee-Cocoa Association (Vicofa) forecasts that full-year export volume could increase 8-10% from 2025, supported by improved supplies as the new harvest gets under way in late November.",
+    "lang": "en",
+    "is_title": false
+  }
+]

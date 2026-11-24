@@ -1,0 +1,90 @@
+[
+  {
+    "sent_id": "vneconomy_en_20261121_b76f1fec39#0",
+    "doc_id": "vneconomy_en_20261121_b76f1fec39",
+    "sent_idx": 0,
+    "text": "Social media accounts must undergo identity verification",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vneconomy_en_20261121_b76f1fec39#1",
+    "doc_id": "vneconomy_en_20261121_b76f1fec39",
+    "sent_idx": 1,
+    "text": "Users of banking, securities, telecommunications, e-commerce, and social media accounts must have their electronic identities verified, starting from July 1, 2027, when the Law on Electronic Identification and Authentication, that was passed by the National Assembly on November 20, takes effect.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261121_b76f1fec39#2",
+    "doc_id": "vneconomy_en_20261121_b76f1fec39",
+    "sent_idx": 2,
+    "text": "Under the newly-adopted Law, transaction accounts in high-risk sectors will be required to link to the verified electronic identity of the user.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261121_b76f1fec39#3",
+    "doc_id": "vneconomy_en_20261121_b76f1fec39",
+    "sent_idx": 3,
+    "text": "This regulation aims to curb the use of fake identities and impersonation to commit fraud or violate the law in cyberspace, according to the Government.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261121_b76f1fec39#4",
+    "doc_id": "vneconomy_en_20261121_b76f1fec39",
+    "sent_idx": 4,
+    "text": "Depending on the risk level of each type of transaction, verification may be carried out directly or through an electronic authentication service provider.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261121_b76f1fec39#5",
+    "doc_id": "vneconomy_en_20261121_b76f1fec39",
+    "sent_idx": 5,
+    "text": "To protect personal data, the law requires that the collection and use of information for verification purposes be consented to by the user, unless otherwise provided by law.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261121_b76f1fec39#6",
+    "doc_id": "vneconomy_en_20261121_b76f1fec39",
+    "sent_idx": 6,
+    "text": "This information may only be retained for as long as necessary for verification.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261121_b76f1fec39#7",
+    "doc_id": "vneconomy_en_20261121_b76f1fec39",
+    "sent_idx": 7,
+    "text": "Verification results specifically must be stored for at least five years so they can be inspected and cross-checked when disputes arise or signs of violations are detected.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261121_b76f1fec39#8",
+    "doc_id": "vneconomy_en_20261121_b76f1fec39",
+    "sent_idx": 8,
+    "text": "When handling administrative procedures, state agencies shall not require citizens or businesses to re-submit information already available in national or specialized databases, or to present documents that have already been electronically identified.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261121_b76f1fec39#9",
+    "doc_id": "vneconomy_en_20261121_b76f1fec39",
+    "sent_idx": 9,
+    "text": "Instead of asking citizens to declare the same information multiple times, agencies must connect, share, and utilize existing data.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261121_b76f1fec39#10",
+    "doc_id": "vneconomy_en_20261121_b76f1fec39",
+    "sent_idx": 10,
+    "text": "Whenever an individual's or organization's information changes, their electronic identity must also be updated.",
+    "lang": "en",
+    "is_title": false
+  }
+]

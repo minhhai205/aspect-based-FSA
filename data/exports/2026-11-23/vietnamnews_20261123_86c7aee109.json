@@ -1,0 +1,162 @@
+[
+  {
+    "sent_id": "vietnamnews_20261123_86c7aee109#0",
+    "doc_id": "vietnamnews_20261123_86c7aee109",
+    "sent_idx": 0,
+    "text": "SBV proposes to raise classification criteria for banks",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261123_86c7aee109#1",
+    "doc_id": "vietnamnews_20261123_86c7aee109",
+    "sent_idx": 1,
+    "text": "HÀ NỘI - A commercial bank must have a total asset value of VNĐ500 trillion (US$18.9 billion) or more to be qualified for ranking as 'large-sized' one, starting from 2027, according to a new proposal of the State Bank of Vietnam (SBV).",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261123_86c7aee109#2",
+    "doc_id": "vietnamnews_20261123_86c7aee109",
+    "sent_idx": 2,
+    "text": "Under a draft circular, which will replace Circular No. 21/2025/TT-NHNN on regulating the rating of credit institutions and foreign bank branches, the SBV proposes various changes regarding the criteria for categorising banks, as well as the assessment of liquidity and capital adequacy.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261123_86c7aee109#3",
+    "doc_id": "vietnamnews_20261123_86c7aee109",
+    "sent_idx": 3,
+    "text": "One significant proposal involves adjusting the classification criteria for commercial banks based on their total asset size.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261123_86c7aee109#4",
+    "doc_id": "vietnamnews_20261123_86c7aee109",
+    "sent_idx": 4,
+    "text": "Under current regulations, a 'large-sized' commercial bank is defined as one with an average total asset value exceeding VNĐ300 trillion, calculated on a quarterly basis throughout the rating year.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261123_86c7aee109#5",
+    "doc_id": "vietnamnews_20261123_86c7aee109",
+    "sent_idx": 5,
+    "text": "Banks with an average total asset value at or below this threshold are classified as 'small-sized' commercial banks.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261123_86c7aee109#6",
+    "doc_id": "vietnamnews_20261123_86c7aee109",
+    "sent_idx": 6,
+    "text": "In the draft circular, the SBV proposes increasing the threshold for the large-sized bank to VNĐ500 trillion starting from the 2027 rating year.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261123_86c7aee109#7",
+    "doc_id": "vietnamnews_20261123_86c7aee109",
+    "sent_idx": 7,
+    "text": "According to the SBV, this adjustment is intended to better reflect the actual growth rates of total assets observed among commercial banks in recent times.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261123_86c7aee109#8",
+    "doc_id": "vietnamnews_20261123_86c7aee109",
+    "sent_idx": 8,
+    "text": "In addition to bank categorisation, the draft circular also introduces substantial revisions to the indicators used to assess liquidity.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261123_86c7aee109#9",
+    "doc_id": "vietnamnews_20261123_86c7aee109",
+    "sent_idx": 9,
+    "text": "These changes are designed to ensure alignment with Circular No. 50/2026/TT-NHNN, which stipulates the limits and safety ratios applicable to the operations of commercial banks and foreign bank branches, effective from December 1, 2026.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261123_86c7aee109#10",
+    "doc_id": "vietnamnews_20261123_86c7aee109",
+    "sent_idx": 10,
+    "text": "Specifically, the SBV proposes incorporating the liquidity coverage ratio (LCR) and the net stable funding ratio (NSFR) into the bank assessment and rating framework, while also adjusting the application of the loan-to-deposit ratio (LDR).",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261123_86c7aee109#11",
+    "doc_id": "vietnamnews_20261123_86c7aee109",
+    "sent_idx": 11,
+    "text": "The SBV also proposes a roadmap to gradually increase the scoring thresholds for both the average LCR and the NSFR, to be applied consistently across large-scale commercial banks, small-scale commercial banks, and foreign bank branches.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261123_86c7aee109#12",
+    "doc_id": "vietnamnews_20261123_86c7aee109",
+    "sent_idx": 12,
+    "text": "Accordingly, the maximum scoring threshold for the average LCR is proposed at 70 per cent for the 2027 and 2028 rating years; increasing to 75 per cent in 2029, 85 per cent in 2030, 95 per cent in 2031, 105 per cent in 2032, 115 per cent in 2033, and 120 per cent from 2034 onwards.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261123_86c7aee109#13",
+    "doc_id": "vietnamnews_20261123_86c7aee109",
+    "sent_idx": 13,
+    "text": "Similarly, the maximum scoring threshold for the NSFR is proposed at 110 per cent for the 2027 and 2028 rating years, rising to 115 per cent in 2029 and 120 per cent from 2030 onwards.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261123_86c7aee109#14",
+    "doc_id": "vietnamnews_20261123_86c7aee109",
+    "sent_idx": 14,
+    "text": "Notably, the average LCR and the NSFR will together account for 80 per cent of the total weight assigned to the quantitative indicators under the liquidity criterion, given that banks are required to maintain a minimum threshold of 100 per cent for both ratios.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261123_86c7aee109#15",
+    "doc_id": "vietnamnews_20261123_86c7aee109",
+    "sent_idx": 15,
+    "text": "In addition to liquidity-related provisions, the draft circular also introduces a mechanism for determining scoring thresholds for capital-related indicators, applicable in the event that the SBV's Governor decides to implement the countercyclical capital buffer (CCyB).",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261123_86c7aee109#16",
+    "doc_id": "vietnamnews_20261123_86c7aee109",
+    "sent_idx": 16,
+    "text": "The draft circular also introduces a new basis for establishing scoring thresholds for quantitative indicators.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261123_86c7aee109#17",
+    "doc_id": "vietnamnews_20261123_86c7aee109",
+    "sent_idx": 17,
+    "text": "Rather than relying solely on historical data, these thresholds may now be derived from the minimum or maximum limits stipulated by the SBV regarding safety ratios and operational constraints for credit institutions and foreign bank branches.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261123_86c7aee109#18",
+    "doc_id": "vietnamnews_20261123_86c7aee109",
+    "sent_idx": 18,
+    "text": "This addition is intended to accommodate new indicators for which no historical data exists.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261123_86c7aee109#19",
+    "doc_id": "vietnamnews_20261123_86c7aee109",
+    "sent_idx": 19,
+    "text": "The SBV intends to implement these amendments and supplements starting from the 2027 rating year, ensuring alignment with the timeline for when commercial banks and foreign bank branches may begin opting for the early application of Circular No. 50/2026/TT-NHNN. - BIZHUB/VNS",
+    "lang": "en",
+    "is_title": false
+  }
+]

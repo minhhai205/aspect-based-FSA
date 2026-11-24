@@ -1,0 +1,74 @@
+[
+  {
+    "sent_id": "vneconomy_en_20261123_065af13a0c#0",
+    "doc_id": "vneconomy_en_20261123_065af13a0c",
+    "sent_idx": 0,
+    "text": "Vietnam's tea exports recover as shipments to Russia and US surge",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vneconomy_en_20261123_065af13a0c#1",
+    "doc_id": "vneconomy_en_20261123_065af13a0c",
+    "sent_idx": 1,
+    "text": "Vietnam's tea exports showed signs of recovery in October 2026, with both volume and value increasing year-on-year, supported by higher average export prices and stronger demand from several key markets.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261123_065af13a0c#2",
+    "doc_id": "vneconomy_en_20261123_065af13a0c",
+    "sent_idx": 2,
+    "text": "According to the Ministry of Agriculture and Environment, Vietnam exported an estimated 15,600 tons of tea in October, worth $29.7 million, up 19.3% in volume and 30.4% in value compared with the same month last year.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261123_065af13a0c#3",
+    "doc_id": "vneconomy_en_20261123_065af13a0c",
+    "sent_idx": 3,
+    "text": "The average export price reached $1,929 per ton, an increase of 9.3%.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261123_065af13a0c#4",
+    "doc_id": "vneconomy_en_20261123_065af13a0c",
+    "sent_idx": 4,
+    "text": "In the first 10 months of 2026, tea exports totalled 105,300 tons, generating $197.4 million.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261123_065af13a0c#5",
+    "doc_id": "vneconomy_en_20261123_065af13a0c",
+    "sent_idx": 5,
+    "text": "While export volume fell 4.6% year-on-year, export revenue rose 4.3%, with the average price climbing 9.3% to $1,874.3 per ton.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261123_065af13a0c#6",
+    "doc_id": "vneconomy_en_20261123_065af13a0c",
+    "sent_idx": 6,
+    "text": "Pakistan remained Vietnam's largest tea export market, accounting for 20% of total shipments, followed by Taiwan (China) at 12.8% and China at 8.9%.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261123_065af13a0c#7",
+    "doc_id": "vneconomy_en_20261123_065af13a0c",
+    "sent_idx": 7,
+    "text": "Meanwhile, Russia and the United States emerged as bright spots.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261123_065af13a0c#8",
+    "doc_id": "vneconomy_en_20261123_065af13a0c",
+    "sent_idx": 8,
+    "text": "Shipments to Russia increased 32.4% in volume and 23.9% in value, while exports to the US rose 20.7% in volume and 43.4% in value, reflecting stronger demand from both markets.",
+    "lang": "en",
+    "is_title": false
+  }
+]

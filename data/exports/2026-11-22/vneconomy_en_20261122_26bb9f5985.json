@@ -1,0 +1,162 @@
+[
+  {
+    "sent_id": "vneconomy_en_20261122_26bb9f5985#0",
+    "doc_id": "vneconomy_en_20261122_26bb9f5985",
+    "sent_idx": 0,
+    "text": "Trading platform targets Vietnam's role in agricultural commodity markets",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vneconomy_en_20261122_26bb9f5985#1",
+    "doc_id": "vneconomy_en_20261122_26bb9f5985",
+    "sent_idx": 1,
+    "text": "Despite being a major producer and exporter of coffee, rubber and pepper, Vietnam has limited influence over international pricing, leaving domestic businesses exposed to price fluctuations on overseas exchanges that often set benchmarks for export contracts.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261122_26bb9f5985#2",
+    "doc_id": "vneconomy_en_20261122_26bb9f5985",
+    "sent_idx": 2,
+    "text": "Developing domestic trading infrastructure could improve price discovery, expand market access and strengthen risk management.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261122_26bb9f5985#3",
+    "doc_id": "vneconomy_en_20261122_26bb9f5985",
+    "sent_idx": 3,
+    "text": "Against this backdrop, the Vietnam Global Commodities Exchange Joint Stock Company (VIETCOM) plans to launch an international commodity trading platform in late November, connecting domestic producers and exporters with international traders, investors and buyers.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261122_26bb9f5985#4",
+    "doc_id": "vneconomy_en_20261122_26bb9f5985",
+    "sent_idx": 4,
+    "text": "Mr. Nguyen Thanh Tung, Chairman of the Board of Directors of VIETCOM, said the project has been developed in response to the limited influence of Vietnamese producers over international commodity prices, despite the country's substantial export volumes.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261122_26bb9f5985#5",
+    "doc_id": "vneconomy_en_20261122_26bb9f5985",
+    "sent_idx": 5,
+    "text": "\"Robusta coffee is a clear example.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261122_26bb9f5985#6",
+    "doc_id": "vneconomy_en_20261122_26bb9f5985",
+    "sent_idx": 6,
+    "text": "Vietnam has a significant supply advantage, yet London prices remain the benchmark for many export contracts.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261122_26bb9f5985#7",
+    "doc_id": "vneconomy_en_20261122_26bb9f5985",
+    "sent_idx": 7,
+    "text": "This highlights the need for trading mechanisms that better reflect the quality, supply and characteristics of Vietnamese products, while giving domestic businesses better access to market information and risk-management tools,\" Mr. Tung said.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261122_26bb9f5985#8",
+    "doc_id": "vneconomy_en_20261122_26bb9f5985",
+    "sent_idx": 8,
+    "text": "VIETCOM plans to link production areas and exporters with international importers and trading partners.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261122_26bb9f5985#9",
+    "doc_id": "vneconomy_en_20261122_26bb9f5985",
+    "sent_idx": 9,
+    "text": "The company expects the platform to provide additional trading channels and support the development of domestic reference prices, although its effectiveness will depend on market participation and trading liquidity.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261122_26bb9f5985#10",
+    "doc_id": "vneconomy_en_20261122_26bb9f5985",
+    "sent_idx": 10,
+    "text": "Over the past four years, VIETCOM has researched commodity exchange models, developed its technology infrastructure and prepared systems for payments, risk management and information security.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261122_26bb9f5985#11",
+    "doc_id": "vneconomy_en_20261122_26bb9f5985",
+    "sent_idx": 11,
+    "text": "The company currently has nearly 100 personnel with backgrounds in economics, finance and technology, as well as experience in commodity trading.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261122_26bb9f5985#12",
+    "doc_id": "vneconomy_en_20261122_26bb9f5985",
+    "sent_idx": 12,
+    "text": "VIETCOM is also exploring financing options to develop the platform within the framework of the Vietnam International Financial Center in Da Nang.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261122_26bb9f5985#13",
+    "doc_id": "vneconomy_en_20261122_26bb9f5985",
+    "sent_idx": 13,
+    "text": "It estimates that its charter capital will be approximately VND1.5 trillion ($57.7 million).",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261122_26bb9f5985#14",
+    "doc_id": "vneconomy_en_20261122_26bb9f5985",
+    "sent_idx": 14,
+    "text": "The initial focus will be on commodities in which Vietnam has established production and export strengths, including coffee, rubber and black pepper.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261122_26bb9f5985#15",
+    "doc_id": "vneconomy_en_20261122_26bb9f5985",
+    "sent_idx": 15,
+    "text": "The company is also considering trading in higher-value products such as bird's nests, agarwood and Ngoc Linh ginseng.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261122_26bb9f5985#16",
+    "doc_id": "vneconomy_en_20261122_26bb9f5985",
+    "sent_idx": 16,
+    "text": "The proposed model includes standardizing information on product origin, quality, production volumes and prices.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261122_26bb9f5985#17",
+    "doc_id": "vneconomy_en_20261122_26bb9f5985",
+    "sent_idx": 17,
+    "text": "However, building the infrastructure alone will not guarantee the platform's success.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261122_26bb9f5985#18",
+    "doc_id": "vneconomy_en_20261122_26bb9f5985",
+    "sent_idx": 18,
+    "text": "Attracting sufficient buyers and sellers, generating consistent trading volumes and establishing effective risk-management mechanisms will be essential to developing reliable reference prices and gaining the confidence of international market participants.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261122_26bb9f5985#19",
+    "doc_id": "vneconomy_en_20261122_26bb9f5985",
+    "sent_idx": 19,
+    "text": "Mr. Tung said VIETCOM also planned to allocate 50 per cent of profits from commodity trading activities to support farmers and communities in sourcing and production areas.",
+    "lang": "en",
+    "is_title": false
+  }
+]

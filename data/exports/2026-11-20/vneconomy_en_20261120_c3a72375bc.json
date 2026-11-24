@@ -1,0 +1,106 @@
+[
+  {
+    "sent_id": "vneconomy_en_20261120_c3a72375bc#0",
+    "doc_id": "vneconomy_en_20261120_c3a72375bc",
+    "sent_idx": 0,
+    "text": "2026 auto sales expected to hit 700,000",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vneconomy_en_20261120_c3a72375bc#1",
+    "doc_id": "vneconomy_en_20261120_c3a72375bc",
+    "sent_idx": 1,
+    "text": "Vietnam's automobile market experienced a slowdown in October, with total sales reached 28,957 units, down 17% from September and 24% year-on-year, according to a report the Vietnam Automobile Manufacturers Association (VAMA)",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261120_c3a72375bc#2",
+    "doc_id": "vneconomy_en_20261120_c3a72375bc",
+    "sent_idx": 2,
+    "text": "The decline reflects a temporary cautious approach among consumers as manufacturers and dealerships adjust their strategies and prepare major promotional campaigns for the year-end peak shopping season.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261120_c3a72375bc#3",
+    "doc_id": "vneconomy_en_20261120_c3a72375bc",
+    "sent_idx": 3,
+    "text": "By vehicle category, passenger car sales reached 20,715 units, down 16% month-on-month, while commercial vehicles fell 22% to 9,698 units.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261120_c3a72375bc#4",
+    "doc_id": "vneconomy_en_20261120_c3a72375bc",
+    "sent_idx": 4,
+    "text": "Special-purpose vehicles declined 14% to 544 units.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261120_c3a72375bc#5",
+    "doc_id": "vneconomy_en_20261120_c3a72375bc",
+    "sent_idx": 5,
+    "text": "Sales among VAMA members alone totalled 22,806 units, down 13% from September and 28% year-on-year.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261120_c3a72375bc#6",
+    "doc_id": "vneconomy_en_20261120_c3a72375bc",
+    "sent_idx": 6,
+    "text": "Passenger and commercial vehicle sales stood at 15,173 and 5,735 units, respectively, both falling 13%.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261120_c3a72375bc#7",
+    "doc_id": "vneconomy_en_20261120_c3a72375bc",
+    "sent_idx": 7,
+    "text": "Domestically assembled vehicles recorded sales of 12,753 units, down 7% month-on-month, while completely built-up imports dropped 24% to 16,204 units.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261120_c3a72375bc#8",
+    "doc_id": "vneconomy_en_20261120_c3a72375bc",
+    "sent_idx": 8,
+    "text": "Despite October's decline, cumulative sales figures remained positive.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261120_c3a72375bc#9",
+    "doc_id": "vneconomy_en_20261120_c3a72375bc",
+    "sent_idx": 9,
+    "text": "Total market sales reached 310,986 units in the first 10 months of 2026, up 7% from 289,331 units in the same period last year.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261120_c3a72375bc#10",
+    "doc_id": "vneconomy_en_20261120_c3a72375bc",
+    "sent_idx": 10,
+    "text": "Imported vehicles recorded particularly strong growth, with sales rising 16% to 176,368 units.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261120_c3a72375bc#11",
+    "doc_id": "vneconomy_en_20261120_c3a72375bc",
+    "sent_idx": 11,
+    "text": "Including VinFast's 200,593 electric vehicle deliveries and sales reported by Hyundai Thanh Cong, Vietnam's automotive market has surpassed half a million units in cumulative sales this year.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261120_c3a72375bc#12",
+    "doc_id": "vneconomy_en_20261120_c3a72375bc",
+    "sent_idx": 12,
+    "text": "Reaching the ambitious target of 700,000 vehicles for 2026 will, however, require the market to maintain strong sales momentum throughout November and December.",
+    "lang": "en",
+    "is_title": false
+  }
+]

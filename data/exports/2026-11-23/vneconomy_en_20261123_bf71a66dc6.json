@@ -1,0 +1,346 @@
+[
+  {
+    "sent_id": "vneconomy_en_20261123_bf71a66dc6#0",
+    "doc_id": "vneconomy_en_20261123_bf71a66dc6",
+    "sent_idx": 0,
+    "text": "Critical improvements of steel industry required",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vneconomy_en_20261123_bf71a66dc6#1",
+    "doc_id": "vneconomy_en_20261123_bf71a66dc6",
+    "sent_idx": 1,
+    "text": "Steel production remains one of Vietnam's most energy and material-intensive industries.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261123_bf71a66dc6#2",
+    "doc_id": "vneconomy_en_20261123_bf71a66dc6",
+    "sent_idx": 2,
+    "text": "Every ton of crude steel draws on iron ore, coal or scrap, electricity, water, and auxiliaries, so lower consumption simultaneously cuts costs and emissions.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261123_bf71a66dc6#3",
+    "doc_id": "vneconomy_en_20261123_bf71a66dc6",
+    "sent_idx": 3,
+    "text": "Decision No. 889/QD-TTg, dated June 24, 2020, which approved the National Action Program on Sustainable Production and Consumption for 2021-2030, explicitly identified steel as a priority sector for improved resource efficiency.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261123_bf71a66dc6#4",
+    "doc_id": "vneconomy_en_20261123_bf71a66dc6",
+    "sent_idx": 4,
+    "text": "The technological mix largely determines the sector's carbon profile.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261123_bf71a66dc6#5",
+    "doc_id": "vneconomy_en_20261123_bf71a66dc6",
+    "sent_idx": 5,
+    "text": "Vietnam's mills rely mainly on blast furnace-basic oxygen furnace (BF-BOF) routes (exemplified by Hoa Phat and Formosa), electric arc furnaces (EAF) using primarily scrap (Southern Steel - VNSTEEL and Vina Kyoei), and induction furnaces (IFs) at certain VAS plants and in VINAUSTEEL's planned project.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261123_bf71a66dc6#6",
+    "doc_id": "vneconomy_en_20261123_bf71a66dc6",
+    "sent_idx": 6,
+    "text": "According to the World Steel Association, average 2024 CO2 intensity stood at approximately 2.34 tons per ton of crude steel for BF-BOF and around 0.69 tons for scrap-based EAF.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261123_bf71a66dc6#7",
+    "doc_id": "vneconomy_en_20261123_bf71a66dc6",
+    "sent_idx": 7,
+    "text": "These are technology averages, not company-specific figures.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261123_bf71a66dc6#8",
+    "doc_id": "vneconomy_en_20261123_bf71a66dc6",
+    "sent_idx": 8,
+    "text": "EAF therefore holds a clear emissions advantage, yet scrap supply remains constrained in both volume and consistent quality while domestic demand continues to grow.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261123_bf71a66dc6#9",
+    "doc_id": "vneconomy_en_20261123_bf71a66dc6",
+    "sent_idx": 9,
+    "text": "Primary steelmaking from iron ore will therefore retain an important role for the foreseeable future, and deeper cuts on the BF-BOF route will require new technologies that are also economically viable.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261123_bf71a66dc6#10",
+    "doc_id": "vneconomy_en_20261123_bf71a66dc6",
+    "sent_idx": 10,
+    "text": "According to Mr. Pham Cong Thao, Vice Chairman of the Vietnam Steel Association (VSA), any assessment of steel enterprises' efforts to reduce emissions needs to take into account the specific characteristics of steelmaking technology.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261123_bf71a66dc6#11",
+    "doc_id": "vneconomy_en_20261123_bf71a66dc6",
+    "sent_idx": 11,
+    "text": "Among BF-BOF producers, Hoa Phat has scaled waste-heat power recovery.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261123_bf71a66dc6#12",
+    "doc_id": "vneconomy_en_20261123_bf71a66dc6",
+    "sent_idx": 12,
+    "text": "As of the end of 2025, the thermal power plant at the Dung Quat complex alone had cumulatively generated nearly 13 billion kWh over eight years of operation.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261123_bf71a66dc6#13",
+    "doc_id": "vneconomy_en_20261123_bf71a66dc6",
+    "sent_idx": 13,
+    "text": "The group's two major integrated complexes - Dung Quat and Hai Duong - routinely meet over 90 per cent of their electricity needs from recovered heat and process gases.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261123_bf71a66dc6#14",
+    "doc_id": "vneconomy_en_20261123_bf71a66dc6",
+    "sent_idx": 14,
+    "text": "The 2025 sustainability report notes that the group completed a greenhouse-gas inventory to ISO 14064-1:2018 (verified by BSI), achieved more than 99 per cent recycling / reuse of solid waste in the steel and agriculture segments, and recycled approximately 98 per cent of water at Dung Quat.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261123_bf71a66dc6#15",
+    "doc_id": "vneconomy_en_20261123_bf71a66dc6",
+    "sent_idx": 15,
+    "text": "Hoa Phat is also expanding rooftop solar (including a planned around 79 MWp system at Dung Quat) and has taken a 30 per cent stake in a new offshore wind company, signaling longer-term diversification of its energy mix.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261123_bf71a66dc6#16",
+    "doc_id": "vneconomy_en_20261123_bf71a66dc6",
+    "sent_idx": 16,
+    "text": "On the EAF side, Southern Steel - VNSTEEL and Vina Kyoei demonstrate the circular advantages of scrap-based production.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261123_bf71a66dc6#17",
+    "doc_id": "vneconomy_en_20261123_bf71a66dc6",
+    "sent_idx": 17,
+    "text": "Southern Steel, one of Vietnam's early EAF adopters, reports water reuse above 90 per cent and operates a 950 cu m per day wastewater treatment plant for its scrap yard with continuous automatic monitoring.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261123_bf71a66dc6#18",
+    "doc_id": "vneconomy_en_20261123_bf71a66dc6",
+    "sent_idx": 18,
+    "text": "It has upgraded motors from IE2 to high-efficiency IE3/IE4 classes, installed variable-frequency drives on pumps, implemented hot charging of billets to avoid re-heating, and switched reheating furnaces from fuel oil to natural gas - measures that save millions of kWh annually.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261123_bf71a66dc6#19",
+    "doc_id": "vneconomy_en_20261123_bf71a66dc6",
+    "sent_idx": 19,
+    "text": "Dust collection systems with more than 4,100 filter bags handle up to 1.56 million cu m of gas per hour.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261123_bf71a66dc6#20",
+    "doc_id": "vneconomy_en_20261123_bf71a66dc6",
+    "sent_idx": 20,
+    "text": "Company figures indicate roughly half a ton of CO2 per ton of finished steel; well below the BF-BOF average.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261123_bf71a66dc6#21",
+    "doc_id": "vneconomy_en_20261123_bf71a66dc6",
+    "sent_idx": 21,
+    "text": "VNSTEEL overall produces about 82 per cent of its crude steel via EAF.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261123_bf71a66dc6#22",
+    "doc_id": "vneconomy_en_20261123_bf71a66dc6",
+    "sent_idx": 22,
+    "text": "Vina Kyoei has applied centralized process control and monitoring to raise operational efficiency and has shifted certain heating processes from oil to gas.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261123_bf71a66dc6#23",
+    "doc_id": "vneconomy_en_20261123_bf71a66dc6",
+    "sent_idx": 23,
+    "text": "On January 8, 2025, its deformed bars, plain round bars, and wire rods received Environmental Product Declaration (EPD) verification from UL, making it the first mill in the Kyoei Steel group in Vietnam to obtain this third-party, life-cycle-based transparency tool.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261123_bf71a66dc6#24",
+    "doc_id": "vneconomy_en_20261123_bf71a66dc6",
+    "sent_idx": 24,
+    "text": "The EPDs support customer requirements for quantified environmental data and create a baseline for continuous improvement.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261123_bf71a66dc6#25",
+    "doc_id": "vneconomy_en_20261123_bf71a66dc6",
+    "sent_idx": 25,
+    "text": "For induction-furnace technology, VINAUSTEEL has selected medium-frequency IFs for its integrated 500,000 ton per year melting and rolling project in Hung Yen.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261123_bf71a66dc6#26",
+    "doc_id": "vneconomy_en_20261123_bf71a66dc6",
+    "sent_idx": 26,
+    "text": "The company plans to use LPG or CNG instead of fuel oil in the rolling stage and to install bag-filter dust collection at the melting area.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261123_bf71a66dc6#27",
+    "doc_id": "vneconomy_en_20261123_bf71a66dc6",
+    "sent_idx": 27,
+    "text": "In February 2026 the government approved Decision No. 261/QD-TTg, containing the Steel Industry Development Strategy to 2030 with a vision to 2050.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261123_bf71a66dc6#28",
+    "doc_id": "vneconomy_en_20261123_bf71a66dc6",
+    "sent_idx": 28,
+    "text": "It targets crude steel output of 25-26 million tons by 2030 (for average annual growth of 7-8 per cent), and finished steel of 32-33 million tons.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261123_bf71a66dc6#29",
+    "doc_id": "vneconomy_en_20261123_bf71a66dc6",
+    "sent_idx": 29,
+    "text": "By 2050, the vision is to reach 65-70 million tons of crude steel while maximizing domestic demand coverage.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261123_bf71a66dc6#30",
+    "doc_id": "vneconomy_en_20261123_bf71a66dc6",
+    "sent_idx": 30,
+    "text": "The strategy aligns with Vietnam's COP26 net-zero by 2050 commitment.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261123_bf71a66dc6#31",
+    "doc_id": "vneconomy_en_20261123_bf71a66dc6",
+    "sent_idx": 31,
+    "text": "The Strategy also sets out tasks and solutions related to institutional and policy formulation, market development, science and technology, human resources, environmental protection, and a number of specific measures by steel product groups.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261123_bf71a66dc6#32",
+    "doc_id": "vneconomy_en_20261123_bf71a66dc6",
+    "sent_idx": 32,
+    "text": "A pilot greenhouse gas emission quota system covering 2025-2026 includes 25 iron and steel plants, within a broader pilot of 110 facilities across power, steel, and cement.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261123_bf71a66dc6#33",
+    "doc_id": "vneconomy_en_20261123_bf71a66dc6",
+    "sent_idx": 33,
+    "text": "Allocations are set 3.8-4.4 per cent below projected emissions for the period, and quota management is expected to become mandatory nationwide from 2028.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261123_bf71a66dc6#34",
+    "doc_id": "vneconomy_en_20261123_bf71a66dc6",
+    "sent_idx": 34,
+    "text": "Externally, the EU's Carbon Border Adjustment Mechanism (CBAM) entered its definitive phase on January 1, 2026.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261123_bf71a66dc6#35",
+    "doc_id": "vneconomy_en_20261123_bf71a66dc6",
+    "sent_idx": 35,
+    "text": "Steel is among products covered, and without verified actual emissions data, importers face default values that can add substantial carbon costs.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261123_bf71a66dc6#36",
+    "doc_id": "vneconomy_en_20261123_bf71a66dc6",
+    "sent_idx": 36,
+    "text": "The VSA and exporters have highlighted the need for recognition of Vietnamese verification bodies and for credit for carbon costs already paid under Vietnam's emerging domestic system.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261123_bf71a66dc6#37",
+    "doc_id": "vneconomy_en_20261123_bf71a66dc6",
+    "sent_idx": 37,
+    "text": "In the first nine months of 2026, the EU accounted for roughly 17 per cent of Vietnam's steel export volume, making adaptation commercially material.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261123_bf71a66dc6#38",
+    "doc_id": "vneconomy_en_20261123_bf71a66dc6",
+    "sent_idx": 38,
+    "text": "Near-term levers remain energy efficiency, fuel switching, waste-heat and water recovery, higher scrap utilization where quality permits, and process optimization (hot charging, variable-speed drives, and digital monitoring).",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261123_bf71a66dc6#39",
+    "doc_id": "vneconomy_en_20261123_bf71a66dc6",
+    "sent_idx": 39,
+    "text": "For BF-BOF operators, deeper cuts will ultimately require exploration of hydrogen-based direct reduced iron (H2-DRI) and carbon capture, utilization and storage (CCUS), alongside progressive greening of the electricity supply.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261123_bf71a66dc6#40",
+    "doc_id": "vneconomy_en_20261123_bf71a66dc6",
+    "sent_idx": 40,
+    "text": "EAF operators' residual emissions depend heavily on the carbon intensity of purchased power and on scrap quality and availability.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261123_bf71a66dc6#41",
+    "doc_id": "vneconomy_en_20261123_bf71a66dc6",
+    "sent_idx": 41,
+    "text": "Material efficiency and demand-side measures also feature in independent net-zero roadmaps for Vietnam's steel sector and can slow the growth of absolute emissions even as output expands.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261123_bf71a66dc6#42",
+    "doc_id": "vneconomy_en_20261123_bf71a66dc6",
+    "sent_idx": 42,
+    "text": "The combination of technology choice, resource-efficient operations, and circular supply chains will determine how successfully the industry meets the resource-consumption targets of Decision No. 889, the green orientation of Decision No. 261, and the competitive requirements of a carbon-constrained global market.",
+    "lang": "en",
+    "is_title": false
+  }
+]

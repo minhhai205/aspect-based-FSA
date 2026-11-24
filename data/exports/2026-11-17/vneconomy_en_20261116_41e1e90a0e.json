@@ -1,0 +1,170 @@
+[
+  {
+    "sent_id": "vneconomy_en_20261116_41e1e90a0e#0",
+    "doc_id": "vneconomy_en_20261116_41e1e90a0e",
+    "sent_idx": 0,
+    "text": "Vietnam mobile cyber threats grow broader and more acute",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vneconomy_en_20261116_41e1e90a0e#1",
+    "doc_id": "vneconomy_en_20261116_41e1e90a0e",
+    "sent_idx": 1,
+    "text": "Kaspersky has recently issued a statement noting that the use of digital banking, electronic payments, e-commerce, and many other online services through mobile applications and smartphones has become one of the most important touchpoints connecting users to digital services in Vietnam.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261116_41e1e90a0e#2",
+    "doc_id": "vneconomy_en_20261116_41e1e90a0e",
+    "sent_idx": 2,
+    "text": "However, as users become increasingly dependent on mobile devices, the attack surface available to cybercriminals continues to expand.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261116_41e1e90a0e#3",
+    "doc_id": "vneconomy_en_20261116_41e1e90a0e",
+    "sent_idx": 3,
+    "text": "Threat actors are constantly developing new methods to steal login credentials, personal data, and access to digital services.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261116_41e1e90a0e#4",
+    "doc_id": "vneconomy_en_20261116_41e1e90a0e",
+    "sent_idx": 4,
+    "text": "This trend has also been observed across the Asia-Pacific (APAC) region.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261116_41e1e90a0e#5",
+    "doc_id": "vneconomy_en_20261116_41e1e90a0e",
+    "sent_idx": 5,
+    "text": "According to Kaspersky's mobile threat data for the first quarter of 2026 across eight APAC markets, each affected mobile user encountered an average of 7.3 threats, a 49% increase from 4.9 threats during the same period the previous year.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261116_41e1e90a0e#6",
+    "doc_id": "vneconomy_en_20261116_41e1e90a0e",
+    "sent_idx": 6,
+    "text": "Notably, this increase was recorded across all eight surveyed markets, even though the overall number of victims showed a downward trend.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261116_41e1e90a0e#7",
+    "doc_id": "vneconomy_en_20261116_41e1e90a0e",
+    "sent_idx": 7,
+    "text": "In Vietnam, the risks posed by mobile threats are becoming increasingly evident.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261116_41e1e90a0e#8",
+    "doc_id": "vneconomy_en_20261116_41e1e90a0e",
+    "sent_idx": 8,
+    "text": "According to data from the National Cybersecurity Association (NCA), collected through the nTrust mobile security platform, 62,952 new types of mobile malware were detected on devices in Vietnam in 2025.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261116_41e1e90a0e#9",
+    "doc_id": "vneconomy_en_20261116_41e1e90a0e",
+    "sent_idx": 9,
+    "text": "Among these were 931 malware variants disguised as popular applications and specifically designed to steal user information or remotely control users' devices.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261116_41e1e90a0e#10",
+    "doc_id": "vneconomy_en_20261116_41e1e90a0e",
+    "sent_idx": 10,
+    "text": "The same data shows that 34.13% of users in Vietnam experienced at least one malware-related incident in 2025, up from 23.40% in 2024.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261116_41e1e90a0e#11",
+    "doc_id": "vneconomy_en_20261116_41e1e90a0e",
+    "sent_idx": 11,
+    "text": "AI-assisted social engineering attacks have further increased the complexity of the threat landscape, as highly sophisticated impersonation schemes and personalized fraud tactics make it easier for users to fall victim to scams.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261116_41e1e90a0e#12",
+    "doc_id": "vneconomy_en_20261116_41e1e90a0e",
+    "sent_idx": 12,
+    "text": "This creates opportunities for cybercriminals to take over financial accounts and steal sensitive data.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261116_41e1e90a0e#13",
+    "doc_id": "vneconomy_en_20261116_41e1e90a0e",
+    "sent_idx": 13,
+    "text": "These figures reflect broader threat trends that Kaspersky has observed globally and which are also present in Vietnam.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261116_41e1e90a0e#14",
+    "doc_id": "vneconomy_en_20261116_41e1e90a0e",
+    "sent_idx": 14,
+    "text": "As mobile devices increasingly serve as the key to accessing banking, payment, shopping, and various other digital services, a security incident can affect not only the device itself but also the applications and services accessed through it.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261116_41e1e90a0e#15",
+    "doc_id": "vneconomy_en_20261116_41e1e90a0e",
+    "sent_idx": 15,
+    "text": "This creates an urgent need for security solutions that go beyond device-level protection and are integrated directly into the applications and services users trust.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261116_41e1e90a0e#16",
+    "doc_id": "vneconomy_en_20261116_41e1e90a0e",
+    "sent_idx": 16,
+    "text": "Because they store highly valuable data, financial applications remain prime targets for cybercriminals.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261116_41e1e90a0e#17",
+    "doc_id": "vneconomy_en_20261116_41e1e90a0e",
+    "sent_idx": 17,
+    "text": "The current situation indicates that cybercriminals are increasingly focusing their efforts on attacking mobile financial applications and services.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261116_41e1e90a0e#18",
+    "doc_id": "vneconomy_en_20261116_41e1e90a0e",
+    "sent_idx": 18,
+    "text": "This trend is particularly concerning in markets where users have become accustomed to conducting banking transactions, making payments, and using financial services through mobile apps.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261116_41e1e90a0e#19",
+    "doc_id": "vneconomy_en_20261116_41e1e90a0e",
+    "sent_idx": 19,
+    "text": "In Vietnam, the rise in mobile malware presents similar challenges, as an increasing number of financial transactions and digital services are being carried out on smartphones.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261116_41e1e90a0e#20",
+    "doc_id": "vneconomy_en_20261116_41e1e90a0e",
+    "sent_idx": 20,
+    "text": "Not only are these threats growing in number, but they are also continuously evolving their methods of distribution in order to evade security defenses.",
+    "lang": "en",
+    "is_title": false
+  }
+]

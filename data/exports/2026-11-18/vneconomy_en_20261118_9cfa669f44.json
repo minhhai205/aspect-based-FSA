@@ -1,0 +1,50 @@
+[
+  {
+    "sent_id": "vneconomy_en_20261118_9cfa669f44#0",
+    "doc_id": "vneconomy_en_20261118_9cfa669f44",
+    "sent_idx": 0,
+    "text": "Domestic gold prices fall to lowest level since September 2025",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vneconomy_en_20261118_9cfa669f44#1",
+    "doc_id": "vneconomy_en_20261118_9cfa669f44",
+    "sent_idx": 1,
+    "text": "SJC-branded gold bar prices fell by VND500,000 ($19) per tael on both buying and selling rates at major gold traders on November 18, down 0.3% from the previous session.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261118_9cfa669f44#2",
+    "doc_id": "vneconomy_en_20261118_9cfa669f44",
+    "sent_idx": 2,
+    "text": "A tael is equivalent to 37.5 grams, or roughly 1.2 ounces.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261118_9cfa669f44#3",
+    "doc_id": "vneconomy_en_20261118_9cfa669f44",
+    "sent_idx": 3,
+    "text": "Selling prices were uniformly quoted at VND137.2 million ($5,216) per tael, the lowest level since September 2025, while buying prices stood at VND134.2 million ($5,102) per tael.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261118_9cfa669f44#4",
+    "doc_id": "vneconomy_en_20261118_9cfa669f44",
+    "sent_idx": 4,
+    "text": "On the global market, gold prices had dropped more than 1.3% to around $3,798.1 per ounce.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261118_9cfa669f44#5",
+    "doc_id": "vneconomy_en_20261118_9cfa669f44",
+    "sent_idx": 5,
+    "text": "As a result, SJC gold bars remained approximately VND17.38 million ($660) per tael higher than their global equivalent.",
+    "lang": "en",
+    "is_title": false
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "sent_id": "vneconomy_en_20261123_33ccf4562b#0",
+    "doc_id": "vneconomy_en_20261123_33ccf4562b",
+    "sent_idx": 0,
+    "text": "Vietnam to ban online tobacco sales from July 1, 2027",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vneconomy_en_20261123_33ccf4562b#1",
+    "doc_id": "vneconomy_en_20261123_33ccf4562b",
+    "sent_idx": 1,
+    "text": "Vietnam will officially prohibit the sale of tobacco products through online channels from July 1, 2027, under amendments to the Law on Prevention and Control of Tobacco Harms passed recently by the National Assembly.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261123_33ccf4562b#2",
+    "doc_id": "vneconomy_en_20261123_33ccf4562b",
+    "sent_idx": 2,
+    "text": "According to the Ministry of Health, the revised law introduces six major policy areas: broadening and clarifying the definitions and scope of tobacco products; expanding prohibited activities; controlling domestic tobacco consumption; tightening regulations on tobacco displays and sales; ensuring smoke-free environments; and strengthening protections for children and people under 18.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261123_33ccf4562b#3",
+    "doc_id": "vneconomy_en_20261123_33ccf4562b",
+    "sent_idx": 3,
+    "text": "A key change is a comprehensive revision of Article 9, which sets out prohibited activities across the production, trading, distribution and use of tobacco products.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261123_33ccf4562b#4",
+    "doc_id": "vneconomy_en_20261123_33ccf4562b",
+    "sent_idx": 4,
+    "text": "The law bans the production, trading, sale, possession, transport, export, import and transit of e-cigarettes, heated tobacco products, counterfeit tobacco and products designed to resemble cigarette packs or individual cigarettes.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261123_33ccf4562b#5",
+    "doc_id": "vneconomy_en_20261123_33ccf4562b",
+    "sent_idx": 5,
+    "text": "The prohibitions also cover nicotine pouches, shisha, other tobacco products, related raw materials and smuggled tobacco.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261123_33ccf4562b#6",
+    "doc_id": "vneconomy_en_20261123_33ccf4562b",
+    "sent_idx": 6,
+    "text": "The manufacture and trade of electronic devices and components used for these products are also prohibited, except where permitted by law.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261123_33ccf4562b#7",
+    "doc_id": "vneconomy_en_20261123_33ccf4562b",
+    "sent_idx": 7,
+    "text": "The use of e-cigarettes, heated tobacco products, nicotine pouches and shisha is likewise banned.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261123_33ccf4562b#8",
+    "doc_id": "vneconomy_en_20261123_33ccf4562b",
+    "sent_idx": 8,
+    "text": "Tobacco advertising, promotion, direct marketing and affiliate marketing through e-commerce are prohibited in all forms.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261123_33ccf4562b#9",
+    "doc_id": "vneconomy_en_20261123_33ccf4562b",
+    "sent_idx": 9,
+    "text": "The revised law bans tobacco sales through e-commerce platforms and other electronic transaction methods, except electronic contracts between legally authorised tobacco businesses.",
+    "lang": "en",
+    "is_title": false
+  }
+]

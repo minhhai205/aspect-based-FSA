@@ -1,0 +1,114 @@
+[
+  {
+    "sent_id": "vietnamnews_20261123_42bbd0fd7b#0",
+    "doc_id": "vietnamnews_20261123_42bbd0fd7b",
+    "sent_idx": 0,
+    "text": "Vietnamese, French, Korean consortium wins consultancy contract for North-South high-speed railway",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261123_42bbd0fd7b#1",
+    "doc_id": "vietnamnews_20261123_42bbd0fd7b",
+    "sent_idx": 1,
+    "text": "HÀ NỘI - A consortium of Vietnamese, French and Korean companies has won a VNĐ10.24 trillion (US$389 million) consultancy contract for Việt Nam's North-South high-speed railway, according to the Ministry of Construction.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261123_42bbd0fd7b#2",
+    "doc_id": "vietnamnews_20261123_42bbd0fd7b",
+    "sent_idx": 2,
+    "text": "The contract covers surveys and preparation of the project's feasibility study, including a Front-End Engineering Design (FEED) and preparation of bidding documents.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261123_42bbd0fd7b#3",
+    "doc_id": "vietnamnews_20261123_42bbd0fd7b",
+    "sent_idx": 3,
+    "text": "French engineering firm SYSTRA will lead the consortium, with Korean members includeing Sambo Engineering Co, Yooshin Engineering Corporation and Korea National Railway.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261123_42bbd0fd7b#4",
+    "doc_id": "vietnamnews_20261123_42bbd0fd7b",
+    "sent_idx": 4,
+    "text": "Vietnamese participants are Transport Engineering Design Inc (TEDI), TEDI South, Transport Engineering Consultancy and Investment Joint Stock Company (TRICC), and Hoang Long Construction Consultancy Joint Stock Company.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261123_42bbd0fd7b#5",
+    "doc_id": "vietnamnews_20261123_42bbd0fd7b",
+    "sent_idx": 5,
+    "text": "The selected consultant will be required to produce a technically and economically robust feasibility study to support investment decisions, while completing the engineering design and procurement documents needed for subsequent construction packages.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261123_42bbd0fd7b#6",
+    "doc_id": "vietnamnews_20261123_42bbd0fd7b",
+    "sent_idx": 6,
+    "text": "The study will also assess railway technologies, investment options, financing arrangements and project efficiency, including the potential to mobilise private-sector capital through public-private partnerships (PPP), subject to investment viability and repayment conditions.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261123_42bbd0fd7b#7",
+    "doc_id": "vietnamnews_20261123_42bbd0fd7b",
+    "sent_idx": 7,
+    "text": "The consultant must ensure the integration of the railway system and related infrastructure, conduct reliable field surveys and coordinate with relevant stakeholders in compliance with Vietnamese regulations and international practices.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261123_42bbd0fd7b#8",
+    "doc_id": "vietnamnews_20261123_42bbd0fd7b",
+    "sent_idx": 8,
+    "text": "The North-South high-speed railway is one of Việt Nam's largest infrastructure projects and represents a major technological undertaking for the country.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261123_42bbd0fd7b#9",
+    "doc_id": "vietnamnews_20261123_42bbd0fd7b",
+    "sent_idx": 9,
+    "text": "The proposed line will extend approximately 1,541 km from Ngọc Hồi station in Hà Nội to Thủ Thiêm station in HCM City, passing through 15 provinces and centrally governed cities.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261123_42bbd0fd7b#10",
+    "doc_id": "vietnamnews_20261123_42bbd0fd7b",
+    "sent_idx": 10,
+    "text": "The project envisages a new double-track railway with a standard gauge of 1,435 mm and a design speed of 350 km per hour.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261123_42bbd0fd7b#11",
+    "doc_id": "vietnamnews_20261123_42bbd0fd7b",
+    "sent_idx": 11,
+    "text": "Its preliminary total investment is estimated at $67.34 billion.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261123_42bbd0fd7b#12",
+    "doc_id": "vietnamnews_20261123_42bbd0fd7b",
+    "sent_idx": 12,
+    "text": "Under the approved schedule, preparation, appraisal and approval of the feasibility study, as well as commencement of construction, are planned for the period from the fourth quarter of 2026 to the fourth quarter of 2028.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261123_42bbd0fd7b#13",
+    "doc_id": "vietnamnews_20261123_42bbd0fd7b",
+    "sent_idx": 13,
+    "text": "Land clearance will be implemented under separate projects overseen by the provincial and municipal authorities along the railway route, with completion targeted for the fourth quarter of 2028. - VNS",
+    "lang": "en",
+    "is_title": false
+  }
+]

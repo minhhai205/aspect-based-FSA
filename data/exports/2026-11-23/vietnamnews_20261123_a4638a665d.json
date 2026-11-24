@@ -1,0 +1,370 @@
+[
+  {
+    "sent_id": "vietnamnews_20261123_a4638a665d#0",
+    "doc_id": "vietnamnews_20261123_a4638a665d",
+    "sent_idx": 0,
+    "text": "Việt Nam reviews power plan towards greater flexibility as new industries reshape electricity demand",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261123_a4638a665d#1",
+    "doc_id": "vietnamnews_20261123_a4638a665d",
+    "sent_idx": 1,
+    "text": "HÀ NỘI - Việt Nam is reassessing its national power development plan to address rapidly changing electricity demand and mounting risks to power project implementation, as the country seeks to secure sufficient energy supplies for its goal of double-digit economic growth through 2030.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261123_a4638a665d#2",
+    "doc_id": "vietnamnews_20261123_a4638a665d",
+    "sent_idx": 2,
+    "text": "The review of the adjusted eighth Power Development Plan (PDP8) comes as electric vehicles (EVs), AI, data centres and semiconductor manufacturing create new sources of electricity demand, requiring not only additional generation capacity, but also substantial investment in transmission infrastructure and grid flexibility.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261123_a4638a665d#3",
+    "doc_id": "vietnamnews_20261123_a4638a665d",
+    "sent_idx": 3,
+    "text": "The Ministry of Industry and Trade is accelerating the review, focusing on updated demand forecasts, the generation mix and the progress of planned power projects to ensure that electricity supply keeps pace with economic expansion.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261123_a4638a665d#4",
+    "doc_id": "vietnamnews_20261123_a4638a665d",
+    "sent_idx": 4,
+    "text": "Deputy Minister of Industry and Trade Trương Thanh Hoài stressed the need to improve plan revisions to ensure long-term stability in the power sector, urging greater focus on the accuracy of input data and demand forecasts and thorough assessment of delays affecting major power projects.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261123_a4638a665d#5",
+    "doc_id": "vietnamnews_20261123_a4638a665d",
+    "sent_idx": 5,
+    "text": "The ministry is also revising the Electricity Law to address implementation bottlenecks and strengthen the feasibility of the power plan, he said.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261123_a4638a665d#6",
+    "doc_id": "vietnamnews_20261123_a4638a665d",
+    "sent_idx": 6,
+    "text": "EVs, data centres and high-tech manufacturing are emerging as important new sources of electricity demand that must be incorporated into the revised plan, according to the Energy Institute.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261123_a4638a665d#7",
+    "doc_id": "vietnamnews_20261123_a4638a665d",
+    "sent_idx": 7,
+    "text": "Nguyễn Ngọc Hưng from the institute said that Việt Nam had more than 200,000 electric cars and approximately 2.2 million electric motorbikes in 2025, with combined electricity consumption estimated at around 750 million kWh.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261123_a4638a665d#8",
+    "doc_id": "vietnamnews_20261123_a4638a665d",
+    "sent_idx": 8,
+    "text": "Electricity consumption at charging stations reached approximately 600 million kWh last year.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261123_a4638a665d#9",
+    "doc_id": "vietnamnews_20261123_a4638a665d",
+    "sent_idx": 9,
+    "text": "The rapid expansion of EVs will increase demand for charging infrastructure and put additional pressure on local distribution networks.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261123_a4638a665d#10",
+    "doc_id": "vietnamnews_20261123_a4638a665d",
+    "sent_idx": 10,
+    "text": "AI and data centres are also becoming increasingly important factors in electricity planning.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261123_a4638a665d#11",
+    "doc_id": "vietnamnews_20261123_a4638a665d",
+    "sent_idx": 11,
+    "text": "Current data centre capacity remains below 200MW, but the scale of projects registered by businesses and local authorities could be considerably larger if proposed investments materialise, Hưng said.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261123_a4638a665d#12",
+    "doc_id": "vietnamnews_20261123_a4638a665d",
+    "sent_idx": 12,
+    "text": "Unlike conventional electricity users, data centres require large amounts of power around the clock and highly reliable supplies.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261123_a4638a665d#13",
+    "doc_id": "vietnamnews_20261123_a4638a665d",
+    "sent_idx": 13,
+    "text": "Their geographical concentration also means that a project with hundreds of megawatts of demand could place considerable pressure on the local grid.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261123_a4638a665d#14",
+    "doc_id": "vietnamnews_20261123_a4638a665d",
+    "sent_idx": 14,
+    "text": "Local authorities have registered approximately 68.6GW of additional electricity demand by 2035, including around 44GW by 2030 and another 24GW from 2031 to 2035, he said.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261123_a4638a665d#15",
+    "doc_id": "vietnamnews_20261123_a4638a665d",
+    "sent_idx": 15,
+    "text": "According to Nguyễn Huy Hoạch, from the scientific council of the Vietnam Energy Review, traditional electricity demand forecasts largely relied on indicators such as GDP growth, industrialisation, urbanisation and rising living standards.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261123_a4638a665d#16",
+    "doc_id": "vietnamnews_20261123_a4638a665d",
+    "sent_idx": 16,
+    "text": "However, he said the structure of the economy is changing, with the digital economy, AI, data centres, semiconductor manufacturing, high-tech industrial parks and transport electrification creating new types of electricity demand with different consumption patterns and technical requirements.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261123_a4638a665d#17",
+    "doc_id": "vietnamnews_20261123_a4638a665d",
+    "sent_idx": 17,
+    "text": "The North-South high-speed railway, for example, would create electricity demand distributed along its transport corridor, varying according to operating schedules and requiring high standards of power reliability.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261123_a4638a665d#18",
+    "doc_id": "vietnamnews_20261123_a4638a665d",
+    "sent_idx": 18,
+    "text": "Semiconductor, electronics and chip manufacturing facilities also require more than conventional industrial power supplies, particularly in terms of stability and electricity quality, Hoạch said.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261123_a4638a665d#19",
+    "doc_id": "vietnamnews_20261123_a4638a665d",
+    "sent_idx": 19,
+    "text": "\"Electricity planning must therefore address not only how much power the economy will need, but also where and when it will be needed, the required capacity and the level of reliability,\" he added.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261123_a4638a665d#20",
+    "doc_id": "vietnamnews_20261123_a4638a665d",
+    "sent_idx": 20,
+    "text": "A key challenge is that electricity shortages do not necessarily result from insufficient generation capacity nationwide.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261123_a4638a665d#21",
+    "doc_id": "vietnamnews_20261123_a4638a665d",
+    "sent_idx": 21,
+    "text": "Even when the national system has adequate generating capacity, supply constraints can emerge in particular areas if power sources and grid infrastructure are not developed in line with the geographical distribution of demand, according to Hoạch.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261123_a4638a665d#22",
+    "doc_id": "vietnamnews_20261123_a4638a665d",
+    "sent_idx": 22,
+    "text": "He identified three potential gaps between planning and actual requirements, including delays in identifying new electricity demand, geographical mismatches between generation and consumption, and the lengthy investment and construction cycles for major energy infrastructure.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261123_a4638a665d#23",
+    "doc_id": "vietnamnews_20261123_a4638a665d",
+    "sent_idx": 23,
+    "text": "A data centre or high-tech industrial complex can be approved and developed much faster than a power plant, substation or transmission line.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261123_a4638a665d#24",
+    "doc_id": "vietnamnews_20261123_a4638a665d",
+    "sent_idx": 24,
+    "text": "Meanwhile, generation capacity added in one region may not be sufficient to serve rapidly growing demand in another if transmission infrastructure is inadequate.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261123_a4638a665d#25",
+    "doc_id": "vietnamnews_20261123_a4638a665d",
+    "sent_idx": 25,
+    "text": "Hoạch said the revised plan should assess the ability of both generation and transmission infrastructure to meet demand across different locations and timeframes, rather than simply adding more megawatts to the planned generation capacity.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261123_a4638a665d#26",
+    "doc_id": "vietnamnews_20261123_a4638a665d",
+    "sent_idx": 26,
+    "text": "The adjusted PDP8, approved under Prime Ministerial Decision 768/QĐ-TTg from April 2025, sets a target of up to 236,363MW in total installed generation capacity by 2030 to serve domestic demand, with maximum system load projected at 99,934MW.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261123_a4638a665d#27",
+    "doc_id": "vietnamnews_20261123_a4638a665d",
+    "sent_idx": 27,
+    "text": "However, Hoạch cautioned against assuming that all planned generation capacity would be completed and become operational on schedule.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261123_a4638a665d#28",
+    "doc_id": "vietnamnews_20261123_a4638a665d",
+    "sent_idx": 28,
+    "text": "For LNG-fired power, project feasibility depends on construction progress as well as on imported fuel prices, port and storage infrastructure, fuel supply security, power purchase agreements and the commercial mechanisms governing electricity generation.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261123_a4638a665d#29",
+    "doc_id": "vietnamnews_20261123_a4638a665d",
+    "sent_idx": 29,
+    "text": "Offshore wind has significant potential but involves lengthy development cycles, requiring marine surveys, sea-space planning, investment capital, grid connections and appropriate electricity pricing mechanisms.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261123_a4638a665d#30",
+    "doc_id": "vietnamnews_20261123_a4638a665d",
+    "sent_idx": 30,
+    "text": "Battery energy storage systems (BESS) and pumped-storage hydropower depend on investment progress and viable revenue mechanisms.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261123_a4638a665d#31",
+    "doc_id": "vietnamnews_20261123_a4638a665d",
+    "sent_idx": 31,
+    "text": "Rooftop solar for self-production and self-consumption depend on investment incentives, access to finance, technical standards, administrative procedures and the capacity of local grids to accommodate additional generation.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261123_a4638a665d#32",
+    "doc_id": "vietnamnews_20261123_a4638a665d",
+    "sent_idx": 32,
+    "text": "Ninh Thuận nuclear power projects also need to be monitored closely in terms of preparation and implementation schedules.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261123_a4638a665d#33",
+    "doc_id": "vietnamnews_20261123_a4638a665d",
+    "sent_idx": 33,
+    "text": "While nuclear power could contribute to the country's long-term generation mix, it cannot be considered a solution to electricity supply gaps in the short term, Hoạch said.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261123_a4638a665d#34",
+    "doc_id": "vietnamnews_20261123_a4638a665d",
+    "sent_idx": 34,
+    "text": "He called for realistic implementation scenarios for each generation source, in which projects at risk of delay must be identified and alternative supply options prepared.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261123_a4638a665d#35",
+    "doc_id": "vietnamnews_20261123_a4638a665d",
+    "sent_idx": 35,
+    "text": "Hoạch said the review should move away from relying on a single electricity demand forecast towards multiple scenarios combining different levels of consumption growth with realistic power project implementation schedules.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261123_a4638a665d#36",
+    "doc_id": "vietnamnews_20261123_a4638a665d",
+    "sent_idx": 36,
+    "text": "A baseline scenario could reflect updated demand data, while a high-growth scenario should account for faster-than-expected expansion of data centres, semiconductor manufacturing, high-tech industrial parks, electric transport and major infrastructure projects.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261123_a4638a665d#37",
+    "doc_id": "vietnamnews_20261123_a4638a665d",
+    "sent_idx": 37,
+    "text": "Each demand scenario should also be matched with alternative generation schedules.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261123_a4638a665d#38",
+    "doc_id": "vietnamnews_20261123_a4638a665d",
+    "sent_idx": 38,
+    "text": "If LNG projects are delayed by two or three years, for example, the system must identify replacement sources and determine when additional capacity and transmission infrastructure are needed.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261123_a4638a665d#39",
+    "doc_id": "vietnamnews_20261123_a4638a665d",
+    "sent_idx": 39,
+    "text": "Similar contingency plans are required if offshore wind, BESS or pumped-storage hydropower projects fail to meet their planned schedules, he said.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261123_a4638a665d#40",
+    "doc_id": "vietnamnews_20261123_a4638a665d",
+    "sent_idx": 40,
+    "text": "He also proposed mapping emerging electricity demand through 2030 and 2035 to identify areas likely to host large consumption centres and assess whether existing generation and grid infrastructure can meet requirements.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261123_a4638a665d#41",
+    "doc_id": "vietnamnews_20261123_a4638a665d",
+    "sent_idx": 41,
+    "text": "This would help prevent situations in which the country has sufficient electricity generation capacity, but lacks the transmission and distribution infrastructure to deliver power where it is needed.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261123_a4638a665d#42",
+    "doc_id": "vietnamnews_20261123_a4638a665d",
+    "sent_idx": 42,
+    "text": "Rather than investing excessively in generation capacity to cover every possible risk, Hoạch called for a more flexible approach, preparing long-lead infrastructure in advance while allowing projects to expand in stages as actual demand becomes clearer.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261123_a4638a665d#43",
+    "doc_id": "vietnamnews_20261123_a4638a665d",
+    "sent_idx": 43,
+    "text": "According to Nguyễn Đức Cường, director of the Electricity Authority of Vietnam, the review would focus on updating local electricity demand forecasts, reassessing input data, examining the generation mix and system stability, and detailing transmission solutions before further consultations and submission to the Government.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261123_a4638a665d#44",
+    "doc_id": "vietnamnews_20261123_a4638a665d",
+    "sent_idx": 44,
+    "text": "For Việt Nam, the challenge is increasingly about more than building enough power plants.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261123_a4638a665d#45",
+    "doc_id": "vietnamnews_20261123_a4638a665d",
+    "sent_idx": 45,
+    "text": "The ability to deliver reliable electricity at the right location and time will also be crucial to attracting investment in data centres, semiconductor manufacturing and other high-value industries, as the country pursues its next phase of economic growth. - VNS",
+    "lang": "en",
+    "is_title": false
+  }
+]

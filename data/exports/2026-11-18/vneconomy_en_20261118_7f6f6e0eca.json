@@ -1,0 +1,1050 @@
+[
+  {
+    "sent_id": "vneconomy_en_20261118_7f6f6e0eca#0",
+    "doc_id": "vneconomy_en_20261118_7f6f6e0eca",
+    "sent_idx": 0,
+    "text": "As growth drivers from within",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vneconomy_en_20261118_7f6f6e0eca#1",
+    "doc_id": "vneconomy_en_20261118_7f6f6e0eca",
+    "sent_idx": 1,
+    "text": "Vietnam's economy sustained its strong growth over the course of the first ten months of 2026, but behind its impressive growth figures lie several challenges that warrant closer scrutiny.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261118_7f6f6e0eca#2",
+    "doc_id": "vneconomy_en_20261118_7f6f6e0eca",
+    "sent_idx": 2,
+    "text": "Manufacturing growth faces headwinds from weaker export orders and raw material supply constraints; registered FDI has surged, but its spillover to domestic businesses remains limited; exports remain heavily reliant on foreign-invested enterprises (FIEs), while imports are growing faster than exports.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261118_7f6f6e0eca#3",
+    "doc_id": "vneconomy_en_20261118_7f6f6e0eca",
+    "sent_idx": 3,
+    "text": "And domestic purchasing power has yet to provide a commensurate boost to the economy, while input cost pressures and rising prices persist.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261118_7f6f6e0eca#4",
+    "doc_id": "vneconomy_en_20261118_7f6f6e0eca",
+    "sent_idx": 4,
+    "text": "One of the brightest spots in Vietnam's economy during the first ten months of the year was industrial production, with the Index of Industrial Production (IIP) rising 12.4 per cent year-on-year, compared to 9.2 per cent in the same period of 2025.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261118_7f6f6e0eca#5",
+    "doc_id": "vneconomy_en_20261118_7f6f6e0eca",
+    "sent_idx": 5,
+    "text": "This highlights the sector's continued strength and contribution to economic growth.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261118_7f6f6e0eca#6",
+    "doc_id": "vneconomy_en_20261118_7f6f6e0eca",
+    "sent_idx": 6,
+    "text": "However, the Purchasing Managers' Index (PMI) presents a more nuanced picture.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261118_7f6f6e0eca#7",
+    "doc_id": "vneconomy_en_20261118_7f6f6e0eca",
+    "sent_idx": 7,
+    "text": "In October, Vietnam's manufacturing PMI reached 52.3 points, up from 51.9 in September, marking the 16th consecutive month above the 50-point threshold and indicating continued expansion.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261118_7f6f6e0eca#8",
+    "doc_id": "vneconomy_en_20261118_7f6f6e0eca",
+    "sent_idx": 8,
+    "text": "Several underlying indicators, however, warrant attention.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261118_7f6f6e0eca#9",
+    "doc_id": "vneconomy_en_20261118_7f6f6e0eca",
+    "sent_idx": 9,
+    "text": "New orders increased for the sixth consecutive month, but at the slowest pace in the current growth sequence, while output growth fell to a six-month low.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261118_7f6f6e0eca#10",
+    "doc_id": "vneconomy_en_20261118_7f6f6e0eca",
+    "sent_idx": 10,
+    "text": "New export orders continued to decline, and businesses faced difficulties sourcing raw materials and handling shipments.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261118_7f6f6e0eca#11",
+    "doc_id": "vneconomy_en_20261118_7f6f6e0eca",
+    "sent_idx": 11,
+    "text": "Input costs rose at their fastest pace since June, while supplier delivery times lengthened due to transportation disruptions, higher fuel costs, and unfavorable weather.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261118_7f6f6e0eca#12",
+    "doc_id": "vneconomy_en_20261118_7f6f6e0eca",
+    "sent_idx": 12,
+    "text": "These pressures raised production costs and affected businesses' ability to fulfill orders, meet delivery schedules, and remain competitive.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261118_7f6f6e0eca#13",
+    "doc_id": "vneconomy_en_20261118_7f6f6e0eca",
+    "sent_idx": 13,
+    "text": "Mr. Andrew Harker, Economics Director at S&P Global Market Intelligence, noted that Vietnamese businesses were struggling to sustain growth amid increasingly challenging operating conditions, with both new orders and output expanding more slowly than in September.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261118_7f6f6e0eca#14",
+    "doc_id": "vneconomy_en_20261118_7f6f6e0eca",
+    "sent_idx": 14,
+    "text": "This points to a mixed manufacturing outlook: strong industrial output alongside weakening order growth and less favorable supply conditions.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261118_7f6f6e0eca#15",
+    "doc_id": "vneconomy_en_20261118_7f6f6e0eca",
+    "sent_idx": 15,
+    "text": "Current production continues to benefit from previously secured orders, expanded capacity, and customers' inventory-building demand.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261118_7f6f6e0eca#16",
+    "doc_id": "vneconomy_en_20261118_7f6f6e0eca",
+    "sent_idx": 16,
+    "text": "However, further declines in new orders, particularly exports, could constrain growth in the coming months.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261118_7f6f6e0eca#17",
+    "doc_id": "vneconomy_en_20261118_7f6f6e0eca",
+    "sent_idx": 17,
+    "text": "Managers should therefore look beyond the PMI remaining above 50 points and monitor order quality, production capacity, employment, input costs, and business prospects.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261118_7f6f6e0eca#18",
+    "doc_id": "vneconomy_en_20261118_7f6f6e0eca",
+    "sent_idx": 18,
+    "text": "Manufacturing strength depends not only on current output, but also on the ability to sustain orders, secure supplies, and improve productivity.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261118_7f6f6e0eca#19",
+    "doc_id": "vneconomy_en_20261118_7f6f6e0eca",
+    "sent_idx": 19,
+    "text": "Priorities include strengthening domestic raw material supply, developing support industries, diversifying import sources, and improving logistics infrastructure to reduce transportation costs.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261118_7f6f6e0eca#20",
+    "doc_id": "vneconomy_en_20261118_7f6f6e0eca",
+    "sent_idx": 20,
+    "text": "These measures would address immediate business challenges while strengthening economic self-reliance and resilience.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261118_7f6f6e0eca#21",
+    "doc_id": "vneconomy_en_20261118_7f6f6e0eca",
+    "sent_idx": 21,
+    "text": "Ultimately, sustainable industrial growth requires more than higher output; it depends on reliable orders, secure supplies, and improved productivity.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261118_7f6f6e0eca#22",
+    "doc_id": "vneconomy_en_20261118_7f6f6e0eca",
+    "sent_idx": 22,
+    "text": "Foreign investment remained a major bright spot.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261118_7f6f6e0eca#23",
+    "doc_id": "vneconomy_en_20261118_7f6f6e0eca",
+    "sent_idx": 23,
+    "text": "As of October 31, total registered FDI in Vietnam stood at $54.85 billion, up 74 per cent year-on-year and the highest level since 2009.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261118_7f6f6e0eca#24",
+    "doc_id": "vneconomy_en_20261118_7f6f6e0eca",
+    "sent_idx": 24,
+    "text": "This included $30.73 billion in newly-registered capital across 3,478 projects, $16.13 billion in additional registered capital, and $7.99 billion in capital contributions and share purchases.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261118_7f6f6e0eca#25",
+    "doc_id": "vneconomy_en_20261118_7f6f6e0eca",
+    "sent_idx": 25,
+    "text": "Average registered capital per newly-licensed project reached approximately $8.83 million; nearly double the figure posted in the same period of 2025.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261118_7f6f6e0eca#26",
+    "doc_id": "vneconomy_en_20261118_7f6f6e0eca",
+    "sent_idx": 26,
+    "text": "This reflects the larger scale of new projects and Vietnam's continued attractiveness among international investors.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261118_7f6f6e0eca#27",
+    "doc_id": "vneconomy_en_20261118_7f6f6e0eca",
+    "sent_idx": 27,
+    "text": "Disbursed FDI totaled $24.08 billion in the first ten months, up 13.1 per cent year-on-year and the highest figure for the period in five years.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261118_7f6f6e0eca#28",
+    "doc_id": "vneconomy_en_20261118_7f6f6e0eca",
+    "sent_idx": 28,
+    "text": "This provides an important source of capital for expanding production, creating jobs, and boosting exports.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261118_7f6f6e0eca#29",
+    "doc_id": "vneconomy_en_20261118_7f6f6e0eca",
+    "sent_idx": 29,
+    "text": "However, the composition of these investment flows warrants closer examination.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261118_7f6f6e0eca#30",
+    "doc_id": "vneconomy_en_20261118_7f6f6e0eca",
+    "sent_idx": 30,
+    "text": "Of the $7.99 billion in capital contributions and share purchases, 1,788 transactions worth $4.71 billion did not increase the charter capital of the businesses involved, accounting for 58.9 per cent of the total value.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261118_7f6f6e0eca#31",
+    "doc_id": "vneconomy_en_20261118_7f6f6e0eca",
+    "sent_idx": 31,
+    "text": "Such transactions primarily reflect changes in ownership of existing businesses and assets rather than generating equivalent amounts of new capital for production expansion.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261118_7f6f6e0eca#32",
+    "doc_id": "vneconomy_en_20261118_7f6f6e0eca",
+    "sent_idx": 32,
+    "text": "This does not mean mergers and acquisitions (M&As) bring no economic benefits.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261118_7f6f6e0eca#33",
+    "doc_id": "vneconomy_en_20261118_7f6f6e0eca",
+    "sent_idx": 33,
+    "text": "New investors may introduce technology, improved management practices, distribution networks, market access, and stronger financial resources, but their implications for ownership structures, corporate control, competition, and the autonomy of strategically-important industries also warrant attention.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261118_7f6f6e0eca#34",
+    "doc_id": "vneconomy_en_20261118_7f6f6e0eca",
+    "sent_idx": 34,
+    "text": "Accordingly, total registered FDI should not be equated with the creation of new production capacity.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261118_7f6f6e0eca#35",
+    "doc_id": "vneconomy_en_20261118_7f6f6e0eca",
+    "sent_idx": 35,
+    "text": "A distinction must be made between investment that adds productive capacity and investment that transfers ownership of existing assets, as the two have different economic impacts and require different assessment criteria.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261118_7f6f6e0eca#36",
+    "doc_id": "vneconomy_en_20261118_7f6f6e0eca",
+    "sent_idx": 36,
+    "text": "A more important issue is the extent to which FDI generates spillover benefits for domestic businesses.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261118_7f6f6e0eca#37",
+    "doc_id": "vneconomy_en_20261118_7f6f6e0eca",
+    "sent_idx": 37,
+    "text": "If local companies remain largely confined to providing services and low value-added inputs, without moving into product design, technology, component manufacturing, and product development, FDI-led growth will not fully translate into stronger domestic economic capabilities.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261118_7f6f6e0eca#38",
+    "doc_id": "vneconomy_en_20261118_7f6f6e0eca",
+    "sent_idx": 38,
+    "text": "FDI policy therefore needs to shift from prioritizing registered capital volumes toward selecting projects that create new production capacity, introduce advanced technologies, establish links with domestic businesses, develop the workforce, and generate higher value-added.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261118_7f6f6e0eca#39",
+    "doc_id": "vneconomy_en_20261118_7f6f6e0eca",
+    "sent_idx": 39,
+    "text": "Success should be measured not simply by how much capital Vietnam attracts but by the capabilities the economy gains and the value transferred to domestic businesses.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261118_7f6f6e0eca#40",
+    "doc_id": "vneconomy_en_20261118_7f6f6e0eca",
+    "sent_idx": 40,
+    "text": "Alongside manufacturing, FDI, and international trade, public investment remains an important growth driver.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261118_7f6f6e0eca#41",
+    "doc_id": "vneconomy_en_20261118_7f6f6e0eca",
+    "sent_idx": 41,
+    "text": "Investment from the State budget totaled VND783.9 trillion ($30.15 billion) in the first ten months, up 19.8 per cent year-on-year and equivalent to 69 per cent of the annual plan.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261118_7f6f6e0eca#42",
+    "doc_id": "vneconomy_en_20261118_7f6f6e0eca",
+    "sent_idx": 42,
+    "text": "While this reflects efforts to accelerate disbursement and project implementation, approximately 31 per cent of planned capital was still to be disbursed in the final two months of the year, creating considerable pressure.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261118_7f6f6e0eca#43",
+    "doc_id": "vneconomy_en_20261118_7f6f6e0eca",
+    "sent_idx": 43,
+    "text": "The focus should not be solely on disbursement speed, but also on how effectively public investment translates into new economic capabilities.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261118_7f6f6e0eca#44",
+    "doc_id": "vneconomy_en_20261118_7f6f6e0eca",
+    "sent_idx": 44,
+    "text": "Completed transport infrastructure can reduce logistics costs, energy facilities can strengthen electricity supply, and operational digital infrastructure and seaports can lower transaction costs and improve connectivity.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261118_7f6f6e0eca#45",
+    "doc_id": "vneconomy_en_20261118_7f6f6e0eca",
+    "sent_idx": 45,
+    "text": "These projects can generate lasting benefits across the economy.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261118_7f6f6e0eca#46",
+    "doc_id": "vneconomy_en_20261118_7f6f6e0eca",
+    "sent_idx": 46,
+    "text": "Without sufficient attention to investment efficiency, however, higher disbursement rates may fail to translate into corresponding improvements in productivity and production capacity.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261118_7f6f6e0eca#47",
+    "doc_id": "vneconomy_en_20261118_7f6f6e0eca",
+    "sent_idx": 47,
+    "text": "The health of domestic businesses also deserves particular attention.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261118_7f6f6e0eca#48",
+    "doc_id": "vneconomy_en_20261118_7f6f6e0eca",
+    "sent_idx": 48,
+    "text": "Enterprises directly generate employment, income, products, services, and value-added.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261118_7f6f6e0eca#49",
+    "doc_id": "vneconomy_en_20261118_7f6f6e0eca",
+    "sent_idx": 49,
+    "text": "To assess the sector's vitality, the number of newly-established businesses and those resuming operations must be considered alongside the number exiting the market.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261118_7f6f6e0eca#50",
+    "doc_id": "vneconomy_en_20261118_7f6f6e0eca",
+    "sent_idx": 50,
+    "text": "In the first ten months, more than 243,600 businesses were newly-established or resumed operations, while 182,000 exited the market.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261118_7f6f6e0eca#51",
+    "doc_id": "vneconomy_en_20261118_7f6f6e0eca",
+    "sent_idx": 51,
+    "text": "Though more businesses entered or returned to the market than left it, their resilience and ability to survive still need strengthening.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261118_7f6f6e0eca#52",
+    "doc_id": "vneconomy_en_20261118_7f6f6e0eca",
+    "sent_idx": 52,
+    "text": "Business support policies should therefore shift from facilitating market entry toward helping enterprises survive, develop, and grow.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261118_7f6f6e0eca#53",
+    "doc_id": "vneconomy_en_20261118_7f6f6e0eca",
+    "sent_idx": 53,
+    "text": "Priorities include reducing compliance costs, improving access to capital, land, technology, and skilled workers, and expanding opportunities for domestic businesses to join the supply chains of FIEs.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261118_7f6f6e0eca#54",
+    "doc_id": "vneconomy_en_20261118_7f6f6e0eca",
+    "sent_idx": 54,
+    "text": "Total retail sales of goods and consumer service revenue, at comparable prices, increased 7.7 per cent year-on-year in the first ten months, exceeding the 7.4 per cent growth posted in the same period of 2025.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261118_7f6f6e0eca#55",
+    "doc_id": "vneconomy_en_20261118_7f6f6e0eca",
+    "sent_idx": 55,
+    "text": "This indicates a recovery in domestic consumption and its growing contribution to economic growth.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261118_7f6f6e0eca#56",
+    "doc_id": "vneconomy_en_20261118_7f6f6e0eca",
+    "sent_idx": 56,
+    "text": "International tourism was a notable driver.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261118_7f6f6e0eca#57",
+    "doc_id": "vneconomy_en_20261118_7f6f6e0eca",
+    "sent_idx": 57,
+    "text": "Vietnam welcomed 19.5 million international visitors in the first ten months, up 13.8 per cent year-on-year.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261118_7f6f6e0eca#58",
+    "doc_id": "vneconomy_en_20261118_7f6f6e0eca",
+    "sent_idx": 58,
+    "text": "Tourism generated additional demand for accommodation, food and beverage services, transportation, retail, entertainment, and other service industries, while supporting employment, incomes, and domestic service providers.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261118_7f6f6e0eca#59",
+    "doc_id": "vneconomy_en_20261118_7f6f6e0eca",
+    "sent_idx": 59,
+    "text": "However, growth in service revenue driven by international visitors must be distinguished from the regular purchasing power of domestic consumers.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261118_7f6f6e0eca#60",
+    "doc_id": "vneconomy_en_20261118_7f6f6e0eca",
+    "sent_idx": 60,
+    "text": "International visitors provide an important additional source of demand, but cannot replace household consumption in an economy with a large population.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261118_7f6f6e0eca#61",
+    "doc_id": "vneconomy_en_20261118_7f6f6e0eca",
+    "sent_idx": 61,
+    "text": "The 7.7 per cent increase in retail sales and consumer service revenue is encouraging.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261118_7f6f6e0eca#62",
+    "doc_id": "vneconomy_en_20261118_7f6f6e0eca",
+    "sent_idx": 62,
+    "text": "Nevertheless, domestic purchasing power needs further strengthening, particularly as living costs, housing, education, healthcare, and other essential services can weigh on disposable incomes.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261118_7f6f6e0eca#63",
+    "doc_id": "vneconomy_en_20261118_7f6f6e0eca",
+    "sent_idx": 63,
+    "text": "Final consumption is an important growth driver.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261118_7f6f6e0eca#64",
+    "doc_id": "vneconomy_en_20261118_7f6f6e0eca",
+    "sent_idx": 64,
+    "text": "When real incomes and consumer confidence improve, businesses gain access to larger markets and have greater incentives to expand production and investment.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261118_7f6f6e0eca#65",
+    "doc_id": "vneconomy_en_20261118_7f6f6e0eca",
+    "sent_idx": 65,
+    "text": "Conversely, if production increases while domestic purchasing power recovers slowly, the economy will become more dependent on external markets.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261118_7f6f6e0eca#66",
+    "doc_id": "vneconomy_en_20261118_7f6f6e0eca",
+    "sent_idx": 66,
+    "text": "Demand-stimulating policies should therefore be linked to sustainable job creation, higher real incomes, service market development, improved domestic product quality, and stronger consumer protection.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261118_7f6f6e0eca#67",
+    "doc_id": "vneconomy_en_20261118_7f6f6e0eca",
+    "sent_idx": 67,
+    "text": "The objective is not simply to increase retail sales, but to build a domestic market with stable purchasing power that can absorb products and drive local business growth.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261118_7f6f6e0eca#68",
+    "doc_id": "vneconomy_en_20261118_7f6f6e0eca",
+    "sent_idx": 68,
+    "text": "A stronger domestic market would provide a more reliable foundation for consumption, enable businesses to expand production, and reduce dependence on external markets.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261118_7f6f6e0eca#69",
+    "doc_id": "vneconomy_en_20261118_7f6f6e0eca",
+    "sent_idx": 69,
+    "text": "A major milestone for Vietnam's economy in the first ten months of 2026 was trade turnover surpassing $1 trillion for the first time, reaching $1,010.55 billion, up 32.3 per cent year-on-year.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261118_7f6f6e0eca#70",
+    "doc_id": "vneconomy_en_20261118_7f6f6e0eca",
+    "sent_idx": 70,
+    "text": "Exports totaled $499.24 billion, up 27.5 per cent, while imports reached $511.31 billion, up 37.4 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261118_7f6f6e0eca#71",
+    "doc_id": "vneconomy_en_20261118_7f6f6e0eca",
+    "sent_idx": 71,
+    "text": "This reflects expanding international trade and Vietnam's growing role in global supply chains but also highlights several structural imbalances.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261118_7f6f6e0eca#72",
+    "doc_id": "vneconomy_en_20261118_7f6f6e0eca",
+    "sent_idx": 72,
+    "text": "First, faster import growth resulted in a trade deficit of $12.07 billion, reversing the $19.49 billion surplus posted in the same period of 2025.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261118_7f6f6e0eca#73",
+    "doc_id": "vneconomy_en_20261118_7f6f6e0eca",
+    "sent_idx": 73,
+    "text": "Though Vietnam posted surpluses in September and October of $1.3 billion and $7.31 billion, respectively, these were insufficient to offset earlier deficits.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261118_7f6f6e0eca#74",
+    "doc_id": "vneconomy_en_20261118_7f6f6e0eca",
+    "sent_idx": 74,
+    "text": "The trade balance thus shifted by more than $32 billion in just one year.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261118_7f6f6e0eca#75",
+    "doc_id": "vneconomy_en_20261118_7f6f6e0eca",
+    "sent_idx": 75,
+    "text": "Second, the gap between the two economic sectors remained substantial.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261118_7f6f6e0eca#76",
+    "doc_id": "vneconomy_en_20261118_7f6f6e0eca",
+    "sent_idx": 76,
+    "text": "FIEs accounted for 81.2 per cent of exports, while domestic businesses contributed just 18.8 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261118_7f6f6e0eca#77",
+    "doc_id": "vneconomy_en_20261118_7f6f6e0eca",
+    "sent_idx": 77,
+    "text": "The domestic sector recorded a trade deficit of $37.83 billion, compared with a $25.76 billion surplus for the FDI sector.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261118_7f6f6e0eca#78",
+    "doc_id": "vneconomy_en_20261118_7f6f6e0eca",
+    "sent_idx": 78,
+    "text": "This highlights a fundamental imbalance: despite rapidly-growing exports, domestic businesses remain limited in their direct participation in export activities.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261118_7f6f6e0eca#79",
+    "doc_id": "vneconomy_en_20261118_7f6f6e0eca",
+    "sent_idx": 79,
+    "text": "Vietnam is deeply integrated into global supply chains, yet most export capacity remains concentrated in FIEs.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261118_7f6f6e0eca#80",
+    "doc_id": "vneconomy_en_20261118_7f6f6e0eca",
+    "sent_idx": 80,
+    "text": "Third, the trade structure reveals a heavy dependence on external inputs.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261118_7f6f6e0eca#81",
+    "doc_id": "vneconomy_en_20261118_7f6f6e0eca",
+    "sent_idx": 81,
+    "text": "In the first ten months, production inputs accounted for 94.1 per cent of total imports.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261118_7f6f6e0eca#82",
+    "doc_id": "vneconomy_en_20261118_7f6f6e0eca",
+    "sent_idx": 82,
+    "text": "Machinery, equipment, components, and raw materials are essential to expanding production, so rising imports should not automatically be viewed negatively.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261118_7f6f6e0eca#83",
+    "doc_id": "vneconomy_en_20261118_7f6f6e0eca",
+    "sent_idx": 83,
+    "text": "However, without corresponding growth in domestic raw material production, component manufacturing, and support industries, this dependence will persist.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261118_7f6f6e0eca#84",
+    "doc_id": "vneconomy_en_20261118_7f6f6e0eca",
+    "sent_idx": 84,
+    "text": "International market volatility, higher input costs, and supply chain disruptions could therefore directly affect domestic businesses.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261118_7f6f6e0eca#85",
+    "doc_id": "vneconomy_en_20261118_7f6f6e0eca",
+    "sent_idx": 85,
+    "text": "The impact of a trade deficit on current-period growth must also be distinguished from the potential future benefits of importing production inputs.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261118_7f6f6e0eca#86",
+    "doc_id": "vneconomy_en_20261118_7f6f6e0eca",
+    "sent_idx": 86,
+    "text": "A deficit reduces the contribution of net exports to GDP growth, but imported machinery, equipment, and raw materials can create new production capacity and support growth in subsequent periods.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261118_7f6f6e0eca#87",
+    "doc_id": "vneconomy_en_20261118_7f6f6e0eca",
+    "sent_idx": 87,
+    "text": "The priority should not be to reduce imports at any cost, but to strengthen domestic production, reduce the import content of exported products, and increase the share of value-added generated in Vietnam.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261118_7f6f6e0eca#88",
+    "doc_id": "vneconomy_en_20261118_7f6f6e0eca",
+    "sent_idx": 88,
+    "text": "The $1 trillion milestone is a major trade achievement, but also highlights the need to improve the quality of economic integration.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261118_7f6f6e0eca#89",
+    "doc_id": "vneconomy_en_20261118_7f6f6e0eca",
+    "sent_idx": 89,
+    "text": "The objective should not simply be to export more, but to generate greater value from export revenue.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261118_7f6f6e0eca#90",
+    "doc_id": "vneconomy_en_20261118_7f6f6e0eca",
+    "sent_idx": 90,
+    "text": "Ultimately, trade success depends on how deeply businesses participate in global value chains and how much value-added the economy retains domestically.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261118_7f6f6e0eca#91",
+    "doc_id": "vneconomy_en_20261118_7f6f6e0eca",
+    "sent_idx": 91,
+    "text": "The average CPI increased 4.57 per cent year-on-year in the ten-month period, while core inflation rose 4.24 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261118_7f6f6e0eca#92",
+    "doc_id": "vneconomy_en_20261118_7f6f6e0eca",
+    "sent_idx": 92,
+    "text": "In October alone, the CPI rose 0.2 per cent against the previous month, 5.09 per cent year-on-year, and 4.41 per cent compared to December 2025.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261118_7f6f6e0eca#93",
+    "doc_id": "vneconomy_en_20261118_7f6f6e0eca",
+    "sent_idx": 93,
+    "text": "These figures indicate encouraging progress in price management, despite the challenge of pursuing ambitious growth targets while maintaining macro-economic stability.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261118_7f6f6e0eca#94",
+    "doc_id": "vneconomy_en_20261118_7f6f6e0eca",
+    "sent_idx": 94,
+    "text": "Nevertheless, average CPI remaining within the forecast range should not lead to complacency.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261118_7f6f6e0eca#95",
+    "doc_id": "vneconomy_en_20261118_7f6f6e0eca",
+    "sent_idx": 95,
+    "text": "The 5.09 per cent year-on-year increase in October indicates that the overall price level was considerably higher than a year earlier.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261118_7f6f6e0eca#96",
+    "doc_id": "vneconomy_en_20261118_7f6f6e0eca",
+    "sent_idx": 96,
+    "text": "The gap between average CPI and core inflation also highlights the need to monitor price movements across goods and service categories, as well as cost factors that could affect the broader price level.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261118_7f6f6e0eca#97",
+    "doc_id": "vneconomy_en_20261118_7f6f6e0eca",
+    "sent_idx": 97,
+    "text": "October's PMI data further indicates that input costs for manufacturing businesses are rising rapidly.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261118_7f6f6e0eca#98",
+    "doc_id": "vneconomy_en_20261118_7f6f6e0eca",
+    "sent_idx": 98,
+    "text": "Higher fuel prices, transportation costs, and raw material expenses, together with longer delivery times, could increase production costs, push up selling prices, and weigh on consumer purchasing power.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261118_7f6f6e0eca#99",
+    "doc_id": "vneconomy_en_20261118_7f6f6e0eca",
+    "sent_idx": 99,
+    "text": "Consumer and production demand typically increase during the final two months of the year.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261118_7f6f6e0eca#100",
+    "doc_id": "vneconomy_en_20261118_7f6f6e0eca",
+    "sent_idx": 100,
+    "text": "If aggregate demand rises faster than supply capacity, inflationary pressures could intensify.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261118_7f6f6e0eca#101",
+    "doc_id": "vneconomy_en_20261118_7f6f6e0eca",
+    "sent_idx": 101,
+    "text": "Inflation management must therefore remain proactive and flexible, with close coordination between fiscal, monetary, trade, and price management policies.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261118_7f6f6e0eca#102",
+    "doc_id": "vneconomy_en_20261118_7f6f6e0eca",
+    "sent_idx": 102,
+    "text": "More importantly, sustainable inflation control cannot rely solely on measures to regulate selling prices.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261118_7f6f6e0eca#103",
+    "doc_id": "vneconomy_en_20261118_7f6f6e0eca",
+    "sent_idx": 103,
+    "text": "The economy must strengthen its capacity to supply energy, raw materials, logistics services, and infrastructure while improving labor productivity.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261118_7f6f6e0eca#104",
+    "doc_id": "vneconomy_en_20261118_7f6f6e0eca",
+    "sent_idx": 104,
+    "text": "When production capacity grows faster than costs and aggregate demand, the economy can sustain high growth without generating corresponding inflationary pressures.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261118_7f6f6e0eca#105",
+    "doc_id": "vneconomy_en_20261118_7f6f6e0eca",
+    "sent_idx": 105,
+    "text": "High growth and price stability are not conflicting objectives if the economy has sufficient supply capacity and uses resources efficiently.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261118_7f6f6e0eca#106",
+    "doc_id": "vneconomy_en_20261118_7f6f6e0eca",
+    "sent_idx": 106,
+    "text": "Sustainable inflation control must therefore begin with strengthening supply capacity and productivity, rather than simply containing prices.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261118_7f6f6e0eca#107",
+    "doc_id": "vneconomy_en_20261118_7f6f6e0eca",
+    "sent_idx": 107,
+    "text": "Overall, Vietnam's economy recorded several positive developments in the first ten months of 2026: strong industrial production growth, increases in registered and disbursed FDI, accelerated public investment, recovering consumption and tourism, record international trade, and inflation that remained under control.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261118_7f6f6e0eca#108",
+    "doc_id": "vneconomy_en_20261118_7f6f6e0eca",
+    "sent_idx": 108,
+    "text": "However, structural challenges persist: domestic production remains dependent on imported raw materials, technology, and supply chains; FDI spillovers to local businesses remain limited; exports are dominated by FIEs, restricting domestic value retention; consumer purchasing power remains relatively weak; and public investment still needs to translate more effectively into infrastructure, productivity, and supply capacity.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261118_7f6f6e0eca#109",
+    "doc_id": "vneconomy_en_20261118_7f6f6e0eca",
+    "sent_idx": 109,
+    "text": "These constraints are closely interconnected.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261118_7f6f6e0eca#110",
+    "doc_id": "vneconomy_en_20261118_7f6f6e0eca",
+    "sent_idx": 110,
+    "text": "Without sufficient capabilities, domestic businesses will struggle to participate more deeply in FDI supply chains.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261118_7f6f6e0eca#111",
+    "doc_id": "vneconomy_en_20261118_7f6f6e0eca",
+    "sent_idx": 111,
+    "text": "The slow development of support industries will sustain dependence on imported inputs, while low domestic value added in exports means that rising trade volumes do not generate a commensurate contribution to GDP or domestic capital accumulation.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261118_7f6f6e0eca#112",
+    "doc_id": "vneconomy_en_20261118_7f6f6e0eca",
+    "sent_idx": 112,
+    "text": "If investment fails to translate into productivity gains, growth will be difficult to sustain over the long term.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261118_7f6f6e0eca#113",
+    "doc_id": "vneconomy_en_20261118_7f6f6e0eca",
+    "sent_idx": 113,
+    "text": "Against this backdrop, economic management during the final two months of 2026 should focus on six priorities.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261118_7f6f6e0eca#114",
+    "doc_id": "vneconomy_en_20261118_7f6f6e0eca",
+    "sent_idx": 114,
+    "text": "First, continue supporting production and business activities by addressing bottlenecks involving raw materials, energy, logistics, and orders, enabling businesses to maintain operations and improve productivity.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261118_7f6f6e0eca#115",
+    "doc_id": "vneconomy_en_20261118_7f6f6e0eca",
+    "sent_idx": 115,
+    "text": "Second, accelerate public investment while improving investment quality, prioritizing projects that create new productive capacity, reduce production costs, and strengthen competitiveness.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261118_7f6f6e0eca#116",
+    "doc_id": "vneconomy_en_20261118_7f6f6e0eca",
+    "sent_idx": 116,
+    "text": "Third, shift FDI attraction policies from prioritizing capital volumes toward capital quality, spillover effects, and the creation of new production capacity.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261118_7f6f6e0eca#117",
+    "doc_id": "vneconomy_en_20261118_7f6f6e0eca",
+    "sent_idx": 117,
+    "text": "Mechanisms should encourage domestic businesses to become capable suppliers to multinational corporations.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261118_7f6f6e0eca#118",
+    "doc_id": "vneconomy_en_20261118_7f6f6e0eca",
+    "sent_idx": 118,
+    "text": "Fourth, develop support industries and strengthen domestic production of components, raw materials, and technologically-advanced intermediate goods.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261118_7f6f6e0eca#119",
+    "doc_id": "vneconomy_en_20261118_7f6f6e0eca",
+    "sent_idx": 119,
+    "text": "This is essential to reducing import dependence and increasing domestic value-added.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261118_7f6f6e0eca#120",
+    "doc_id": "vneconomy_en_20261118_7f6f6e0eca",
+    "sent_idx": 120,
+    "text": "Fifth, strengthen domestic purchasing power through job creation, higher real incomes, and the development of goods and service markets, while making better use of growth opportunities from tourism and other service industries.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261118_7f6f6e0eca#121",
+    "doc_id": "vneconomy_en_20261118_7f6f6e0eca",
+    "sent_idx": 121,
+    "text": "Sixth, maintain macro-economic stability, control inflation, and ensure close policy coordination, with particular emphasis on strengthening supply capacity.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261118_7f6f6e0eca#122",
+    "doc_id": "vneconomy_en_20261118_7f6f6e0eca",
+    "sent_idx": 122,
+    "text": "Macro-economic stability should not be sacrificed for short-term growth.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261118_7f6f6e0eca#123",
+    "doc_id": "vneconomy_en_20261118_7f6f6e0eca",
+    "sent_idx": 123,
+    "text": "These economic bottlenecks are interconnected, underscoring the need to shift from expanding resources to converting them into productive outcomes.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261118_7f6f6e0eca#124",
+    "doc_id": "vneconomy_en_20261118_7f6f6e0eca",
+    "sent_idx": 124,
+    "text": "The results for the first ten months of 2026 demonstrate Vietnam's ability to mobilize and expand its sources of economic growth.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261118_7f6f6e0eca#125",
+    "doc_id": "vneconomy_en_20261118_7f6f6e0eca",
+    "sent_idx": 125,
+    "text": "However, the greatest challenge ahead is not simply to increase available resources but to convert them more effectively into value-added, productivity, and competitiveness.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261118_7f6f6e0eca#126",
+    "doc_id": "vneconomy_en_20261118_7f6f6e0eca",
+    "sent_idx": 126,
+    "text": "Vietnam has surpassed $1 trillion in international trade for the first time, attracted tens of billions of dollars in FDI, and maintained strong industrial production growth.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261118_7f6f6e0eca#127",
+    "doc_id": "vneconomy_en_20261118_7f6f6e0eca",
+    "sent_idx": 127,
+    "text": "Yet these achievements will translate into lasting development only when domestic businesses become stronger, technological capabilities improve, supply capacity expands, labor productivity rises, and a greater share of export value is retained within the country.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261118_7f6f6e0eca#128",
+    "doc_id": "vneconomy_en_20261118_7f6f6e0eca",
+    "sent_idx": 128,
+    "text": "Growth becomes meaningful only when the economy not only becomes larger, but also stronger, more self-reliant, and better equipped to generate new development drivers from within.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261118_7f6f6e0eca#129",
+    "doc_id": "vneconomy_en_20261118_7f6f6e0eca",
+    "sent_idx": 129,
+    "text": "The ultimate measure is therefore not simply how much GDP the economy produces, but how much its domestic capacity, competitiveness, and economic self-reliance improve after each growth cycle.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261118_7f6f6e0eca#130",
+    "doc_id": "vneconomy_en_20261118_7f6f6e0eca",
+    "sent_idx": 130,
+    "text": "(*) Dr. Nguyen Bich Lam is the former Director General of the General Statistics Office (now the National Statistics Office under the Ministry of Finance.",
+    "lang": "en",
+    "is_title": false
+  }
+]

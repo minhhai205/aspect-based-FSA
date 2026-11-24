@@ -1,0 +1,490 @@
+[
+  {
+    "sent_id": "vneconomy_en_20261117_4b5fe38577#0",
+    "doc_id": "vneconomy_en_20261117_4b5fe38577",
+    "sent_idx": 0,
+    "text": "Addressing impediments",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vneconomy_en_20261117_4b5fe38577#1",
+    "doc_id": "vneconomy_en_20261117_4b5fe38577",
+    "sent_idx": 1,
+    "text": "According to the latest survey from the Vietnam Industry Agency (VIA) at the Ministry of Industry and Trade, only some 30 per cent of the approximately 7,000 companies operating in Vietnam's support industries have joined global supply and value chains.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261117_4b5fe38577#2",
+    "doc_id": "vneconomy_en_20261117_4b5fe38577",
+    "sent_idx": 2,
+    "text": "Of these, around 8 per cent work exclusively in export supply, 17 per cent serve both domestic and export markets, and around 5 per cent supply foreign-invested enterprises (FIEs) around Vietnam.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261117_4b5fe38577#3",
+    "doc_id": "vneconomy_en_20261117_4b5fe38577",
+    "sent_idx": 3,
+    "text": "Despite some progress being made, Vietnam's support industries continue to face significant structural constraints.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261117_4b5fe38577#4",
+    "doc_id": "vneconomy_en_20261117_4b5fe38577",
+    "sent_idx": 4,
+    "text": "The most pressing barrier is slow policy development.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261117_4b5fe38577#5",
+    "doc_id": "vneconomy_en_20261117_4b5fe38577",
+    "sent_idx": 5,
+    "text": "Though the strategic direction for the sector is clear, translating this into regulations has taken considerable time.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261117_4b5fe38577#6",
+    "doc_id": "vneconomy_en_20261117_4b5fe38577",
+    "sent_idx": 6,
+    "text": "A decade elapsed between the issuance of Decree No. 111/2015/ND-CP in November 2015 and Decree No. 205/2025/ND-CP in July 2025; a delay that left fundamental obstacles unresolved, particularly those concerning FDI, taxation, credit, land-use, and environmental regulations.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261117_4b5fe38577#7",
+    "doc_id": "vneconomy_en_20261117_4b5fe38577",
+    "sent_idx": 7,
+    "text": "Beyond institutional barriers, the small scale of domestic enterprises is another major constraint.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261117_4b5fe38577#8",
+    "doc_id": "vneconomy_en_20261117_4b5fe38577",
+    "sent_idx": 8,
+    "text": "Most companies are small and medium-sized enterprises (SMEs), leaving them with limited capital for R&D and prototyping equipment.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261117_4b5fe38577#9",
+    "doc_id": "vneconomy_en_20261117_4b5fe38577",
+    "sent_idx": 9,
+    "text": "The slow growth in the number of newly-established companies in the sector has further constrained domestic supply, forcing manufacturers of finished products to import components or produce them in-house.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261117_4b5fe38577#10",
+    "doc_id": "vneconomy_en_20261117_4b5fe38577",
+    "sent_idx": 10,
+    "text": "Management capabilities and technological sophistication remain limited.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261117_4b5fe38577#11",
+    "doc_id": "vneconomy_en_20261117_4b5fe38577",
+    "sent_idx": 11,
+    "text": "Only around 20 per cent of companies hold ISO 9000 certification, while 9 per cent have ISO 14000 certification and more than 20 per cent implement the 5S workplace organization methodology.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261117_4b5fe38577#12",
+    "doc_id": "vneconomy_en_20261117_4b5fe38577",
+    "sent_idx": 12,
+    "text": "Modern management tools such as Lean, Six Sigma, Total Quality Management (TQM), and Total Productive Maintenance (TPM) are used by only around 1-2 per cent of companies.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261117_4b5fe38577#13",
+    "doc_id": "vneconomy_en_20261117_4b5fe38577",
+    "sent_idx": 13,
+    "text": "Equipment capabilities are similarly constrained.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261117_4b5fe38577#14",
+    "doc_id": "vneconomy_en_20261117_4b5fe38577",
+    "sent_idx": 14,
+    "text": "More than 30 per cent of companies rely entirely on manually-controlled machinery, while over 50 per cent use semi-automated equipment.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261117_4b5fe38577#15",
+    "doc_id": "vneconomy_en_20261117_4b5fe38577",
+    "sent_idx": 15,
+    "text": "Just over 10 per cent have automated equipment, and fewer than 10 per cent use robots on their production lines.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261117_4b5fe38577#16",
+    "doc_id": "vneconomy_en_20261117_4b5fe38577",
+    "sent_idx": 16,
+    "text": "To sustain manufacturing and assembly operations, the country continues to import large volumes of components and spare parts.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261117_4b5fe38577#17",
+    "doc_id": "vneconomy_en_20261117_4b5fe38577",
+    "sent_idx": 17,
+    "text": "In the first eight months of 2026, imports of production inputs stood at $372.04 billion, accounting for 94.1 per cent of total import value.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261117_4b5fe38577#18",
+    "doc_id": "vneconomy_en_20261117_4b5fe38577",
+    "sent_idx": 18,
+    "text": "Machinery, equipment, tools, and spare parts represented 57.6 per cent of the total, while raw materials, fuels, and other production inputs accounted for 36.5 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261117_4b5fe38577#19",
+    "doc_id": "vneconomy_en_20261117_4b5fe38577",
+    "sent_idx": 19,
+    "text": "Vietnam's localization rates also lag significantly behind those of its regional peers.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261117_4b5fe38577#20",
+    "doc_id": "vneconomy_en_20261117_4b5fe38577",
+    "sent_idx": 20,
+    "text": "Domestic content accounts for around 35 per cent of the electrical and electronics sector, 45-55 per cent of textiles, garments, footwear, and leather goods, and 25-30 per cent of mechanical engineering and manufacturing.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261117_4b5fe38577#21",
+    "doc_id": "vneconomy_en_20261117_4b5fe38577",
+    "sent_idx": 21,
+    "text": "A World Bank report also found that the share of Vietnamese companies linked to global value chains fell from 35 per cent in 2009 to 18 per cent in 2023, with participation concentrated among a small number of large enterprises.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261117_4b5fe38577#22",
+    "doc_id": "vneconomy_en_20261117_4b5fe38577",
+    "sent_idx": 22,
+    "text": "The VIA attributes these shortcomings to a combination of internal business constraints, market limitations, and external factors.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261117_4b5fe38577#23",
+    "doc_id": "vneconomy_en_20261117_4b5fe38577",
+    "sent_idx": 23,
+    "text": "Vietnam's R&D spending amounted to just 0.41 per cent of GDP in 2023.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261117_4b5fe38577#24",
+    "doc_id": "vneconomy_en_20261117_4b5fe38577",
+    "sent_idx": 24,
+    "text": "Domestic companies remain relatively uncompetitive in foundational and priority industries, while the country lacks sufficiently strong lead firms capable of driving supply chain development.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261117_4b5fe38577#25",
+    "doc_id": "vneconomy_en_20261117_4b5fe38577",
+    "sent_idx": 25,
+    "text": "The domestic market is also rather small.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261117_4b5fe38577#26",
+    "doc_id": "vneconomy_en_20261117_4b5fe38577",
+    "sent_idx": 26,
+    "text": "Meanwhile, existing policies, investment incentives, and support mechanisms have yet to deliver substantial results.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261117_4b5fe38577#27",
+    "doc_id": "vneconomy_en_20261117_4b5fe38577",
+    "sent_idx": 27,
+    "text": "Measures to guide and establish stronger links with the FDI sector remain weak.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261117_4b5fe38577#28",
+    "doc_id": "vneconomy_en_20261117_4b5fe38577",
+    "sent_idx": 28,
+    "text": "Coordination between ministries and government agencies is also hampered by overlapping responsibilities, inadequate cooperation, and a lack of effective inspection and monitoring mechanisms.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261117_4b5fe38577#29",
+    "doc_id": "vneconomy_en_20261117_4b5fe38577",
+    "sent_idx": 29,
+    "text": "External factors have compounded these challenges.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261117_4b5fe38577#30",
+    "doc_id": "vneconomy_en_20261117_4b5fe38577",
+    "sent_idx": 30,
+    "text": "Vietnam's support industries developed relatively late, while the established business practices of multinational corporations have not been conducive to greater participation by domestic suppliers in their supply chains.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261117_4b5fe38577#31",
+    "doc_id": "vneconomy_en_20261117_4b5fe38577",
+    "sent_idx": 31,
+    "text": "To overcome these barriers, the VIA has proposed five groups of measures to accelerate the development of support industries.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261117_4b5fe38577#32",
+    "doc_id": "vneconomy_en_20261117_4b5fe38577",
+    "sent_idx": 32,
+    "text": "First, expand their markets.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261117_4b5fe38577#33",
+    "doc_id": "vneconomy_en_20261117_4b5fe38577",
+    "sent_idx": 33,
+    "text": "Policies should create demand for foundational industries, including mechanical engineering, steel, construction materials, and support industries, through strategic national infrastructure projects and initiatives related to national defense and security, energy security, disaster prevention, and climate change adaptation.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261117_4b5fe38577#34",
+    "doc_id": "vneconomy_en_20261117_4b5fe38577",
+    "sent_idx": 34,
+    "text": "Second, develop and master technologies.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261117_4b5fe38577#35",
+    "doc_id": "vneconomy_en_20261117_4b5fe38577",
+    "sent_idx": 35,
+    "text": "Priority should be given to science, technology, and innovation initiatives that strengthen domestic capabilities, reduce dependence on imports, enable companies to progressively master critical technologies, and facilitate deeper integration into global production networks.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261117_4b5fe38577#36",
+    "doc_id": "vneconomy_en_20261117_4b5fe38577",
+    "sent_idx": 36,
+    "text": "Third, strengthen engineering design capabilities.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261117_4b5fe38577#37",
+    "doc_id": "vneconomy_en_20261117_4b5fe38577",
+    "sent_idx": 37,
+    "text": "A national industrial engineering design program should be established, focusing on computer-aided design, computer-aided engineering, electronic design automation, simulation, mold and tooling development, and green products.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261117_4b5fe38577#38",
+    "doc_id": "vneconomy_en_20261117_4b5fe38577",
+    "sent_idx": 38,
+    "text": "Financial support should be tied to measurable outputs, including prototypes, intellectual property, and commercialization.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261117_4b5fe38577#39",
+    "doc_id": "vneconomy_en_20261117_4b5fe38577",
+    "sent_idx": 39,
+    "text": "A network of shared design centers should also be established at universities, research institutes, and lead companies, giving businesses affordable access to equipment, technical standards, and experts.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261117_4b5fe38577#40",
+    "doc_id": "vneconomy_en_20261117_4b5fe38577",
+    "sent_idx": 40,
+    "text": "Pilot co-design contracts should be introduced with State-owned enterprises, international original equipment manufacturers (OEMs), and strategic investors.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261117_4b5fe38577#41",
+    "doc_id": "vneconomy_en_20261117_4b5fe38577",
+    "sent_idx": 41,
+    "text": "Support should cover non-recurring engineering (NRE) costs and testing, with provisions safeguarding design ownership.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261117_4b5fe38577#42",
+    "doc_id": "vneconomy_en_20261117_4b5fe38577",
+    "sent_idx": 42,
+    "text": "Vietnam should also develop a pool of chief engineers, systems architects, lead engineers, and product managers to strengthen its capacity for complex industrial design and development.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261117_4b5fe38577#43",
+    "doc_id": "vneconomy_en_20261117_4b5fe38577",
+    "sent_idx": 43,
+    "text": "Fourth, reform FDI attraction mechanisms and develop large domestic enterprises.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261117_4b5fe38577#44",
+    "doc_id": "vneconomy_en_20261117_4b5fe38577",
+    "sent_idx": 44,
+    "text": "Investment incentives and support for foreign investors should be tied to commitments to establish and develop local supply chains.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261117_4b5fe38577#45",
+    "doc_id": "vneconomy_en_20261117_4b5fe38577",
+    "sent_idx": 45,
+    "text": "To foster large domestic enterprises capable of leading industrial development, mechanisms should facilitate access to resources and help sustain market demand.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261117_4b5fe38577#46",
+    "doc_id": "vneconomy_en_20261117_4b5fe38577",
+    "sent_idx": 46,
+    "text": "Fifth, strengthen financing mechanisms.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261117_4b5fe38577#47",
+    "doc_id": "vneconomy_en_20261117_4b5fe38577",
+    "sent_idx": 47,
+    "text": "Greater transparency in the stock market would help companies raise capital and support business start-ups.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261117_4b5fe38577#48",
+    "doc_id": "vneconomy_en_20261117_4b5fe38577",
+    "sent_idx": 48,
+    "text": "Investment funds should be developed for start-ups, strategic industries, and support industries, while the effectiveness of existing funds should be improved.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261117_4b5fe38577#49",
+    "doc_id": "vneconomy_en_20261117_4b5fe38577",
+    "sent_idx": 49,
+    "text": "Interest rate support should also be provided to SMEs in foundational and support industries to reduce the cost of financing technological upgrades.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261117_4b5fe38577#50",
+    "doc_id": "vneconomy_en_20261117_4b5fe38577",
+    "sent_idx": 50,
+    "text": "Beyond these five priorities, the VIA recommended that FIEs take a more proactive approach to integrating Vietnamese suppliers into their supply chains.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261117_4b5fe38577#51",
+    "doc_id": "vneconomy_en_20261117_4b5fe38577",
+    "sent_idx": 51,
+    "text": "They should disclose their procurement needs and localization road maps, clearly identify the components and raw materials for which they are seeking suppliers, and provide detailed technical specifications.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261117_4b5fe38577#52",
+    "doc_id": "vneconomy_en_20261117_4b5fe38577",
+    "sent_idx": 52,
+    "text": "They should also implement supplier development programs and strengthen R&D cooperation and technology transfer.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261117_4b5fe38577#53",
+    "doc_id": "vneconomy_en_20261117_4b5fe38577",
+    "sent_idx": 53,
+    "text": "For domestic support industry enterprises, the Agency calls for a shift in mindset from simple contract manufacturing toward compliance with international standards.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261117_4b5fe38577#54",
+    "doc_id": "vneconomy_en_20261117_4b5fe38577",
+    "sent_idx": 54,
+    "text": "Companies should proactively invest in upgrading management systems and strengthen collaboration.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261117_4b5fe38577#55",
+    "doc_id": "vneconomy_en_20261117_4b5fe38577",
+    "sent_idx": 55,
+    "text": "Mr. Nguyen Van, Vice Chairman of the Hanoi Supporting Industries Business Association (HANSIBA), emphasized the need for deeper and more substantive links between domestic enterprises and FIEs.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261117_4b5fe38577#56",
+    "doc_id": "vneconomy_en_20261117_4b5fe38577",
+    "sent_idx": 56,
+    "text": "Such relationships should go beyond simple buyer-supplier transactions to encompass long-term cooperation, joint investment in capability development, and shared business opportunities.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261117_4b5fe38577#57",
+    "doc_id": "vneconomy_en_20261117_4b5fe38577",
+    "sent_idx": 57,
+    "text": "Achieving this requires helping Vietnamese companies understand precisely which products, components, and technical services FIEs need, as well as the requirements for qualifying as suppliers.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261117_4b5fe38577#58",
+    "doc_id": "vneconomy_en_20261117_4b5fe38577",
+    "sent_idx": 58,
+    "text": "Conversely, FIEs need better information about the production capabilities, technologies, scale, and quality management systems of Vietnamese enterprises.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261117_4b5fe38577#59",
+    "doc_id": "vneconomy_en_20261117_4b5fe38577",
+    "sent_idx": 59,
+    "text": "Only around 20 per cent of companies hold ISO 9000 certification, while 9 per cent have ISO 14000 certification and more than 20 per cent implement the 5S workplace organization methodology.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261117_4b5fe38577#60",
+    "doc_id": "vneconomy_en_20261117_4b5fe38577",
+    "sent_idx": 60,
+    "text": "Modern management tools such as Lean, Six Sigma, Total Quality Management (TQM), and Total Productive Maintenance (TPM) are used by only around 1-2 per cent of companies.",
+    "lang": "en",
+    "is_title": false
+  }
+]

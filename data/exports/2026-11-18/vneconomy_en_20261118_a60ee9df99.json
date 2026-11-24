@@ -1,0 +1,58 @@
+[
+  {
+    "sent_id": "vneconomy_en_20261118_a60ee9df99#0",
+    "doc_id": "vneconomy_en_20261118_a60ee9df99",
+    "sent_idx": 0,
+    "text": "Hai Phong reserves 466ha of industrial land for high-tech and start-up businesses",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vneconomy_en_20261118_a60ee9df99#1",
+    "doc_id": "vneconomy_en_20261118_a60ee9df99",
+    "sent_idx": 1,
+    "text": "Authorities of the northern port city of Hai Phong will reserve 465.89 hectares of industrial land for high-tech enterprises, small and medium-sized enterprises (SMEs) and innovative start-ups in the city's industrial parks, according to the Hai Phong Economic Zone Authority.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261118_a60ee9df99#2",
+    "doc_id": "vneconomy_en_20261118_a60ee9df99",
+    "sent_idx": 2,
+    "text": "According to the authority's land portfolio, industrial parks established or implemented after the National Assembly's Resolution No. 198/2025/QH15 took effect on May 17, 2025, cover a total area of more than 3,559 hectares.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261118_a60ee9df99#3",
+    "doc_id": "vneconomy_en_20261118_a60ee9df99",
+    "sent_idx": 3,
+    "text": "Of this, over 2,453 hectares are designated for industrial use, with 262.28 hectares allocated to high-tech firms, SMEs and innovative start-ups, equivalent to 10.7% of the industrial land.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261118_a60ee9df99#4",
+    "doc_id": "vneconomy_en_20261118_a60ee9df99",
+    "sent_idx": 4,
+    "text": "Meanwhile, industrial parks established before May 17, 2025, have a combined area of 5,546.05 hectares, including 3,829.62 hectares of industrial land.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261118_a60ee9df99#5",
+    "doc_id": "vneconomy_en_20261118_a60ee9df99",
+    "sent_idx": 5,
+    "text": "Of this, 203.61 hectares, or 5.3%, are reserved for the three groups of businesses.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261118_a60ee9df99#6",
+    "doc_id": "vneconomy_en_20261118_a60ee9df99",
+    "sent_idx": 6,
+    "text": "The Hai Phong Economic Zone Authority said the review and public disclosure of available land aim to make it easier for businesses, particularly SMEs, high-tech enterprises and innovative start-ups, to access premises for production and business activities.",
+    "lang": "en",
+    "is_title": false
+  }
+]

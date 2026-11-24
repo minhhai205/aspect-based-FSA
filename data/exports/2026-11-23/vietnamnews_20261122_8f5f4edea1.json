@@ -1,0 +1,178 @@
+[
+  {
+    "sent_id": "vietnamnews_20261122_8f5f4edea1#0",
+    "doc_id": "vietnamnews_20261122_8f5f4edea1",
+    "sent_idx": 0,
+    "text": "Viettel achieves world's highest autonomous network certification",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261122_8f5f4edea1#1",
+    "doc_id": "vietnamnews_20261122_8f5f4edea1",
+    "sent_idx": 1,
+    "text": "BANGKOK - Viettel has become the first Vietnamese telecom operator to achieve Level 4 Autonomous Network certification, the highest level currently recognised by the global telecoms industry.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261122_8f5f4edea1#2",
+    "doc_id": "vietnamnews_20261122_8f5f4edea1",
+    "sent_idx": 2,
+    "text": "The certification was awarded by the TM Forum at Innovate Asia 2026 in Bangkok, Thailand, for solutions developed and commercially deployed by Viettel's engineers.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261122_8f5f4edea1#3",
+    "doc_id": "vietnamnews_20261122_8f5f4edea1",
+    "sent_idx": 3,
+    "text": "The two certified functions, mobile network coverage optimisation and energy optimisation, are operated by Viettel Networks Corporation.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261122_8f5f4edea1#4",
+    "doc_id": "vietnamnews_20261122_8f5f4edea1",
+    "sent_idx": 4,
+    "text": "TM Forum's independent panel assessed the solutions using real-world operational data and international evaluation criteria.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261122_8f5f4edea1#5",
+    "doc_id": "vietnamnews_20261122_8f5f4edea1",
+    "sent_idx": 5,
+    "text": "Autonomous networks can monitor, analyse, make decisions and resolve issues independently, while human operators set objectives and maintain safety controls.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261122_8f5f4edea1#6",
+    "doc_id": "vietnamnews_20261122_8f5f4edea1",
+    "sent_idx": 6,
+    "text": "TM Forum's framework has six levels, from Level 0, which relies on manual operations, to Level 5, representing full autonomy.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261122_8f5f4edea1#7",
+    "doc_id": "vietnamnews_20261122_8f5f4edea1",
+    "sent_idx": 7,
+    "text": "As Level 5 has yet to be assessed under an established standard, Level 4 is currently the highest recognised level.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261122_8f5f4edea1#8",
+    "doc_id": "vietnamnews_20261122_8f5f4edea1",
+    "sent_idx": 8,
+    "text": "Viettel achieved a perfect score of 4.0 for coverage optimisation under the latest assessment framework, surpassing the 3.7 scores of international operators.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261122_8f5f4edea1#9",
+    "doc_id": "vietnamnews_20261122_8f5f4edea1",
+    "sent_idx": 9,
+    "text": "It also joined a small group of operators certified at Level 4 for energy optimisation.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261122_8f5f4edea1#10",
+    "doc_id": "vietnamnews_20261122_8f5f4edea1",
+    "sent_idx": 10,
+    "text": "Its system continuously monitors network quality nationwide and can detect and address weak-signal areas within hours, rather than waiting for customer complaints or lengthy testing campaigns.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261122_8f5f4edea1#11",
+    "doc_id": "vietnamnews_20261122_8f5f4edea1",
+    "sent_idx": 11,
+    "text": "At major events, adjustments can be made in about two minutes, increasing network capacity by more than 3 per cent using existing infrastructure.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261122_8f5f4edea1#12",
+    "doc_id": "vietnamnews_20261122_8f5f4edea1",
+    "sent_idx": 12,
+    "text": "For energy optimisation, the system adjusts base-station operations according to demand, reducing power consumption during off-peak hours and restoring capacity when network quality deteriorates.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261122_8f5f4edea1#13",
+    "doc_id": "vietnamnews_20261122_8f5f4edea1",
+    "sent_idx": 13,
+    "text": "The solution helps cut electricity costs and emissions.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261122_8f5f4edea1#14",
+    "doc_id": "vietnamnews_20261122_8f5f4edea1",
+    "sent_idx": 14,
+    "text": "Viettel said developing its own solutions gives it control over algorithms, data and operations, while reducing reliance on foreign technology providers.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261122_8f5f4edea1#15",
+    "doc_id": "vietnamnews_20261122_8f5f4edea1",
+    "sent_idx": 15,
+    "text": "Its coverage optimisation system cost less than one-tenth of an equivalent solution from an international supplier.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261122_8f5f4edea1#16",
+    "doc_id": "vietnamnews_20261122_8f5f4edea1",
+    "sent_idx": 16,
+    "text": "George Glass, TM Forum's chief technology officer, said Viettel was the first operator globally to achieve Level 4 in both scenarios under the latest standards.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261122_8f5f4edea1#17",
+    "doc_id": "vietnamnews_20261122_8f5f4edea1",
+    "sent_idx": 17,
+    "text": "\"This achievement puts Viettel among the world's leading operators in commercially deployed autonomous network capabilities, delivering real operational value and improving customer experience,\" he said.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261122_8f5f4edea1#18",
+    "doc_id": "vietnamnews_20261122_8f5f4edea1",
+    "sent_idx": 18,
+    "text": "Lê Quang Hiếu, deputy general director of Viettel Networks Corporation, said the certification marked the shift of autonomous networking from a strategic direction to an operational capability.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261122_8f5f4edea1#19",
+    "doc_id": "vietnamnews_20261122_8f5f4edea1",
+    "sent_idx": 19,
+    "text": "Viettel aims to bring its entire network to Level 4 by 2030 and advance to Level 5 in suitable areas.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261122_8f5f4edea1#20",
+    "doc_id": "vietnamnews_20261122_8f5f4edea1",
+    "sent_idx": 20,
+    "text": "It plans to expand autonomous capabilities to fixed broadband, transmission and core networks, while developing telecom-specific AI models and digital twins to test changes in simulated environments before deployment.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261122_8f5f4edea1#21",
+    "doc_id": "vietnamnews_20261122_8f5f4edea1",
+    "sent_idx": 21,
+    "text": "The company is also working with TM Forum to develop metrics for autonomous network value and share operational results with the global telecoms community. - VNS",
+    "lang": "en",
+    "is_title": false
+  }
+]

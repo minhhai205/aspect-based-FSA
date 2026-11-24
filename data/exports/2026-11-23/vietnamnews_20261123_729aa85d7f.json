@@ -1,0 +1,154 @@
+[
+  {
+    "sent_id": "vietnamnews_20261123_729aa85d7f#0",
+    "doc_id": "vietnamnews_20261123_729aa85d7f",
+    "sent_idx": 0,
+    "text": "HCM City inspects EV charging stations ahead of 2027 national rules",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261123_729aa85d7f#1",
+    "doc_id": "vietnamnews_20261123_729aa85d7f",
+    "sent_idx": 1,
+    "text": "HCM CITY - HCM City Power Corporation (EVNHCMC) has instructed its subsidiary units to inspect and classify existing electric vehicle (EV) charging stations across the city in preparation for new national technical regulations taking effect on July 1, 2027.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261123_729aa85d7f#2",
+    "doc_id": "vietnamnews_20261123_729aa85d7f",
+    "sent_idx": 2,
+    "text": "The move follows Circular 61/2026/TT-BCT, issued in late September by the Ministry of Industry and Trade, which promulgates the national technical regulation on EV charging pillars and stations (QCVN 32:2026/BCT).",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261123_729aa85d7f#3",
+    "doc_id": "vietnamnews_20261123_729aa85d7f",
+    "sent_idx": 3,
+    "text": "Under the directive, EVNHCMC has asked functional departments and subordinate units to thoroughly study the regulation, brief staff, particularly those in power supply, grid connection, operation management, and system dispatch, and prepare the necessary conditions for implementation.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261123_729aa85d7f#4",
+    "doc_id": "vietnamnews_20261123_729aa85d7f",
+    "sent_idx": 4,
+    "text": "Units responsible for power supply, grid operation, and dispatch must guide project investors on grid connection agreements, electricity metering, energisation, load adjustment, and incident handling within their respective authority.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261123_729aa85d7f#5",
+    "doc_id": "vietnamnews_20261123_729aa85d7f",
+    "sent_idx": 5,
+    "text": "They are also tasked with assessing the impact of charging facilities on local power grids and applying technical measures covering power quality, power factor, capacity limits, and load management to safeguard grid stability.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261123_729aa85d7f#6",
+    "doc_id": "vietnamnews_20261123_729aa85d7f",
+    "sent_idx": 6,
+    "text": "At the same time, power units must review and classify existing charging facilities subject to the new standard so they can notify customers and provide clear guidance on the transition roadmap.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261123_729aa85d7f#7",
+    "doc_id": "vietnamnews_20261123_729aa85d7f",
+    "sent_idx": 7,
+    "text": "EVNHCMC said that from July 1, 2027, subordinate units handling applications for grid connection agreements and energisation of EV charging stations must verify connection documents, technical acceptance records, and energisation conditions strictly in line with regulations.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261123_729aa85d7f#8",
+    "doc_id": "vietnamnews_20261123_729aa85d7f",
+    "sent_idx": 8,
+    "text": "They are strictly prohibited from imposing any additional requirements beyond those stipulated by law.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261123_729aa85d7f#9",
+    "doc_id": "vietnamnews_20261123_729aa85d7f",
+    "sent_idx": 9,
+    "text": "According to QCVN 32:2026/BCT, the regulation governs charging stations for battery electric vehicles, plug-in hybrid electric vehicles, and similar electric road vehicles located in public areas, centralised parking lots, rest stops, and comparable sites.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261123_729aa85d7f#10",
+    "doc_id": "vietnamnews_20261123_729aa85d7f",
+    "sent_idx": 10,
+    "text": "It does not apply to charging facilities installed inside buildings, such as basements, semi-basements, indoor garages, or spaces partially or fully enclosed by building structures.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261123_729aa85d7f#11",
+    "doc_id": "vietnamnews_20261123_729aa85d7f",
+    "sent_idx": 11,
+    "text": "In terms of technical and safety requirements, charging stations must ensure electrical safety, fire prevention and fighting, and protection for people, vehicles, and surrounding infrastructure throughout their lifecycle, from design and construction to operation and maintenance.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261123_729aa85d7f#12",
+    "doc_id": "vietnamnews_20261123_729aa85d7f",
+    "sent_idx": 12,
+    "text": "Systems must be designed in an integrated manner encompassing power supply, protection, earthing, lightning protection, monitoring, fire safety, and traffic organisation.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261123_729aa85d7f#13",
+    "doc_id": "vietnamnews_20261123_729aa85d7f",
+    "sent_idx": 13,
+    "text": "Stations must also feature fault detection, warning, and isolation mechanisms, alongside automatic or manual power cut-offs in the event of fire, earth faults, physical collisions, flooding, overheating, or insulation failure.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261123_729aa85d7f#14",
+    "doc_id": "vietnamnews_20261123_729aa85d7f",
+    "sent_idx": 14,
+    "text": "Furthermore, installation sites must suit local land use functions without obstructing emergency exits, fire engine access routes, or pedestrian walkways.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261123_729aa85d7f#15",
+    "doc_id": "vietnamnews_20261123_729aa85d7f",
+    "sent_idx": 15,
+    "text": "Charging bay dimensions and equipment setbacks must suit specific vehicle types, such as buses, lorries, and tractor trailers, while accounting for parking orientation, turning radii, and cable lengths to ensure safe user operation.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261123_729aa85d7f#16",
+    "doc_id": "vietnamnews_20261123_729aa85d7f",
+    "sent_idx": 16,
+    "text": "The regulation also sets strict connectivity standards for charging pillars and clearly defines the responsibilities of investors, designers, contractors, and operators.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261123_729aa85d7f#17",
+    "doc_id": "vietnamnews_20261123_729aa85d7f",
+    "sent_idx": 17,
+    "text": "As of April 2026, the city had approximately 10,000 electric car charging stations, more than 300 fast charging points for electric motorbikes, and thousands of battery swapping cabinets.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261123_729aa85d7f#18",
+    "doc_id": "vietnamnews_20261123_729aa85d7f",
+    "sent_idx": 18,
+    "text": "The city is also advancing public-private bidding to install charging stations at 19 bus terminals while finalising a broader master plan for its public charging network. - VNS",
+    "lang": "en",
+    "is_title": false
+  }
+]

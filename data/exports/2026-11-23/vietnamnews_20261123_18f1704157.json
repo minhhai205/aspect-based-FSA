@@ -1,0 +1,106 @@
+[
+  {
+    "sent_id": "vietnamnews_20261123_18f1704157#0",
+    "doc_id": "vietnamnews_20261123_18f1704157",
+    "sent_idx": 0,
+    "text": "PM attends launch of $1 billion projects in Hải Phòng",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261123_18f1704157#1",
+    "doc_id": "vietnamnews_20261123_18f1704157",
+    "sent_idx": 1,
+    "text": "HẢI PHÒNG - Prime Minister Lê Minh Hưng on Monday attended the groundbreaking ceremonies for two major projects in Hải Phòng which have a combined investment of VNĐ26.4 trillion (over US$1 billion) to expand the northern port city's maritime infrastructure and develop high-tech manufacturing.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261123_18f1704157#2",
+    "doc_id": "vietnamnews_20261123_18f1704157",
+    "sent_idx": 2,
+    "text": "The projects include the construction of berths No. 9, 10, 11 and 12 at the Lạch Huyện Port complex and a factory producing high-purity materials for high-tech industrial applications from clean rare earth feedstock at Xuân Cầu Industrial Park and Non-Tariff Zone.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261123_18f1704157#3",
+    "doc_id": "vietnamnews_20261123_18f1704157",
+    "sent_idx": 3,
+    "text": "The Lạch Huyện port project, with a total investment of VNĐ24.8 trillion, covers approximately 146.2 ha of land and water surface.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261123_18f1704157#4",
+    "doc_id": "vietnamnews_20261123_18f1704157",
+    "sent_idx": 4,
+    "text": "It comprises four container berths with a total main quay length of 1.8 km, designed to accommodate container vessels ranging from 12,000 to 18,000 TEUs.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261123_18f1704157#5",
+    "doc_id": "vietnamnews_20261123_18f1704157",
+    "sent_idx": 5,
+    "text": "Once operational, the project is expected to increase cargo handling capacity at Hải Phòng's seaport system, strengthen multimodal transport connectivity and support the development of logistics services, further reinforcing the city's role as an international trade gateway for northern Việt Nam.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261123_18f1704157#6",
+    "doc_id": "vietnamnews_20261123_18f1704157",
+    "sent_idx": 6,
+    "text": "The second project, invested in by Khánh An Industrial Park JSC, will be built on a site of approximately 28,000 sq.m at Xuân Cầu Industrial Park and Non-Tariff Zone.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261123_18f1704157#7",
+    "doc_id": "vietnamnews_20261123_18f1704157",
+    "sent_idx": 7,
+    "text": "The factory with an investment of VNĐ1.58 trillion will produce high-purity materials for high-tech applications, including high-performance permanent magnets, electronics, components, energy, optics and catalysts.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261123_18f1704157#8",
+    "doc_id": "vietnamnews_20261123_18f1704157",
+    "sent_idx": 8,
+    "text": "It is expected to help diversify the city's industrial base and enable greater participation in high-value global supply chains.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261123_18f1704157#9",
+    "doc_id": "vietnamnews_20261123_18f1704157",
+    "sent_idx": 9,
+    "text": "Speaking at the ceremony, Lê Anh Quân, deputy chairman of the municipal People's Committee, said developing a modern seaport system alongside logistics services and high-tech industries was a strategic priority for the northern port city.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261123_18f1704157#10",
+    "doc_id": "vietnamnews_20261123_18f1704157",
+    "sent_idx": 10,
+    "text": "The two projects are expected to further enhance the city's infrastructure capacity and attract investment in industry, trade and services, Quân said.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261123_18f1704157#11",
+    "doc_id": "vietnamnews_20261123_18f1704157",
+    "sent_idx": 11,
+    "text": "He described the four-berth port project as a major development designed to become a green international container port, while the high-purity materials factory will represent an important step towards developing advanced manufacturing and increasing industrial added value.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261123_18f1704157#12",
+    "doc_id": "vietnamnews_20261123_18f1704157",
+    "sent_idx": 12,
+    "text": "Quân reaffirmed the city's commitment to supporting investors and facilitating project implementation, stressing that business success was also the city's success. - BIZHUB/VNS",
+    "lang": "en",
+    "is_title": false
+  }
+]

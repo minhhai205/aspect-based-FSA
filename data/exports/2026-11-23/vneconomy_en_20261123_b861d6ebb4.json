@@ -1,0 +1,82 @@
+[
+  {
+    "sent_id": "vneconomy_en_20261123_b861d6ebb4#0",
+    "doc_id": "vneconomy_en_20261123_b861d6ebb4",
+    "sent_idx": 0,
+    "text": "Long Thanh airport scheduled to start operations from December 24, 2026",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vneconomy_en_20261123_b861d6ebb4#1",
+    "doc_id": "vneconomy_en_20261123_b861d6ebb4",
+    "sent_idx": 1,
+    "text": "Long Thanh International Airport in southern Dong Nai city is scheduled to begin operations at midnight on December 24, 2026, with its rollout divided into three phases and flight volumes gradually increasing, according to Airports Corporation of Vietnam (ACV).",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261123_b861d6ebb4#2",
+    "doc_id": "vneconomy_en_20261123_b861d6ebb4",
+    "sent_idx": 2,
+    "text": "The first phase will run from December 24, 2026, through the end of March 2027, covering the 2026-2027 winter flight schedule, according to the Government's online newspaper (chinhphu.vn).",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261123_b861d6ebb4#3",
+    "doc_id": "vneconomy_en_20261123_b861d6ebb4",
+    "sent_idx": 3,
+    "text": "Initial operations are expected to reach around 6-10% of the airport's designed capacity, equivalent to 20-30 flights per day.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261123_b861d6ebb4#4",
+    "doc_id": "vneconomy_en_20261123_b861d6ebb4",
+    "sent_idx": 4,
+    "text": "However, as this period coincides with the peak travel season for the 2027 Lunar New Year, flight volumes are expected to rise.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261123_b861d6ebb4#5",
+    "doc_id": "vneconomy_en_20261123_b861d6ebb4",
+    "sent_idx": 5,
+    "text": "Plans are therefore being considered to increase services in the airport's early months to meet passenger demand and ease pressure on Tan Son Nhat International Airport.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261123_b861d6ebb4#6",
+    "doc_id": "vneconomy_en_20261123_b861d6ebb4",
+    "sent_idx": 6,
+    "text": "According to Mr. Nguyen Dang Minh, head of operations at Long Thanh International Airport, three domestic carriers - Vietnam Airlines, Vietjet Air and Vietravel Airlines - had registered to operate at the new airport.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261123_b861d6ebb4#7",
+    "doc_id": "vneconomy_en_20261123_b861d6ebb4",
+    "sent_idx": 7,
+    "text": "Nevertheless, flight numbers are expected to remain relatively low during the initial days.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261123_b861d6ebb4#8",
+    "doc_id": "vneconomy_en_20261123_b861d6ebb4",
+    "sent_idx": 8,
+    "text": "With limited take-off and landing slots available to airlines at Tan Son Nhat, ACV plans to regulate operations and transfer part of the demand to Long Thanh.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261123_b861d6ebb4#9",
+    "doc_id": "vneconomy_en_20261123_b861d6ebb4",
+    "sent_idx": 9,
+    "text": "During the Lunar New Year peak, Long Thanh is expected to handle 30-40 flights per day, Mr. Minh said.",
+    "lang": "en",
+    "is_title": false
+  }
+]

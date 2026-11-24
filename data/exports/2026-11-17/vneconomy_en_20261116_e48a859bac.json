@@ -1,0 +1,130 @@
+[
+  {
+    "sent_id": "vneconomy_en_20261116_e48a859bac#0",
+    "doc_id": "vneconomy_en_20261116_e48a859bac",
+    "sent_idx": 0,
+    "text": "Ho Chi Minh City proposes 200-hectare science and technology urban area",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vneconomy_en_20261116_e48a859bac#1",
+    "doc_id": "vneconomy_en_20261116_e48a859bac",
+    "sent_idx": 1,
+    "text": "Ho Chi Minh City is seeking feedback on a draft resolution to establish a science, technology, and innovation urban area spanning at least 200 hectares alongside a free open data repository to support artificial intelligence training and digital transformation.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261116_e48a859bac#2",
+    "doc_id": "vneconomy_en_20261116_e48a859bac",
+    "sent_idx": 2,
+    "text": "Drafted by the municipal Department of Science and Technology, the projected resolution outlines criteria, mechanisms, and policies to create an integrated ecosystem for living, learning, working, and business.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261116_e48a859bac#3",
+    "doc_id": "vneconomy_en_20261116_e48a859bac",
+    "sent_idx": 3,
+    "text": "Under the draft, the urban area ' s functional zones must cover a minimum total area of 200 hectares and meet smart city criteria.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261116_e48a859bac#4",
+    "doc_id": "vneconomy_en_20261116_e48a859bac",
+    "sent_idx": 4,
+    "text": "A centerpiece of the plan is an open data repository housed at the urban area ' s data management center.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261116_e48a859bac#5",
+    "doc_id": "vneconomy_en_20261116_e48a859bac",
+    "sent_idx": 5,
+    "text": "Datasets will be regularly updated, processed, and anonymized to ensure security before release.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261116_e48a859bac#6",
+    "doc_id": "vneconomy_en_20261116_e48a859bac",
+    "sent_idx": 6,
+    "text": "Eligible businesses, organizations, and individuals operating within the zone will have free access to train AI models and develop big data solutions, software, and applications.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261116_e48a859bac#7",
+    "doc_id": "vneconomy_en_20261116_e48a859bac",
+    "sent_idx": 7,
+    "text": "High-security, specialized datasets will be exploited through commercial contracts specifying confidentiality obligations and value-sharing mechanisms.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261116_e48a859bac#8",
+    "doc_id": "vneconomy_en_20261116_e48a859bac",
+    "sent_idx": 8,
+    "text": "During consultations, stakeholders proposed categorizing data into open, commercial, and restricted groups, while reinvesting a portion of data revenues into digital infrastructure maintenance.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261116_e48a859bac#9",
+    "doc_id": "vneconomy_en_20261116_e48a859bac",
+    "sent_idx": 9,
+    "text": "The Department of Legal Affairs under the Ministry of Science and Technology noted that all data-sharing activities must comply with intellectual property and personal data protection laws.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261116_e48a859bac#10",
+    "doc_id": "vneconomy_en_20261116_e48a859bac",
+    "sent_idx": 10,
+    "text": "Municipal agencies and state-owned enterprises are also encouraged to prioritize piloting solutions built from this open data to advance digital governance.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261116_e48a859bac#11",
+    "doc_id": "vneconomy_en_20261116_e48a859bac",
+    "sent_idx": 11,
+    "text": "Development criteria for the urban area focus on six core areas, including synchronized research, technical, digital, and social infrastructure; the presence of universities, research institutes, and technology firms; sustainable living environments; and high-value-added technology sectors.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261116_e48a859bac#12",
+    "doc_id": "vneconomy_en_20261116_e48a859bac",
+    "sent_idx": 12,
+    "text": "To support research and development, Ho Chi Minh City plans to use state budget funds as seed capital for shared facilities, including laboratories, data centers, high-speed networks, and incubation hubs.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261116_e48a859bac#13",
+    "doc_id": "vneconomy_en_20261116_e48a859bac",
+    "sent_idx": 13,
+    "text": "These assets may be operated through leases or joint ventures with domestic and foreign partners.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261116_e48a859bac#14",
+    "doc_id": "vneconomy_en_20261116_e48a859bac",
+    "sent_idx": 14,
+    "text": "The draft also proposes allowing laboratories, fabrication labs (FabLabs), and offices to co-locate within high-rise buildings, subject to construction, fire safety, and environmental standards.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261116_e48a859bac#15",
+    "doc_id": "vneconomy_en_20261116_e48a859bac",
+    "sent_idx": 15,
+    "text": "Additionally, a regulatory sandbox mechanism will enable controlled testing of new technologies and business models under strict risk management and security protocols, linking research directly to commercial production to drive the city's digital economy.",
+    "lang": "en",
+    "is_title": false
+  }
+]

@@ -1,0 +1,570 @@
+[
+  {
+    "sent_id": "vneconomy_en_20261121_dcfa431e05#0",
+    "doc_id": "vneconomy_en_20261121_dcfa431e05",
+    "sent_idx": 0,
+    "text": "Results the measure of success",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vneconomy_en_20261121_dcfa431e05#1",
+    "doc_id": "vneconomy_en_20261121_dcfa431e05",
+    "sent_idx": 1,
+    "text": "N otable improvements in the latest draft Law on Food Safety (revised) include provisions protecting trade secrets and data security, clarifying disclosure requirements for e-commerce platforms, and allowing businesses to continue using existing registration certificates while renewal applications are processed.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261121_dcfa431e05#2",
+    "doc_id": "vneconomy_en_20261121_dcfa431e05",
+    "sent_idx": 2,
+    "text": "The draft also extends the transition period for dietary supplements moving to a registration-based system and exempts imported ingredients, additives, and packaging materials used exclusively for in-house production from product declaration procedures.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261121_dcfa431e05#3",
+    "doc_id": "vneconomy_en_20261121_dcfa431e05",
+    "sent_idx": 3,
+    "text": "However, further improvements are needed to establish a modern risk-based management framework, ensure consistency across legislation, and avoid unnecessary pre-market procedures.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261121_dcfa431e05#4",
+    "doc_id": "vneconomy_en_20261121_dcfa431e05",
+    "sent_idx": 4,
+    "text": "We have four main concerns.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261121_dcfa431e05#5",
+    "doc_id": "vneconomy_en_20261121_dcfa431e05",
+    "sent_idx": 5,
+    "text": "First, inconsistent import inspection procedures.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261121_dcfa431e05#6",
+    "doc_id": "vneconomy_en_20261121_dcfa431e05",
+    "sent_idx": 6,
+    "text": "Requiring comprehensive risk assessments before adjusting inspection levels could lead to inconsistent implementation, lengthy inspections, higher storage costs, and supply chain disruptions, even for businesses with strong compliance records.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261121_dcfa431e05#7",
+    "doc_id": "vneconomy_en_20261121_dcfa431e05",
+    "sent_idx": 7,
+    "text": "Second, overly broad pre-market controls on dietary supplements.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261121_dcfa431e05#8",
+    "doc_id": "vneconomy_en_20261121_dcfa431e05",
+    "sent_idx": 8,
+    "text": "Treating ordinary nutritional claims and disease risk-reduction claims alike could delay market entry and increase regulatory workloads.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261121_dcfa431e05#9",
+    "doc_id": "vneconomy_en_20261121_dcfa431e05",
+    "sent_idx": 9,
+    "text": "Third, registration validity and packaging requirements.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261121_dcfa431e05#10",
+    "doc_id": "vneconomy_en_20261121_dcfa431e05",
+    "sent_idx": 10,
+    "text": "Five-year registration renewals and mandatory declaration numbers on packaging create recurring administrative burdens and could force businesses to discard large quantities of pre-printed packaging.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261121_dcfa431e05#11",
+    "doc_id": "vneconomy_en_20261121_dcfa431e05",
+    "sent_idx": 11,
+    "text": "Fourth, restrictions on international testing results.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261121_dcfa431e05#12",
+    "doc_id": "vneconomy_en_20261121_dcfa431e05",
+    "sent_idx": 12,
+    "text": "Requiring foreign laboratories to assess compliance specifically against Vietnamese regulations could invalidate recognized test reports, resulting in duplicate testing, higher costs, and longer customs clearance times.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261121_dcfa431e05#13",
+    "doc_id": "vneconomy_en_20261121_dcfa431e05",
+    "sent_idx": 13,
+    "text": "We propose four corresponding adjustments.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261121_dcfa431e05#14",
+    "doc_id": "vneconomy_en_20261121_dcfa431e05",
+    "sent_idx": 14,
+    "text": "First, implement risk-based inspections.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261121_dcfa431e05#15",
+    "doc_id": "vneconomy_en_20261121_dcfa431e05",
+    "sent_idx": 15,
+    "text": "Apply reduced and normal inspections based on product characteristics and business compliance records, while exempting ingredients, additives, and packaging materials used exclusively for in-house production from border inspections.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261121_dcfa431e05#16",
+    "doc_id": "vneconomy_en_20261121_dcfa431e05",
+    "sent_idx": 16,
+    "text": "Second, narrow pre-market registration requirements.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261121_dcfa431e05#17",
+    "doc_id": "vneconomy_en_20261121_dcfa431e05",
+    "sent_idx": 17,
+    "text": "Require registration only for dietary supplements making disease risk-reduction claims, while subjecting ordinary micronutrient supplements to product standards declaration and post-market inspections.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261121_dcfa431e05#18",
+    "doc_id": "vneconomy_en_20261121_dcfa431e05",
+    "sent_idx": 18,
+    "text": "Recognize broader scientific evidence, including Codex standards and assessments by reputable international food safety authorities.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261121_dcfa431e05#19",
+    "doc_id": "vneconomy_en_20261121_dcfa431e05",
+    "sent_idx": 19,
+    "text": "Third, modernize packaging and registration management.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261121_dcfa431e05#20",
+    "doc_id": "vneconomy_en_20261121_dcfa431e05",
+    "sent_idx": 20,
+    "text": "Remove the five-year registration validity requirement and mandatory declaration numbers on packaging, replacing them with digital solutions such as QR codes and electronic labels.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261121_dcfa431e05#21",
+    "doc_id": "vneconomy_en_20261121_dcfa431e05",
+    "sent_idx": 21,
+    "text": "Provide sufficient transition periods if relabeling remains necessary.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261121_dcfa431e05#22",
+    "doc_id": "vneconomy_en_20261121_dcfa431e05",
+    "sent_idx": 22,
+    "text": "Fourth, recognize international testing results.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261121_dcfa431e05#23",
+    "doc_id": "vneconomy_en_20261121_dcfa431e05",
+    "sent_idx": 23,
+    "text": "Accept results from qualified foreign laboratories and allow businesses to assess compliance with Vietnamese regulations while retaining full legal responsibility for product safety.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261121_dcfa431e05#24",
+    "doc_id": "vneconomy_en_20261121_dcfa431e05",
+    "sent_idx": 24,
+    "text": "C lause 22, Article 2, which addresses technical regulations on food safety, should clearly define mandatory requirements and ensure consistency with legislation on standards and technical regulations.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261121_dcfa431e05#25",
+    "doc_id": "vneconomy_en_20261121_dcfa431e05",
+    "sent_idx": 25,
+    "text": "Requirements for agricultural products and food should specify their legal basis, scope, and implementation roadmap to avoid imposing unclear standards beyond the capacity of farming households and cooperatives.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261121_dcfa431e05#26",
+    "doc_id": "vneconomy_en_20261121_dcfa431e05",
+    "sent_idx": 26,
+    "text": "Implementation roadmaps should include assessments of compliance costs and the capacity of farming households, cooperatives, and agricultural processing facilities.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261121_dcfa431e05#27",
+    "doc_id": "vneconomy_en_20261121_dcfa431e05",
+    "sent_idx": 27,
+    "text": "Application dates and phases should be publicly disclosed, with sufficient transition periods to allow producers to prepare without disrupting agricultural product sales.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261121_dcfa431e05#28",
+    "doc_id": "vneconomy_en_20261121_dcfa431e05",
+    "sent_idx": 28,
+    "text": "As farmers and cooperatives increasingly trade through digital platforms, e-commerce operators should be required to retain seller information, support product traceability, and cooperate in recalls when requested by competent authorities.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261121_dcfa431e05#29",
+    "doc_id": "vneconomy_en_20261121_dcfa431e05",
+    "sent_idx": 29,
+    "text": "Requirements should be proportionate to the scale of small farming households and cooperatives.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261121_dcfa431e05#30",
+    "doc_id": "vneconomy_en_20261121_dcfa431e05",
+    "sent_idx": 30,
+    "text": "The draft should also clarify responsibility for additional testing costs.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261121_dcfa431e05#31",
+    "doc_id": "vneconomy_en_20261121_dcfa431e05",
+    "sent_idx": 31,
+    "text": "If subsequent results differ from the initial findings, the original testing organization should bear the cost.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261121_dcfa431e05#32",
+    "doc_id": "vneconomy_en_20261121_dcfa431e05",
+    "sent_idx": 32,
+    "text": "If the results are consistent, the party requesting the additional test should pay.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261121_dcfa431e05#33",
+    "doc_id": "vneconomy_en_20261121_dcfa431e05",
+    "sent_idx": 33,
+    "text": "This would protect farmers and cooperatives when there are reasonable grounds to question testing accuracy.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261121_dcfa431e05#34",
+    "doc_id": "vneconomy_en_20261121_dcfa431e05",
+    "sent_idx": 34,
+    "text": "Regarding Article 46 and Appendices 1 and 2 on product classification, categories subject to registration, self-declaration, or exemption should be clearly defined based on ingredients, intended use, and risk levels.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261121_dcfa431e05#35",
+    "doc_id": "vneconomy_en_20261121_dcfa431e05",
+    "sent_idx": 35,
+    "text": "This would ensure appropriate distinctions between fresh agricultural products, pre-processed products, and processed foods.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261121_dcfa431e05#36",
+    "doc_id": "vneconomy_en_20261121_dcfa431e05",
+    "sent_idx": 36,
+    "text": "Any changes should undergo impact assessments and include transition periods for producers and cooperatives.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261121_dcfa431e05#37",
+    "doc_id": "vneconomy_en_20261121_dcfa431e05",
+    "sent_idx": 37,
+    "text": "Finally, Clause 7, Article 74, on transitional provisions should clarify how transition periods are calculated and how applications submitted before the draft Law on Food Safety (revised) takes effect will be handled.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261121_dcfa431e05#38",
+    "doc_id": "vneconomy_en_20261121_dcfa431e05",
+    "sent_idx": 38,
+    "text": "Businesses with valid documentation and no violations should be allowed to continue operating during the transition period, while authorities retain the power to inspect, suspend, or recall products when safety risks arise.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261121_dcfa431e05#39",
+    "doc_id": "vneconomy_en_20261121_dcfa431e05",
+    "sent_idx": 39,
+    "text": "W e support amendments to the Law on Food Safety to strengthen regulatory effectiveness and protect public health.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261121_dcfa431e05#40",
+    "doc_id": "vneconomy_en_20261121_dcfa431e05",
+    "sent_idx": 40,
+    "text": "Their success should be measured by their ability to prevent, detect, and address food safety risks in practice.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261121_dcfa431e05#41",
+    "doc_id": "vneconomy_en_20261121_dcfa431e05",
+    "sent_idx": 41,
+    "text": "We recommend that the Vietnam Union of Science and Technology Associations consolidate its proposals to the National Assembly, government, and drafting agencies around three priorities.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261121_dcfa431e05#42",
+    "doc_id": "vneconomy_en_20261121_dcfa431e05",
+    "sent_idx": 42,
+    "text": "First, adopt risk- and science-based management and eliminate unnecessary procedures.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261121_dcfa431e05#43",
+    "doc_id": "vneconomy_en_20261121_dcfa431e05",
+    "sent_idx": 43,
+    "text": "Every registration, approval, testing, or product modification requirement should demonstrate a corresponding public health benefit.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261121_dcfa431e05#44",
+    "doc_id": "vneconomy_en_20261121_dcfa431e05",
+    "sent_idx": 44,
+    "text": "Second, ensure legal consistency, procedural transparency, and regulatory accountability.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261121_dcfa431e05#45",
+    "doc_id": "vneconomy_en_20261121_dcfa431e05",
+    "sent_idx": 45,
+    "text": "Businesses should retain the right to self-assess conformity where permitted by law, subject to clear corporate accountability and international commitments.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261121_dcfa431e05#46",
+    "doc_id": "vneconomy_en_20261121_dcfa431e05",
+    "sent_idx": 46,
+    "text": "Registration procedures should be shortened, with maximum processing deadlines, transparent assessment criteria, clear grounds for requesting additional documents, and mechanisms for handling overdue applications.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261121_dcfa431e05#47",
+    "doc_id": "vneconomy_en_20261121_dcfa431e05",
+    "sent_idx": 47,
+    "text": "Regulatory oversight should also address conflicts of interest and prevent improper conduct or harassment by officials.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261121_dcfa431e05#48",
+    "doc_id": "vneconomy_en_20261121_dcfa431e05",
+    "sent_idx": 48,
+    "text": "Third, assess regulatory impacts and prevent supply chain disruptions.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261121_dcfa431e05#49",
+    "doc_id": "vneconomy_en_20261121_dcfa431e05",
+    "sent_idx": 49,
+    "text": "Before introducing additional obligations, authorities should assess compliance costs, application-processing and testing capacity, potential bottlenecks, reduced product shelf life, and supply shortages.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261121_dcfa431e05#50",
+    "doc_id": "vneconomy_en_20261121_dcfa431e05",
+    "sent_idx": 50,
+    "text": "Transition periods should reflect production and import cycles.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261121_dcfa431e05#51",
+    "doc_id": "vneconomy_en_20261121_dcfa431e05",
+    "sent_idx": 51,
+    "text": "Businesses submitting complete applications on time should be allowed to continue operating while awaiting approval, except where food safety concerns justify enforcement action.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261121_dcfa431e05#52",
+    "doc_id": "vneconomy_en_20261121_dcfa431e05",
+    "sent_idx": 52,
+    "text": "Legally-compliant packaging and products should also remain in use to avoid unnecessary waste.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261121_dcfa431e05#53",
+    "doc_id": "vneconomy_en_20261121_dcfa431e05",
+    "sent_idx": 53,
+    "text": "Ultimately, the draft should be judged by whether it better protects public health, improves risk management, and ensures safe food supply at reasonable cost.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261121_dcfa431e05#54",
+    "doc_id": "vneconomy_en_20261121_dcfa431e05",
+    "sent_idx": 54,
+    "text": "R evisions to the Law on Food Safety should address shortcomings in implementation, follow the government's direction to shift from pre-market controls to post-market inspections, streamline administrative procedures, and avoid creating unreasonable trade barriers.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261121_dcfa431e05#55",
+    "doc_id": "vneconomy_en_20261121_dcfa431e05",
+    "sent_idx": 55,
+    "text": "The core problem is that the proposed regulations do not adequately address shortcomings identified during the review of the Law on Food Safety 2010.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261121_dcfa431e05#56",
+    "doc_id": "vneconomy_en_20261121_dcfa431e05",
+    "sent_idx": 56,
+    "text": "To address these shortcomings, the Food and Foodstuff Association of Ho Chi Minh City (FFA) recommends that the drafting committee carefully assess the necessity and impact of new regulations.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261121_dcfa431e05#57",
+    "doc_id": "vneconomy_en_20261121_dcfa431e05",
+    "sent_idx": 57,
+    "text": "New requirements should be introduced only when they directly address the 13 identified shortcomings, are supported by scientific and practical evidence, and undergo impact assessments.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261121_dcfa431e05#58",
+    "doc_id": "vneconomy_en_20261121_dcfa431e05",
+    "sent_idx": 58,
+    "text": "Procedures that do not meet these criteria or align with administrative reform objectives should be excluded.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261121_dcfa431e05#59",
+    "doc_id": "vneconomy_en_20261121_dcfa431e05",
+    "sent_idx": 59,
+    "text": "The FFA also recommends allowing more time to finalize the draft, postponing its adoption from the October 2026 National Assembly session to the May 2027 session.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261121_dcfa431e05#60",
+    "doc_id": "vneconomy_en_20261121_dcfa431e05",
+    "sent_idx": 60,
+    "text": "To prevent import bottlenecks, the current system of one inspection authority, two layers of pre-market controls, and three inspection levels should be retained, rather than the draft's proposed system of two authorities, four layers of pre-market controls, and three progressively-stricter inspection levels.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261121_dcfa431e05#61",
+    "doc_id": "vneconomy_en_20261121_dcfa431e05",
+    "sent_idx": 61,
+    "text": "Inspection frequency should instead be determined by four criteria: product risk levels, businesses' compliance records, possession of advanced quality management certifications, and the presence of warnings or indications of violations.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261121_dcfa431e05#62",
+    "doc_id": "vneconomy_en_20261121_dcfa431e05",
+    "sent_idx": 62,
+    "text": "To avoid registration backlogs, procedures should remain simple, with only three additional types of documentation required where applicable: quality testing reports, advanced quality management certificates for high-risk foods, and authorization letters.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261121_dcfa431e05#63",
+    "doc_id": "vneconomy_en_20261121_dcfa431e05",
+    "sent_idx": 63,
+    "text": "These requirements address issues identified in the review of the existing law.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261121_dcfa431e05#64",
+    "doc_id": "vneconomy_en_20261121_dcfa431e05",
+    "sent_idx": 64,
+    "text": "Registration processing times should not exceed current limits, and registration requirements should not be expanded indiscriminately.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261121_dcfa431e05#65",
+    "doc_id": "vneconomy_en_20261121_dcfa431e05",
+    "sent_idx": 65,
+    "text": "Instead of requiring businesses to renew registrations every five years, a simple renewal notification should suffice.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261121_dcfa431e05#66",
+    "doc_id": "vneconomy_en_20261121_dcfa431e05",
+    "sent_idx": 66,
+    "text": "New regulations should also align with other laws and international practices.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261121_dcfa431e05#67",
+    "doc_id": "vneconomy_en_20261121_dcfa431e05",
+    "sent_idx": 67,
+    "text": "The FFA recommends adopting three risk categories - high, medium, and low - consistent with the Law on Product and Goods Quality and guidance from the Food and Agriculture Organization of the United Nations (FAO).",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261121_dcfa431e05#68",
+    "doc_id": "vneconomy_en_20261121_dcfa431e05",
+    "sent_idx": 68,
+    "text": "The requirement for test reports to explicitly confirm compliance should be removed to ensure consistency with legislation on standards and technical regulations.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261121_dcfa431e05#69",
+    "doc_id": "vneconomy_en_20261121_dcfa431e05",
+    "sent_idx": 69,
+    "text": "Definitions should also be standardized.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261121_dcfa431e05#70",
+    "doc_id": "vneconomy_en_20261121_dcfa431e05",
+    "sent_idx": 70,
+    "text": "Finally, post-market inspection frequency should be clearly established based on the four risk criteria, alongside clearer responsibilities for local authorities and coordination mechanisms across agencies and localities.",
+    "lang": "en",
+    "is_title": false
+  }
+]

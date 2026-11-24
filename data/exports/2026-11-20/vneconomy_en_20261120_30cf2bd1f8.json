@@ -1,0 +1,378 @@
+[
+  {
+    "sent_id": "vneconomy_en_20261120_30cf2bd1f8#0",
+    "doc_id": "vneconomy_en_20261120_30cf2bd1f8",
+    "sent_idx": 0,
+    "text": "Questions about food safety conditions",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vneconomy_en_20261120_30cf2bd1f8#1",
+    "doc_id": "vneconomy_en_20261120_30cf2bd1f8",
+    "sent_idx": 1,
+    "text": "The Ministry of Health (MoH) reviewed 15 years of implementing the Law on Food Safety 2010 and identified several practical shortcomings in Report No. 1244/BC-BYT, dated July 6, 2026.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261120_30cf2bd1f8#2",
+    "doc_id": "vneconomy_en_20261120_30cf2bd1f8",
+    "sent_idx": 2,
+    "text": "Many have been addressed in the draft Law of Food Safety (revised), but some proposed provisions could create additional difficulties for production and business activities.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261120_30cf2bd1f8#3",
+    "doc_id": "vneconomy_en_20261120_30cf2bd1f8",
+    "sent_idx": 3,
+    "text": "The draft Law establishes three food safety inspection methods and introduces two additional layers of pre-market controls.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261120_30cf2bd1f8#4",
+    "doc_id": "vneconomy_en_20261120_30cf2bd1f8",
+    "sent_idx": 4,
+    "text": "Business associations have called for thorough feasibility and impact assessments, warning that increased testing requirements could overwhelm inspection authorities.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261120_30cf2bd1f8#5",
+    "doc_id": "vneconomy_en_20261120_30cf2bd1f8",
+    "sent_idx": 5,
+    "text": "They have also recommended limiting registration requirements for foreign countries, territories, and establishments exporting food to Vietnam to high-risk products, alongside an equivalence recognition mechanism.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261120_30cf2bd1f8#6",
+    "doc_id": "vneconomy_en_20261120_30cf2bd1f8",
+    "sent_idx": 6,
+    "text": "Article 48 of the draft amendments establishes three food safety inspection methods: strict inspection, normal inspection, and reduced inspection.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261120_30cf2bd1f8#7",
+    "doc_id": "vneconomy_en_20261120_30cf2bd1f8",
+    "sent_idx": 7,
+    "text": "Clause 2 authorizes the government to provide detailed regulations.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261120_30cf2bd1f8#8",
+    "doc_id": "vneconomy_en_20261120_30cf2bd1f8",
+    "sent_idx": 8,
+    "text": "Under Clause 3, Article 58. of the draft decree dated October 3, 2026, reduced inspection is defined as document-based inspection of imported products.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261120_30cf2bd1f8#9",
+    "doc_id": "vneconomy_en_20261120_30cf2bd1f8",
+    "sent_idx": 9,
+    "text": "Article 39 of the draft Law also requires inspection authorities to issue a notice confirming compliance for each shipment, except in cases exempt from State food safety inspection under government regulations.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261120_30cf2bd1f8#10",
+    "doc_id": "vneconomy_en_20261120_30cf2bd1f8",
+    "sent_idx": 10,
+    "text": "By comparison, under Clause 1, Article 16, and Clause 1, Article 19, of Decree No. 15/2018/ND-CP, customs authorities randomly select no more than 5 per cent of shipments subject to reduced inspection each year for document checks.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261120_30cf2bd1f8#11",
+    "doc_id": "vneconomy_en_20261120_30cf2bd1f8",
+    "sent_idx": 11,
+    "text": "The draft Law and accompanying decree therefore appear to remove the existing 5 per cent limit.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261120_30cf2bd1f8#12",
+    "doc_id": "vneconomy_en_20261120_30cf2bd1f8",
+    "sent_idx": 12,
+    "text": "Under Clause 1, Article 61, of the draft decree, importers would have to submit documentation to the food import inspection authority and obtain an inspection result notice as a basis for customs clearance.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261120_30cf2bd1f8#13",
+    "doc_id": "vneconomy_en_20261120_30cf2bd1f8",
+    "sent_idx": 13,
+    "text": "The potential impact can be illustrated by considering 100 shipments subject to reduced inspection in one year.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261120_30cf2bd1f8#14",
+    "doc_id": "vneconomy_en_20261120_30cf2bd1f8",
+    "sent_idx": 14,
+    "text": "Under the current 5 per cent limit, a maximum of five shipments would undergo document checks.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261120_30cf2bd1f8#15",
+    "doc_id": "vneconomy_en_20261120_30cf2bd1f8",
+    "sent_idx": 15,
+    "text": "If the proposed procedure applies to every shipment, all 100 would require document checks, representing 20 times the current maximum.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261120_30cf2bd1f8#16",
+    "doc_id": "vneconomy_en_20261120_30cf2bd1f8",
+    "sent_idx": 16,
+    "text": "This comparison concerns the number of shipments inspected, not a conclusion that total costs would increase 20-fold.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261120_30cf2bd1f8#17",
+    "doc_id": "vneconomy_en_20261120_30cf2bd1f8",
+    "sent_idx": 17,
+    "text": "According to the Ho Chi Minh City Food and Foodstuff Association, requiring a notice confirming compliance for every shipment could increase inspection volumes by up to 20-times compared with the current system, under which only 5 per cent of shipments subject to reduced inspection undergo document checks.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261120_30cf2bd1f8#18",
+    "doc_id": "vneconomy_en_20261120_30cf2bd1f8",
+    "sent_idx": 18,
+    "text": "The Association also noted that all three inspection methods in the draft decree represent a higher level of scrutiny than their counterparts under Decree No. 15. Reduced inspection would require document checks for 100 per cent of shipments, equivalent to normal inspection under the existing decree.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261120_30cf2bd1f8#19",
+    "doc_id": "vneconomy_en_20261120_30cf2bd1f8",
+    "sent_idx": 19,
+    "text": "Meanwhile, normal inspection would involve document checks and sampling for selected testing criteria, comparable to strict inspection under Decree No. 15.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261120_30cf2bd1f8#20",
+    "doc_id": "vneconomy_en_20261120_30cf2bd1f8",
+    "sent_idx": 20,
+    "text": "The proposed provisions have not been adequately assessed for feasibility or impact, the Association warned, raising concerns that the increase in testing requirements could overwhelm inspection authorities.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261120_30cf2bd1f8#21",
+    "doc_id": "vneconomy_en_20261120_30cf2bd1f8",
+    "sent_idx": 21,
+    "text": "Another concern is the proposed separation of responsibilities between two inspection agencies.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261120_30cf2bd1f8#22",
+    "doc_id": "vneconomy_en_20261120_30cf2bd1f8",
+    "sent_idx": 22,
+    "text": "Under the current system, a single agency responsible for testing in support of State food safety management also acts as the State inspection authority for imported food, ingredients, additives, and packaging.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261120_30cf2bd1f8#23",
+    "doc_id": "vneconomy_en_20261120_30cf2bd1f8",
+    "sent_idx": 23,
+    "text": "The draft Law separates testing organizations under Article 21 from State inspection authorities for imported food under Article 39.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261120_30cf2bd1f8#24",
+    "doc_id": "vneconomy_en_20261120_30cf2bd1f8",
+    "sent_idx": 24,
+    "text": "The Association cautioned that this could recreate the bottlenecks experienced under Decree No. 46/2026/ND-CP, particularly if responsibilities are unclear, sample and data transfers are delayed, and local Departments of Health lack sufficient personnel and training for the new specialized tasks.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261120_30cf2bd1f8#25",
+    "doc_id": "vneconomy_en_20261120_30cf2bd1f8",
+    "sent_idx": 25,
+    "text": "Under Point d, Clause 2, Article 48, the draft amendments introduce two additional layers of pre-market controls for imported food.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261120_30cf2bd1f8#26",
+    "doc_id": "vneconomy_en_20261120_30cf2bd1f8",
+    "sent_idx": 26,
+    "text": "The government would establish registration requirements for foreign countries and territories, as well as overseas business establishments exporting to Vietnam.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261120_30cf2bd1f8#27",
+    "doc_id": "vneconomy_en_20261120_30cf2bd1f8",
+    "sent_idx": 27,
+    "text": "These requirements would cover food products, additives, processing aids, flavorings, and utensils and packaging materials that come into direct contact with food.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261120_30cf2bd1f8#28",
+    "doc_id": "vneconomy_en_20261120_30cf2bd1f8",
+    "sent_idx": 28,
+    "text": "Consequently, imported food subject to the full requirements could have to pass through four stages: registration of the exporting country; registration of the exporting establishment; product registration or declaration; and inspection of each imported shipment.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261120_30cf2bd1f8#29",
+    "doc_id": "vneconomy_en_20261120_30cf2bd1f8",
+    "sent_idx": 29,
+    "text": "In its comments, the US-ASEAN Business Council (USABC) said these procedures would be particularly difficult and costly, requiring Vietnamese authorities to assess products from exporting countries and conduct on-site inspections of overseas production facilities.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261120_30cf2bd1f8#30",
+    "doc_id": "vneconomy_en_20261120_30cf2bd1f8",
+    "sent_idx": 30,
+    "text": "Inspection procedures at border checkpoints are also being designed to increase inspection frequency and the number of testing criteria.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261120_30cf2bd1f8#31",
+    "doc_id": "vneconomy_en_20261120_30cf2bd1f8",
+    "sent_idx": 31,
+    "text": "The draft requires imported food to receive confirmation of compliance for each shipment before entering Vietnam, except in cases exempted under government regulations.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261120_30cf2bd1f8#32",
+    "doc_id": "vneconomy_en_20261120_30cf2bd1f8",
+    "sent_idx": 32,
+    "text": "The USABC argued that this would effectively leave imported shipments with only two possible outcomes: exemption from inspection or waiting for State approval.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261120_30cf2bd1f8#33",
+    "doc_id": "vneconomy_en_20261120_30cf2bd1f8",
+    "sent_idx": 33,
+    "text": "The approach, it said, runs counter to risk-based management, which classifies products according to different risk levels and applies varying frequencies of random inspection.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261120_30cf2bd1f8#34",
+    "doc_id": "vneconomy_en_20261120_30cf2bd1f8",
+    "sent_idx": 34,
+    "text": "It warned that the proposed requirements could overwhelm businesses, government agencies, and testing service providers, and recommended removing the additional requirements for registration of exporting countries and foreign exporters, while applying random inspections at frequencies proportionate to the risk level of each shipment.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261120_30cf2bd1f8#35",
+    "doc_id": "vneconomy_en_20261120_30cf2bd1f8",
+    "sent_idx": 35,
+    "text": "The Ho Chi Minh City Food and Foodstuff Association also warned that four layers of pre-market controls could create significant bottlenecks for production and business activities.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261120_30cf2bd1f8#36",
+    "doc_id": "vneconomy_en_20261120_30cf2bd1f8",
+    "sent_idx": 36,
+    "text": "Delays in importing finished products, raw materials, and auxiliary materials could force many businesses and manufacturing facilities to suspend operations.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261120_30cf2bd1f8#37",
+    "doc_id": "vneconomy_en_20261120_30cf2bd1f8",
+    "sent_idx": 37,
+    "text": "The Ho Chi Minh City Food and Foodstuff Association recommended introducing new provisions only when they directly address shortcomings in the Law on Food Safety 2010, are supported by scientific and practical evidence, and have undergone impact assessments.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261120_30cf2bd1f8#38",
+    "doc_id": "vneconomy_en_20261120_30cf2bd1f8",
+    "sent_idx": 38,
+    "text": "It also called for retaining the existing framework of one inspection authority, two layers of pre-market controls, and three inspection levels, rather than introducing two inspection authorities and four layers of pre-market controls alongside more stringent inspection requirements.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261120_30cf2bd1f8#39",
+    "doc_id": "vneconomy_en_20261120_30cf2bd1f8",
+    "sent_idx": 39,
+    "text": "The Association further recommended adjusting inspection frequency based on four criteria: risk level, compliance history, possession of advanced quality management certifications, and the presence of warnings or signs of violations.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261120_30cf2bd1f8#40",
+    "doc_id": "vneconomy_en_20261120_30cf2bd1f8",
+    "sent_idx": 40,
+    "text": "In its appraisal report dated October 22, 2026, the National Assembly's Committee on Science, Technology and Environment also recommended removing the mandatory requirement for inspection result notices for every shipment subject to reduced inspection and considering automated confirmation through the National Single Window.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261120_30cf2bd1f8#41",
+    "doc_id": "vneconomy_en_20261120_30cf2bd1f8",
+    "sent_idx": 41,
+    "text": "It also called for incorporating the core requirements of each inspection method and the criteria for switching between methods directly into the Law.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261120_30cf2bd1f8#42",
+    "doc_id": "vneconomy_en_20261120_30cf2bd1f8",
+    "sent_idx": 42,
+    "text": "Regarding registration requirements for foreign countries, territories, and establishments exporting food to Vietnam under Point d, Clause 2, Article 48, the Committee recommended limiting their application to high-risk product categories and introducing an equivalence recognition mechanism.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261120_30cf2bd1f8#43",
+    "doc_id": "vneconomy_en_20261120_30cf2bd1f8",
+    "sent_idx": 43,
+    "text": "During a group discussion on October 24, National Assembly Chairman Tran Thanh Man noted that approximately 32 of the draft law's 74 articles delegate detailed regulations to the government and ministers.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261120_30cf2bd1f8#44",
+    "doc_id": "vneconomy_en_20261120_30cf2bd1f8",
+    "sent_idx": 44,
+    "text": "Several provisions identified as breakthrough reforms remain open-ended, including implementation roadmaps for Good Hygiene Practices, advanced food safety management systems, risk analysis, and inspection methods for imported food.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261120_30cf2bd1f8#45",
+    "doc_id": "vneconomy_en_20261120_30cf2bd1f8",
+    "sent_idx": 45,
+    "text": "He warned that this could result in the National Assembly approving policies without a clear understanding of their substantive requirements or implementation mechanisms.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261120_30cf2bd1f8#46",
+    "doc_id": "vneconomy_en_20261120_30cf2bd1f8",
+    "sent_idx": 46,
+    "text": "Chairman Man therefore called for provisions that are sufficiently developed and clearly defined to be incorporated directly into the Law, with at least the applicable subjects, deadlines, and implementation roadmaps specified.",
+    "lang": "en",
+    "is_title": false
+  }
+]

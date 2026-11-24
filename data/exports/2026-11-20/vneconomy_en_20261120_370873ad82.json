@@ -1,0 +1,154 @@
+[
+  {
+    "sent_id": "vneconomy_en_20261120_370873ad82#0",
+    "doc_id": "vneconomy_en_20261120_370873ad82",
+    "sent_idx": 0,
+    "text": "Vietnam standardizes logistics infrastructure under new ranking criteria",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vneconomy_en_20261120_370873ad82#1",
+    "doc_id": "vneconomy_en_20261120_370873ad82",
+    "sent_idx": 1,
+    "text": "Signed on November 19, 2026, and taking effect on January 8, 2027, Circular No. 71/2026/TT-BCT of the Ministry of Industry and Trade establishes a transparent benchmark to address years of uncoordinated investment and weak regional connectivity.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261120_370873ad82#2",
+    "doc_id": "vneconomy_en_20261120_370873ad82",
+    "sent_idx": 2,
+    "text": "Under the regulation, a logistics center is defined not merely as a storage facility, but as a geographically demarcated zone with integrated technical and technological infrastructure supporting end-to-end operations from storage, consolidation, and customs clearance to distribution and value-added services.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261120_370873ad82#3",
+    "doc_id": "vneconomy_en_20261120_370873ad82",
+    "sent_idx": 3,
+    "text": "Based on scale and supply chain impact, Vietnam ' s logistics centers are classified into three tiers.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261120_370873ad82#4",
+    "doc_id": "vneconomy_en_20261120_370873ad82",
+    "sent_idx": 4,
+    "text": "Grade I centers serve as national and international hubs.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261120_370873ad82#5",
+    "doc_id": "vneconomy_en_20261120_370873ad82",
+    "sent_idx": 5,
+    "text": "They must span at least 20 hectares and handle a minimum annual throughput of 3 million tons, 200,000 TEUs, or 35 million orders.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261120_370873ad82#6",
+    "doc_id": "vneconomy_en_20261120_370873ad82",
+    "sent_idx": 6,
+    "text": "Internal infrastructure must include parking for at least 200 container trucks and two-lane internal roads at least 7 meters wide.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261120_370873ad82#7",
+    "doc_id": "vneconomy_en_20261120_370873ad82",
+    "sent_idx": 7,
+    "text": "Strategically located along expressways or national highways, Grade I hubs must integrate at least two transport modes among road, sea, inland waterway, rail, and air, and provide at least half of government-regulated logistics services.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261120_370873ad82#8",
+    "doc_id": "vneconomy_en_20261120_370873ad82",
+    "sent_idx": 8,
+    "text": "Grade II centers act as regional connectors within the country's key economic zones, covering 10 to under 20 hectares with an annual capacity of 1 million to under 3 million tons.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261120_370873ad82#9",
+    "doc_id": "vneconomy_en_20261120_370873ad82",
+    "sent_idx": 9,
+    "text": "They must link directly to at least one transport mode and offer at least 30 percent of prescribed logistics services.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261120_370873ad82#10",
+    "doc_id": "vneconomy_en_20261120_370873ad82",
+    "sent_idx": 10,
+    "text": "Grade III centers, spanning 3 to under 10 hectares with throughput under 1 million tons per year, handle intra-provincial and urban distribution, linking production zones with local consumer markets.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261120_370873ad82#11",
+    "doc_id": "vneconomy_en_20261120_370873ad82",
+    "sent_idx": 11,
+    "text": "In addition to this three-tier hierarchy, the circular defines five specialized logistics center categories, all requiring at least 3 hectares and three basic logistics services.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261120_370873ad82#12",
+    "doc_id": "vneconomy_en_20261120_370873ad82",
+    "sent_idx": 12,
+    "text": "A standout feature of Circular 71 is the mandatory inclusion of digital transformation, cybersecurity, and green sustainability criteria.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261120_370873ad82#13",
+    "doc_id": "vneconomy_en_20261120_370873ad82",
+    "sent_idx": 13,
+    "text": "Grade I centers must operate level-1 warehouse management systems, round-the-clock surveillance, smart-card access control, redundant telecom lines from at least two independent providers, and backup power capable of sustaining specialized warehouses, security, and last-mile traffic coordination for at least 24 hours.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261120_370873ad82#14",
+    "doc_id": "vneconomy_en_20261120_370873ad82",
+    "sent_idx": 14,
+    "text": "Grade II and III centers must automate and electronically link at least 30 percent and 10 percent of core processes, respectively.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261120_370873ad82#15",
+    "doc_id": "vneconomy_en_20261120_370873ad82",
+    "sent_idx": 15,
+    "text": "On sustainability, Grade I hubs are required to use renewable energy, while Grade II and III facilities must establish clear clean-energy transition roadmaps.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261120_370873ad82#16",
+    "doc_id": "vneconomy_en_20261120_370873ad82",
+    "sent_idx": 16,
+    "text": "All tiers must install standard-compliant wastewater treatment systems, packaging recycling processes, and electric vehicle charging stations.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261120_370873ad82#17",
+    "doc_id": "vneconomy_en_20261120_370873ad82",
+    "sent_idx": 17,
+    "text": "Rather than adding administrative licensing hurdles, the circular introduces a self-assessment and self-declaration mechanism.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261120_370873ad82#18",
+    "doc_id": "vneconomy_en_20261120_370873ad82",
+    "sent_idx": 18,
+    "text": "Operators determine their own classification and publicly disclose infrastructure capacity, technical standards, and sustainability commitments on the national trade infrastructure database at TradeNode.vn.",
+    "lang": "en",
+    "is_title": false
+  }
+]

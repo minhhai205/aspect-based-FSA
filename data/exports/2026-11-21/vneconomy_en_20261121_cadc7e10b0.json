@@ -1,0 +1,98 @@
+[
+  {
+    "sent_id": "vneconomy_en_20261121_cadc7e10b0#0",
+    "doc_id": "vneconomy_en_20261121_cadc7e10b0",
+    "sent_idx": 0,
+    "text": "Hai Phong targets 13-13.5% economic growth in 2027",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vneconomy_en_20261121_cadc7e10b0#1",
+    "doc_id": "vneconomy_en_20261121_cadc7e10b0",
+    "sent_idx": 1,
+    "text": "The northern port city of Hai Phong aims to achieve gross regional domestic product (GRDP) growth of 13-13.5% in 2027, exceeding the estimated 12.39% growth in 2026, according to the city's proposed socio-economic development plan.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261121_cadc7e10b0#2",
+    "doc_id": "vneconomy_en_20261121_cadc7e10b0",
+    "sent_idx": 2,
+    "text": "Industry and construction are expected to grow by 15.5-16%, compared with an estimated 14.36% in 2026, while services are projected to expand by 11.5-12%, against 11.31%.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261121_cadc7e10b0#3",
+    "doc_id": "vneconomy_en_20261121_cadc7e10b0",
+    "sent_idx": 3,
+    "text": "Agriculture, forestry and fisheries are targeted to grow by 2.4%, up from an estimated 2.3%.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261121_cadc7e10b0#4",
+    "doc_id": "vneconomy_en_20261121_cadc7e10b0",
+    "sent_idx": 4,
+    "text": "Manufacturing, seaports, logistics, trade and services will remain key growth drivers.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261121_cadc7e10b0#5",
+    "doc_id": "vneconomy_en_20261121_cadc7e10b0",
+    "sent_idx": 5,
+    "text": "The city targets a 16-16.5% increase in its industrial production index (IIP), compared with an estimated 15.2-15.5% in 2026.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261121_cadc7e10b0#6",
+    "doc_id": "vneconomy_en_20261121_cadc7e10b0",
+    "sent_idx": 6,
+    "text": "Manufacturing is expected to account for 46% of GRDP, up from an estimated 44.41%.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261121_cadc7e10b0#7",
+    "doc_id": "vneconomy_en_20261121_cadc7e10b0",
+    "sent_idx": 7,
+    "text": "Hai Phong also aims to increase export turnover to $61 billion in 2027, up from an estimated $55.6 billion in 2026.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261121_cadc7e10b0#8",
+    "doc_id": "vneconomy_en_20261121_cadc7e10b0",
+    "sent_idx": 8,
+    "text": "Cargo throughput at its ports is targeted at 258 million tons, an increase of 19.8 million tons.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261121_cadc7e10b0#9",
+    "doc_id": "vneconomy_en_20261121_cadc7e10b0",
+    "sent_idx": 9,
+    "text": "The city also aims to attract $4.5-5 billion in foreign investment in 2027, up from an estimated $4.2-4.3 billion in 2026.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261121_cadc7e10b0#10",
+    "doc_id": "vneconomy_en_20261121_cadc7e10b0",
+    "sent_idx": 10,
+    "text": "Meanwhile, the digital economy is expected to account for 25.5% of GRDP, compared with an estimated 22.6% in 2026",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261121_cadc7e10b0#11",
+    "doc_id": "vneconomy_en_20261121_cadc7e10b0",
+    "sent_idx": 11,
+    "text": "The city expects to welcome 19 million tourist arrivals, including 2.1 million international visitors staying at local accommodation establishments.",
+    "lang": "en",
+    "is_title": false
+  }
+]
