@@ -1,0 +1,4386 @@
+[
+  {
+    "sent_id": "vneconomy_en_20261025_9a09d7a4f7#28",
+    "doc_id": "vneconomy_en_20261025_9a09d7a4f7",
+    "sent_idx": 28,
+    "text": "VietinBank plans to leverage its existing partner and customer ecosystem to expand acceptance points, with the broader goal of making payments part of the flow of the economy.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261026_e1cd9c05f1#0",
+    "doc_id": "vietnamnews_20261026_e1cd9c05f1",
+    "sent_idx": 0,
+    "text": "Sell-off risks rise as VN-Index nears resistance: experts",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261026_e1cd9c05f1#1",
+    "doc_id": "vietnamnews_20261026_e1cd9c05f1",
+    "sent_idx": 1,
+    "text": "HÀ NỘI - The domestic stock market posted a strong recovery last week, with the VN-Index rising 4 per cent after finding support around 1,680 points early in the week and recording four consecutive gaining sessions following a month-long correction.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261026_e1cd9c05f1#3",
+    "doc_id": "vietnamnews_20261026_e1cd9c05f1",
+    "sent_idx": 3,
+    "text": "Average trading volume on the Hochiminh Stock Exchange (HoSE) reached nearly 712 million shares per session, up 22.2 per cent from the previous week.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261026_e1cd9c05f1#4",
+    "doc_id": "vietnamnews_20261026_e1cd9c05f1",
+    "sent_idx": 4,
+    "text": "On the Hanoi Stock Exchange (HNX), the HNX-Index rose 3.57 points, or 1.38 per cent, to 262.70 points, with average trading volume increasing 29.6 per cent week-on-week to 60.9 million shares per session.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261026_e1cd9c05f1#12",
+    "doc_id": "vietnamnews_20261026_e1cd9c05f1",
+    "sent_idx": 12,
+    "text": "\"The VN-Index closed the week near its highest level, accompanied by improved liquidity,\" Hinh said.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261026_323b2fdb64#13",
+    "doc_id": "vietnamnews_20261026_323b2fdb64",
+    "sent_idx": 13,
+    "text": "According to its third-quarter 2026 financial report, LPBank recorded an outstanding CD balance of VNĐ65.85 trillion as of September 30, 2026.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261026_d52c50da3e#0",
+    "doc_id": "vietnamnews_20261026_d52c50da3e",
+    "sent_idx": 0,
+    "text": "Vietjet expands its international network",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261026_d52c50da3e#1",
+    "doc_id": "vietnamnews_20261026_d52c50da3e",
+    "sent_idx": 1,
+    "text": "TAINAN - Vietjet has launched its direct Hà Nội-Tainan route, further expanding air connectivity between Việt Nam and Taiwan (China), the airline has announced.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261026_3af7d51de0#0",
+    "doc_id": "vietnamnews_20261026_3af7d51de0",
+    "sent_idx": 0,
+    "text": "SABECO ranked Việt Nam's most reputable alcoholic beverage company in 2026",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261026_3af7d51de0#1",
+    "doc_id": "vietnamnews_20261026_3af7d51de0",
+    "sent_idx": 1,
+    "text": "HÀ NỘI - Saigon Beer-Alcohol-Beverage Corporation (SABECO) has been named Việt Nam's most reputable alcoholic beverage company in 2026 by Vietnam Report, maintaining its position at the top of the ranking for several consecutive years.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261026_3af7d51de0#6",
+    "doc_id": "vietnamnews_20261026_3af7d51de0",
+    "sent_idx": 6,
+    "text": "SABECO ranked first in the alcoholic beverage category based on criteria including financial capacity, media reputation and market credibility, as assessed through surveys of consumers and other stakeholders.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261026_8ca6ab927c#2",
+    "doc_id": "vietnamnews_20261026_8ca6ab927c",
+    "sent_idx": 2,
+    "text": "The VN-Index on the Hochiminh Stock Exchange (HoSE) lost 10.6 points to close at 1,763.55 points.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261026_8ca6ab927c#8",
+    "doc_id": "vietnamnews_20261026_8ca6ab927c",
+    "sent_idx": 8,
+    "text": "Eximbank (EIB) fell 3.92 per cent, followed by VPBank (VPB), down 2.07 per cent, Sahabank (SHB), down 1.83 per cent, and VIB, down 1.76 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261026_8ca6ab927c#9",
+    "doc_id": "vietnamnews_20261026_8ca6ab927c",
+    "sent_idx": 9,
+    "text": "HDBank (HDB) dropped 1.55 per cent, Sacombank (STB) lost 1.31 per cent, MBBank (MBB) fell 1.26 per cent, and Vietcombank (VCB) declined 1.23 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261026_8ca6ab927c#10",
+    "doc_id": "vietnamnews_20261026_8ca6ab927c",
+    "sent_idx": 10,
+    "text": "Techcombank (TCB) slipped 1.17 per cent, VietinBank (CTG) lost 1.13 per cent, and BIDV (BID) fell 1.46 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261026_8ca6ab927c#11",
+    "doc_id": "vietnamnews_20261026_8ca6ab927c",
+    "sent_idx": 11,
+    "text": "The declines came as deposit interest rates were being adjusted in line with directives from the State Bank of Vietnam (SBV).",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261026_8ca6ab927c#13",
+    "doc_id": "vietnamnews_20261026_8ca6ab927c",
+    "sent_idx": 13,
+    "text": "Saigon - Hanoi Securities (SHS) and Tien Phong Securities (ORS) each fell 3.13 per cent, while Vietcap Securities (VCI) declined 2.3 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261026_8ca6ab927c#14",
+    "doc_id": "vietnamnews_20261026_8ca6ab927c",
+    "sent_idx": 14,
+    "text": "VIX Securities (VIX) lost 1.57 per cent, VNDirect Securities (VND) fell 1.45 per cent and SSI Securities (SSI) slipped 0.75 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261026_8ca6ab927c#16",
+    "doc_id": "vietnamnews_20261026_8ca6ab927c",
+    "sent_idx": 16,
+    "text": "Dat Xanh Group (DXG) fell 3.35 per cent, Vincom Retail (VRE) declined 2.8 per cent, Development Investment Construction (DIG) lost 1.97 per cent, Vinhomes (VHM) slipped 0.62 per cent and Novaland (NVL) edged down 0.47 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261026_8ca6ab927c#17",
+    "doc_id": "vietnamnews_20261026_8ca6ab927c",
+    "sent_idx": 17,
+    "text": "Vingroup (VIC) moved against the trend, rising 0.21 per cent, while Viglacera (VGC) gained 4.04 per cent and Vietjet Air (VJC) advanced 1.77 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261026_8ca6ab927c#19",
+    "doc_id": "vietnamnews_20261026_8ca6ab927c",
+    "sent_idx": 19,
+    "text": "PetroVietnam Refining and Petrochemical (BSR) rose 1.2 per cent, while Petrolimex (PLX) and PetroVietnam Gas (GAS) each gained 0.56 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261026_8ca6ab927c#20",
+    "doc_id": "vietnamnews_20261026_8ca6ab927c",
+    "sent_idx": 20,
+    "text": "PV Drilling (PVD) edged up 0.27 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_08ec0b8f67#2",
+    "doc_id": "vietnamnews_20261027_08ec0b8f67",
+    "sent_idx": 2,
+    "text": "The proposal comes as the MoIT, in the 14th draft of a decree on petroleum trading, has proposed removing the fund from the list of price stabilisation measures and ending contributions and disbursements from January 1, 2027.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_08ec0b8f67#13",
+    "doc_id": "vietnamnews_20261027_08ec0b8f67",
+    "sent_idx": 13,
+    "text": "In April, the MoIT issued regulations governing the advance, contributions and disbursements, and repayment to the state budget.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_9ce9f0f318#4",
+    "doc_id": "vietnamnews_20261027_9ce9f0f318",
+    "sent_idx": 4,
+    "text": "Techcom Securities (TCBS) led the market, with margin loans of nearly VNĐ54.4 trillion at the end of the third quarter, up around 26 per cent from the beginning of the year.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_9ce9f0f318#10",
+    "doc_id": "vietnamnews_20261027_9ce9f0f318",
+    "sent_idx": 10,
+    "text": "SSI ranked third, with margin loans of VNĐ38.1 trillion, around VNĐ1.6 trillion below VPBankS.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_9ce9f0f318#11",
+    "doc_id": "vietnamnews_20261027_9ce9f0f318",
+    "sent_idx": 11,
+    "text": "Unlike the two leading firms, SSI recorded a slight contraction, with its margin balance falling by about VNĐ494 billion compared with the end of 2025.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_9ce9f0f318#24",
+    "doc_id": "vietnamnews_20261027_9ce9f0f318",
+    "sent_idx": 24,
+    "text": "Despite Việt Nam's official upgrade by FTSE Russell to secondary emerging-market status from September 21, selling pressure intensified in the final sessions of the month, pushing the VN-Index below key support levels.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_9ce9f0f318#26",
+    "doc_id": "vietnamnews_20261027_9ce9f0f318",
+    "sent_idx": 26,
+    "text": "According to Saigon-Hanoi Securities (SHS), trading value on the Hochiminh Stock Exchange (HoSE) fell 22.3 per cent quarter-on-quarter in the third quarter.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_9ce9f0f318#27",
+    "doc_id": "vietnamnews_20261027_9ce9f0f318",
+    "sent_idx": 27,
+    "text": "In September only, the VN-Index declined around 3.5 per cent, while market liquidity fell for a fourth consecutive month.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261027_8c41e3be51#1",
+    "doc_id": "vneconomy_en_20261027_8c41e3be51",
+    "sent_idx": 1,
+    "text": "The Ministry of Finance has issued Decision No. 3040/QD-BTC approving a restructuring plan for eight administrative procedures in the field of social insurance.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_9e5e734d85#0",
+    "doc_id": "vietnamnews_20261027_9e5e734d85",
+    "sent_idx": 0,
+    "text": "Cà Mau signs investment cooperation deal with TH Group",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261027_c5ccbe543c#0",
+    "doc_id": "vietnamnews_20261027_c5ccbe543c",
+    "sent_idx": 0,
+    "text": "VN-Index down slightly due to lingering selling pressure",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261027_c5ccbe543c#2",
+    "doc_id": "vietnamnews_20261027_c5ccbe543c",
+    "sent_idx": 2,
+    "text": "On the Hochiminh Stock Exchange (HoSE), the VN-Index closed down slightly 1.68 points to 1,761.87 points, while the HNX-Index on the Hanoi Stock Exchange (HNX) edged up 0.18 points to 259.50 points.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_c5ccbe543c#3",
+    "doc_id": "vietnamnews_20261027_c5ccbe543c",
+    "sent_idx": 3,
+    "text": "Trading value on the HoSE remained at a low level, reaching over VNĐ13.9 trillion (US$540 million), up 2.91 per cent from the previous session.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_c5ccbe543c#5",
+    "doc_id": "vietnamnews_20261027_c5ccbe543c",
+    "sent_idx": 5,
+    "text": "The VN30-Index, tracking the 30 biggest stocks on the HoSE, also fell slightly by 1.13 points to 1,888.4 points.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_c5ccbe543c#10",
+    "doc_id": "vietnamnews_20261027_c5ccbe543c",
+    "sent_idx": 10,
+    "text": "VPBank (VPB) fell by 1.69 per cent, HDBank (HDB) declined by 0.9 per cent, Techcombank (TCB) lost 0.74 per cent, SeABank (SSB) slipped by 0.63 per cent and VietinBank (CTG) fell by 0.82 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_c5ccbe543c#11",
+    "doc_id": "vietnamnews_20261027_c5ccbe543c",
+    "sent_idx": 11,
+    "text": "In contrast, Maritime Bank (MSB) gained 1.61 per cent, Nam A Bank (NAB) rose by 1.2 per cent, VIB advanced 1.08 per cent, Sahabank (SHB) increased by 0.93 per cent and MBBank (MBB) added 0.51 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_c5ccbe543c#14",
+    "doc_id": "vietnamnews_20261027_c5ccbe543c",
+    "sent_idx": 14,
+    "text": "Hoa Phat Group (HPG) rose by 0.48 per cent, Hoa Sen Group (HSG) gained 0.91 per cent, Nam Kim Steel (NKG) advanced 2.12 per cent, and HHP Global JSC (HHP) climbed by 3.51 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_c5ccbe543c#15",
+    "doc_id": "vietnamnews_20261027_c5ccbe543c",
+    "sent_idx": 15,
+    "text": "Other materials stocks also attracted buying interest, with Masan High-Tech Materials (MSR) surging 5.48 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_2991245b05#0",
+    "doc_id": "vietnamnews_20261027_2991245b05",
+    "sent_idx": 0,
+    "text": "Fitch upgrades Techcombank's rating, boosting global market position",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261027_2991245b05#3",
+    "doc_id": "vietnamnews_20261027_2991245b05",
+    "sent_idx": 3,
+    "text": "Fitch said it had raised its assessment of Techcombank's asset quality to bb from bb-, citing the bank's sustained credit resilience.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_2991245b05#10",
+    "doc_id": "vietnamnews_20261027_2991245b05",
+    "sent_idx": 10,
+    "text": "The ratings upgrade could help Techcombank strengthen its standing among international investors and broaden access to overseas funding sources.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_2991245b05#15",
+    "doc_id": "vietnamnews_20261027_2991245b05",
+    "sent_idx": 15,
+    "text": "Techcombank reported pre-tax profit of nearly VNĐ22.8 trillion (US$906 million) in the first nine months of 2026, supported by credit growth, a high CASA ratio and sustained growth in service income.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261028_c8c41a6be6#18",
+    "doc_id": "vneconomy_en_20261028_c8c41a6be6",
+    "sent_idx": 18,
+    "text": "To achieve 2026 targets, the Ministry of Science and Technology urged localities to review disbursement delays, issue management regulations under provincial jurisdiction, and update weekly disbursement figures with the State Treasury.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_3b761736fd#0",
+    "doc_id": "vietnamnews_20261028_3b761736fd",
+    "sent_idx": 0,
+    "text": "EVN directed to cut electricity prices from next month",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vneconomy_en_20261028_b66cf1e08d#6",
+    "doc_id": "vneconomy_en_20261028_b66cf1e08d",
+    "sent_idx": 6,
+    "text": "The Ministry of Industry and Trade is required to ensure the implementation schedule from November 1 and report to the competent authorities on issues beyond its jurisdiction.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261028_b66cf1e08d#11",
+    "doc_id": "vneconomy_en_20261028_b66cf1e08d",
+    "sent_idx": 11,
+    "text": "When the electricity price decreases by 1% or more or increases by 2% to less than 5%, EVN must submit a plan for the Ministry of Industry and Trade to review and provide written feedback before making a decision.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261028_b66cf1e08d#17",
+    "doc_id": "vneconomy_en_20261028_b66cf1e08d",
+    "sent_idx": 17,
+    "text": "When necessary, the Ministry of Industry and Trade will coordinate with the Price Steering Committee before submitting to the Government.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261028_b66cf1e08d#20",
+    "doc_id": "vneconomy_en_20261028_b66cf1e08d",
+    "sent_idx": 20,
+    "text": "For the gasoline tax plan, the Ministry of Finance is tasked with leading and coordinating with the Ministry of Industry and Trade, the Ministry of Justice, and related agencies to review the legal basis, authority, and fully assess the impact and feasibility of reducing the special consumption tax on gasoline to 0%.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_30c1af4bc4#0",
+    "doc_id": "vietnamnews_20261028_30c1af4bc4",
+    "sent_idx": 0,
+    "text": "VIB reports 8% rise in nine-month pre-tax profit",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261028_30c1af4bc4#1",
+    "doc_id": "vietnamnews_20261028_30c1af4bc4",
+    "sent_idx": 1,
+    "text": "HÀ NỘI - Vietnam International Bank (VIB) reported pre-tax profit of nearly VNĐ7.6 trillion (US$288 million) in the first nine months of 2026, up 8 per cent from a year earlier, as operating income rose and expenses declined.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_30c1af4bc4#3",
+    "doc_id": "vietnamnews_20261028_30c1af4bc4",
+    "sent_idx": 3,
+    "text": "VIB's total assets reached nearly VNĐ600 trillion at the end of September, up 8 per cent from the start of the year.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_30c1af4bc4#16",
+    "doc_id": "vietnamnews_20261028_30c1af4bc4",
+    "sent_idx": 16,
+    "text": "VIB recorded more than VNĐ4.3 trillion in credit loss provisions during the period.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_6126a014e1#0",
+    "doc_id": "vietnamnews_20261028_6126a014e1",
+    "sent_idx": 0,
+    "text": "VN-Index ticks up as banking stocks support market",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261028_6126a014e1#2",
+    "doc_id": "vietnamnews_20261028_6126a014e1",
+    "sent_idx": 2,
+    "text": "On the Hochiminh Stock Exchange (HoSE), the VN-Index closed at 1,766.65 points, up 4.78 points.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_6126a014e1#6",
+    "doc_id": "vietnamnews_20261028_6126a014e1",
+    "sent_idx": 6,
+    "text": "Vietcombank (VCB) rose 2.5 per cent, while HDBank (HDB) advanced 3.86 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_6126a014e1#7",
+    "doc_id": "vietnamnews_20261028_6126a014e1",
+    "sent_idx": 7,
+    "text": "TPBank (TPB) gained 2.36 per cent, Maritime Bank (MSB) increased 1.59 per cent, VPBank (VPB) climbed 1.29 per cent and VietinBank (CTG) added 1.15 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_6126a014e1#9",
+    "doc_id": "vietnamnews_20261028_6126a014e1",
+    "sent_idx": 9,
+    "text": "VCB made the largest positive contribution among the banking stocks, adding approximately 2.41 points to the VN-Index.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_6126a014e1#10",
+    "doc_id": "vietnamnews_20261028_6126a014e1",
+    "sent_idx": 10,
+    "text": "HDB followed with a contribution of 1.14 points, while VPB and CTG added 0.62 points and 0.56 points, respectively.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_6126a014e1#12",
+    "doc_id": "vietnamnews_20261028_6126a014e1",
+    "sent_idx": 12,
+    "text": "Eximbank (EIB) fell 1.48 per cent, SHB declined 1.39 per cent, BIDV (BID) lost 0.85 per cent and Techcombank (TCB) slipped 0.15 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_6126a014e1#13",
+    "doc_id": "vietnamnews_20261028_6126a014e1",
+    "sent_idx": 13,
+    "text": "Outside the banking sector, Vingroup (VIC) rose 0.33 per cent, contributing approximately 1.28 points to the benchmark.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_6126a014e1#15",
+    "doc_id": "vietnamnews_20261028_6126a014e1",
+    "sent_idx": 15,
+    "text": "PV Gas (GAS) fell 1.62 per cent, subtracting around 0.60 points from the benchmark, while FPT Corporation (FPT) declined 1.07 per cent, reducing the index by 0.54 points.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_6126a014e1#16",
+    "doc_id": "vietnamnews_20261028_6126a014e1",
+    "sent_idx": 16,
+    "text": "Hoa Phat Group (HPG) dropped 1.19 per cent, taking away around 0.43 points.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_6126a014e1#19",
+    "doc_id": "vietnamnews_20261028_6126a014e1",
+    "sent_idx": 19,
+    "text": "On the Hanoi Stock Exchange (HNX), the HNX-Index also finished higher at 259.86 points, up 0.36 points.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_1d8fc3a5b7#1",
+    "doc_id": "vietnamnews_20261028_1d8fc3a5b7",
+    "sent_idx": 1,
+    "text": "HÀ NỘI - The Ministry of Science and Technology has urged local authorities to accelerate disbursement of the budget for science, technology, innovation and digital transformation as the workload remains huge in the remaining months of this year.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261028_79d5250044#4",
+    "doc_id": "vneconomy_en_20261028_79d5250044",
+    "sent_idx": 4,
+    "text": "Specifically, Decree 396 stipulates that for facilities allocated greenhouse gas emission quotas, agencies, and organizations participating in programs and projects registered under the mechanisms of this decree, and agencies and organizations involved in forest carbon projects with forest areas spanning two or more provincial administrative units, the Ministry of Agriculture and Environment will issue accounts on the national registration system and provide information to the facilities, agencies, and organizations.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_e908cc53b1#3",
+    "doc_id": "vietnamnews_20261028_e908cc53b1",
+    "sent_idx": 3,
+    "text": "Lawmakers said Việt Nam's stock market had made significant contributions to the economy over the past 30 years, becoming an important channel for businesses to raise capital.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261029_3182f6a8da#1",
+    "doc_id": "vietnamnews_20261029_3182f6a8da",
+    "sent_idx": 1,
+    "text": "HÀ NỘI - The Ministry of Finance has proposed expanding the obligation to disclose securities-related information in English and incorporate requirements for sustainability (ESG) reporting for listed companies.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261029_87f4c43b20#0",
+    "doc_id": "vietnamnews_20261029_87f4c43b20",
+    "sent_idx": 0,
+    "text": "SABECO named Asia's Brewer of the Year, putting Việt Nam on the global brewing map",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261029_87f4c43b20#1",
+    "doc_id": "vietnamnews_20261029_87f4c43b20",
+    "sent_idx": 1,
+    "text": "HÀ NỘI - Saigon Beer - Alcohol - Beverage Corporation (SABECO) has won several awards at the 2026 International Beer Challenge (IBC), highlighting the Vietnamese brewer's production expertise, consistent quality and growing global competitiveness and underscoring the rising profile of Việt Nam's beer industry worldwide.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261029_87f4c43b20#18",
+    "doc_id": "vietnamnews_20261029_87f4c43b20",
+    "sent_idx": 18,
+    "text": "\"SABECO will continue to strengthen its technical capabilities, develop its workforce and improve product quality to better meet consumer expectations,\" An added.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261029_87f4c43b20#26",
+    "doc_id": "vietnamnews_20261029_87f4c43b20",
+    "sent_idx": 26,
+    "text": "As it consolidates its position in the domestic market, SABECO is also gaining increasing international recognition for the quality and reputation of its beer brands, which are now available in 40 markets worldwide.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261029_2f3ea29fc2#18",
+    "doc_id": "vneconomy_en_20261029_2f3ea29fc2",
+    "sent_idx": 18,
+    "text": "In contrast, Samsung and domestic dairy major Vinamilk posted the strongest growth rates in the group, soaring 98.70% and 225.86% year-on-year, respectively.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261029_392493175c#1",
+    "doc_id": "vneconomy_en_20261029_392493175c",
+    "sent_idx": 1,
+    "text": "The Ministry of Construction has submitted investment proposals to the National Assembly for two expressway projects, Bao Ha-Tan Phong and Moc Chau-Son La-Dien Bien in Vietnam's northern mountainous region, with a combined preliminary investment of more than VND114 trillion ($4.33 billion).",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261029_b5f6e37719#5",
+    "doc_id": "vietnamnews_20261029_b5f6e37719",
+    "sent_idx": 5,
+    "text": "HCM City People's Committee Vice Chairman Bùi Minh Thạnh said the city wants to expand cooperation beyond capital provision towards transferring advanced technology, management expertise and innovation capacity, helping Vietnamese enterprises improve their position in the global value chain.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261029_b286c04ff1#5",
+    "doc_id": "vietnamnews_20261029_b286c04ff1",
+    "sent_idx": 5,
+    "text": "The Ministry of Industry and Trade will coordinate with relevant agencies to inspect and supervise traders' fulfilment of their responsibilities to ensure adequate fuel supplies for the market and strictly handle any violations detected.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261029_1e66f9753d#1",
+    "doc_id": "vietnamnews_20261029_1e66f9753d",
+    "sent_idx": 1,
+    "text": "HCM CITY - CMA CGM, Nike and Gemadept have launched a fully electric barge service in Việt Nam to reduce emissions from inland transport.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261029_b4b9a157a1#10",
+    "doc_id": "vietnamnews_20261029_b4b9a157a1",
+    "sent_idx": 10,
+    "text": "The agency said that the Ministry of Industry and Trade is drafting a goods import-export strategy through 2030, with a vision to 2045.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261029_61c45bc84e#1",
+    "doc_id": "vneconomy_en_20261029_61c45bc84e",
+    "sent_idx": 1,
+    "text": "A collaborative project to deploy an electric barge between CMA CGM, Nike, and Gemadept was announced on October 29, marking a significant milestone in realizing green transition commitments.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261030_c3f13a0e53#2",
+    "doc_id": "vietnamnews_20261030_c3f13a0e53",
+    "sent_idx": 2,
+    "text": "On the Hochiminh Stock Exchange, the VN-Index closed down 0.62 per cent at 1,755.61.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261030_c3f13a0e53#3",
+    "doc_id": "vietnamnews_20261030_c3f13a0e53",
+    "sent_idx": 3,
+    "text": "The HNX-Index on the Hanoi Stock Exchange fell 1.25 per cent to 256.61, while the UPCoM-Index lost 1.3 per cent to 124.1.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261030_c3f13a0e53#9",
+    "doc_id": "vietnamnews_20261030_c3f13a0e53",
+    "sent_idx": 9,
+    "text": "Other major decliners included Bình Sơn Refining and Petrochemical Joint Stock Company (BSR), down 3.83 per cent; Petrolimex (PLX), down 3.82 per cent; and PetroVietnam Oil Corporation (OIL) lost 2.31 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261030_c3f13a0e53#11",
+    "doc_id": "vietnamnews_20261030_c3f13a0e53",
+    "sent_idx": 11,
+    "text": "Essential consumer goods shares also weakened, with Masan Group (MSN) losing 2.83 per cent and Masan Consumer Corporation (MCH) falling 1.79 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261030_c3f13a0e53#12",
+    "doc_id": "vietnamnews_20261030_c3f13a0e53",
+    "sent_idx": 12,
+    "text": "Industrial stocks came under pressure, with Gemadept Corporation (GMD) down 3.52 per cent and Vietnam Container Shipping Joint Stock Corporation (VSC) losing 4.83 per cent",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261030_c3f13a0e53#14",
+    "doc_id": "vietnamnews_20261030_c3f13a0e53",
+    "sent_idx": 14,
+    "text": "Techcombank (TCB) recorded the largest net foreign selling, at more than VNĐ118 billion, followed by FPT at nearly VNĐ115 billion and SSI Securities Corporation at nearly VNĐ79 billion.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261030_c3f13a0e53#15",
+    "doc_id": "vietnamnews_20261030_c3f13a0e53",
+    "sent_idx": 15,
+    "text": "On the buying side, VPBank led with net foreign purchases of more than VNĐ83 billion, followed by Hòa Phát Group (HPG) at over VNĐ63 billion, and Saigon-Hanoi Bank (SHB) at more than VNĐ43 billion.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261030_59557207ef#0",
+    "doc_id": "vneconomy_en_20261030_59557207ef",
+    "sent_idx": 0,
+    "text": "Petrovietnam accelerates strategic solutions for extraction, green transition",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vneconomy_en_20261030_59557207ef#7",
+    "doc_id": "vneconomy_en_20261030_59557207ef",
+    "sent_idx": 7,
+    "text": "With the new Petroleum Law, Petrovietnam expects to have more favorable conditions to exploit domestic resources more effectively.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261030_59557207ef#11",
+    "doc_id": "vneconomy_en_20261030_59557207ef",
+    "sent_idx": 11,
+    "text": "Given the limitations of domestic extraction potential, Petrovietnam will continue to expand its oil and gas exploration and extraction activities abroad.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261030_59557207ef#15",
+    "doc_id": "vneconomy_en_20261030_59557207ef",
+    "sent_idx": 15,
+    "text": "Petrovietnam is also preparing to develop an offshore wind power ecosystem, not only through project investments but also by building capacity to participate in the supply chain and provide services for this sector.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261030_59557207ef#31",
+    "doc_id": "vneconomy_en_20261030_59557207ef",
+    "sent_idx": 31,
+    "text": "Alongside growth and energy security goals, Petrovietnam also aims to develop emission reduction solutions in production and business activities.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261030_59557207ef#38",
+    "doc_id": "vneconomy_en_20261030_59557207ef",
+    "sent_idx": 38,
+    "text": "In the long term, Petrovietnam also aims towards low-emission energy and fuel forms such as hydrogen and green ammonia, thereby expanding emission reduction capabilities in energy production and use sectors.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261030_13a9776771#1",
+    "doc_id": "vietnamnews_20261030_13a9776771",
+    "sent_idx": 1,
+    "text": "HCM CITY - Việt Nam's central bank is considering allowing investors at the country's new international financial centre in HCM City to conduct certain capital transactions through existing banks while the centre works to admit its first member bank, in a bid to clear obstacles to its planned November launch.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261030_13a9776771#15",
+    "doc_id": "vietnamnews_20261030_13a9776771",
+    "sent_idx": 15,
+    "text": "Sovico Group proposed developing aviation finance to attract aircraft leasing and financing transactions, while Gemadept Holdings Maritime Investment and Development Co called for an integrated data system linking seaports, logistics operators, customs authorities and banks to support maritime finance.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261030_2982d4493b#19",
+    "doc_id": "vietnamnews_20261030_2982d4493b",
+    "sent_idx": 19,
+    "text": "The Ministry of Industry and Trade was tasked with ensuring sufficient supplies of essential goods for the upcoming Tết (Lunar New Year), stabilising the market, combating smuggling and counterfeit goods, and helping exporters respond to trade barriers.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261031_cbb5e33a7a#1",
+    "doc_id": "vneconomy_en_20261031_cbb5e33a7a",
+    "sent_idx": 1,
+    "text": "Vietnam Airports Corporation (ACV) has announced plans to have the Long Thanh International Airport under construction in southern Dong Nai city commercially operated from 0:00 on December 24, 2026.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261031_cbb5e33a7a#4",
+    "doc_id": "vneconomy_en_20261031_cbb5e33a7a",
+    "sent_idx": 4,
+    "text": "Vietnam Airlines plans to operate the Long Thanh - Hanoi route along with several international routes; Vietjet Air intends to launch domestic routes connecting Long Thanh with major economic and tourist centers across the country.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261031_67ebf7d3b9#0",
+    "doc_id": "vietnamnews_20261031_67ebf7d3b9",
+    "sent_idx": 0,
+    "text": "HDBank reports VNĐ18.4 trillion profit in nine months",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261031_67ebf7d3b9#1",
+    "doc_id": "vietnamnews_20261031_67ebf7d3b9",
+    "sent_idx": 1,
+    "text": "HCM CITY - HDBank reported consolidated pre-tax profit of VNĐ18.38 trillion (US$710 million) in the first nine months of 2026, up 24.2 per cent year-on-year, as total assets surpassed VNĐ1.14 quadrillion ($44.1 billion).",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261031_67ebf7d3b9#12",
+    "doc_id": "vietnamnews_20261031_67ebf7d3b9",
+    "sent_idx": 12,
+    "text": "In the third quarter, HDBank also secured a $721 million syndicated social loan from more than 20 international financial institutions, with a focus on supporting SMEs and women-led businesses.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261031_760626d1ee#26",
+    "doc_id": "vietnamnews_20261031_760626d1ee",
+    "sent_idx": 26,
+    "text": "Deputy Nguyễn Cao Sơn of Phú Thọ Province proposed that the State Bank of Vietnam direct commercial lenders to extend and broaden debt restructuring arrangements and maintain borrowers' existing debt classifications until the end of 2027 for businesses facing market-related difficulties, provided they had used loans for their intended purposes and presented viable recovery plans.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261031_35ab01e6d8#3",
+    "doc_id": "vietnamnews_20261031_35ab01e6d8",
+    "sent_idx": 3,
+    "text": "The Ministry of Industry and Trade has also issued Decision No. 2892/QĐ-BCT on the same day, setting retail electricity tariffs for different consumer groups and electricity retailers, which will also be effective from November 1.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261031_35ab01e6d8#10",
+    "doc_id": "vietnamnews_20261031_35ab01e6d8",
+    "sent_idx": 10,
+    "text": "EVN recently reported that its total electricity production and business costs in 2025 reached VNĐ601.68 trillion, equivalent to an average production cost of VNĐ2,092.70 per kWh, VNĐ111.37 per kWh lower than the average retail price before today's cut.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261101_f448e56f7a#27",
+    "doc_id": "vneconomy_en_20261101_f448e56f7a",
+    "sent_idx": 27,
+    "text": "Over decades of operations on Vietnam's continental shelf, Vietsovpetro has developed a workforce of approximately 8,000 employees, engineers, and skilled workers with international-level expertise.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261101_f448e56f7a#29",
+    "doc_id": "vneconomy_en_20261101_f448e56f7a",
+    "sent_idx": 29,
+    "text": "The PetroVietnam Technical Services Corporation (PTSC) has also developed extensive capabilities in engineering, procurement, and construction (EPC) and engineering, procurement, construction, and installation (EPCI).",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261101_45e6623db6#7",
+    "doc_id": "vietnamnews_20261101_45e6623db6",
+    "sent_idx": 7,
+    "text": "The Ministry of Industry and Trade may propose adjustments to the Ministry of Finance for submission to the Government.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261101_4201fb52c3#0",
+    "doc_id": "vneconomy_en_20261101_4201fb52c3",
+    "sent_idx": 0,
+    "text": "Vietnam's stock market capitalization reaches $386 billion",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vneconomy_en_20261101_4201fb52c3#2",
+    "doc_id": "vneconomy_en_20261101_4201fb52c3",
+    "sent_idx": 2,
+    "text": "Speaking at the Vietnam Capital Market Forum 2026, themed \"New Capital Flows - New Position\", held in Ho Chi Minh City on October 30, SSC Chairwoman Vu Thi Chan Phuong said that, after 30 years of development, Vietnam's securities market had achieved significant milestones.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_481463b3cc#3",
+    "doc_id": "vneconomy_en_20261102_481463b3cc",
+    "sent_idx": 3,
+    "text": "The new resolution stipulates that, if the effective period needs to be adjusted to meet socio-economic development requirements, ensure energy security or stabilise the petrol and oil market, the Ministry of Industry and Trade may submit a proposal through the Ministry of Finance to the Government for consideration.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261102_8001a3019e#2",
+    "doc_id": "vietnamnews_20261102_8001a3019e",
+    "sent_idx": 2,
+    "text": "On the Hochiminh Stock Exchange (HoSE), the VN-Index closed at 1,741.62 points, down 1.83 per cent from the previous week, while the HNX-Index on the Hanoi Stock Exchange (HNX) dropped 3.79 per cent to 252.74 points.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261102_8001a3019e#3",
+    "doc_id": "vietnamnews_20261102_8001a3019e",
+    "sent_idx": 3,
+    "text": "According to Saigon-Hanoi Securities (SHS), trading volume on HoSE declined 9.9 per cent week-on-week, with average daily trading value at approximately VNĐ14.7 trillion (US$570 million).",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261102_8001a3019e#7",
+    "doc_id": "vietnamnews_20261102_8001a3019e",
+    "sent_idx": 7,
+    "text": "Closing out October, the VN-Index fell 1.53 per cent from the end of September.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_ed7a4fd793#24",
+    "doc_id": "vneconomy_en_20261102_ed7a4fd793",
+    "sent_idx": 24,
+    "text": "The Ministry of Science and Technology encourages all other digital platforms to adopt labeling and information disclosure voluntarily once the circular takes effect.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261102_7fe3743188#6",
+    "doc_id": "vietnamnews_20261102_7fe3743188",
+    "sent_idx": 6,
+    "text": "According to the plan, the Ministry of Finance and the State Bank of Vietnam are tasked with organising divestment for enterprises subject to State capital restructuring.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_70dc57ef69#13",
+    "doc_id": "vneconomy_en_20261102_70dc57ef69",
+    "sent_idx": 13,
+    "text": "In consumer goods, Vinamilk has expanded into 65 countries and territories.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_744a8d3fcc#22",
+    "doc_id": "vneconomy_en_20261102_744a8d3fcc",
+    "sent_idx": 22,
+    "text": "Furthermore, the recent decision by FTSE Russell to upgrade Vietnam's stock market from \"Frontier\" to \"Secondary Emerging\" status serves as a crucial foundation for the country to expand its capacity to mobilize international resources through both direct and indirect channels in the near future.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261102_fdadc0db62#0",
+    "doc_id": "vietnamnews_20261102_fdadc0db62",
+    "sent_idx": 0,
+    "text": "DatVietVAC shares list on HCM City bourse",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261102_fdadc0db62#10",
+    "doc_id": "vietnamnews_20261102_fdadc0db62",
+    "sent_idx": 10,
+    "text": "DatVietVAC plans to organise eight concerts in Việt Nam and abroad in the final quarter, including five based on its own IP.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261102_fdadc0db62#13",
+    "doc_id": "vietnamnews_20261102_fdadc0db62",
+    "sent_idx": 13,
+    "text": "At the end of the third quarter, DatVietVAC's total assets reached VNĐ3.08 trillion ($119.4 million), up 61.6 per cent from the beginning of the year.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261102_d4eb1de59f#23",
+    "doc_id": "vietnamnews_20261102_d4eb1de59f",
+    "sent_idx": 23,
+    "text": "The Ministry of Industry and Trade also issued Decision 2892/QĐ-BCT on October 31, setting electricity prices applicable from November 1.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261102_648b76f472#0",
+    "doc_id": "vietnamnews_20261102_648b76f472",
+    "sent_idx": 0,
+    "text": "Vietjet posts nine-month revenue of $2.88 billion, profit rises",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261102_648b76f472#1",
+    "doc_id": "vietnamnews_20261102_648b76f472",
+    "sent_idx": 1,
+    "text": "HCM CITY - Vietjet Aviation Joint Stock Company (HOSE: VJC) reported consolidated revenue of VNĐ74.39 trillion (US$2.88 billion) in the first nine months of 2026, with net profit after tax reaching VNĐ1.72 trillion, as the airline expanded its international network and increased investment in fleet and operational capabilities.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261102_648b76f472#3",
+    "doc_id": "vietnamnews_20261102_648b76f472",
+    "sent_idx": 3,
+    "text": "In the third quarter alone, Vietjet operated 39,000 flights and carried 7.3 million passengers.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261102_648b76f472#6",
+    "doc_id": "vietnamnews_20261102_648b76f472",
+    "sent_idx": 6,
+    "text": "As of September 30, 2026, Vietjet's consolidated total assets stood at VNĐ152.8 trillion.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261102_648b76f472#12",
+    "doc_id": "vietnamnews_20261102_648b76f472",
+    "sent_idx": 12,
+    "text": "Vietjet also announced a new route between HCM City and Western Sydney, scheduled to begin operations in January 2027.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261102_648b76f472#14",
+    "doc_id": "vietnamnews_20261102_648b76f472",
+    "sent_idx": 14,
+    "text": "Alongside network and fleet expansion, Vietjet has increased investment in technology and aviation infrastructure through partnerships with international companies.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261103_74d074e17f#0",
+    "doc_id": "vietnamnews_20261103_74d074e17f",
+    "sent_idx": 0,
+    "text": "VN-Index extends losses as foreign investors step up bank stock selling",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261103_74d074e17f#2",
+    "doc_id": "vietnamnews_20261103_74d074e17f",
+    "sent_idx": 2,
+    "text": "On the Hochiminh Stock Exchange, the VN-Index dropped 30.9 points, or 1.77 per cent, to close at 1,710.72 points.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261103_74d074e17f#3",
+    "doc_id": "vietnamnews_20261103_74d074e17f",
+    "sent_idx": 3,
+    "text": "The HNX-Index on the Hà Nội Stock Exchange fell 2.19 points, or 0.87 per cent, to 250.55 points.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261103_74d074e17f#6",
+    "doc_id": "vietnamnews_20261103_74d074e17f",
+    "sent_idx": 6,
+    "text": "Trading activity increased from the previous session, with matched trading volume on the Hochiminh Stock Exchange totalling more than 724 million shares worth over VNĐ15.8 trillion (US$607 million).",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261103_74d074e17f#10",
+    "doc_id": "vietnamnews_20261103_74d074e17f",
+    "sent_idx": 10,
+    "text": "In contrast, gains in Vingroup (VIC), Vietjet Air (VJC), Transimex (TMS) and BIDV Securities (BSI) provided limited support, contributing a combined 1.91 points.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261103_74d074e17f#12",
+    "doc_id": "vietnamnews_20261103_74d074e17f",
+    "sent_idx": 12,
+    "text": "FPT Corporation fell 4.74 per cent, while CMC Corporation (CMG) and ELCOM (ELC) dropped 3.78 per cent and 3.64 per cent, respectively.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261103_74d074e17f#14",
+    "doc_id": "vietnamnews_20261103_74d074e17f",
+    "sent_idx": 14,
+    "text": "Steelmaker Hòa Phát Group (HPG) lost 2.86 per cent, while rubber group GVR fell 6.88 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_26df467e1c#11",
+    "doc_id": "vneconomy_en_20261103_26df467e1c",
+    "sent_idx": 11,
+    "text": "Meanwhile, the USD/VND interbank exchange rate was quoted at VND25,802/USD, down 1.87%.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_26df467e1c#12",
+    "doc_id": "vneconomy_en_20261103_26df467e1c",
+    "sent_idx": 12,
+    "text": "Compared with other Asian currencies, the Vietnamese dong ranked among the strongest performers against the US dollar.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_26df467e1c#14",
+    "doc_id": "vneconomy_en_20261103_26df467e1c",
+    "sent_idx": 14,
+    "text": "Notably, the dong has appreciated despite Vietnam facing dual pressures from a large trade deficit and a stronger U.S. dollar globally.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261103_800595e196#1",
+    "doc_id": "vietnamnews_20261103_800595e196",
+    "sent_idx": 1,
+    "text": "HÀ NỘI - Hoa Sen Group (HSG) reported consolidated after-tax profit of VNĐ623 billion (US$24 million) in the 2025-26 financial year, equivalent to 104 per cent of its target under the high-end business scenario.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_25947d7747#1",
+    "doc_id": "vneconomy_en_20261103_25947d7747",
+    "sent_idx": 1,
+    "text": "FPT Corporation announced on November 3 that its 1,600-square-meter facility located in Yen Phong II-C Industrial Park, northern Bac Ninh city, operates six production lines designed to meet high-volume testing demands for both domestic and international semiconductor firms.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_25947d7747#14",
+    "doc_id": "vneconomy_en_20261103_25947d7747",
+    "sent_idx": 14,
+    "text": "FPT plans to execute its first chip testing order for a South Korean partner, marking the commencement of its commercial chip testing services.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261103_7b96546966#0",
+    "doc_id": "vietnamnews_20261103_7b96546966",
+    "sent_idx": 0,
+    "text": "VN-Index falls below 1,700 as large-caps weigh on market, steel stocks rally",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261103_7b96546966#1",
+    "doc_id": "vietnamnews_20261103_7b96546966",
+    "sent_idx": 1,
+    "text": "HÀ NỘI - Việt Nam's benchmark VN-Index fell more than 11 points on Tuesday, slipping below the psychologically important 1,700-point level as heavy losses in large-cap stocks offset gains in steel and other material shares.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261103_7b96546966#2",
+    "doc_id": "vietnamnews_20261103_7b96546966",
+    "sent_idx": 2,
+    "text": "On the main bourse Hochiminh Stock Exchange (HOSE), the VN-Index lost 0.65 per cent to end the session at 1,699.62 points.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261103_7b96546966#6",
+    "doc_id": "vietnamnews_20261103_7b96546966",
+    "sent_idx": 6,
+    "text": "Trading value on the HOSE fell by 30 per cent from the previous session, while that on the HNX dropped 45 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261103_7b96546966#9",
+    "doc_id": "vietnamnews_20261103_7b96546966",
+    "sent_idx": 9,
+    "text": "Vingroup (VIC) fell by 3.3 per cent, dragging the VN-Index down by more than 12 points.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261103_7b96546966#10",
+    "doc_id": "vietnamnews_20261103_7b96546966",
+    "sent_idx": 10,
+    "text": "Other major decliners included Vinhomes (VHM), Novaland (NVL), Gemadept (GMD) and Gelex (GEX), adding to pressure from the real estate and industrial sectors.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261103_7b96546966#12",
+    "doc_id": "vietnamnews_20261103_7b96546966",
+    "sent_idx": 12,
+    "text": "Hoa Phat Group (HPG), Nam Kim Steel (NKG) and Hoa Sen Group (HSG) rose by between 3 and 4 per cent, while HPG alone contributed around 1.5 points to the benchmark.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261103_7b96546966#14",
+    "doc_id": "vietnamnews_20261103_7b96546966",
+    "sent_idx": 14,
+    "text": "The 10 biggest contributors to the VN-Index's gains added only around five points, underscoring the dominance of selling pressure from large-cap stocks.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261104_1b88700e65#0",
+    "doc_id": "vietnamnews_20261104_1b88700e65",
+    "sent_idx": 0,
+    "text": "Vietnam Airlines posts consolidated revenue of over VNĐ114 trillion in nine months",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261104_1b88700e65#1",
+    "doc_id": "vietnamnews_20261104_1b88700e65",
+    "sent_idx": 1,
+    "text": "HÀ NỘI - Vietnam Airlines recorded consolidated revenue of nearly VNĐ114.5 trillion (US$4.4 billion) in the first nine months of 2026, up 28 per cent year-on-year, while maintaining stable operations and meeting its business targets amid continued challenges in the aviation market.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261104_1b88700e65#13",
+    "doc_id": "vietnamnews_20261104_1b88700e65",
+    "sent_idx": 13,
+    "text": "Beyond its commercial operations, Vietnam Airlines also operated two special flights carrying Vietnamese rescue and relief teams and humanitarian supplies to Venezuela, fulfilling its assigned mission and demonstrating the national carrier's role in the country's diplomatic and humanitarian activities.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261104_43fb69765e#8",
+    "doc_id": "vietnamnews_20261104_43fb69765e",
+    "sent_idx": 8,
+    "text": "In late 2025, the State Bank of Vietnam (SBV) announced plans to pilot a gold exchange in three phases.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261104_43fb69765e#9",
+    "doc_id": "vietnamnews_20261104_43fb69765e",
+    "sent_idx": 9,
+    "text": "However, in its latest report to the NA, the central bank said it had proposed to the Prime Minister that the exchange should not be established at this stage, with further research and refinement of the proposal to continue under an appropriate roadmap.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261104_0cc8959407#8",
+    "doc_id": "vietnamnews_20261104_0cc8959407",
+    "sent_idx": 8,
+    "text": "Earlier, on November 1, the MOIT announced a sharp reduction in gasoline prices.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261104_13da5eb006#16",
+    "doc_id": "vietnamnews_20261104_13da5eb006",
+    "sent_idx": 16,
+    "text": "Techcombank reported pre-tax profit of VNĐ10.4 trillion (US$404 million) in the third quarter of 2026, its highest quarterly figure to date.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261104_9c12a87448#0",
+    "doc_id": "vietnamnews_20261104_9c12a87448",
+    "sent_idx": 0,
+    "text": "SABECO wins three honours at Asia Pacific Enterprise Awards 2026",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261104_9c12a87448#9",
+    "doc_id": "vietnamnews_20261104_9c12a87448",
+    "sent_idx": 9,
+    "text": "Continuing its product innovation strategy, SABECO recently introduced 333 Triple Pure, a new beer offering with lower carbohydrate and calorie content, featuring a smooth and balanced taste.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261104_9c12a87448#12",
+    "doc_id": "vietnamnews_20261104_9c12a87448",
+    "sent_idx": 12,
+    "text": "In 2025, SABECO recorded net revenue of VNĐ25.9 trillion (US$1.03 billion), pre-tax profit of VNĐ5.65 trillion and after-tax profit of VNĐ4.57 trillion.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261104_9c12a87448#15",
+    "doc_id": "vietnamnews_20261104_9c12a87448",
+    "sent_idx": 15,
+    "text": "Alongside business performance, SABECO is investing in human resources, improving corporate governance and reducing its environmental footprint.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261104_9c12a87448#17",
+    "doc_id": "vietnamnews_20261104_9c12a87448",
+    "sent_idx": 17,
+    "text": "On the environmental front, SABECO targets a 42 per cent reduction in greenhouse gas emissions by 2030 and aims to make 100 per cent of its beverage packaging reusable or recyclable by 2040.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261104_9c12a87448#19",
+    "doc_id": "vietnamnews_20261104_9c12a87448",
+    "sent_idx": 19,
+    "text": "SABECO also maintains its community engagement through long-term social programmes.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261104_ee80369ca5#18",
+    "doc_id": "vneconomy_en_20261104_ee80369ca5",
+    "sent_idx": 18,
+    "text": "According to the latest published business results, Techcombank's pre-tax profit in the third quarter of 2026 stood at VND10.4 trillion ($409.4 million); its highest quarterly result to date.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261104_ee80369ca5#20",
+    "doc_id": "vneconomy_en_20261104_ee80369ca5",
+    "sent_idx": 20,
+    "text": "Alongside strong financial results, Techcombank also led the industry in brand metrics in the third quarter, affirming its position as a national industry leader.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261104_1ec33dc6e8#0",
+    "doc_id": "vietnamnews_20261104_1ec33dc6e8",
+    "sent_idx": 0,
+    "text": "VN-Index rebounds nearly 2 per cent as broad-based buying lifts sentiment",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261104_1ec33dc6e8#1",
+    "doc_id": "vietnamnews_20261104_1ec33dc6e8",
+    "sent_idx": 1,
+    "text": "HÀ NỘI - Việt Nam's benchmark VN-Index rose nearly 2 per cent on Wednesday, recovering above the psychologically important 1,700-point threshold as buying spread across most sectors following a series of declines.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261104_1ec33dc6e8#13",
+    "doc_id": "vietnamnews_20261104_1ec33dc6e8",
+    "sent_idx": 13,
+    "text": "According to analysts, the rebound came after the VN-Index had fallen below the 1,700-point level in recent sessions, raising concerns over the market's near-term outlook.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261104_1ec33dc6e8#17",
+    "doc_id": "vietnamnews_20261104_1ec33dc6e8",
+    "sent_idx": 17,
+    "text": "The State Bank of Vietnam announced plans to provide đồng liquidity to eligible banks through 182-day USD/VNĐ foreign exchange swaps, with a maximum size of $2 billion.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261104_1ec33dc6e8#22",
+    "doc_id": "vietnamnews_20261104_1ec33dc6e8",
+    "sent_idx": 22,
+    "text": "Foreign investors remained net sellers on the HOSE, with net outflows of more than VNĐ66 billion, led by selling in MBB, ACB, BSR and DXG.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261104_b3da1bbc6b#0",
+    "doc_id": "vietnamnews_20261104_b3da1bbc6b",
+    "sent_idx": 0,
+    "text": "Vinatex exceeds full-year profit target after nine months",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vneconomy_en_20261104_ac724dd250#30",
+    "doc_id": "vneconomy_en_20261104_ac724dd250",
+    "sent_idx": 30,
+    "text": "The State Bank of Vietnam was urged to proactively and flexibly manage the monetary policy to stabilize the value of the Vietnamese currency, interest rates and exchange rates, and create more favorable lending conditions for production, business, priority sectors and small- and medium-sized enterprises.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261104_ac724dd250#32",
+    "doc_id": "vneconomy_en_20261104_ac724dd250",
+    "sent_idx": 32,
+    "text": "The Ministry of Industry and Trade was tasked with ensuring stable supplies of essential goods, particularly petroleum and electricity, accelerating adjustments to the Power Development Plan VIII and completing the draft decree on petroleum trading in November.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261104_3437ccb596#0",
+    "doc_id": "vietnamnews_20261104_3437ccb596",
+    "sent_idx": 0,
+    "text": "Đà Nẵng, Vietjet sign comprehensive cooperation deal for 2026-30",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261104_3437ccb596#8",
+    "doc_id": "vietnamnews_20261104_3437ccb596",
+    "sent_idx": 8,
+    "text": "Under the agreement, Vietjet will seek to expand air connectivity and work with the city to promote tourism, trade and investment, Quang added.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261104_3437ccb596#11",
+    "doc_id": "vietnamnews_20261104_3437ccb596",
+    "sent_idx": 11,
+    "text": "From December 20, Vietjet plans to launch routes connecting Đà Nẵng with Osaka in Japan and Jakarta in Indonesia, further expanding the city's international connectivity.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261104_9a3c3feb39#15",
+    "doc_id": "vietnamnews_20261104_9a3c3feb39",
+    "sent_idx": 15,
+    "text": "The Ministry of Finance also pointed out shortcomings in capital allocation.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261104_6b8134699b#1",
+    "doc_id": "vneconomy_en_20261104_6b8134699b",
+    "sent_idx": 1,
+    "text": "The Ministry of Construction has approved a project to upgrade and expand the nearly 39-km Pac Bo-Cao Bang section of the Ho Chi Minh Road into a four-lane highway, with a total investment of nearly VND3.2 trillion (approximately $124.4 million).",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_e234d02001#29",
+    "doc_id": "vneconomy_en_20261105_e234d02001",
+    "sent_idx": 29,
+    "text": "Financing is another critical factor, shaped by capital allocation policies, interest rate decisions by the State Bank of Vietnam (SBV), and lending rates at commercial banks.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261105_a873e9737b#1",
+    "doc_id": "vietnamnews_20261105_a873e9737b",
+    "sent_idx": 1,
+    "text": "HÀ NỘI - The Ministry of Finance has issued new regulations on reporting and information disclosure in the crypto-asset market, requiring exchanges to make daily reports and notify authorities of any technical incidents within 24 hours.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261105_ad79a04b5b#1",
+    "doc_id": "vietnamnews_20261105_ad79a04b5b",
+    "sent_idx": 1,
+    "text": "HÀ NỘI - The Ministry of Industry and Trade has launched the Go Global Programme to help enhance the competitiveness of domestic businesses and enable them to move beyond exporting goods to building internationally recognised brands and take a bigger role in global value chains.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261105_ad79a04b5b#19",
+    "doc_id": "vietnamnews_20261105_ad79a04b5b",
+    "sent_idx": 19,
+    "text": "Viettel operates in 10 overseas markets and leads market share in seven of them, with international revenue of about US$3.3 billion in 2025.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261105_ad79a04b5b#20",
+    "doc_id": "vietnamnews_20261105_ad79a04b5b",
+    "sent_idx": 20,
+    "text": "FPT reported more than VNĐ35 trillion (about US$1.4 billion) in overseas information technology services revenue last year, with newly signed contracts worth around US$1.5 billion, particularly in Japan and the United States.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_109a009673#32",
+    "doc_id": "vneconomy_en_20261105_109a009673",
+    "sent_idx": 32,
+    "text": "In 2026, cooperation will continue to expand as Vietravel Airlines signs a Letter of Intent to purchase 50 A321neo and A220 aircraft; Vietnam Airlines signs a Memorandum of Understanding to purchase additional A350 aircraft; and the Vietnam Helicopter Corporation orders three more H225 helicopters.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_d58610f980#1",
+    "doc_id": "vneconomy_en_20261105_d58610f980",
+    "sent_idx": 1,
+    "text": "The State Bank of Vietnam (SBV) has instructed credit institutions to mobilise resources, reduce operating costs and share profits with customers by lowering interest rates to support economic growth, Deputy Governor Pham Thanh Ha said at the Government's regular press conference, held in Hanoi on November 4.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261105_21e5c69e7b#1",
+    "doc_id": "vietnamnews_20261105_21e5c69e7b",
+    "sent_idx": 1,
+    "text": "HÀ NỘI - The State Bank of Vietnam (SBV) set the daily reference exchange rate at VNĐ25,623 buying a US dollar on November 5, down VNĐ4 from the previous session.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261105_21e5c69e7b#6",
+    "doc_id": "vietnamnews_20261105_21e5c69e7b",
+    "sent_idx": 6,
+    "text": "Similarly, BIDV also cut its respective rates by VNĐ65 to 25,510 VNĐ/USD and 25,890 VNĐ/USD.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_fe1cc998b9#0",
+    "doc_id": "vneconomy_en_20261105_fe1cc998b9",
+    "sent_idx": 0,
+    "text": "VNet and Quantropi join forces to prepare Vietnamese enterprises and organizations for the Post-Quantum Cryptography era",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261105_79198ea5c2#15",
+    "doc_id": "vietnamnews_20261105_79198ea5c2",
+    "sent_idx": 15,
+    "text": "In Việt Nam, the Vietnamese Government has introduced measures to ease fuel costs through tax reductions.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261105_8feee63afd#0",
+    "doc_id": "vietnamnews_20261105_8feee63afd",
+    "sent_idx": 0,
+    "text": "VN-Index edges higher as VIC offsets losses in banking, technology stocks",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261105_8feee63afd#1",
+    "doc_id": "vietnamnews_20261105_8feee63afd",
+    "sent_idx": 1,
+    "text": "HÀ NỘI - Việt Nam's benchmark VN-Index edged higher on Thursday, with gains in property heavyweight VIC helping the market stay above 1,740 points despite mixed trading across sectors.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261105_8feee63afd#15",
+    "doc_id": "vietnamnews_20261105_8feee63afd",
+    "sent_idx": 15,
+    "text": "Information technology was the weakest sector, falling 1.81 per cent as FPT declined 1.86 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261105_8feee63afd#16",
+    "doc_id": "vietnamnews_20261105_8feee63afd",
+    "sent_idx": 16,
+    "text": "On the Hanoi Stock Exchange, the HNX-Index fell 0.49 per cent to close at 256.61.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261105_4e8abacc9c#6",
+    "doc_id": "vietnamnews_20261105_4e8abacc9c",
+    "sent_idx": 6,
+    "text": "In October, the SBV directed credit institutions to cut costs, share profits and take stronger action to reduce lending rates.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261105_4e8abacc9c#13",
+    "doc_id": "vietnamnews_20261105_4e8abacc9c",
+    "sent_idx": 13,
+    "text": "On November 3, the SBV announced a six-month foreign currency-VNĐ swap facility for credit institutions.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261105_f1d166d19e#0",
+    "doc_id": "vietnamnews_20261105_f1d166d19e",
+    "sent_idx": 0,
+    "text": "Vinamilk's Optimum Gold sole Vietnamese brand to win at World Branding Awards",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261105_f1d166d19e#37",
+    "doc_id": "vietnamnews_20261105_f1d166d19e",
+    "sent_idx": 37,
+    "text": "Alongside its nutritional breakthroughs, Vinamilk has also raised the bar for product safety and purity through independent testing by the Clean Label Project in the US.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261105_f1d166d19e#43",
+    "doc_id": "vietnamnews_20261105_f1d166d19e",
+    "sent_idx": 43,
+    "text": "With science as its foundation, quality as its commitment and children's healthy development as its goal, Vinamilk continues to raise the bar, pioneering research and the development of high-quality nutritional products in line with international standards.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261105_82921eddef#0",
+    "doc_id": "vietnamnews_20261105_82921eddef",
+    "sent_idx": 0,
+    "text": "VPBank wins two awards at The Euromoney Transaction Banking Awards",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261105_82921eddef#1",
+    "doc_id": "vietnamnews_20261105_82921eddef",
+    "sent_idx": 1,
+    "text": "HÀ NỘI - VPBank (HoSE: VPB) won two awards: \"Vietnam's Best Cash Management Bank 2026\" and \"Vietnam's Best Cash Management Deal 2026\" at The Euromoney Transaction Banking Awards.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261105_82921eddef#11",
+    "doc_id": "vietnamnews_20261105_82921eddef",
+    "sent_idx": 11,
+    "text": "To improve operational efficiency, VPBank is advancing digitalisation beyond the migration of paper-based processes to digital channels.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261105_82921eddef#13",
+    "doc_id": "vietnamnews_20261105_82921eddef",
+    "sent_idx": 13,
+    "text": "Alongside its investment in technology, VPBank is strengthening its human capital and organisational capabilities.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261105_82921eddef#17",
+    "doc_id": "vietnamnews_20261105_82921eddef",
+    "sent_idx": 17,
+    "text": "In addition to the award recognising its overall cash management capabilities, VPBank won \"Vietnam's Best Cash Management Deal 2026\" for its E-Cooperative solution, delivered through the Compay app.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261105_82921eddef#19",
+    "doc_id": "vietnamnews_20261105_82921eddef",
+    "sent_idx": 19,
+    "text": "Recognising the challenges household businesses face in digital transformation, VPBank has developed specialised cash management infrastructure to support transparent cash flow management, real-time payments, tax payments and broader access to financial services.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261105_82921eddef#21",
+    "doc_id": "vietnamnews_20261105_82921eddef",
+    "sent_idx": 21,
+    "text": "By connecting transaction data, payment histories and account activity, VPBank also helps household businesses build digital financial profiles, addressing gaps in financial data that can limit their access to funding.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261105_82921eddef#22",
+    "doc_id": "vietnamnews_20261105_82921eddef",
+    "sent_idx": 22,
+    "text": "In the second quarter of 2026, VPBank launched the payment and financial infrastructure platform, which is being piloted across more than 30 E-Cooperatives in Hà Nội, HCM City, Đà Nẵng, Huế and An Giang, initially focusing on the transport sector.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261105_369e2b9e6b#2",
+    "doc_id": "vietnamnews_20261105_369e2b9e6b",
+    "sent_idx": 2,
+    "text": "At the Fortune Southeast Asia 500 Summit in HCM City on November 3, Liên received two distinctions from the international business magazine: her inclusion in its Most Powerful Women Asia 2026 list for the third year running, while Vinamilk maintained its place among the 500 largest companies in Southeast Asia.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261105_369e2b9e6b#29",
+    "doc_id": "vietnamnews_20261105_369e2b9e6b",
+    "sent_idx": 29,
+    "text": "After 50 years of development, Vinamilk now operates 16 factories and 15 farms at home and abroad, with products available in 67 countries and territories.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261105_e4431c1ef5#0",
+    "doc_id": "vietnamnews_20261105_e4431c1ef5",
+    "sent_idx": 0,
+    "text": "SHB, Vietravel enter a comprehensive partnership",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261105_e4431c1ef5#5",
+    "doc_id": "vietnamnews_20261105_e4431c1ef5",
+    "sent_idx": 5,
+    "text": "SHB plans to provide banking products and services tailored to Vietravel's needs, including payment accounts, cash flow and centralised fund management, collection and payment services, credit facilities, guarantees, international payments, trade finance, letters of credit (L/Cs) and foreign exchange solutions.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261105_e4431c1ef5#22",
+    "doc_id": "vietnamnews_20261105_e4431c1ef5",
+    "sent_idx": 22,
+    "text": "In the tourism sector, SHB signed a cooperation agreement with the Tourism Information Centre under the Viet Nam National Authority of Tourism in January 2026 to promote a smart tourism ecosystem built on data, technology and digital finance.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261106_812bf685c7#60",
+    "doc_id": "vneconomy_en_20261106_812bf685c7",
+    "sent_idx": 60,
+    "text": "Alongside industrial infrastructure, Becamex invests in transport infrastructure and regional connectivity.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_61cb4bec6a#2",
+    "doc_id": "vietnamnews_20261106_61cb4bec6a",
+    "sent_idx": 2,
+    "text": "According to the Interbank Market Research Association, the SBV on Wednesday announced that it will conduct a 182-day FX swap operation today, with a maximum size of $2 billion.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_61371d008e#21",
+    "doc_id": "vietnamnews_20261106_61371d008e",
+    "sent_idx": 21,
+    "text": "Data from Yuanta Vietnam Securities covering 2000-2024 shows that the VN-Index rose in November in half of the years over the period, gaining an average of 2 per cent during the month.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_61371d008e#26",
+    "doc_id": "vietnamnews_20261106_61371d008e",
+    "sent_idx": 26,
+    "text": "In November 2023, the VN-Index gained about 6.4 per cent after plunging 10.9 per cent in October.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_61371d008e#30",
+    "doc_id": "vietnamnews_20261106_61371d008e",
+    "sent_idx": 30,
+    "text": "In November 2025, the VN-Index rose approximately 2.3 per cent, but its performance was again significantly influenced by several large-cap stocks.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_61371d008e#44",
+    "doc_id": "vietnamnews_20261106_61371d008e",
+    "sent_idx": 44,
+    "text": "Khoa said the VN-Index could form a second bottom if it holds the support level of 1,730 points, provided liquidity and market breadth also improve.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261106_af71c87c67#0",
+    "doc_id": "vneconomy_en_20261106_af71c87c67",
+    "sent_idx": 0,
+    "text": "Cash management solutions earn VPBank two prestigious Euromoney awards",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vneconomy_en_20261106_af71c87c67#11",
+    "doc_id": "vneconomy_en_20261106_af71c87c67",
+    "sent_idx": 11,
+    "text": "To improve operational efficiency, VPBank is advancing digitalization beyond the migration of paper-based processes to digital channels.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261106_af71c87c67#13",
+    "doc_id": "vneconomy_en_20261106_af71c87c67",
+    "sent_idx": 13,
+    "text": "Alongside its investment in technology, VPBank is strengthening its human capital and organizational capabilities.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261106_af71c87c67#17",
+    "doc_id": "vneconomy_en_20261106_af71c87c67",
+    "sent_idx": 17,
+    "text": "In addition to the award recognizing its overall cash management capabilities, VPBank won \"Vietnam's Best Cash Management Deal 2026\" for its E-Cooperative solution, delivered through the company app.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261106_af71c87c67#19",
+    "doc_id": "vneconomy_en_20261106_af71c87c67",
+    "sent_idx": 19,
+    "text": "Recognizing the challenges household businesses face in digital transformation, VPBank has developed specialized cash management infrastructure to support transparent cash flow management, real-time payments, tax payments, and broader access to financial services.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261106_af71c87c67#22",
+    "doc_id": "vneconomy_en_20261106_af71c87c67",
+    "sent_idx": 22,
+    "text": "In the second quarter of this year, VPBank launched the payment and financial infrastructure platform, which is being piloted across more than 30 E-Cooperatives in Hanoi, Ho Chi Minh City, Da Nang, Hue, and An Giang, initially focusing on the transport sector.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_155b9fbf11#0",
+    "doc_id": "vietnamnews_20261106_155b9fbf11",
+    "sent_idx": 0,
+    "text": "SABECO connects people, resources and Vietnamese values",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261106_155b9fbf11#1",
+    "doc_id": "vietnamnews_20261106_155b9fbf11",
+    "sent_idx": 1,
+    "text": "HÀ NỘI - With an extensive nationwide presence and partnerships with organisations and local authorities across Việt Nam, Saigon Beer-Alcohol-Beverage Corporation (SABECO) is strengthening its role as a bridge connecting resources, communities and individuals working to create positive change and contribute to the country's development.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_155b9fbf11#6",
+    "doc_id": "vietnamnews_20261106_155b9fbf11",
+    "sent_idx": 6,
+    "text": "Building on more than 150 years of brewing heritage in Việt Nam, SABECO has developed an extensive nationwide network of operations and distribution, maintaining close ties with generations of Vietnamese people and local communities.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_155b9fbf11#9",
+    "doc_id": "vietnamnews_20261106_155b9fbf11",
+    "sent_idx": 9,
+    "text": "In 2024 and 2025, SABECO contributed more than VNĐ7 billion (US$273,000) to help localities recover from major storms, including Yagi, Bualoi and Matmo, providing timely and practical support for post-disaster recovery efforts.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_155b9fbf11#20",
+    "doc_id": "vietnamnews_20261106_155b9fbf11",
+    "sent_idx": 20,
+    "text": "In 2026, SABECO expanded its strategic partnership with the Việt Nam Football Federation (VFF), supporting the national football teams during the 2026-29 period.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_155b9fbf11#32",
+    "doc_id": "vietnamnews_20261106_155b9fbf11",
+    "sent_idx": 32,
+    "text": "From directing resources to communities in need and creating development opportunities to bringing individuals making a difference into the public spotlight, SABECO continues to strengthen its role as a connector of positive values across Việt Nam.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_e8508c0396#0",
+    "doc_id": "vietnamnews_20261106_e8508c0396",
+    "sent_idx": 0,
+    "text": "Roses and thorns: Eximbank's path to becoming a bank of choice for growing SMEs",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vneconomy_en_20261106_b1903b59bb#32",
+    "doc_id": "vneconomy_en_20261106_b1903b59bb",
+    "sent_idx": 32,
+    "text": "ACV plans to conduct three comprehensive operational trials, checking passenger service, baggage, airfield operations, security, safety, and IT; operational documents and licenses are also being completed.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_3487cf18e2#0",
+    "doc_id": "vietnamnews_20261106_3487cf18e2",
+    "sent_idx": 0,
+    "text": "VN-Index falls as profit-taking weighs on large-cap stocks",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261106_3487cf18e2#1",
+    "doc_id": "vietnamnews_20261106_3487cf18e2",
+    "sent_idx": 1,
+    "text": "HÀ NỘI - Việt Nam's benchmark VN-Index fell on Friday as selling pressure intensified near the 1,750-point resistance level, with losses in major property, banking and technology stocks outweighing renewed net buying by foreign investors.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_3487cf18e2#10",
+    "doc_id": "vietnamnews_20261106_3487cf18e2",
+    "sent_idx": 10,
+    "text": "This contrasted with Thursday's session, when VIC rose 1.71 per cent and contributed 6.54 points to the VN-Index, helping it close higher despite weakness in several other large-cap stocks.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_3e2d6d3ce3#0",
+    "doc_id": "vietnamnews_20261106_3e2d6d3ce3",
+    "sent_idx": 0,
+    "text": "Saigon Co.op opens new Co.opmart Pro supermarket in HCM City",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261106_67bd5a6fff#22",
+    "doc_id": "vietnamnews_20261106_67bd5a6fff",
+    "sent_idx": 22,
+    "text": "The conference also saw Amazon Global Selling Vietnam and the Vietnam Trade Promotion Agency launch a cooperation programme titled \"From National Brands to Global Brands\".",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_dd2e782c65#14",
+    "doc_id": "vietnamnews_20261107_dd2e782c65",
+    "sent_idx": 14,
+    "text": "As of August 2026, Vietnam Electricity (EVN) had announced plans to develop 1,200MW of battery storage capacity nationwide.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261107_b8e832b8c3#1",
+    "doc_id": "vneconomy_en_20261107_b8e832b8c3",
+    "sent_idx": 1,
+    "text": "The Ministry of Industry and Trade has issued a Directive calling for stronger management and more effective investment in industrial cluster development amid changing economic conditions.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_8e7ead0aa1#34",
+    "doc_id": "vietnamnews_20261107_8e7ead0aa1",
+    "sent_idx": 34,
+    "text": "In January, PV Gas signed Việt Nam's first long-term LNG supply contract - about 400,000 tonnes a year from Shell for 2027 to 2031 - and is now sounding the market for a second.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_8e7ead0aa1#35",
+    "doc_id": "vietnamnews_20261107_8e7ead0aa1",
+    "sent_idx": 35,
+    "text": "In September, during Party General Secretary and State President Tô Lâm's visit to the United States, Petrovietnam signed a framework agreement with Chevron to diversify its supply of crude oil, LNG and LPG.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_48ca7cd027#6",
+    "doc_id": "vietnamnews_20261107_48ca7cd027",
+    "sent_idx": 6,
+    "text": "Coal demand at power plants under State utility Vietnam Electricity (EVN) is expected to reach about 9.7 million tonnes in the fourth quarter of this year, all of which the Vietnam National Coal and Mineral Industries Group and Đông Bắc Corporation have pledged to supply.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_48ca7cd027#11",
+    "doc_id": "vietnamnews_20261107_48ca7cd027",
+    "sent_idx": 11,
+    "text": "The Ministry of Industry and Trade has proposed retaining until the end of 2027 a mechanism allowing coal mines to exceed their licensed production capacity by up to 15 per cent, aiming to increase domestic coal supply and reduce pressure on imports.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_48ca7cd027#18",
+    "doc_id": "vietnamnews_20261107_48ca7cd027",
+    "sent_idx": 18,
+    "text": "The Ministry of Industry and Trade has proposed adding 5,300MW of new coal-fired capacity to the eighth national power development plan (PDP8), with plants proposed near major electricity demand centres in Quảng Ninh, Hưng Yên, Quảng Trị and Cần Thơ by 2030.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261107_4f02e938f9#5",
+    "doc_id": "vneconomy_en_20261107_4f02e938f9",
+    "sent_idx": 5,
+    "text": "The figures highlight the continued dominance of individual investors in expanding participation in Vietnam's stock market.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261107_eb3e621292#17",
+    "doc_id": "vneconomy_en_20261107_eb3e621292",
+    "sent_idx": 17,
+    "text": "The Ministry of Finance is expected to clarify the legal framework, revenue and expenditure mechanisms for housing funds, and potential funding sources.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261107_f2700f4089#41",
+    "doc_id": "vneconomy_en_20261107_f2700f4089",
+    "sent_idx": 41,
+    "text": "For cashless payments to reach 30-times GDP by 2030, the Vietnamese Government has instructed ministries, agencies, and local authorities to accelerate the completion of regulatory frameworks, policies, and technical standards that promote the application of digital technology in banking activities and to strengthen connectivity between credit institutions, fintech companies, and financial service providers.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261108_e7d0a1cd8a#1",
+    "doc_id": "vietnamnews_20261108_e7d0a1cd8a",
+    "sent_idx": 1,
+    "text": "HÀ NỘI - Việt Nam's Ministry of Industry and Trade has launched an anti-dumping investigation into some cold-rolled stainless steel products imported from mainland China, Indonesia and Taiwan (China), following petitions from two domestic manufacturers.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261109_70491385f0#3",
+    "doc_id": "vietnamnews_20261109_70491385f0",
+    "sent_idx": 3,
+    "text": "The VN-Index, representing the Hochiminh Stock Exchange (HoSE) ended last week at 1,725.36 points, down 0.93 per cent from the previous week, marking its second consecutive weekly decline.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261109_70491385f0#18",
+    "doc_id": "vietnamnews_20261109_70491385f0",
+    "sent_idx": 18,
+    "text": "Meanwhile, global oil prices had fallen by more than 15 per cent, while the Vietnamese dong had appreciated by over 2 per cent against the US dollar since the beginning of the year.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261109_70491385f0#29",
+    "doc_id": "vietnamnews_20261109_70491385f0",
+    "sent_idx": 29,
+    "text": "Vietcombank Securities Company (VCBS) also warned that correction pressure persisted as the VN-Index tested support around 1,720-1,730 points.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261109_7f798ec983#19",
+    "doc_id": "vietnamnews_20261109_7f798ec983",
+    "sent_idx": 19,
+    "text": "For example, in August this year ACB officially launched its non-life insurance subsidiary, ACB Non-Life Insurance Co., Ltd., with a charter capital of VNĐ500 billion.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261109_0e08249be7#7",
+    "doc_id": "vneconomy_en_20261109_0e08249be7",
+    "sent_idx": 7,
+    "text": "Against this backdrop, the Vietnamese Government and the State Bank of Vietnam (SBV) have issued decisive directives to lower overall interest rates while safeguarding banking system stability and improving credit quality.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261109_c0a30edd4a#0",
+    "doc_id": "vietnamnews_20261109_c0a30edd4a",
+    "sent_idx": 0,
+    "text": "Vietsovpetro brings BK-26 oil platform on stream 36 days ahead of schedule",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vneconomy_en_20261109_25b233f281#0",
+    "doc_id": "vneconomy_en_20261109_25b233f281",
+    "sent_idx": 0,
+    "text": "Vietnam's PAN Group and Japan's Agri Smile exchange 5-year agricultural technology cooperation agreement",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261109_eda67d264d#0",
+    "doc_id": "vietnamnews_20261109_eda67d264d",
+    "sent_idx": 0,
+    "text": "Top leader attends 10th anniversary of Vietnam Airlines, ANA Holdings partnership, joint venture deal",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261109_eda67d264d#14",
+    "doc_id": "vietnamnews_20261109_eda67d264d",
+    "sent_idx": 14,
+    "text": "As of October 2026, Vietnam Airlines operated 11 direct routes between the two countries, with 72 flights per week.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261109_e276ab7922#0",
+    "doc_id": "vietnamnews_20261109_e276ab7922",
+    "sent_idx": 0,
+    "text": "Vietjet to launch Đà Nẵng-Osaka route in December",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261109_e276ab7922#1",
+    "doc_id": "vietnamnews_20261109_e276ab7922",
+    "sent_idx": 1,
+    "text": "TOKYO - Vietjet will launch a direct route between Đà Nẵng and Osaka on December 20, expanding its network in Japan ahead of the Việt Nam-Japan Tourism Cooperation Year 2027-28, the airline said on Monday.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261109_e276ab7922#4",
+    "doc_id": "vietnamnews_20261109_e276ab7922",
+    "sent_idx": 4,
+    "text": "Vietjet has operated flights to Japan since 2018 and currently runs 138 flights per week between the two countries across 22 routes, including scheduled and charter services.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "sggp_en_20261109_ba7c80877e#0",
+    "doc_id": "sggp_en_20261109_ba7c80877e",
+    "sent_idx": 0,
+    "text": "Vietsovpetro welcomes first oil from BK-26 platform at Bach Ho oilfield",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vneconomy_en_20261109_458ed0a369#11",
+    "doc_id": "vneconomy_en_20261109_458ed0a369",
+    "sent_idx": 11,
+    "text": "As of October, Vietnam Airlines operated 11 direct routes between the two countries, with 72 flights per week.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261109_88d462a3d6#0",
+    "doc_id": "vietnamnews_20261109_88d462a3d6",
+    "sent_idx": 0,
+    "text": "PAN Group, Japanese partner join hands to modernise agriculture",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261109_40a4c5a824#0",
+    "doc_id": "vietnamnews_20261109_40a4c5a824",
+    "sent_idx": 0,
+    "text": "SABECO introduces 333 Triple Pure through immersive consumer experience",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261109_40a4c5a824#1",
+    "doc_id": "vietnamnews_20261109_40a4c5a824",
+    "sent_idx": 1,
+    "text": "HCM CITY - Saigon Beer-Alcohol-Beverage Corporation (SABECO) has launched 333 Triple Pure, its latest product, as part of its ongoing efforts to respond to changing consumer preferences and lifestyles.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261109_6e64ef475b#3",
+    "doc_id": "vneconomy_en_20261109_6e64ef475b",
+    "sent_idx": 3,
+    "text": "Within the partnership framework, Stavian Group will lead project development and investment procedures in Vietnam.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261109_6e64ef475b#14",
+    "doc_id": "vneconomy_en_20261109_6e64ef475b",
+    "sent_idx": 14,
+    "text": "Through both projects, Stavian Group aims to build a synchronized, globally scalable digital infrastructure ecosystem, bolstering Vietnam's high-tech landscape.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261109_44590b6168#5",
+    "doc_id": "vietnamnews_20261109_44590b6168",
+    "sent_idx": 5,
+    "text": "The Vietnamese Government considers science and technology, innovation and digital transformation key drivers of national development in the new era, helping boost economic growth, productivity and national competitiveness, he stressed.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261109_1c04e85bb0#2",
+    "doc_id": "vietnamnews_20261109_1c04e85bb0",
+    "sent_idx": 2,
+    "text": "On the Hochiminh Stock Exchange (HoSE), the VN-Index closed down 11.04 points, or 0.64 per cent, at 1,714.32 points.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261109_1c04e85bb0#3",
+    "doc_id": "vietnamnews_20261109_1c04e85bb0",
+    "sent_idx": 3,
+    "text": "The VN30-Index, which tracks the 30 largest stocks by market capitalisation and liquidity, fell 16.26 points, or 0.88 per cent, to 1,830.13 points.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261109_1c04e85bb0#10",
+    "doc_id": "vietnamnews_20261109_1c04e85bb0",
+    "sent_idx": 10,
+    "text": "SSI Securities Corporation (SSI) dropped 2.45 per cent, VNDirect Securities Corporation (VND) fell 3.34 per cent and Ho Chi Minh City Securities Corporation (HCM) lost 1.27 per cent, while VIX Securities (VIX), VietinBank (CTG) and Vietcap Securities (VCI) fell 2.62 per cent, 0.63 per cent and 2.48 per cent, respectively.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261109_1c04e85bb0#11",
+    "doc_id": "vietnamnews_20261109_1c04e85bb0",
+    "sent_idx": 11,
+    "text": "Among banks, Sacombank (STB) declined 2.14 per cent, LPBank (LPB) fell 1.69 per cent and HDBank (HDB) lost 1.33 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261109_1c04e85bb0#12",
+    "doc_id": "vietnamnews_20261109_1c04e85bb0",
+    "sent_idx": 12,
+    "text": "In contrast, VPBank (VPB) rose 0.91 per cent, Asia Commercial Bank (ACB) gained 0.74 per cent and MBBank (MBB) edged up 0.26 per cent, while Vietcombank (VCB) ended unchanged.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261109_1c04e85bb0#13",
+    "doc_id": "vietnamnews_20261109_1c04e85bb0",
+    "sent_idx": 13,
+    "text": "On the Hanoi Stock Exchange (HNX), the HNX-Index also lost 1.49 points, or 0.58 per cent, to close at 255.24 points.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261109_f47e06cd49#0",
+    "doc_id": "vietnamnews_20261109_f47e06cd49",
+    "sent_idx": 0,
+    "text": "Democratic midterm victory could boost Việt Nam stock market: VinaCapital",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261110_415ca2c4db#0",
+    "doc_id": "vietnamnews_20261110_415ca2c4db",
+    "sent_idx": 0,
+    "text": "Stavian Group, Midas Capital plan US$1 billion digital infrastructure cooperation",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261110_415ca2c4db#5",
+    "doc_id": "vietnamnews_20261110_415ca2c4db",
+    "sent_idx": 5,
+    "text": "Under the agreement, Stavian Group will lead project development and investment procedures in Việt Nam, while Midas Capital will help mobilise financing, technology partners and institutional support from Japan and other international markets.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261110_415ca2c4db#10",
+    "doc_id": "vietnamnews_20261110_415ca2c4db",
+    "sent_idx": 10,
+    "text": "Alongside MViSTA, Stavian Group, through its subsidiary Stavian Hightech Infrastructure JSC, is developing plans for Stavian Digital Park (Stavian DP) in HCM City.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261110_2dda13c525#0",
+    "doc_id": "vietnamnews_20261110_2dda13c525",
+    "sent_idx": 0,
+    "text": "Petrolimex and Japan's ENEOS deepen strategic partnership with new MoU",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261110_2dda13c525#6",
+    "doc_id": "vietnamnews_20261110_2dda13c525",
+    "sent_idx": 6,
+    "text": "As Việt Nam's largest downstream petroleum enterprise, Petrolimex operates an extensive infrastructure network and nationwide distribution system.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_b47ba32588#19",
+    "doc_id": "vneconomy_en_20261110_b47ba32588",
+    "sent_idx": 19,
+    "text": "To capitalize on commercial value and overcome market barriers, Vietnamese enterprises should actively master rules of origin under the Vietnamese Ministry of Finance's Circular 44/2025/TT-BCT guiding VIFTA implementation.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_6505c5a2c9#19",
+    "doc_id": "vneconomy_en_20261110_6505c5a2c9",
+    "sent_idx": 19,
+    "text": "At the same time, Petrovietnam is expanding its integrated value chain, developing coordinated gas-to-power projects, strengthening deep processing and refining and petrochemical capabilities, and establishing major energy industrial hubs to enable shared infrastructure.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261110_1bca1706e3#13",
+    "doc_id": "vietnamnews_20261110_1bca1706e3",
+    "sent_idx": 13,
+    "text": "To ensure power supply, EVN plans to invest about VNĐ830 trillion in the 2026-30 period, the largest investment programme in the utility's history.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_8f49b709cc#1",
+    "doc_id": "vneconomy_en_20261110_8f49b709cc",
+    "sent_idx": 1,
+    "text": "The Ministry of Industry and Trade (MOIT) has approved the 2026 electricity generation price framework for solar power plants, establishing maximum tariffs based on geographic region, plant type, and the use of battery energy storage systems, according to the Government's online newspaper (chinhphu.vn).",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261110_20856f3f5c#1",
+    "doc_id": "vietnamnews_20261110_20856f3f5c",
+    "sent_idx": 1,
+    "text": "HÀ NỘI - The Ministry of Industry and Trade (MoIT) has issued the Decision No 2946/QĐ-BCT, approving the 2026 price framework for solar power generation, setting maximum prices based on geographical region, plant type and whether energy storage systems are used.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261110_b1f53ca808#0",
+    "doc_id": "vietnamnews_20261110_b1f53ca808",
+    "sent_idx": 0,
+    "text": "VN-Index reverses course, liquidity improves",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261110_b1f53ca808#2",
+    "doc_id": "vietnamnews_20261110_b1f53ca808",
+    "sent_idx": 2,
+    "text": "On the Hochiminh Stock Exchange (HoSE), the VN-Index surged by 28.75 points, or 1.68 per cent, to close at 1,743.07 points.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261110_b1f53ca808#3",
+    "doc_id": "vietnamnews_20261110_b1f53ca808",
+    "sent_idx": 3,
+    "text": "The VN30-Index, tracking the 30 largest stocks by market capitalisation and liquidity, gained 30.80 points, or 1.68 per cent, to 1,860.93 points.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261110_b1f53ca808#7",
+    "doc_id": "vietnamnews_20261110_b1f53ca808",
+    "sent_idx": 7,
+    "text": "Among large-cap stocks, Vingroup (VIC) rose by 3.24 per cent and Vinhomes (VHM) gained 2.65 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261110_b1f53ca808#9",
+    "doc_id": "vietnamnews_20261110_b1f53ca808",
+    "sent_idx": 9,
+    "text": "Khang Dien House (KDH) advanced by 5.65 per cent, Dat Xanh Group (DXG) rose by 4.11 per cent, Nam Long Investment Corporation (NLG) increased by 4.21 per cent, Van Phu Real Estate Development (VPI) gained 3.49 per cent and Novaland (NVL) climbed by 3.33 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261110_b1f53ca808#10",
+    "doc_id": "vietnamnews_20261110_b1f53ca808",
+    "sent_idx": 10,
+    "text": "Hoang Huy Investment Financial Services (TCH) rose by 2.64 per cent, while Becamex IDC (BCM) added 1.99 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261110_b1f53ca808#13",
+    "doc_id": "vietnamnews_20261110_b1f53ca808",
+    "sent_idx": 13,
+    "text": "VIX Securities (VIX) rose by 3.08 per cent, SSI Securities Corporation (SSI) gained 3.77 per cent, VNDirect Securities (VND) advanced by 3.11 per cent, FPT Securities (FTS) climbed by 4.17 per cent and Viet Dragon Securities (VDS) increased by 3.12 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261110_b1f53ca808#15",
+    "doc_id": "vietnamnews_20261110_b1f53ca808",
+    "sent_idx": 15,
+    "text": "LPBank (LPB) rose by 3.44 per cent and SeABank (SSB) gained 2.03 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261110_b1f53ca808#16",
+    "doc_id": "vietnamnews_20261110_b1f53ca808",
+    "sent_idx": 16,
+    "text": "Sahabank (SHB), HDBank (HDB), TPBank (TPB), Techcombank (TCB), Sacombank (STB), VPBank (VPB) and VIB also advanced by more than 1 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261110_b1f53ca808#18",
+    "doc_id": "vietnamnews_20261110_b1f53ca808",
+    "sent_idx": 18,
+    "text": "Vietjet (VJC) also advanced by 1.41 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261110_b1f53ca808#19",
+    "doc_id": "vietnamnews_20261110_b1f53ca808",
+    "sent_idx": 19,
+    "text": "HVN's rally came after Vietnam Airlines announced a new development in its cooperation with Japan's ANA Holdings, marking another milestone in the decade-long relationship between the two aviation groups.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261110_b1f53ca808#22",
+    "doc_id": "vietnamnews_20261110_b1f53ca808",
+    "sent_idx": 22,
+    "text": "On the Hanoi Stock Exchange, the HNX-Index advanced by 1.02 points, or 0.40 per cent, to 256.26 points.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_2938dfdee7#10",
+    "doc_id": "vneconomy_en_20261110_2938dfdee7",
+    "sent_idx": 10,
+    "text": "Previously, ACV submitted a plan to CAAV proposing to inaugurate commercial operations at Long Thanh International Airport starting from 0:00 on December 24 (local time).",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_2938dfdee7#11",
+    "doc_id": "vneconomy_en_20261110_2938dfdee7",
+    "sent_idx": 11,
+    "text": "Under the initial phase strategy, ACV plans to handle a maximum of approximately 366 flights per week, comprising 322 domestic and 44 international flights.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_2938dfdee7#13",
+    "doc_id": "vneconomy_en_20261110_2938dfdee7",
+    "sent_idx": 13,
+    "text": "Vietnam Airlines plans to operate the Long Thanh - Hanoi route alongside select international destinations, while Vietjet Air intends to link Long Thanh with major economic and tourism hubs nationwide.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261110_61e43873ac#0",
+    "doc_id": "vietnamnews_20261110_61e43873ac",
+    "sent_idx": 0,
+    "text": "VPBank secures US$730 million offshore syndicated loan",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261110_61e43873ac#1",
+    "doc_id": "vietnamnews_20261110_61e43873ac",
+    "sent_idx": 1,
+    "text": "HÀ NỘI - VPBank has secured a nearly VNĐ19 trillion (US$730 million) offshore syndicated loan arranged by the International Finance Corporation (IFC) and Sumitomo Mitsui Banking Corporation (SMBC), strengthening its medium- and long-term funding base and expanding its capacity to lend to small- and medium-sized enterprises (SMEs), particularly women-owned and women-led businesses and agricultural firms.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261110_61e43873ac#2",
+    "doc_id": "vietnamnews_20261110_61e43873ac",
+    "sent_idx": 2,
+    "text": "VPBank held a ceremony on November 10 to mark the completion of the $730 million facility, with the participation of international financial institutions and the bank's senior executives.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261110_61e43873ac#4",
+    "doc_id": "vietnamnews_20261110_61e43873ac",
+    "sent_idx": 4,
+    "text": "It will provide additional funding for VPBank to expand financial services for SMEs, including women-owned and women-led SMEs (WSMEs) and agricultural businesses, helping them meet working capital needs, expand production and support business growth.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261110_61e43873ac#14",
+    "doc_id": "vietnamnews_20261110_61e43873ac",
+    "sent_idx": 14,
+    "text": "Our long-standing partnership with VPBank and confidence in the bank's strategy and performance have enabled us to provide our first seven-year loan to a Vietnamese bank, helping strengthen VPBank's funding structure and expand its lending to SMEs.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261111_7b6a96d020#3",
+    "doc_id": "vietnamnews_20261111_7b6a96d020",
+    "sent_idx": 3,
+    "text": "Vinamilk maintained its leading position in revenue among the enterprises surveyed, while reporting positive growth in both the third quarter and the first nine months.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261111_7b6a96d020#4",
+    "doc_id": "vietnamnews_20261111_7b6a96d020",
+    "sent_idx": 4,
+    "text": "According to its consolidated financial statements, Vinamilk recorded net revenue of nearly VNĐ18.5 trillion (US$723 million) in the third quarter, up 9 per cent year-on-year.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261111_7b6a96d020#9",
+    "doc_id": "vietnamnews_20261111_7b6a96d020",
+    "sent_idx": 9,
+    "text": "For the first nine months, Vinamilk's net revenue rose by 14.5 per cent year-on-year to VNĐ53.4 trillion, while profit after tax increased by more than 30 per cent to VNĐ8.6 trillion.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261111_033aa2af3e#9",
+    "doc_id": "vietnamnews_20261111_033aa2af3e",
+    "sent_idx": 9,
+    "text": "The offers come as the SBV seeks to lower interest rates to support growth.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261111_033aa2af3e#21",
+    "doc_id": "vietnamnews_20261111_033aa2af3e",
+    "sent_idx": 21,
+    "text": "BIDV led the system with VNĐ2.36 quadrillion in customer deposits in the first nine months of 2026, followed by VietinBank with VNĐ1.94 quadrillion and Vietcombank with VNĐ1.78 quadrillion.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261111_033aa2af3e#22",
+    "doc_id": "vietnamnews_20261111_033aa2af3e",
+    "sent_idx": 22,
+    "text": "In terms of new deposits, VPBank and Sacombank recorded stronger growth, adding around VNĐ165 trillion and VNĐ155.5 trillion, respectively.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261111_033aa2af3e#23",
+    "doc_id": "vietnamnews_20261111_033aa2af3e",
+    "sent_idx": 23,
+    "text": "By contrast, ACB added VNĐ10.6 trillion, down nearly 70 per cent year on year, while OCB gained less than VNĐ2 trillion, down around 85 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "sggp_en_20261111_2fe86ab106#7",
+    "doc_id": "sggp_en_20261111_2fe86ab106",
+    "sent_idx": 7,
+    "text": "Earlier this year, Hoa Sen Group signed a commitment with the Ho Chi Minh City Federation of Labor regarding the deployment of at least 20,000 social housing units for workers and laborers, contributing to achieving the city's goal of developing 200,000 social housing apartments by 2030.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "sggp_en_20261111_2fe86ab106#11",
+    "doc_id": "sggp_en_20261111_2fe86ab106",
+    "sent_idx": 11,
+    "text": "Recently, on October 13, the Ho Chi Minh City People's Committee approved the investment policy for a social housing project by Vingroup, with a scale of nearly 192 hectares in Ba Diem Commune, a preliminary total investment capital of over VND64,000 billion, and an expected population of nearly 67,500 people.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "sggp_en_20261111_2fe86ab106#12",
+    "doc_id": "sggp_en_20261111_2fe86ab106",
+    "sent_idx": 12,
+    "text": "Delta Joint Stock Company, an enterprise within the Vinhomes ecosystem, was assigned as the project investor.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261111_752ef355a8#14",
+    "doc_id": "vneconomy_en_20261111_752ef355a8",
+    "sent_idx": 14,
+    "text": "Building on its established capabilities in oil and gas, Petrovietnam plans to expand across the industrial and energy value chain, combining the efficient exploitation of conventional energy resources with the selective development of new and low-emissions energy sectors.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261111_752ef355a8#30",
+    "doc_id": "vneconomy_en_20261111_752ef355a8",
+    "sent_idx": 30,
+    "text": "Rather than organizing individual segments as relatively independent operations, Petrovietnam aims to strengthen links across exploration, production, transportation, processing, and distribution, aligning production with market demand.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261111_752ef355a8#52",
+    "doc_id": "vneconomy_en_20261111_752ef355a8",
+    "sent_idx": 52,
+    "text": "In terms of resources, Petrovietnam plans to strengthen cooperation with domestic and international partners to access capital, technology, management expertise, and markets.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261111_752ef355a8#55",
+    "doc_id": "vneconomy_en_20261111_752ef355a8",
+    "sent_idx": 55,
+    "text": "Building on its conventional oil and gas foundation, developing integrated value chains, and capitalizing on a supportive institutional environment, Petrovietnam aims to establish a competitive industrial and energy group that makes a meaningful contribution to Vietnam's energy security and sustainable economic growth.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261111_83a07c61e4#0",
+    "doc_id": "vneconomy_en_20261111_83a07c61e4",
+    "sent_idx": 0,
+    "text": "VPBank secures $730 million offshore syndicated loan",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vneconomy_en_20261111_83a07c61e4#1",
+    "doc_id": "vneconomy_en_20261111_83a07c61e4",
+    "sent_idx": 1,
+    "text": "The Vietnam Prosperity Joint-Stock Commercial Bank (VPBank; HoSE: VPB) has secured a $730 million offshore syndicated loan arranged by the International Financial Corporation (IFC) and the Sumitomo Mitsui Banking Corporation (SMBC), strengthening its long-term funding for growth.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261111_83a07c61e4#2",
+    "doc_id": "vneconomy_en_20261111_83a07c61e4",
+    "sent_idx": 2,
+    "text": "With tenors of 3, 5, and 7 years, the loan will help VPBank strengthen its medium and long-term funding base to expand lending to small and medium-sized enterprises (SMEs), particularly women-owned and women-led SMEs and agricultural SMEs.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261111_83a07c61e4#3",
+    "doc_id": "vneconomy_en_20261111_83a07c61e4",
+    "sent_idx": 3,
+    "text": "Together with leading global financial institutions, VPBank held a celebration ceremony for the loan attended by the Chairman of the Board of Directors, the Chief Executive Officer, senior executives, and representatives of participating financial institutions.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261111_83a07c61e4#5",
+    "doc_id": "vneconomy_en_20261111_83a07c61e4",
+    "sent_idx": 5,
+    "text": "The funding will enable VPBank to continue expanding comprehensive financial solutions to support SMEs working capital requirements, production capacity expansion, and business growth initiatives.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261111_83a07c61e4#25",
+    "doc_id": "vneconomy_en_20261111_83a07c61e4",
+    "sent_idx": 25,
+    "text": "Earlier, in 2025, VPBank successfully raised a total of $2.36 billion, including a $1.56 billion international syndicated loan and a $300 million international sustainable bond issuance.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "sggp_en_20261111_1fb494d434#0",
+    "doc_id": "sggp_en_20261111_1fb494d434",
+    "sent_idx": 0,
+    "text": "SBV begins spot dollar purchases to inject dong liquidity into banking system",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "sggp_en_20261111_1fb494d434#7",
+    "doc_id": "sggp_en_20261111_1fb494d434",
+    "sent_idx": 7,
+    "text": "At the exchange rate of VND25,500 per dollar, every US$1 billion purchased by the SBV would inject approximately VND25.5 trillion into the banking system.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "sggp_en_20261111_1fb494d434#12",
+    "doc_id": "sggp_en_20261111_1fb494d434",
+    "sent_idx": 12,
+    "text": "Earlier, on November 6, the SBV announced a USD/VND foreign exchange swap facility with a maximum value of US$2 billion and a 182-day tenor.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "sggp_en_20261111_1fb494d434#23",
+    "doc_id": "sggp_en_20261111_1fb494d434",
+    "sent_idx": 23,
+    "text": "To support liquidity and funding at credit institutions, the central bank has been conducting daily open-market operations, refinancing transactions and short-term foreign exchange swaps to convert dollars into dong.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "sggp_en_20261111_1fb494d434#25",
+    "doc_id": "sggp_en_20261111_1fb494d434",
+    "sent_idx": 25,
+    "text": "The SBV set its central exchange rate at VND25,611 per dollar, up VND11 from the previous day, on the morning of November 11.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "sggp_en_20261111_1fb494d434#28",
+    "doc_id": "sggp_en_20261111_1fb494d434",
+    "sent_idx": 28,
+    "text": "BIDV raised its dollar buying and selling rates by VND30 each, to VND25,450 and VND25,830, respectively.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261111_f7b5d671fd#0",
+    "doc_id": "vietnamnews_20261111_f7b5d671fd",
+    "sent_idx": 0,
+    "text": "Vietjet adds three direct routes between Việt Nam and the Philippines",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261111_f7b5d671fd#1",
+    "doc_id": "vietnamnews_20261111_f7b5d671fd",
+    "sent_idx": 1,
+    "text": "HCM CITY - Vietjet has launched three new direct routes linking Việt Nam and the Philippines, expanding its regional network and strengthening air connectivity between the two countries.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261111_5a90da98fd#0",
+    "doc_id": "vietnamnews_20261111_5a90da98fd",
+    "sent_idx": 0,
+    "text": "VN-Index rises for second day despite low liquidity, stronger selling force",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261111_5a90da98fd#2",
+    "doc_id": "vietnamnews_20261111_5a90da98fd",
+    "sent_idx": 2,
+    "text": "The VN-Index, representing the Hochiminh Stock Exchange (HoSE), gained 3.83 points to close at 1,746.90 points.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261111_5a90da98fd#11",
+    "doc_id": "vietnamnews_20261111_5a90da98fd",
+    "sent_idx": 11,
+    "text": "GAS gained 1.8 per cent, VHM rose 0.8 per cent, while VCB and BID advanced by around 0.7-0.8 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261111_5a90da98fd#12",
+    "doc_id": "vietnamnews_20261111_5a90da98fd",
+    "sent_idx": 12,
+    "text": "Banking stocks improved towards the close, with Saigon-Hanoi Bank (SHB) climbing 2.3 per cent to VNĐ11,150 per share.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261111_5a90da98fd#13",
+    "doc_id": "vietnamnews_20261111_5a90da98fd",
+    "sent_idx": 13,
+    "text": "SHB recorded trading volume of 60.8 million shares, the highest across the market.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261111_5a90da98fd#17",
+    "doc_id": "vietnamnews_20261111_5a90da98fd",
+    "sent_idx": 17,
+    "text": "VPBank (VPB), Sacombank (STB), Vinamilk (VNM), Masan Group (MSN) and Techcombank (TCB) also closed lower.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261111_5a90da98fd#18",
+    "doc_id": "vietnamnews_20261111_5a90da98fd",
+    "sent_idx": 18,
+    "text": "STB fell 1.7 per cent, while VNM declined 1.6 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261111_5a90da98fd#19",
+    "doc_id": "vietnamnews_20261111_5a90da98fd",
+    "sent_idx": 19,
+    "text": "On the Hanoi Stock Exchange (HNX), the HNX-Index lost 0.53 points to close at 255.73 points.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261111_5131bb72a7#8",
+    "doc_id": "vietnamnews_20261111_5131bb72a7",
+    "sent_idx": 8,
+    "text": "Hoa Phat Group is investing in a plant to manufacture railway rails, rail fastening components and special steel products for railway infrastructure with an aim to improve domestic material supply and participate more deeply in the industry's value chain, he said.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261112_f04e94df7a#0",
+    "doc_id": "vietnamnews_20261112_f04e94df7a",
+    "sent_idx": 0,
+    "text": "HNX considers segmenting UPCoM market to help investors identify risks",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261112_d3a9cf74fe#1",
+    "doc_id": "vietnamnews_20261112_d3a9cf74fe",
+    "sent_idx": 1,
+    "text": "HÀ NỘI - The State Bank of Vietnam (SBV) has announced a plan for regular spot purchases of US dollars twice a week at an exchange rate of VNĐ25,500 per dollar from November 11, in a move aimed at injecting more liquidity into the market.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261112_d3a9cf74fe#12",
+    "doc_id": "vietnamnews_20261112_d3a9cf74fe",
+    "sent_idx": 12,
+    "text": "According to market data, the interbank USD/VNĐ exchange rate closed the session on November 6 at VNĐ25,588 per dollar, just VNĐ88 above the SBV's new buying rate.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261112_d3a9cf74fe#18",
+    "doc_id": "vietnamnews_20261112_d3a9cf74fe",
+    "sent_idx": 18,
+    "text": "Specifically, the SBV on November 9 initiated a 182-day USD/VNĐ swap arrangement with a maximum volume of $2 billion.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_717062995b#22",
+    "doc_id": "vneconomy_en_20261112_717062995b",
+    "sent_idx": 22,
+    "text": "Concurrently, the Ministry of Finance is drafting a Decree on Special Preferential Import-Export Tariffs to ensure immediate legal implementation upon entry into force.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "sggp_en_20261112_34734da9c8#1",
+    "doc_id": "sggp_en_20261112_34734da9c8",
+    "sent_idx": 1,
+    "text": "Following the directive of the Ho Chi Minh City People's Committee, the municipal Department of Industry and Trade launched the \"Vibrant HCMC- Shopping Season 2026\" on the evening of November 11 at Lam Son Park in Saigon Ward, Ho Chi Minh City.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261112_5797ad7378#1",
+    "doc_id": "vietnamnews_20261112_5797ad7378",
+    "sent_idx": 1,
+    "text": "HÀ NỘI - The State Bank of Vietnam (SBV) has introduced two foreign exchange operations to inject more Vietnamese đồng liquidity into the banking system, ease funding pressures and support lower interest rates, while also strengthening foreign exchange reserves.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261112_5797ad7378#3",
+    "doc_id": "vietnamnews_20261112_5797ad7378",
+    "sent_idx": 3,
+    "text": "On November 6, the SBV announced a US$2 billion foreign exchange swap programme with a maturity of 182 days.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261112_5797ad7378#14",
+    "doc_id": "vietnamnews_20261112_5797ad7378",
+    "sent_idx": 14,
+    "text": "According to the Vietnam Banks Association, the SBV injected a net VNĐ28.13 trillion through open market operations (OMO) in the final week of October.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261112_5797ad7378#24",
+    "doc_id": "vietnamnews_20261112_5797ad7378",
+    "sent_idx": 24,
+    "text": "The SBV's purchase rate of VNĐ25,500 could provide support when the Vietnamese đồng strengthens, while allowing the central bank to accumulate foreign currency.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_e938372b02#2",
+    "doc_id": "vneconomy_en_20261112_e938372b02",
+    "sent_idx": 2,
+    "text": "The Ministry of Industry and Trade has issued Decision No. 2987/QD-BCT, approving the power generation price framework for standalone Battery Energy Storage Systems (BESS) for 2026.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261112_9ebd8a7773#0",
+    "doc_id": "vietnamnews_20261112_9ebd8a7773",
+    "sent_idx": 0,
+    "text": "Vietjet named among Việt Nam's 50 best-performing listed companies in 2026",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261112_9ebd8a7773#1",
+    "doc_id": "vietnamnews_20261112_9ebd8a7773",
+    "sent_idx": 1,
+    "text": "HCM CITY - Vietjet has been named among Việt Nam's 50 best-performing listed companies in 2026, in a ranking compiled by Nhịp Cầu Đầu Tư Magazine, alongside major companies including Vinamilk and FPT.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261112_9ebd8a7773#6",
+    "doc_id": "vietnamnews_20261112_9ebd8a7773",
+    "sent_idx": 6,
+    "text": "In the first nine months of 2026, Vietjet posted consolidated revenue of nearly VNĐ74.4 trillion (approximately US$2.9 billion), up 41 per cent year-on-year, equivalent to 86 per cent of its full-year target.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261112_9ebd8a7773#9",
+    "doc_id": "vietnamnews_20261112_9ebd8a7773",
+    "sent_idx": 9,
+    "text": "Vietjet has also expanded its international network, launching services to Almaty in Kazakhstan, Prague in the Czech Republic and Colombo in Sri Lanka, as well as routes connecting to the Maldives.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261112_9ebd8a7773#11",
+    "doc_id": "vietnamnews_20261112_9ebd8a7773",
+    "sent_idx": 11,
+    "text": "Vietjet has previously been included in Việt Nam's Top 50 best-listed companies in 2026 and received international industry awards, including World's Best Ultra Low-Cost Carrier and Best Airline Financial Management.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_ce8cd99d80#8",
+    "doc_id": "vneconomy_en_20261112_ce8cd99d80",
+    "sent_idx": 8,
+    "text": "The Ministry of Finance has implemented a tax withholding and remittance mechanism, requiring e-commerce platforms and service providers to deduct taxes at the source.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "sggp_en_20261112_6cccbe1742#27",
+    "doc_id": "sggp_en_20261112_6cccbe1742",
+    "sent_idx": 27,
+    "text": "To improve supply-demand connectivity, Saigon Co.op proposed building a unified database on raw material areas, output, harvest seasons, and consumption demand.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "sggp_en_20261112_6cccbe1742#30",
+    "doc_id": "sggp_en_20261112_6cccbe1742",
+    "sent_idx": 30,
+    "text": "The Ministry of Industry and Trade is shifting its focus from campaigning for the prioritized use of Vietnamese goods to creating conditions to enhance competitiveness through quality and supply efficiency.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261112_3892932952#11",
+    "doc_id": "vietnamnews_20261112_3892932952",
+    "sent_idx": 11,
+    "text": "The Ministry of Industry and Trade said it would coordinate with relevant agencies to inspect fuel traders' compliance with regulations and ensure adequate market supplies, with violations subject to strict penalties.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_d9bc9238ba#72",
+    "doc_id": "vneconomy_en_20261112_d9bc9238ba",
+    "sent_idx": 72,
+    "text": "Petrovietnam contributed nearly VND166 trillion ($6.38 billion) to the State budget, accounting for 7-8 per cent of total revenue.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261112_9bfc16c7a5#0",
+    "doc_id": "vietnamnews_20261112_9bfc16c7a5",
+    "sent_idx": 0,
+    "text": "VN-Index ticks down on bank stocks",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261112_9bfc16c7a5#1",
+    "doc_id": "vietnamnews_20261112_9bfc16c7a5",
+    "sent_idx": 1,
+    "text": "HÀ NỘI - The market's benchmark VN-Index closed lower on Thursday, ending a two-session winning streak as banking and property stocks faced strong selling pressure, while foreign investors returned to net selling.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261112_9bfc16c7a5#2",
+    "doc_id": "vietnamnews_20261112_9bfc16c7a5",
+    "sent_idx": 2,
+    "text": "The VN-Index on the Hochiminh Stock Exchange (HoSE) fell 12.15 points, or 0.70 per cent, to 1,734.75 points.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261112_9bfc16c7a5#3",
+    "doc_id": "vietnamnews_20261112_9bfc16c7a5",
+    "sent_idx": 3,
+    "text": "The VN30-Index, which tracks the 30 largest stocks by market capitalisation and liquidity, lost 15.84 points, or 0.85 per cent, to 1,839.43 points.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261112_9bfc16c7a5#7",
+    "doc_id": "vietnamnews_20261112_9bfc16c7a5",
+    "sent_idx": 7,
+    "text": "VPB of VPBank fell 1.79 per cent, while TCB of Techcombank dropped 1.37 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261112_9bfc16c7a5#8",
+    "doc_id": "vietnamnews_20261112_9bfc16c7a5",
+    "sent_idx": 8,
+    "text": "BIDV (BID) declined 1.08 per cent and MBBank (MBB) lost 1.03 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261112_9bfc16c7a5#9",
+    "doc_id": "vietnamnews_20261112_9bfc16c7a5",
+    "sent_idx": 9,
+    "text": "Other major banking stocks also weakened, with CTG of VietinBank down 0.79 per cent and Vietcombank (VCB) falling 0.55 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261112_9bfc16c7a5#11",
+    "doc_id": "vietnamnews_20261112_9bfc16c7a5",
+    "sent_idx": 11,
+    "text": "Vingroup (VIC) fell 0.9 per cent, while Vinhomes (VHM) declined 0.48 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261112_9bfc16c7a5#13",
+    "doc_id": "vietnamnews_20261112_9bfc16c7a5",
+    "sent_idx": 13,
+    "text": "On the other side, Petrovietnam Refining And Petrochemical Corporation (BSR), Petrolimex (PLX) and Sacombank (STB) helped cushion losses, although their gains were insufficient to offset the pressure from declining stocks.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261112_9bfc16c7a5#15",
+    "doc_id": "vietnamnews_20261112_9bfc16c7a5",
+    "sent_idx": 15,
+    "text": "Dat Phuong Group (DPG) rose 6.46 per cent, while Thong Nhat Rubber (TNC), Lilama 10 (L10), First Real (FIR) and Lilama 18 (LM8) all hit their ceiling prices.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261112_9bfc16c7a5#16",
+    "doc_id": "vietnamnews_20261112_9bfc16c7a5",
+    "sent_idx": 16,
+    "text": "Meanwhile, the HNX-Index on the Hanoi Stock Exchange (HNX) finished higher at 256.62 points, up 0.89 points, or 0.35 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261113_a39e34764a#5",
+    "doc_id": "vneconomy_en_20261113_a39e34764a",
+    "sent_idx": 5,
+    "text": "In semiconductor packaging and testing, Vietnam's FPT established partnerships with HANA Micron, Supergate and edgeAI to expand its network of partners across the semiconductor supply chain.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "sggp_en_20261113_bea4a18f54#14",
+    "doc_id": "sggp_en_20261113_bea4a18f54",
+    "sent_idx": 14,
+    "text": "In the first nine months of 2026, Vinamilk recorded net revenue of VND12.148 trillion (US$473 million) from international markets, up 27.9 percent year on year.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "sggp_en_20261113_bea4a18f54#16",
+    "doc_id": "sggp_en_20261113_bea4a18f54",
+    "sent_idx": 16,
+    "text": "Vo Trung Hieu, Vinamilk's International Business Director, said the company places emphasis on researching consumer demand in each country, adapting its products accordingly and partnering with distributors to expand its customer base.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "sggp_en_20261113_bea4a18f54#19",
+    "doc_id": "sggp_en_20261113_bea4a18f54",
+    "sent_idx": 19,
+    "text": "In the technology services sector, Nguyen Thi Dan Phuong, Head of Marketing and Global Customer Experience at FPT Software, said the company has established more than 90 offices in over 30 countries, generating approximately US$1.5 billion in revenue.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261113_8693234aa5#19",
+    "doc_id": "vietnamnews_20261113_8693234aa5",
+    "sent_idx": 19,
+    "text": "Through the event, the Ministry of Agriculture and Environment expects to raise the profile of local agricultural goods, encourage investment and help businesses expand domestic and export markets for agricultural, forestry and fishery products.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261113_87e1fe4513#0",
+    "doc_id": "vietnamnews_20261113_87e1fe4513",
+    "sent_idx": 0,
+    "text": "VIMC allowed to pay stock dividend to increase charter capital",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261113_c69b8e2587#0",
+    "doc_id": "vietnamnews_20261113_c69b8e2587",
+    "sent_idx": 0,
+    "text": "Amway Vietnam named among Southeast Asia's top 100 employers for second year",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261113_c69b8e2587#5",
+    "doc_id": "vietnamnews_20261113_c69b8e2587",
+    "sent_idx": 5,
+    "text": "According to the survey results at Amway Vietnam, 94 per cent of employees rated the company as an 'Excellent Place to Work', while 24 out of 25 core criteria received approval ratings of over 90 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261113_c69b8e2587#9",
+    "doc_id": "vietnamnews_20261113_c69b8e2587",
+    "sent_idx": 9,
+    "text": "In terms of business performance, Amway Vietnam has recorded 10 consecutive years of growth and ranks among the top nine markets by revenue out of more than 100 markets worldwide within the Amway Corporation.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "sggp_en_20261113_59b32c3384#8",
+    "doc_id": "sggp_en_20261113_59b32c3384",
+    "sent_idx": 8,
+    "text": "In 2026, the disbursed investment capital flowing from these localized Petrovietnam units is projected to hit VND61 trillion ($2.38 billion), marking a staggering 56-percent surge compared to the previous year while capturing roughly 68 percent of the group's total investment.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261113_619aff1f3d#0",
+    "doc_id": "vietnamnews_20261113_619aff1f3d",
+    "sent_idx": 0,
+    "text": "Sovico Group, MUFG sign deal to boost Việt Nam-Japan investment cooperation",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261113_981cce05c1#15",
+    "doc_id": "vietnamnews_20261113_981cce05c1",
+    "sent_idx": 15,
+    "text": "Meanwhile, FPT signed collaboration agreements with HANA Micron, Supergate and EdgeAI Inc for semiconductor packaging and testing, expanding its network of partners in the sector's supply chain.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261113_23ff116655#0",
+    "doc_id": "vietnamnews_20261113_23ff116655",
+    "sent_idx": 0,
+    "text": "VN-Index gains slightly on large-cap stocks",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261113_23ff116655#2",
+    "doc_id": "vietnamnews_20261113_23ff116655",
+    "sent_idx": 2,
+    "text": "On the Hochiminh Stock Exchange (HoSE), VN-Index rose slightly 0.18 points to close at 1,734.9 points.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261113_23ff116655#3",
+    "doc_id": "vietnamnews_20261113_23ff116655",
+    "sent_idx": 3,
+    "text": "The VN30-Index, tracking the 30 largest stocks by market capitalisation and liquidity, gained 5.48 points to 1,844.9 points.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261113_23ff116655#7",
+    "doc_id": "vietnamnews_20261113_23ff116655",
+    "sent_idx": 7,
+    "text": "FPT Corporation (FPT) contributed 1.42 points.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261113_23ff116655#13",
+    "doc_id": "vietnamnews_20261113_23ff116655",
+    "sent_idx": 13,
+    "text": "Property stocks were largely flat, with Khang Dien House (KDH) gaining 0.96 per cent, while Vingroup (VIC), Vinhomes (VHM), Novaland (NVL) and Dat Xanh Group (DXG) traded almost unchanged.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261113_23ff116655#15",
+    "doc_id": "vietnamnews_20261113_23ff116655",
+    "sent_idx": 15,
+    "text": "Gemadept Group Corporation (GMD) advanced 2.42 per cent and Coteccons Construction JSC (CTD) gained 3.4 per cent, while Gelex Group (GEX) declined 2.05 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261113_23ff116655#16",
+    "doc_id": "vietnamnews_20261113_23ff116655",
+    "sent_idx": 16,
+    "text": "PV Power (POW), in the utilities sector, climbed 3.57 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261113_23ff116655#17",
+    "doc_id": "vietnamnews_20261113_23ff116655",
+    "sent_idx": 17,
+    "text": "On the Hanoi Stock Exchange (HNX), the HNX-Index closed lower at 254.98 points, down 1.64 points.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261113_087658f083#25",
+    "doc_id": "vietnamnews_20261113_087658f083",
+    "sent_idx": 25,
+    "text": "Through cooperation with its partners, SABECO seeks to bring contributions made by people in their everyday lives closer to the wider public, while spreading positive values in support of Việt Nam's overall development.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261114_eb801a0c5a#0",
+    "doc_id": "vietnamnews_20261114_eb801a0c5a",
+    "sent_idx": 0,
+    "text": "Vietjet named among Việt Nam's 50 leading brands in 2026",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261114_eb801a0c5a#1",
+    "doc_id": "vietnamnews_20261114_eb801a0c5a",
+    "sent_idx": 1,
+    "text": "HCM CITY - Vietjet has been named among Forbes Việt Nam's 50 leading brands in 2026, adding to its recent recognition by the aviation industry for its hybrid airline business model.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261114_eb801a0c5a#10",
+    "doc_id": "vietnamnews_20261114_eb801a0c5a",
+    "sent_idx": 10,
+    "text": "Vietjet operates a network spanning Asia and Australia and is expanding its connections to Europe.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261114_abf93ad9af#0",
+    "doc_id": "vietnamnews_20261114_abf93ad9af",
+    "sent_idx": 0,
+    "text": "US business delegation impressed by Vinamilk's mega dairy plant",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261114_abf93ad9af#1",
+    "doc_id": "vietnamnews_20261114_abf93ad9af",
+    "sent_idx": 1,
+    "text": "HÀ NỘI - A major US agricultural trade mission to Việt Nam has selected Vinamilk's Mega Dairy Plant as the only dairy production facility on its itinerary, highlighting the scale and automation of its operations, as well as the Vietnamese company's product development strategy, investment in raw materials and longstanding ties with the US agricultural sector.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261114_abf93ad9af#22",
+    "doc_id": "vietnamnews_20261114_abf93ad9af",
+    "sent_idx": 22,
+    "text": "Meanwhile, Vinamilk has established a direct presence in the US through Driftwood Dairy, a more than 100-year-old dairy company wholly owned by the Vietnamese group.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261114_88f5eb065b#0",
+    "doc_id": "vneconomy_en_20261114_88f5eb065b",
+    "sent_idx": 0,
+    "text": "Vietravel Airlines launches direct Hanoi-Shenzhen route",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vneconomy_en_20261114_88f5eb065b#9",
+    "doc_id": "vneconomy_en_20261114_88f5eb065b",
+    "sent_idx": 9,
+    "text": "Following the Hanoi-Shenzhen route, Vietravel Airlines plans to further develop routes to Chongqing and Kunming.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261114_739222dd39#1",
+    "doc_id": "vietnamnews_20261114_739222dd39",
+    "sent_idx": 1,
+    "text": "HÀ NỘI - The State Bank of Vietnam (SBV) has instructed its regional branches to conduct thematic inspections of credit institutions to assess their compliance with interest rate reduction requirements.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261114_739222dd39#5",
+    "doc_id": "vietnamnews_20261114_739222dd39",
+    "sent_idx": 5,
+    "text": "Previously, the SBV issued another directive on October 18 this year, requiring credit institutions to cut listed deposit rates by at least 0.5 percentage points per annum for maturities of six months or longer, while reducing lending rates by 1.5-2 percentage points for production, business activities and priority sectors.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261115_0141167943#5",
+    "doc_id": "vneconomy_en_20261115_0141167943",
+    "sent_idx": 5,
+    "text": "Ngoc Hoi currently holds a 20 per cent economic interest in the investor consortium developing the Hanoi International Sports Urban Area Project (Vinhomes Global Sportia Hanoi), with Vinhomes serving as the lead developer authorized to coordinate and implement the project.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261115_0141167943#30",
+    "doc_id": "vneconomy_en_20261115_0141167943",
+    "sent_idx": 30,
+    "text": "Against this backdrop, the Vietnamese Government has set a GDP growth target of above 10 per cent for 2026, a goal that many experts view as challenging yet achievable, supported by resilient domestic consumption and large-scale infrastructure investments.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261115_a660e78b34#6",
+    "doc_id": "vietnamnews_20261115_a660e78b34",
+    "sent_idx": 6,
+    "text": "The VN-Index, representing the Hochiminh Stock Exchange (HoSE), ended the week at 1,734.93 points, up 9.57 points.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261115_a660e78b34#7",
+    "doc_id": "vietnamnews_20261115_a660e78b34",
+    "sent_idx": 7,
+    "text": "In contrast, the HNX-Index on the Hanoi Stock Exchange (HNX) fell 1.75 points to 254.98 points.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261115_a660e78b34#9",
+    "doc_id": "vietnamnews_20261115_a660e78b34",
+    "sent_idx": 9,
+    "text": "Average matched trading volume on the HoSE reached around 710 million shares per session, down nearly 15 per cent from the previous week.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261115_a660e78b34#17",
+    "doc_id": "vietnamnews_20261115_a660e78b34",
+    "sent_idx": 17,
+    "text": "However, the VN30-Index, tracking the 30 biggest stocks on HoSE, remained in a downtrend below resistance at its 20-session moving average.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261115_a660e78b34#22",
+    "doc_id": "vietnamnews_20261115_a660e78b34",
+    "sent_idx": 22,
+    "text": "The securities firm said the scenario of the VN-Index recovering to 1,750-1,780 points remained possible, but investors should monitor whether the benchmark can hold the 1,710-1,720-point range.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261115_a660e78b34#24",
+    "doc_id": "vietnamnews_20261115_a660e78b34",
+    "sent_idx": 24,
+    "text": "The VN-Index was testing support around 1,735 points and had shown signs of recovery.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261116_d1c0dd021c#5",
+    "doc_id": "vietnamnews_20261116_d1c0dd021c",
+    "sent_idx": 5,
+    "text": "For companies registered on the UPCoM market, HNX will continue supporting improvements in information disclosure and corporate governance while helping them prepare for further development.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261116_c8b99b8e0b#20",
+    "doc_id": "vietnamnews_20261116_c8b99b8e0b",
+    "sent_idx": 20,
+    "text": "He said that the Ministry of Finance has issued Circular No. 118/2026/TT-BTC, which provides guidance on the scope, subjects, and procedures for applying international accounting standards in Việt Nam.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "sggp_en_20261116_4db0a0a2bc#10",
+    "doc_id": "sggp_en_20261116_4db0a0a2bc",
+    "sent_idx": 10,
+    "text": "In addition, the participation of financial institutions, banks, and airlines, including HDBank, Vietjet, and Vikki, is helping expand cashless payment incentives.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261116_8ba4d81ae2#15",
+    "doc_id": "vietnamnews_20261116_8ba4d81ae2",
+    "sent_idx": 15,
+    "text": "Under the initial plan, the Airports Corporation of Vietnam (ACV) expects to operate up to about 366 flights per week at Long Thành, including 322 domestic and 44 international flights.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261116_138d1286d8#0",
+    "doc_id": "vietnamnews_20261116_138d1286d8",
+    "sent_idx": 0,
+    "text": "Ministry of Finance strengthens policy dialogue with IMF",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261116_2f1c28680c#0",
+    "doc_id": "vietnamnews_20261116_2f1c28680c",
+    "sent_idx": 0,
+    "text": "Vietjet wins two global awards",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261116_2f1c28680c#1",
+    "doc_id": "vietnamnews_20261116_2f1c28680c",
+    "sent_idx": 1,
+    "text": "BANGKOK - Vietjet has won two awards at the 2026 World Business Outlook Awards, receiving the 'Best Investor Relations Airline - Global 2026' and 'Best Corporate Finance Strategy - Global 2026' titles .",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261116_2f1c28680c#7",
+    "doc_id": "vietnamnews_20261116_2f1c28680c",
+    "sent_idx": 7,
+    "text": "By strengthening relationships with international financial partners, Vietjet aimed to enhance its competitiveness and improve services for passengers on international routes under its hybrid airline model, she added.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261116_2f1c28680c#8",
+    "doc_id": "vietnamnews_20261116_2f1c28680c",
+    "sent_idx": 8,
+    "text": "Vietjet reported consolidated revenue of over VNĐ74.38 trillion (approximately US$2.9 billion) in the first nine months of 2026, up 41 per cent from a year earlier and equivalent to 86 per cent of its full-year target.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261116_8bac7f26fa#0",
+    "doc_id": "vietnamnews_20261116_8bac7f26fa",
+    "sent_idx": 0,
+    "text": "Hòa Phát Group plans to establish $24.6 million renewable energy company",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261116_8bac7f26fa#6",
+    "doc_id": "vietnamnews_20261116_8bac7f26fa",
+    "sent_idx": 6,
+    "text": "According to its consolidated financial statements for the third quarter of 2026, as of September 30 this year, HPG reported having four subsidiaries and two associates.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261116_8bac7f26fa#13",
+    "doc_id": "vietnamnews_20261116_8bac7f26fa",
+    "sent_idx": 13,
+    "text": "In the first nine months of 2026, HPG recorded a revenue of around VNĐ171.5 trillion and a profit after tax of VNĐ23.8 trillion, an increase of 54 per cent and 104 per cent, respectively, compared to the same period in 2025.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261116_f0d1c429b5#0",
+    "doc_id": "vietnamnews_20261116_f0d1c429b5",
+    "sent_idx": 0,
+    "text": "VN-Index rallies for second day on several large-cap stocks",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261116_f0d1c429b5#1",
+    "doc_id": "vietnamnews_20261116_f0d1c429b5",
+    "sent_idx": 1,
+    "text": "HÀ NỘI - Benchmark indices were mixed on Monday, with the VN-Index gaining for the second day in a row despite lower liquidity and persistent selling pressure.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261116_f0d1c429b5#2",
+    "doc_id": "vietnamnews_20261116_f0d1c429b5",
+    "sent_idx": 2,
+    "text": "On the Hochiminh Stock Exchange (HoSE), the VN-Index rose 1.96 points to 1,736.89 points.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261116_f0d1c429b5#7",
+    "doc_id": "vietnamnews_20261116_f0d1c429b5",
+    "sent_idx": 7,
+    "text": "Shares linked to Vingroup advanced, providing support for the benchmark, while losses among several major banks limited the market's gains.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261116_f0d1c429b5#8",
+    "doc_id": "vietnamnews_20261116_f0d1c429b5",
+    "sent_idx": 8,
+    "text": "VIC of Vingroup rose 2.06 per cent, making it the biggest positive contributor to the VN-Index, adding 8.23 points.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261116_f0d1c429b5#10",
+    "doc_id": "vietnamnews_20261116_f0d1c429b5",
+    "sent_idx": 10,
+    "text": "Vinhomes (VHM) also gained 0.48 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261116_f0d1c429b5#13",
+    "doc_id": "vietnamnews_20261116_f0d1c429b5",
+    "sent_idx": 13,
+    "text": "Khang Dien House (KDH) fell 3.82 per cent, while Hoang Huy Investment Financial Services (TCH) lost 3.33 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261116_f0d1c429b5#14",
+    "doc_id": "vietnamnews_20261116_f0d1c429b5",
+    "sent_idx": 14,
+    "text": "Dat Xanh Group (DXG) declined 1.35 per cent, CEO Group (CEO) dropped 2.5 per cent, Phat Dat Real Estate Development Corporation (PDR) slipped 1.3 per cent, and Novaland (NVL) edged down 0.48 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261116_f0d1c429b5#16",
+    "doc_id": "vietnamnews_20261116_f0d1c429b5",
+    "sent_idx": 16,
+    "text": "Vietcombank (VCB) fell 1.12 per cent, VPB of VPBank declined 1.81 per cent, and Techcombank (TCB) lost 2.52 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261116_f0d1c429b5#19",
+    "doc_id": "vietnamnews_20261116_f0d1c429b5",
+    "sent_idx": 19,
+    "text": "SSI Securities Corporation (SSI) fell 1.73 per cent, VIX Securities (VIX) declined 1.92 per cent, Vietcap Securities (VCI) lost 2.04 per cent, Saigon - Hanoi Securities (SHS) dropped 1.52 per cent, and VNDirect Securities (VND) slipped 1.38 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_5e2f1feef4#2",
+    "doc_id": "vietnamnews_20261117_5e2f1feef4",
+    "sent_idx": 2,
+    "text": "The SBV recently issued Circular 50/2026/TT-NHNN on safety limits and prudential ratios for banking operations.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_5e2f1feef4#11",
+    "doc_id": "vietnamnews_20261117_5e2f1feef4",
+    "sent_idx": 11,
+    "text": "In a simulation run by the securities company, VPBank surpassed its limit, and VIB and VietinBank only had about 2 and 2.2 percentage points of headroom remaining, respectively, before hitting the new LDR cap.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261117_038cc93658#31",
+    "doc_id": "vneconomy_en_20261117_038cc93658",
+    "sent_idx": 31,
+    "text": "The MoF is submitting amendments to the Law on Investment to the National Assembly, accompanied by an entirely new investment attraction framework.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_e6b319f4fa#22",
+    "doc_id": "vietnamnews_20261117_e6b319f4fa",
+    "sent_idx": 22,
+    "text": "Vietjet Aviation (VJC) traded at around VNĐ136,000 per share, up approximately 5.4 per cent over one month but still down more than 15 per cent year to date.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_be3e26b645#0",
+    "doc_id": "vietnamnews_20261117_be3e26b645",
+    "sent_idx": 0,
+    "text": "Finance ministry promotes dual digital, green transition to boost business competitiveness",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261117_be3e26b645#1",
+    "doc_id": "vietnamnews_20261117_be3e26b645",
+    "sent_idx": 1,
+    "text": "HÀ NỘI - The Ministry of Finance has introduced a framework to assess businesses' digital transformation maturity alongside their green transition, helping them identify capability gaps and develop roadmaps to improve productivity and competitiveness.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_39e5686658#2",
+    "doc_id": "vietnamnews_20261117_39e5686658",
+    "sent_idx": 2,
+    "text": "The VN-Index on the Hochiminh Stock Exchange (HoSE) closed at 1,726.72 points, down 10.17 points.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_39e5686658#4",
+    "doc_id": "vietnamnews_20261117_39e5686658",
+    "sent_idx": 4,
+    "text": "Trading liquidity on the HoSE improved significantly from the previous session, with total transaction value reaching over VNĐ14.6 trillion (US$568 million).",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_39e5686658#5",
+    "doc_id": "vietnamnews_20261117_39e5686658",
+    "sent_idx": 5,
+    "text": "The VN30-Index remained weak, falling by 7.12 points, with only eight stocks in the basket closing higher.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_39e5686658#8",
+    "doc_id": "vietnamnews_20261117_39e5686658",
+    "sent_idx": 8,
+    "text": "Oil and gas stocks Petrovietnam Refining and Petrochemical Corporation (BSR) and PV Gas (GAS) posted the steepest losses in the VN30 basket, falling by 4.72 per cent and 3.71 per cent, respectively.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_39e5686658#11",
+    "doc_id": "vietnamnews_20261117_39e5686658",
+    "sent_idx": 11,
+    "text": "PetroVietnam Transportation Corporation (PVT) lost 5.26 per cent and PetroVietnam Technical Services Corporation (PVS) fell by more than 3.1 per cent, while PetroVietnam Coating (PVB) and PV Drilling (PVD) each dropped more than 2 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_39e5686658#16",
+    "doc_id": "vietnamnews_20261117_39e5686658",
+    "sent_idx": 16,
+    "text": "Khang Dien House (KDH) rose by 3.64 per cent, while Khai Hoan Land Group (KHG) gained 2.65 per cent and CEO Group (CEO) advanced by 2.56 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_39e5686658#17",
+    "doc_id": "vietnamnews_20261117_39e5686658",
+    "sent_idx": 17,
+    "text": "Dat Xanh Group (DXG) increased by 1.83 per cent, Hoang Huy Investment Financial Services (TCH) climbed by 1.53 per cent, DIC Group (DIG) added 1.49 per cent and HDC rose by 1.5 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_39e5686658#20",
+    "doc_id": "vietnamnews_20261117_39e5686658",
+    "sent_idx": 20,
+    "text": "Sacombank (STB) gained 1.12 per cent, while other advancing stocks recorded only marginal increases.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261117_f71721e941#24",
+    "doc_id": "vneconomy_en_20261117_f71721e941",
+    "sent_idx": 24,
+    "text": "Vietnam Airlines announced its launch of a new air route to strengthen connectivity and promote trade, investment and tourism between Vietnam and the Greater Bay Area.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261118_c9d161d94e#0",
+    "doc_id": "vietnamnews_20261118_c9d161d94e",
+    "sent_idx": 0,
+    "text": "SBV proposes temporary foreign currency accounts to unblock capital flows at VIFC",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261118_c9d161d94e#1",
+    "doc_id": "vietnamnews_20261118_c9d161d94e",
+    "sent_idx": 1,
+    "text": "HÀ NỘI - The State Bank of Vietnam (SBV) has proposed allowing businesses operating at the Việt Nam International Financial Centre (VIFC) to temporarily hold capital and foreign currency payment accounts at banks outside the centre, as no member bank has yet been licensed to operate there.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261118_c9d161d94e#10",
+    "doc_id": "vietnamnews_20261118_c9d161d94e",
+    "sent_idx": 10,
+    "text": "The SBV is also proposing changes to international credit rating requirements for foreign banks seeking to establish wholly foreign-owned commercial banks or branches at the IFC.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261118_8b30d44326#17",
+    "doc_id": "vneconomy_en_20261118_8b30d44326",
+    "sent_idx": 17,
+    "text": "Specifically, Standard Chartered Bank Vietnam signed MoUs with Dai Dung Group and Stavian Group, while the Joint Stock Commercial Bank for Investment and Development of Vietnam (BIDV) signed an MoU with the French Development Agency (AFD).",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261118_acbb16db60#6",
+    "doc_id": "vietnamnews_20261118_acbb16db60",
+    "sent_idx": 6,
+    "text": "The SSC plans to submit the proposal to the Ministry of Finance and the Government for consideration, with a view to implementation in 2027, according to Linh.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261118_acbb16db60#26",
+    "doc_id": "vietnamnews_20261118_acbb16db60",
+    "sent_idx": 26,
+    "text": "Following the completion of the technical system and the Ministry of Finance's issuance of guiding regulations in September, the SSC is reviewing applications from securities companies and custodian banks for certificates to provide clearing services under the CCP mechanism.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261118_6d137669ee#0",
+    "doc_id": "vneconomy_en_20261118_6d137669ee",
+    "sent_idx": 0,
+    "text": "Viettel secures telecommunications licence to enter Dominican Republic market",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vneconomy_en_20261118_6d137669ee#3",
+    "doc_id": "vneconomy_en_20261118_6d137669ee",
+    "sent_idx": 3,
+    "text": "Under the deal, Viettel has been granted the right to use a total of 240 MHz of spectrum across the 700 MHz, 2,300 MHz and C-band frequencies for 4G and 5G mobile networks over a 20-year period.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261118_6d137669ee#5",
+    "doc_id": "vneconomy_en_20261118_6d137669ee",
+    "sent_idx": 5,
+    "text": "The project builds on Viettel's investment presence in Latin America and the Caribbean, including Peru and Haiti, as the group pursues its strategy of developing sustainable telecommunications infrastructure.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "sggp_en_20261118_1e56bfa01b#11",
+    "doc_id": "sggp_en_20261118_1e56bfa01b",
+    "sent_idx": 11,
+    "text": "At the same time, the State Bank of Vietnam has tightened regulations governing the use of short-term funding for medium- and long-term lending.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "sggp_en_20261118_fe18e1c7c5#5",
+    "doc_id": "sggp_en_20261118_fe18e1c7c5",
+    "sent_idx": 5,
+    "text": "Standing Vice Chairman Nguyen Loc Ha of the Ho Chi Minh City People's Committee urged financial institutions, investment funds, and international partners to clarify the requirements for accessing capital; help small and medium-sized enterprises, women-led businesses, and climate-resilient enterprises meet international standards; and turn the forum's discussions into concrete collaborative outcomes.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261118_7532e21365#0",
+    "doc_id": "vietnamnews_20261118_7532e21365",
+    "sent_idx": 0,
+    "text": "Strong selling force pushes VN-Index back around 1,700 point-level",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261118_7532e21365#1",
+    "doc_id": "vietnamnews_20261118_7532e21365",
+    "sent_idx": 1,
+    "text": "HÀ NỘI - The domestic stock market fell sharply on Wednesday as heavy selling in large-cap stocks intensified towards the end of the afternoon session, sending the VN-Index briefly below 1,700 points before it recovered some losses.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261118_7532e21365#2",
+    "doc_id": "vietnamnews_20261118_7532e21365",
+    "sent_idx": 2,
+    "text": "On the Hochiminh Stock Exchange (HoSE), the VN-Index closed at 1,703.01 points, down 24.71 points.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261118_7532e21365#6",
+    "doc_id": "vietnamnews_20261118_7532e21365",
+    "sent_idx": 6,
+    "text": "The HNX-Index on the Hanoi Stock Exchange (HNX) also declined, falling 2.36 per cent to 242.73 points.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261118_7532e21365#9",
+    "doc_id": "vietnamnews_20261118_7532e21365",
+    "sent_idx": 9,
+    "text": "VCB of Vietcombank declined 2.5 per cent, reducing the index by 2.24 points, while Vinhomes (VHM) lost 1.6 per cent, taking another 1.7 points off the benchmark.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261118_7532e21365#11",
+    "doc_id": "vietnamnews_20261118_7532e21365",
+    "sent_idx": 11,
+    "text": "VPBank (VPB) fell 2.8 per cent, while VietinBank (CTG) dropped 1.5 per cent, with each contributing to a decline of more than one point in the VN-Index.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261118_7532e21365#13",
+    "doc_id": "vietnamnews_20261118_7532e21365",
+    "sent_idx": 13,
+    "text": "LPBank (LPB) recorded a sharper fall of 4.6 per cent, amid a negotiated transaction involving 80 million shares worth over VNĐ2.7 trillion.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261118_7532e21365#20",
+    "doc_id": "vietnamnews_20261118_7532e21365",
+    "sent_idx": 20,
+    "text": "MSR plunged 8.3 per cent, while HPG of Hoa Phat Group lost approximately 2.6 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261118_7532e21365#22",
+    "doc_id": "vietnamnews_20261118_7532e21365",
+    "sent_idx": 22,
+    "text": "Sabeco (SAB) rose 1.4 per cent, contributing around 0.16 points to the VN-Index, while Masan Consumer (MCH) gained 0.3 per cent, adding approximately 0.11 points.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261118_7532e21365#23",
+    "doc_id": "vietnamnews_20261118_7532e21365",
+    "sent_idx": 23,
+    "text": "Vietnam Airlines (HVN) advanced 0.9 per cent, contributing 0.13 points to the benchmark.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261119_1d17fcea4b#1",
+    "doc_id": "vietnamnews_20261119_1d17fcea4b",
+    "sent_idx": 1,
+    "text": "HÀ NỘI - Despite unpredictable fluctuations in global financial and geopolitical markets, the domestic USD/VNĐ exchange rate has maintained a positive and stable trend.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261119_1d17fcea4b#5",
+    "doc_id": "vietnamnews_20261119_1d17fcea4b",
+    "sent_idx": 5,
+    "text": "In contrast to the upward movement of the US Dollar Index (DXY) in October, the domestic USD/VNĐ exchange rate continued to decline.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261119_1d17fcea4b#7",
+    "doc_id": "vietnamnews_20261119_1d17fcea4b",
+    "sent_idx": 7,
+    "text": "Meanwhile, the State Bank of Vietnam (SBV)'s exchange rate saw a slight upward adjustment of 0.04 per cent, reaching VNĐ25,637 per dollar, an increase of 2.04 per cent relative to the end of 2025.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261119_1d17fcea4b#15",
+    "doc_id": "vietnamnews_20261119_1d17fcea4b",
+    "sent_idx": 15,
+    "text": "Specifically, on November 6, 2026, the central bank announced a USD/VNĐ foreign exchange swap arrangement with a 182-day tenor and a maximum volume of $2 billion.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261119_1d17fcea4b#20",
+    "doc_id": "vietnamnews_20261119_1d17fcea4b",
+    "sent_idx": 20,
+    "text": "Although the local currency is supported by high domestic interest rates, robust FDI inflows, and peak-season exports, the MBS analysts forecast that the USD/VNĐ exchange rate will fluctuate between VNĐ26,400 and VNĐ26,600 per dollar by the end of 2026, representing an increase of 0.5-1.2 percentage points compared to the beginning of the year.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261119_0c754a5166#0",
+    "doc_id": "vietnamnews_20261119_0c754a5166",
+    "sent_idx": 0,
+    "text": "Sovico Group, Japan's Mizuho Bank sign deal to expand financial cooperation",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261119_0c754a5166#1",
+    "doc_id": "vietnamnews_20261119_0c754a5166",
+    "sent_idx": 1,
+    "text": "TOKYO - Việt Nam's Sovico Group and Japan's Mizuho Bank have signed a memorandum of understanding (MoU) to strengthen financial connectivity, promote investment opportunities and expand economic cooperation between the two countries.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261119_0ede4ab30a#1",
+    "doc_id": "vneconomy_en_20261119_0ede4ab30a",
+    "sent_idx": 1,
+    "text": "The Ho Chi Minh City People's Committee has approved the Central City Square and Administrative Center Project to be implemented under a public-private partnership (PPP) model, using a Build-Transfer (BT) contract, with a total investment estimated at nearly VND30 trillion ($1.165 billion).",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261119_abc6830a8f#0",
+    "doc_id": "vietnamnews_20261119_abc6830a8f",
+    "sent_idx": 0,
+    "text": "VN-Index falls below 1,700-point threshold",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261119_abc6830a8f#1",
+    "doc_id": "vietnamnews_20261119_abc6830a8f",
+    "sent_idx": 1,
+    "text": "HÀ NỘI - The market extended its losing streak on Thursday, with broad-based selling pressure dragging the VN-Index below the psychologically important 1,700-point threshold for the first time in the recent three-session decline.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261119_abc6830a8f#5",
+    "doc_id": "vietnamnews_20261119_abc6830a8f",
+    "sent_idx": 5,
+    "text": "Trading value on the HoSE fell nearly 14 per cent from the previous trade to VNĐ15 trillion (US$583 million).",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261119_abc6830a8f#6",
+    "doc_id": "vietnamnews_20261119_abc6830a8f",
+    "sent_idx": 6,
+    "text": "The VN30-Index, which tracks the 30 largest stocks by market capitalisation and liquidity, dropped 18.03 points to 1,788.51 points.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261119_abc6830a8f#8",
+    "doc_id": "vietnamnews_20261119_abc6830a8f",
+    "sent_idx": 8,
+    "text": "FPT Corporation (FPT) recorded the steepest decline in the VN30 basket, falling 2.66 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261119_abc6830a8f#9",
+    "doc_id": "vietnamnews_20261119_abc6830a8f",
+    "sent_idx": 9,
+    "text": "LPBank (LPB) followed with a loss of 2.29 per cent, while Vingroup (VIC) dropped 2.04 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261119_abc6830a8f#10",
+    "doc_id": "vietnamnews_20261119_abc6830a8f",
+    "sent_idx": 10,
+    "text": "VIC remained the biggest drag on the VN-Index, shaving nearly eight points off the benchmark.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261119_abc6830a8f#11",
+    "doc_id": "vietnamnews_20261119_abc6830a8f",
+    "sent_idx": 11,
+    "text": "CTG reduced the index by 0.8 points, followed by VHM with a negative contribution of 0.69 points.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261119_abc6830a8f#13",
+    "doc_id": "vietnamnews_20261119_abc6830a8f",
+    "sent_idx": 13,
+    "text": "Sacombank (STB) lost 1.71 per cent and Asia Commercial Joint Stock Bank (ACB) declined 0.99 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261119_abc6830a8f#14",
+    "doc_id": "vietnamnews_20261119_abc6830a8f",
+    "sent_idx": 14,
+    "text": "Techcombank (TCB) dropped 0.72 per cent, MBBank (MBB) slipped 0.53 per cent and HDBank (HDB) fell 0.45 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261119_abc6830a8f#15",
+    "doc_id": "vietnamnews_20261119_abc6830a8f",
+    "sent_idx": 15,
+    "text": "LPB extended its decline for a third consecutive session, falling 2.29 per cent to VNĐ34,200 per share.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261119_abc6830a8f#18",
+    "doc_id": "vietnamnews_20261119_abc6830a8f",
+    "sent_idx": 18,
+    "text": "On the Hanoi Stock Exchange (HNX), the HNX-Index also closed lower, shedding 3.79 points to 238.94 points.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261120_e59d3da2d9#1",
+    "doc_id": "vietnamnews_20261120_e59d3da2d9",
+    "sent_idx": 1,
+    "text": "HÀ NỘI - The Ministry of Finance has proposed administrative fines be reduced by up to 85 per cent for household and individual businesses filing tax declarations as part of efforts to clear backlogs of inactive taxpayer codes and simplify procedures for businesses seeking to close their tax accounts.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261120_ece4fc9c23#0",
+    "doc_id": "vietnamnews_20261120_ece4fc9c23",
+    "sent_idx": 0,
+    "text": "Agribank, HDBank lead banking and financial services category in VARI 2026 rankings",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261120_ece4fc9c23#1",
+    "doc_id": "vietnamnews_20261120_ece4fc9c23",
+    "sent_idx": 1,
+    "text": "HCM CITY - Agribank and HDBank ranked first and second, respectively, in the banking and financial services category of the 2026 Ranking of Enterprises for Sustainable Agricultural Development, recognising their contributions to providing capital and financial services to the agricultural and rural sectors.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261120_ece4fc9c23#12",
+    "doc_id": "vietnamnews_20261120_ece4fc9c23",
+    "sent_idx": 12,
+    "text": "Drawing on years of working alongside businesses and rural communities, HDBank has developed financial solutions covering production, distribution and exports.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261120_ece4fc9c23#14",
+    "doc_id": "vietnamnews_20261120_ece4fc9c23",
+    "sent_idx": 14,
+    "text": "HDBank has introduced a banking model dedicated to agriculture and rural development, alongside value chain financing solutions.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261120_ece4fc9c23#18",
+    "doc_id": "vietnamnews_20261120_ece4fc9c23",
+    "sent_idx": 18,
+    "text": "HDBank has also partnered in implementing funding from the World Bank-financed Rural Finance and Vietnam Sustainable Agriculture Transformation projects, with an initial limit of VNĐ500 billion ($19.4 million), targeting individuals, farming households and small businesses.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261120_48beb6b77d#1",
+    "doc_id": "vneconomy_en_20261120_48beb6b77d",
+    "sent_idx": 1,
+    "text": "Under its Decision No. 3055, dated November 17, 2026, the Ministry of Industry and Trade (MoIT) has approved a plan for the revision of the National Petroleum and Gas Storage and Supply Infrastructure Plan for the 2021-2030 period, with a vision to 2050, according to the Government's online newspaper (chinhphu.vn).",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261120_78f8261c8e#3",
+    "doc_id": "vietnamnews_20261120_78f8261c8e",
+    "sent_idx": 3,
+    "text": "Military Commercial Joint Stock Bank (MB) reported the sharpest increase, with deposit interest expenses reaching VNĐ34.9 trillion, up 99.4 per cent year-on-year.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261120_78f8261c8e#9",
+    "doc_id": "vietnamnews_20261120_78f8261c8e",
+    "sent_idx": 9,
+    "text": "Among private lenders, VPBank reported interest expenses of VNĐ35 trillion, while MB, SHB and HDBank recorded approximately VNĐ34.9 trillion, VNĐ34.3 trillion and VNĐ34 trillion, respectively.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261120_78f8261c8e#16",
+    "doc_id": "vietnamnews_20261120_78f8261c8e",
+    "sent_idx": 16,
+    "text": "The SBV could consider using foreign exchange swap instruments or purchasing foreign currency from commercial banks to support market liquidity, depending on developments in capital and foreign exchange supply and demand, he said.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261120_bacbb55a8b#0",
+    "doc_id": "vietnamnews_20261120_bacbb55a8b",
+    "sent_idx": 0,
+    "text": "Viettel brings mobile coverage to more than 130,000 people in remote areas",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261120_5b5252a7e3#0",
+    "doc_id": "vietnamnews_20261120_5b5252a7e3",
+    "sent_idx": 0,
+    "text": "VN-Index falls for four days in a row",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261120_5b5252a7e3#1",
+    "doc_id": "vietnamnews_20261120_5b5252a7e3",
+    "sent_idx": 1,
+    "text": "HÀ NỘI - Indices closed marginally lower on Friday as buying interest returned in the afternoon session, helping the VN-Index recover most of its earlier losses despite widespread selling pressure.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261120_5b5252a7e3#2",
+    "doc_id": "vietnamnews_20261120_5b5252a7e3",
+    "sent_idx": 2,
+    "text": "On the Hochiminh Stock Exchange (HoSE), the VN-Index shed 0.83 points to close at 1,688.79 points.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261120_5b5252a7e3#6",
+    "doc_id": "vietnamnews_20261120_5b5252a7e3",
+    "sent_idx": 6,
+    "text": "The HNX-Index on the Hanoi Stock Exchange (HNX) also fell 4.35 points to 234.59 points.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261120_5b5252a7e3#9",
+    "doc_id": "vietnamnews_20261120_5b5252a7e3",
+    "sent_idx": 9,
+    "text": "By contrast, VIC of Vingroup, Techcombank (TCB), Sacombank (STB) and PV Gas (GAS) contributed a combined 5.33 points, helping the benchmark recover much of its intraday losses.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261120_5b5252a7e3#11",
+    "doc_id": "vietnamnews_20261120_5b5252a7e3",
+    "sent_idx": 11,
+    "text": "Thaiholdings JSC (HD) hit the floor prices for the second day, while National Citizen Commercial Joint Stock Bank (NVB) fell 2.01 per cent, Sunshine Group (KSF) lost 0.74 per cent and Vinacomin - Power Holding Corporation (DTK) declined 4.85 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261120_5b5252a7e3#13",
+    "doc_id": "vietnamnews_20261120_5b5252a7e3",
+    "sent_idx": 13,
+    "text": "FPT shares of FPT Corporation faced the strongest selling pressure, with foreign net sales of approximately VNĐ157 billion.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261120_c73ca96183#0",
+    "doc_id": "vietnamnews_20261120_c73ca96183",
+    "sent_idx": 0,
+    "text": "T&T Group units win nod for wind, urban projects in Lạng Sơn",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261121_d07b910b5e#1",
+    "doc_id": "vietnamnews_20261121_d07b910b5e",
+    "sent_idx": 1,
+    "text": "HÀ NỘI - The Ministry of Industry and Trade is seeking feedback on proposed amendments to electricity pricing regulations that would classify data centres under the production electricity tariff category.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261121_d07b910b5e#10",
+    "doc_id": "vietnamnews_20261121_d07b910b5e",
+    "sent_idx": 10,
+    "text": "On April 22, 2026, the Ministry of Industry and Trade issued guidance to Vietnam Electricity (EVN) allowing production electricity tariffs to be applied to data centres' technical systems when the parties could not agree on the allocation of electricity consumption by purpose.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261121_8551f95a37#0",
+    "doc_id": "vietnamnews_20261121_8551f95a37",
+    "sent_idx": 0,
+    "text": "SABECO brings communities and generations together at Ok Om Bok Festival 2026",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261121_8551f95a37#1",
+    "doc_id": "vietnamnews_20261121_8551f95a37",
+    "sent_idx": 1,
+    "text": "HÀ NỘI - Saigon Beer-Alcohol-Beverage Corporation (SABECO), a Vietnamese brewer with more than 150 years of history, is joining the Ok Om Bok Festival 2026 in Cần Thơ City and Vĩnh Long Province from November 18 to 24, seeking to promote the cultural heritage of the Mekong Delta and strengthen community ties.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261121_8551f95a37#12",
+    "doc_id": "vietnamnews_20261121_8551f95a37",
+    "sent_idx": 12,
+    "text": "This commitment is particularly evident in the Mekong Delta, where SABECO has maintained a long-standing presence through four breweries and two trading companies.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261121_f0b4094ded#0",
+    "doc_id": "vietnamnews_20261121_f0b4094ded",
+    "sent_idx": 0,
+    "text": "Vietjet, Haite Group sign aviation cooperation deal",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vneconomy_en_20261122_7c50ae8cd3#20",
+    "doc_id": "vneconomy_en_20261122_7c50ae8cd3",
+    "sent_idx": 20,
+    "text": "The Ministry of Finance coordinates in analyzing customs and investment data, identifying large export enterprises, evaluating the contribution of the FDI sector, and researching FDI capital regulation from the registration stage to diversify markets and automatically share investment data.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261122_7c50ae8cd3#22",
+    "doc_id": "vneconomy_en_20261122_7c50ae8cd3",
+    "sent_idx": 22,
+    "text": "The Ministry of Industry and Trade coordinates with the Ministry of Finance, the Ministry of Science and Technology, the Ministry of Agriculture and Environment, the Ministry of Public Security, and the People's Committees of key FDI-attracting provinces and cities, and industry associations to exploit the traceability system, develop supporting industries, and increase localization rates.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261122_7c50ae8cd3#25",
+    "doc_id": "vneconomy_en_20261122_7c50ae8cd3",
+    "sent_idx": 25,
+    "text": "The Ministry of Finance implements Decree 169/2026/ND-CP dated May 15, 2026, on administrative sanctions in the customs field, tightening origin checks on large turnover items, training staff, and allocating funds for implementation according to the State Budget Law.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261122_7c50ae8cd3#28",
+    "doc_id": "vneconomy_en_20261122_7c50ae8cd3",
+    "sent_idx": 28,
+    "text": "To limit overcapacity, the Ministry of Industry and Trade reviews sector planning, production targets associated with credit, land, and corporate income tax incentives; simultaneously raises technical, environmental, and energy efficiency standards to screen new small-scale, outdated technology projects.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261122_7c50ae8cd3#29",
+    "doc_id": "vneconomy_en_20261122_7c50ae8cd3",
+    "sent_idx": 29,
+    "text": "The People's Committees of centrally-run provinces and cities coordinate with the Ministry of Finance, the Ministry of Industry and Trade, and the Ministry of Agriculture and Environment to review licensed projects under construction or in unimplemented planning, including FDI projects, and evaluate policies easily considered export subsidies.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261122_7c50ae8cd3#30",
+    "doc_id": "vneconomy_en_20261122_7c50ae8cd3",
+    "sent_idx": 30,
+    "text": "The State Bank of Vietnam, together with the Ministry of Finance, reviews, explains, and proposes handling monetary and credit policies that risk creating unfair trade advantages.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261122_720f39d087#0",
+    "doc_id": "vneconomy_en_20261122_720f39d087",
+    "sent_idx": 0,
+    "text": "Petrovietnam to invest VND133 trillion in Nghi Son Economic zone",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vneconomy_en_20261122_720f39d087#1",
+    "doc_id": "vneconomy_en_20261122_720f39d087",
+    "sent_idx": 1,
+    "text": "Petrovietnam's investment portfolio in central Thanh Hoa province's Nghi Son Economic Zone focuses on ports and logistics, crude oil storage, petrochemicals, chemicals, and fuel distribution, with total projected capital estimated at approximately VND133 trillion (nearly $5.16 billion), paving the way for new development opportunities for the province's industrial and energy hub.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261122_720f39d087#12",
+    "doc_id": "vneconomy_en_20261122_720f39d087",
+    "sent_idx": 12,
+    "text": "Over the next five years, Petrovietnam plans to allocate approximately VND 133 trillion for investment in Nghi Son, including ports and logistics; crude oil storage; petrochemicals and chemicals; and fuel distribution.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261122_720f39d087#29",
+    "doc_id": "vneconomy_en_20261122_720f39d087",
+    "sent_idx": 29,
+    "text": "In the distribution sector, Thanh Hoa supports PVOIL in expanding the Nghi Son warehouse, cooperating with Petrolimex, and developing a fuel retail network, while requiring adherence to principles of equality, transparency, and respect for business autonomy.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261122_8f5f4edea1#0",
+    "doc_id": "vietnamnews_20261122_8f5f4edea1",
+    "sent_idx": 0,
+    "text": "Viettel achieves world's highest autonomous network certification",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261122_8f5f4edea1#1",
+    "doc_id": "vietnamnews_20261122_8f5f4edea1",
+    "sent_idx": 1,
+    "text": "BANGKOK - Viettel has become the first Vietnamese telecom operator to achieve Level 4 Autonomous Network certification, the highest level currently recognised by the global telecoms industry.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261122_8f5f4edea1#19",
+    "doc_id": "vietnamnews_20261122_8f5f4edea1",
+    "sent_idx": 19,
+    "text": "Viettel aims to bring its entire network to Level 4 by 2030 and advance to Level 5 in suitable areas.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261122_f7050c2f75#23",
+    "doc_id": "vietnamnews_20261122_f7050c2f75",
+    "sent_idx": 23,
+    "text": "Meanwhile, the Ministry of Industry and Trade has instructed local authorities to expand market stabilisation programmes and organise mobile sales outlets.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261123_86c7aee109#0",
+    "doc_id": "vietnamnews_20261123_86c7aee109",
+    "sent_idx": 0,
+    "text": "SBV proposes to raise classification criteria for banks",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261123_86c7aee109#1",
+    "doc_id": "vietnamnews_20261123_86c7aee109",
+    "sent_idx": 1,
+    "text": "HÀ NỘI - A commercial bank must have a total asset value of VNĐ500 trillion (US$18.9 billion) or more to be qualified for ranking as 'large-sized' one, starting from 2027, according to a new proposal of the State Bank of Vietnam (SBV).",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261123_86c7aee109#2",
+    "doc_id": "vietnamnews_20261123_86c7aee109",
+    "sent_idx": 2,
+    "text": "Under a draft circular, which will replace Circular No. 21/2025/TT-NHNN on regulating the rating of credit institutions and foreign bank branches, the SBV proposes various changes regarding the criteria for categorising banks, as well as the assessment of liquidity and capital adequacy.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261123_86c7aee109#6",
+    "doc_id": "vietnamnews_20261123_86c7aee109",
+    "sent_idx": 6,
+    "text": "In the draft circular, the SBV proposes increasing the threshold for the large-sized bank to VNĐ500 trillion starting from the 2027 rating year.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261123_86c7aee109#10",
+    "doc_id": "vietnamnews_20261123_86c7aee109",
+    "sent_idx": 10,
+    "text": "Specifically, the SBV proposes incorporating the liquidity coverage ratio (LCR) and the net stable funding ratio (NSFR) into the bank assessment and rating framework, while also adjusting the application of the loan-to-deposit ratio (LDR).",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261123_86c7aee109#11",
+    "doc_id": "vietnamnews_20261123_86c7aee109",
+    "sent_idx": 11,
+    "text": "The SBV also proposes a roadmap to gradually increase the scoring thresholds for both the average LCR and the NSFR, to be applied consistently across large-scale commercial banks, small-scale commercial banks, and foreign bank branches.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261123_acfbb5696f#0",
+    "doc_id": "vietnamnews_20261123_acfbb5696f",
+    "sent_idx": 0,
+    "text": "VN-Index likely to rebound and retest 1,700 points this week",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261123_acfbb5696f#1",
+    "doc_id": "vietnamnews_20261123_acfbb5696f",
+    "sent_idx": 1,
+    "text": "HÀ NỘI - The stock market recorded a sharp decline last week, with widespread selling pushing the VN-Index below the 1,700-point threshold, while subdued liquidity and heavy foreign net selling weighed on investor sentiment.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261123_acfbb5696f#2",
+    "doc_id": "vietnamnews_20261123_acfbb5696f",
+    "sent_idx": 2,
+    "text": "The VN-Index, representing the Hochiminh Stock Exchange (HoSE), fell 2.66 per cent over the week to close at 1,688.79 points.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261123_acfbb5696f#3",
+    "doc_id": "vietnamnews_20261123_acfbb5696f",
+    "sent_idx": 3,
+    "text": "On the Hanoi Stock Exchange (HNX), the HNX-Index also suffered a steep decline, losing nearly 8 per cent, to finish at 234.59 points.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261123_acfbb5696f#4",
+    "doc_id": "vietnamnews_20261123_acfbb5696f",
+    "sent_idx": 4,
+    "text": "Trading activity on the HoSE remained subdued.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261123_acfbb5696f#19",
+    "doc_id": "vietnamnews_20261123_acfbb5696f",
+    "sent_idx": 19,
+    "text": "An expert from Pinetree Securities said the short-term outlook should only be reassessed if the VN-Index closes above 1,700 points and trading liquidity exceeds its 20-session average.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261123_d764a4fc18#68",
+    "doc_id": "vneconomy_en_20261123_d764a4fc18",
+    "sent_idx": 68,
+    "text": "Looking further ahead, Vietnam should consider introducing a dedicated law governing the VAMC or a specialized legal framework for debt trading, restructuring, and NPL resolution.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261123_d764a4fc18#71",
+    "doc_id": "vneconomy_en_20261123_d764a4fc18",
+    "sent_idx": 71,
+    "text": "Beyond legal and institutional reforms, investment in the VAMC's existing Debt Trading Platform is also essential.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261123_b861d6ebb4#8",
+    "doc_id": "vneconomy_en_20261123_b861d6ebb4",
+    "sent_idx": 8,
+    "text": "With limited take-off and landing slots available to airlines at Tan Son Nhat, ACV plans to regulate operations and transfer part of the demand to Long Thanh.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261123_bf71a66dc6#15",
+    "doc_id": "vneconomy_en_20261123_bf71a66dc6",
+    "sent_idx": 15,
+    "text": "Hoa Phat is also expanding rooftop solar (including a planned around 79 MWp system at Dung Quat) and has taken a 30 per cent stake in a new offshore wind company, signaling longer-term diversification of its energy mix.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261123_b3013e879e#1",
+    "doc_id": "vietnamnews_20261123_b3013e879e",
+    "sent_idx": 1,
+    "text": "HÀ NỘI - The Vietnamese Government has approved a plan to manage trade balance and prevent risks in international trade through 2030, with an aim of promoting sustainable exports, diversifying supply chains and guarding against unfair trade practices.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261123_f8aa609d75#5",
+    "doc_id": "vietnamnews_20261123_f8aa609d75",
+    "sent_idx": 5,
+    "text": "The SBV is also tasked with directing credit institutions to streamline procedures, cut costs and consider reducing lending rates to help businesses expand production, operations and technological innovation.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261124_99cf96dd83#0",
+    "doc_id": "vietnamnews_20261124_99cf96dd83",
+    "sent_idx": 0,
+    "text": "Amway Vietnam opens new business support centre in Bắc Ninh",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261124_e2f026c12b#4",
+    "doc_id": "vietnamnews_20261124_e2f026c12b",
+    "sent_idx": 4,
+    "text": "The reductions took place after October 18, when the State Bank of Vietnam (SBV) issued a directive requiring credit institutions to implement a 0.5 per cent annual reduction in listed deposit interest rates for terms of six months or longer, and a 1.5-2 per cent annual reduction in lending rates for the production and business sectors, as well as other priority areas.",
+    "lang": "en",
+    "is_title": false
+  }
+]
