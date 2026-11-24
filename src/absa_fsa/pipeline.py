@@ -68,6 +68,62 @@ def build_sentences(doc_id: str, title: str, body: str, lang: str) -> list[dict]
     return rows
 
 
+def _ingest(
+    conn: sqlite3.Connection,
+    fetcher: Fetcher,
+    src: Source,
+    url: str,
+    published_at: datetime | None,
+    summary: str,
+    title_hint: str,
+    is_backfill: bool,
+    seen: set[str],
+    st: dict,
+) -> bool:
+    """Tải một bài, bóc nội dung, tách câu, lưu DB. Dùng chung cho crawl RSS và lấy lùi sitemap."""
+    html = fetcher.get(url)
+    if not html:
+        st["failed"] += 1
+        return False
+
+    art = extract(html, url)
+    title = art.title or title_hint
+    body = normalize(art.body)
+    if not art.ok and not body:
+        log.warning("[%s] bóc rỗng: %s", src.slug, url)
+        st["failed"] += 1
+        return False
+
+    doc_id = make_doc_id(src.slug, url, published_at)
+    sents = build_sentences(doc_id, title, body, src.lang)
+    row = {
+        "doc_id": doc_id,
+        "source": src.slug,
+        "source_name": src.name,
+        "lang": src.lang,
+        "url": url,
+        "title": title,
+        "body": body,
+        "summary": summary,
+        "section": src.section,
+        "published_at": published_at.isoformat() if published_at else None,
+        "fetched_at": db.utcnow(),
+        "n_sentences": len(sents),
+        "n_chars": len(body),
+        "content_sha1": sha1(body),
+        "is_backfill": int(is_backfill),
+    }
+    if not db.insert_article(conn, row):
+        st["skipped"] += 1
+        return False
+    db.insert_sentences(conn, sents)
+    seen.add(url)
+    st["new"] += 1
+    st["sentences"] += len(sents)
+    log.info("[%s] + %s (%d câu)", src.slug, title[:62], len(sents))
+    return True
+
+
 def crawl_source(
     conn: sqlite3.Connection,
     fetcher: Fetcher,
@@ -93,48 +149,7 @@ def crawl_source(
         todo = todo[:limit]
 
     for it in todo:
-        html = fetcher.get(it.url)
-        if not html:
-            st["failed"] += 1
-            continue
-
-        art = extract(html, it.url)
-        title = art.title or it.title
-        body = normalize(art.body)
-        if not art.ok and not body:
-            log.warning("[%s] bóc rỗng: %s", src.slug, it.url)
-            st["failed"] += 1
-            continue
-
-        doc_id = make_doc_id(src.slug, it.url, it.published_at)
-        sents = build_sentences(doc_id, title, body, src.lang)
-
-        row = {
-            "doc_id": doc_id,
-            "source": src.slug,
-            "source_name": src.name,
-            "lang": src.lang,
-            "url": it.url,
-            "title": title,
-            "body": body,
-            "summary": it.summary,
-            "section": src.section,
-            "published_at": it.published_at.isoformat() if it.published_at else None,
-            "fetched_at": db.utcnow(),
-            "n_sentences": len(sents),
-            "n_chars": len(body),
-            "content_sha1": sha1(body),
-            "is_backfill": int(is_backfill),
-        }
-
-        if not db.insert_article(conn, row):
-            st["skipped"] += 1
-            continue
-        db.insert_sentences(conn, sents)
-        seen.add(it.url)
-        st["new"] += 1
-        st["sentences"] += len(sents)
-        log.info("[%s] + %s (%d câu)", src.slug, title[:62], len(sents))
+        _ingest(conn, fetcher, src, it.url, it.published_at, it.summary, it.title, is_backfill, seen, st)
 
     conn.commit()
     return st
@@ -165,6 +180,48 @@ def crawl(sources: list[Source] | None = None, limit: int = 0) -> dict:
             note="backfill" if backfill else "incremental",
         )
     total["is_backfill"] = backfill
+    return total
+
+
+def backfill(sources: list[Source] | None = None, days: int = 30, limit: int = 0) -> dict:
+    """Lấy lùi `days` ngày gần nhất qua sitemap, cho những nguồn có khai báo sitemap.
+
+    RSS chỉ giữ vài chục bài mới nhất nên không lùi được; sitemap thì chứa cả lịch sử.
+    Bài đã có (theo URL) bị bỏ qua. Bài lấy lùi gắn is_backfill=1.
+    """
+    from . import sitemap
+    from datetime import timedelta
+
+    sources = [s for s in (sources or config.SOURCES) if s.sitemap]
+    total = {"feed_items": 0, "new": 0, "skipped": 0, "failed": 0, "sentences": 0}
+    since = datetime.now(timezone.utc) - timedelta(days=days)
+
+    with db.session() as conn:
+        run_id = db.start_run(conn, True)
+        seen = db.known_urls(conn)
+        seen_norm = {sitemap.norm_url(u) for u in seen}
+        fetcher = Fetcher()
+        for src in sources:
+            items = sitemap.recent(fetcher, src, since)
+            todo = [i for i in items if sitemap.norm_url(i.url) not in seen_norm]
+            total["feed_items"] += len(items)
+            total["skipped"] += len(items) - len(todo)
+            if limit:
+                todo = todo[:limit]
+            log.info("[%s] sitemap có %d bài trong %d ngày, %d bài chưa có -> tải", src.slug, len(items), days, len(todo))
+            st = {"feed_items": 0, "new": 0, "skipped": 0, "failed": 0, "sentences": 0}
+            for n, it in enumerate(todo, 1):
+                if _ingest(conn, fetcher, src, it.url, it.published_at, "", "", True, seen, st):
+                    seen_norm.add(sitemap.norm_url(it.url))
+                if n % 20 == 0:
+                    conn.commit()                      # lưu dần, lỡ dừng giữa chừng không mất công
+                    log.info("[%s] tiến độ %d/%d (mới %d, lỗi %d)", src.slug, n, len(todo), st["new"], st["failed"])
+            conn.commit()
+            for k in ("new", "skipped", "failed", "sentences"):
+                total[k] += st[k]
+        db.finish_run(conn, run_id, n_feed_items=total["feed_items"], n_new=total["new"],
+                      n_skipped=total["skipped"], n_failed=total["failed"],
+                      n_sentences=total["sentences"], note=f"sitemap-backfill {days}d")
     return total
 
 

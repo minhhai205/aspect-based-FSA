@@ -41,6 +41,23 @@ def cmd_crawl(args) -> int:
     return 0
 
 
+def cmd_backfill(args) -> int:
+    srcs = [s for s in config.SOURCES if s.sitemap and (not args.source or s.slug in args.source)]
+    if not srcs:
+        print("Không có nguồn nào khai báo sitemap", file=sys.stderr)
+        return 1
+    print(f"Lấy lùi {args.days} ngày qua sitemap: {', '.join(s.slug for s in srcs)}\n")
+    r = pipeline.backfill(srcs, days=args.days, limit=args.limit)
+    print(f"\n{'─'*52}")
+    print(f"  Bài trong sitemap (đã lọc): {r['feed_items']}")
+    print(f"  Đã có sẵn, bỏ qua          : {r['skipped']}")
+    print(f"  Bài mới lưu                : {r['new']}")
+    print(f"  Lỗi                        : {r['failed']}")
+    print(f"  Câu thu được               : {r['sentences']}")
+    print(f"{'─'*52}")
+    return 0
+
+
 def cmd_export(args) -> int:
     r = pipeline.export_jsonl(day=args.day, split_by_article=not args.single)
     print(f"Đã xuất vào {r['dir']}")
@@ -134,6 +151,12 @@ def main(argv: list[str] | None = None) -> int:
     c.add_argument("--source", action="append", help="chỉ crawl slug này (lặp được)")
     c.add_argument("--limit", type=int, default=0, help="tối đa N bài mới mỗi nguồn (0 = không giới hạn)")
     c.set_defaults(func=cmd_crawl)
+
+    b = sub.add_parser("backfill", help="Lấy lùi các ngày cũ qua sitemap (RSS không lùi được)")
+    b.add_argument("--days", type=int, default=30, help="số ngày lùi (mặc định 30)")
+    b.add_argument("--source", action="append", help="chỉ nguồn này (lặp được)")
+    b.add_argument("--limit", type=int, default=0, help="tối đa N bài mỗi nguồn (để thử)")
+    b.set_defaults(func=cmd_backfill)
 
     e = sub.add_parser("export", help="Xuất JSONL")
     e.add_argument("--day", help="YYYY-MM-DD theo giờ VN; bỏ trống = xuất tất cả")

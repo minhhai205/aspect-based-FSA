@@ -55,6 +55,10 @@ class Source:
     lang: str           # "en" | "vi"
     feed_url: str
     section: str = ""
+    # Sitemap theo tháng, để lấy lùi những ngày RSS không còn giữ. {y}={năm}, {m}=tháng KHÔNG đệm 0.
+    sitemap: str = ""
+    # Chỉ lấy URL khớp biểu thức này (loại trang chủ, mục PR, đời sống...).
+    url_regex: str = ""
 
 
 # Hiện làm 2 nguồn tiếng Anh trước. Danh sách tiếng Việt xem doc/nguon-du-lieu.md
@@ -65,6 +69,8 @@ SOURCES: list[Source] = [
         lang="en",
         feed_url="https://en.vneconomy.vn/economy.rss",
         section="economy",
+        sitemap="https://en.vneconomy.vn/sitemap/news-{y}-{m}.xml",
+        url_regex=r"^https://en\.vneconomy\.vn/[^/]+\.htm$",
     ),
     Source(
         slug="vietnamnews",
@@ -72,6 +78,8 @@ SOURCES: list[Source] = [
         lang="en",
         feed_url="https://vietnamnews.vn/rss/economy.rss",
         section="economy",
+        sitemap="https://vietnamnews.vn/sitemaps/news-{y}-{m}.xml",
+        url_regex=r"^https://vietnamnews\.vn/economy/\d+/",
     ),
 ]
 
