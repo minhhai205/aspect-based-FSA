@@ -31,6 +31,12 @@ def _p(key: str, default: str) -> Path:
 
 DB_PATH = _p("ABSA_DB_PATH", "data/absa.db")
 EXPORT_DIR = _p("ABSA_EXPORT_DIR", "data/exports")
+# DB dữ liệu mẫu, tách riêng khỏi DB crawl thật để không bao giờ lẫn vào nhau
+MOCK_DB_PATH = _p("ABSA_MOCK_DB_PATH", "data/mock.db")
+# DB mà web đọc. Mặc định là DB mẫu vì DB crawl thật chưa có bộ ba nào (chưa có model).
+# Khi model ghép vào xong thì đổi sang data/absa.db trong .env.
+WEB_DB_PATH = _p("ABSA_WEB_DB", "data/mock.db")
+WEB_DIR = ROOT / "web"
 
 USER_AGENT = os.environ.get(
     "ABSA_USER_AGENT",

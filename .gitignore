@@ -7,3 +7,7 @@ __pycache__/
 data/absa.db
 data/absa.db-*
 data/crawl.log
+
+# DB dữ liệu mẫu, sinh lại được bằng ./absa mock
+data/mock.db
+data/mock.db-*

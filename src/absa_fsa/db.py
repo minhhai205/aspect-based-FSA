@@ -55,6 +55,26 @@ CREATE TABLE IF NOT EXISTS sentences (
 CREATE INDEX IF NOT EXISTS idx_sentences_doc    ON sentences(doc_id);
 CREATE INDEX IF NOT EXISTS idx_sentences_status ON sentences(status);
 
+-- Bộ ba model trả về. Một câu có thể có 0..n dòng; 0 dòng = ngoài phạm vi.
+-- Offset target_start/target_end tính trên đúng chuỗi sentences.text.
+CREATE TABLE IF NOT EXISTS triplets (
+    id            INTEGER PRIMARY KEY AUTOINCREMENT,
+    sent_id       TEXT NOT NULL REFERENCES sentences(sent_id) ON DELETE CASCADE,
+    target_text   TEXT NOT NULL,
+    target_start  INTEGER NOT NULL,
+    target_end    INTEGER NOT NULL,
+    canonical_id  TEXT,              -- SBV, VN-INDEX, VND, HPG... NULL nếu chưa chuẩn hóa được
+    target_type   TEXT CHECK (target_type IN ('company','agency','currency','index')),
+    aspect_l1     TEXT NOT NULL,
+    aspect_l2     TEXT NOT NULL,
+    sentiment     TEXT NOT NULL CHECK (sentiment IN ('positive','negative','neutral')),
+    model_version TEXT,
+    CHECK (target_start >= 0 AND target_end > target_start)
+);
+
+CREATE INDEX IF NOT EXISTS idx_triplets_sent   ON triplets(sent_id);
+CREATE INDEX IF NOT EXISTS idx_triplets_target ON triplets(canonical_id, aspect_l2);
+
 CREATE TABLE IF NOT EXISTS crawl_runs (
     run_id        INTEGER PRIMARY KEY AUTOINCREMENT,
     started_at    TEXT NOT NULL,
@@ -128,6 +148,20 @@ def insert_sentences(conn: sqlite3.Connection, rows: list[dict]) -> int:
         """INSERT OR IGNORE INTO sentences
            (sent_id, doc_id, sent_idx, text, char_len, is_title, lang)
            VALUES (:sent_id, :doc_id, :sent_idx, :text, :char_len, :is_title, :lang)""",
+        rows,
+    )
+    return cur.rowcount
+
+
+def insert_triplets(conn: sqlite3.Connection, rows: list[dict]) -> int:
+    if not rows:
+        return 0
+    cur = conn.executemany(
+        """INSERT INTO triplets
+           (sent_id, target_text, target_start, target_end, canonical_id, target_type,
+            aspect_l1, aspect_l2, sentiment, model_version)
+           VALUES (:sent_id, :target_text, :target_start, :target_end, :canonical_id,
+                   :target_type, :aspect_l1, :aspect_l2, :sentiment, :model_version)""",
         rows,
     )
     return cur.rowcount

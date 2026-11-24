@@ -74,6 +74,57 @@ def cmd_stats(args) -> int:
     return 0
 
 
+def cmd_serve(args) -> int:
+    import uvicorn
+    from pathlib import Path
+    from .api import create_app
+    db_path = Path(args.db) if args.db else config.WEB_DB_PATH
+
+    # Kiểm tra cổng TRƯỚC khi in địa chỉ, để không báo "đang chạy" khi thật ra không bind được.
+    import socket
+    with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as probe:
+        try:
+            probe.bind((args.host, args.port))
+        except OSError as e:
+            print(f"Cổng {args.port} đang được chương trình khác dùng ({e.strerror}).\n"
+                  f"Chọn cổng khác, ví dụ: ./absa serve --port {args.port + 1}", file=sys.stderr)
+            return 1
+
+    print(f"Đọc {db_path}")
+    print(f"  Giao diện : http://{args.host}:{args.port}/")
+    print(f"  API docs  : http://{args.host}:{args.port}/docs")
+    uvicorn.run(create_app(db_path), host=args.host, port=args.port, log_level="info")
+    return 0
+
+
+def cmd_mock(args) -> int:
+    from . import mock
+    r = mock.build(days=args.days, seed=args.seed)
+    real_a, real_b = r["real_range"]
+    print(f"Đã ghi {config.MOCK_DB_PATH}\n")
+    print("DỮ LIỆU MẪU — nhãn do luật từ khóa gán, KHÔNG phải kết quả model.\n")
+    print(f"  Bài        : {r['articles']}  (thật {r['articles_real']}, bản sao ngày giả {r['articles'] - r['articles_real']})")
+    print(f"  Ngày thật  : {real_a} → {real_b}; các ngày trước đó là ngày giả")
+    print(f"  Câu        : {r['sentences']}")
+    n = r["triplets"]
+    sw = r["sent_with_triplet"]
+    print(f"  Bộ ba      : {n}  trên {sw} câu ({100 * sw / r['sentences']:.1f}% câu có bộ ba)")
+    print(f"  Câu >=2 bộ ba: {r['sent_multi']}   | có cảm xúc ngược nhau: {r['sent_conflict']}")
+    sc = r["by_sentiment"]
+    print(f"  Cảm xúc    : " + ", ".join(f"{k} {sc.get(k, 0)}" for k in ("positive", "negative", "neutral")))
+    print("\n  Top mục tiêu: " + ", ".join(f"{k} {v}" for k, v in r["top_targets"]))
+    print("\n  Theo khía cạnh:")
+    for k, v in r["by_aspect"]:
+        print(f"    {k:<34}{v:>5}")
+    print(f"\n  {'ngày':<12}{'bài':>5}{'bộ ba':>7}")
+    for d in r["days"]:
+        tag = "" if real_a <= d["day"] <= real_b else "  (giả)"
+        print(f"  {d['day']:<12}{d['articles']:>5}{d['triplets']:>7}{tag}")
+    e = r["errors"]
+    print(f"\n  Kiểm tra: span lệch {e['span_lệch']}, aspect sai {e['aspect_sai']}, mồ côi {e['mồ_côi']}")
+    return 0 if not any(e.values()) else 1
+
+
 def main(argv: list[str] | None = None) -> int:
     ap = argparse.ArgumentParser(prog="absa", description="Crawl tin tài chính -> JSON")
     ap.add_argument("-v", "--verbose", action="store_true")
@@ -93,6 +144,17 @@ def main(argv: list[str] | None = None) -> int:
     s = sub.add_parser("stats", help="Thống kê trong DB")
     s.add_argument("--json", action="store_true")
     s.set_defaults(func=cmd_stats)
+
+    m = sub.add_parser("mock", help="Sinh DB dữ liệu mẫu (data/mock.db) để thử giao diện")
+    m.add_argument("--days", type=int, default=30, help="số ngày dữ liệu mẫu (mặc định 30)")
+    m.add_argument("--seed", type=int, default=7, help="hạt giống ngẫu nhiên, cùng seed ra cùng dữ liệu")
+    m.set_defaults(func=cmd_mock)
+
+    sv = sub.add_parser("serve", help="Chạy API (và web)")
+    sv.add_argument("--host", default="127.0.0.1")
+    sv.add_argument("--port", type=int, default=8002)
+    sv.add_argument("--db", help="DB để đọc; mặc định theo ABSA_WEB_DB (data/mock.db)")
+    sv.set_defaults(func=cmd_serve)
 
     args = ap.parse_args(argv)
     _log(args.verbose)

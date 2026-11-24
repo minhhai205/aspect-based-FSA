@@ -20,6 +20,8 @@ python3 -m venv .venv
 ./absa crawl                      # fetch new articles
 ./absa stats                      # show what is in the database
 ./absa export --day 2026-11-19    # write JSON
+./absa mock                       # build data/mock.db: sample data to try the UI
+./absa serve                      # dashboard + API at http://127.0.0.1:8002/
 ./absa --help                     # all options
 ```
 
@@ -68,6 +70,7 @@ src/absa_fsa/
   db.py         SQLite: articles, sentences, crawl_runs
   pipeline.py   wiring plus JSON export
   cli.py        command line
+web/            dashboard: index.html, style.css, js/ (Chart.js vendored in vendor/)
 ```
 
 ## Notes
@@ -75,6 +78,8 @@ src/absa_fsa/
 - **Offsets are computed on normalised text.** `normalize()` runs once, before
   sentence splitting. Do not normalise again afterwards or the model's target
   spans will be off by a few characters.
+- `data/mock.db` is **sample data, not model output**: labels come from keyword rules.
+  Use it to try the UI only, never in results. It is separate from `data/absa.db`.
 - The SQLite database is not committed: it is a binary file that changes on
   every crawl. Rebuild it with `./absa crawl`.
 - Python 3.14 is fine for the crawler. Adding the model or machine translation

@@ -1,0 +1,93 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Cảm xúc tin tài chính</title>
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Crect width='16' height='16' rx='3' fill='%231f6fb5'/%3E%3Cpath d='M3 11l3-4 3 2 4-5' stroke='white' stroke-width='1.6' fill='none'/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div id="banner" class="banner" role="status" hidden></div>
+
+  <header class="top">
+    <div class="wrap top-row">
+      <div>
+        <h1>Cảm xúc tin tài chính Việt Nam</h1>
+        <p class="sub">Net sentiment = tỷ lệ tích cực − tỷ lệ tiêu cực, từ −1 đến +1.
+          Luôn xem kèm số mẫu <b>n</b>.</p>
+      </div>
+      <div class="range" role="group" aria-label="Khoảng ngày">
+        <div class="quick" id="quick"></div>
+        <label>Từ <input type="date" id="start"></label>
+        <label>Đến <input type="date" id="end"></label>
+      </div>
+    </div>
+  </header>
+
+  <main class="wrap" id="main">
+    <div id="notice" class="notice" hidden></div>
+
+    <div id="content">
+      <section class="kpis" id="kpis" aria-label="Tổng quan"></section>
+
+      <section class="card" id="v-target" aria-labelledby="h-target">
+        <div class="card-head">
+          <h2 id="h-target">Theo chủ thể</h2>
+          <label class="filter">Khía cạnh
+            <select class="f-select"></select>
+          </label>
+        </div>
+        <div class="chips" role="group" aria-label="Chọn chủ thể"></div>
+        <div class="chart-box" data-h="300"><canvas class="c-net" aria-label="Net sentiment theo ngày"></canvas><div class="status"></div></div>
+        <div class="chart-box" data-h="120"><canvas class="c-vol" aria-label="Khối lượng bộ ba theo ngày"></canvas></div>
+        <p class="caption"></p>
+      </section>
+
+      <section class="card" id="v-aspect" aria-labelledby="h-aspect">
+        <div class="card-head">
+          <h2 id="h-aspect">Theo khía cạnh</h2>
+          <label class="filter">Chủ thể
+            <select class="f-select"></select>
+          </label>
+        </div>
+        <div class="chips" role="group" aria-label="Chọn khía cạnh"></div>
+        <div class="chart-box" data-h="300"><canvas class="c-net" aria-label="Net sentiment theo ngày"></canvas><div class="status"></div></div>
+        <div class="chart-box" data-h="120"><canvas class="c-vol" aria-label="Khối lượng bộ ba theo ngày"></canvas></div>
+        <p class="caption"></p>
+      </section>
+
+      <section class="card" id="v-matrix" aria-labelledby="h-matrix">
+        <div class="card-head">
+          <h2 id="h-matrix">Ma trận chủ thể × khía cạnh</h2>
+        </div>
+        <div class="matrix-scroll"><div class="status"></div><div class="matrix-host"></div></div>
+        <div class="matrix-legend" id="matrix-legend"></div>
+      </section>
+
+      <section class="card" id="v-trace" aria-labelledby="h-trace">
+        <div class="card-head">
+          <h2 id="h-trace">Truy vết câu gốc</h2>
+          <span class="count" id="trace-count"></span>
+        </div>
+        <div class="trace-filters" id="trace-filters"></div>
+        <div class="status"></div>
+        <ol class="trace-list" id="trace-list"></ol>
+        <div class="more"><button type="button" class="btn" id="trace-more" hidden>Tải thêm</button></div>
+      </section>
+    </div>
+  </main>
+
+  <dialog id="article" aria-labelledby="article-title">
+    <div class="dlg-head">
+      <h3 id="article-title"></h3>
+      <button type="button" class="btn ghost" id="article-close" aria-label="Đóng">✕</button>
+    </div>
+    <p class="dlg-meta" id="article-meta"></p>
+    <div id="article-body"></div>
+  </dialog>
+
+  <script src="vendor/chart.umd.js"></script>
+  <script type="module" src="js/app.js"></script>
+</body>
+</html>
