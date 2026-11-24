@@ -1,0 +1,170 @@
+[
+  {
+    "sent_id": "sggp_en_20261119_f29698901a#0",
+    "doc_id": "sggp_en_20261119_f29698901a",
+    "sent_idx": 0,
+    "text": "Businesses risk losing market share by lagging in AI adoption",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "sggp_en_20261119_f29698901a#1",
+    "doc_id": "sggp_en_20261119_f29698901a",
+    "sent_idx": 1,
+    "text": "Vietnamese businesses are embracing AI, but few have translated their investments into measurable financial gains, experts said at a Ho Chi Minh City conference on November 19.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "sggp_en_20261119_f29698901a#2",
+    "doc_id": "sggp_en_20261119_f29698901a",
+    "sent_idx": 2,
+    "text": "The 2026 Investment Cooperation and Innovation Conference, organized by the Ho Chi Minh City Investment and Trade Promotion Center (ITPC) and partner organizations, focused on using AI to strengthen corporate leadership, investment efficiency, and business cooperation opportunities.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "sggp_en_20261119_f29698901a#3",
+    "doc_id": "sggp_en_20261119_f29698901a",
+    "sent_idx": 3,
+    "text": "Mr. Le Anh Hoang, ITPC Deputy Director, said AI applications were evolving beyond individual task assistance to handling complex business processes.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "sggp_en_20261119_f29698901a#4",
+    "doc_id": "sggp_en_20261119_f29698901a",
+    "sent_idx": 4,
+    "text": "The technology can analyze markets, forecast demand, and develop revenue, cost, and cash-flow scenarios, improving investment decisions.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "sggp_en_20261119_f29698901a#5",
+    "doc_id": "sggp_en_20261119_f29698901a",
+    "sent_idx": 5,
+    "text": "However, businesses should assess AI investments based on tangible benefits, total implementation costs and their ability to meet business objectives rather than simply following technology trends, he said.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "sggp_en_20261119_f29698901a#6",
+    "doc_id": "sggp_en_20261119_f29698901a",
+    "sent_idx": 6,
+    "text": "Prof. Dr. Markus Baer of Olin Business School at Washington University in St.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "sggp_en_20261119_f29698901a#7",
+    "doc_id": "sggp_en_20261119_f29698901a",
+    "sent_idx": 7,
+    "text": "Louis cited an international study involving 758 consultants that found AI increased work volume by 12 percent, reduced task completion time by 25 percent, and improved output quality by 31 percent when applied to suitable tasks.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "sggp_en_20261119_f29698901a#8",
+    "doc_id": "sggp_en_20261119_f29698901a",
+    "sent_idx": 8,
+    "text": "Conversely, using AI beyond its technological capabilities could reduce accuracy by 16 percent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "sggp_en_20261119_f29698901a#9",
+    "doc_id": "sggp_en_20261119_f29698901a",
+    "sent_idx": 9,
+    "text": "A 2026 survey of Vietnamese chief information officers found that more than 81 percent of participating businesses reported productivity improvements from AI, but only 6.3 percent could demonstrate clear financial returns.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "sggp_en_20261119_f29698901a#10",
+    "doc_id": "sggp_en_20261119_f29698901a",
+    "sent_idx": 10,
+    "text": "The disparity underscores that AI adoption does not automatically translate into higher revenue or profits.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "sggp_en_20261119_f29698901a#11",
+    "doc_id": "sggp_en_20261119_f29698901a",
+    "sent_idx": 11,
+    "text": "Businesses must identify specific operational challenges, standardize their data, and establish performance metrics before deploying the technology.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "sggp_en_20261119_f29698901a#12",
+    "doc_id": "sggp_en_20261119_f29698901a",
+    "sent_idx": 12,
+    "text": "According to a 2026 survey by Amazon Web Services (AWS), approximately 245,000 Vietnamese businesses, or 26 percent of the total, had adopted AI, up from 18 percent in 2025.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "sggp_en_20261119_f29698901a#13",
+    "doc_id": "sggp_en_20261119_f29698901a",
+    "sent_idx": 13,
+    "text": "However, 61 percent of adopters remained in the exploration or pilot-testing stage, while only 8 percent had deeply integrated AI into their core business operations.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "sggp_en_20261119_f29698901a#14",
+    "doc_id": "sggp_en_20261119_f29698901a",
+    "sent_idx": 14,
+    "text": "Meanwhile, a UOB survey found that roughly two-thirds of participating businesses planned to increase their AI investment budgets by more than 25 percent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "sggp_en_20261119_f29698901a#15",
+    "doc_id": "sggp_en_20261119_f29698901a",
+    "sent_idx": 15,
+    "text": "As early adopters use AI to cut costs, boost productivity and respond to customers more quickly, businesses lagging in digital transformation risk losing their competitive edge and market share.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "sggp_en_20261119_f29698901a#16",
+    "doc_id": "sggp_en_20261119_f29698901a",
+    "sent_idx": 16,
+    "text": "Governance remains another major challenge.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "sggp_en_20261119_f29698901a#17",
+    "doc_id": "sggp_en_20261119_f29698901a",
+    "sent_idx": 17,
+    "text": "An international study presented at the conference found that 65 percent of AI users feared falling behind if they failed to embrace the technology, while only 26 percent believed their organizations' leaders had a clear AI strategy.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "sggp_en_20261119_f29698901a#18",
+    "doc_id": "sggp_en_20261119_f29698901a",
+    "sent_idx": 18,
+    "text": "Mr. Le Quang Dam, General Director of Marvell Vietnam, stressed that workforce development must go hand in hand with technological investment.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "sggp_en_20261119_f29698901a#19",
+    "doc_id": "sggp_en_20261119_f29698901a",
+    "sent_idx": 19,
+    "text": "Businesses need to strengthen employees' AI skills, data management capabilities and adaptability to turn technological advances into measurable commercial gains.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "sggp_en_20261119_f29698901a#20",
+    "doc_id": "sggp_en_20261119_f29698901a",
+    "sent_idx": 20,
+    "text": "ITPC said it would step up efforts to connect Ho Chi Minh City businesses with domestic and international technology partners, research institutes and training institutions to promote technology transfer and the commercialization of AI solutions.",
+    "lang": "en",
+    "is_title": false
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "sent_id": "vneconomy_en_20261107_6cc0b179b7#0",
+    "doc_id": "vneconomy_en_20261107_6cc0b179b7",
+    "sent_idx": 0,
+    "text": "Dong Nai attracts $2.42b in FDI in 10M",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vneconomy_en_20261107_6cc0b179b7#1",
+    "doc_id": "vneconomy_en_20261107_6cc0b179b7",
+    "sent_idx": 1,
+    "text": "Southern Dong Nai city continued to record growth across several key economic indicators in the first 10 months of 2026, spanning industrial production, trade, services, investment attraction and international trade.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261107_6cc0b179b7#2",
+    "doc_id": "vneconomy_en_20261107_6cc0b179b7",
+    "sent_idx": 2,
+    "text": "In terms of investment, as of October 20, registered foreign direct investment (FDI) exceeded $2.42 billion, equivalent to 80.68% of the city's annual target, according to Dong Nai's statistics authorities.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261107_6cc0b179b7#3",
+    "doc_id": "vneconomy_en_20261107_6cc0b179b7",
+    "sent_idx": 3,
+    "text": "Meanwhile, registered domestic investment in projects both inside and outside industrial parks surpassed VND868.254 trillion (approximately $33 billion).",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261107_6cc0b179b7#4",
+    "doc_id": "vneconomy_en_20261107_6cc0b179b7",
+    "sent_idx": 4,
+    "text": "Industrial production also maintained strong momentum, with the cumulative industrial production index (IIP) rising 13.19% year-on-year over the 10-month period.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261107_6cc0b179b7#5",
+    "doc_id": "vneconomy_en_20261107_6cc0b179b7",
+    "sent_idx": 5,
+    "text": "Total retail sales of goods and consumer service revenue were estimated at VND386.86 trillion ($14.7 billion), up 17.91% from the same period last year, reflecting continued expansion in domestic consumption and services.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261107_6cc0b179b7#6",
+    "doc_id": "vneconomy_en_20261107_6cc0b179b7",
+    "sent_idx": 6,
+    "text": "International trade remained robust.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261107_6cc0b179b7#7",
+    "doc_id": "vneconomy_en_20261107_6cc0b179b7",
+    "sent_idx": 7,
+    "text": "The province's export turnover exceeded $30.5 billion in the first 10 months, while imports were estimated at approximately $21.7 billion.",
+    "lang": "en",
+    "is_title": false
+  }
+]

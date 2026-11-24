@@ -1,0 +1,778 @@
+[
+  {
+    "sent_id": "vneconomy_en_20261027_5d0a547736#0",
+    "doc_id": "vneconomy_en_20261027_5d0a547736",
+    "sent_idx": 0,
+    "text": "Becoming a strong maritime nation",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vneconomy_en_20261027_5d0a547736#1",
+    "doc_id": "vneconomy_en_20261027_5d0a547736",
+    "sent_idx": 1,
+    "text": "The need to issue Resolution No. 20-NQ/TW",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261027_5d0a547736#2",
+    "doc_id": "vneconomy_en_20261027_5d0a547736",
+    "sent_idx": 2,
+    "text": "After eight years of implementing Resolution No. 36-NQ/TW, dated October 22, 2018, from the Party Central Committee on Vietnam's Strategy for Sustainable Marine Economic Development to 2030, with a Vision to 2045, awareness of the sea's position, role, and particular importance has markedly improved.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261027_5d0a547736#3",
+    "doc_id": "vneconomy_en_20261027_5d0a547736",
+    "sent_idx": 3,
+    "text": "Institutions, policies, and laws governing the sea have continued to be refined, while resource management, environmental protection, and marine governance have been strengthened.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261027_5d0a547736#4",
+    "doc_id": "vneconomy_en_20261027_5d0a547736",
+    "sent_idx": 4,
+    "text": "The marine economy has continued to affirm its role as an important driver of the national economy.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261027_5d0a547736#5",
+    "doc_id": "vneconomy_en_20261027_5d0a547736",
+    "sent_idx": 5,
+    "text": "Infrastructure, seaports, economic zones, industrial parks, and coastal cities have received increased investment.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261027_5d0a547736#6",
+    "doc_id": "vneconomy_en_20261027_5d0a547736",
+    "sent_idx": 6,
+    "text": "Greater attention has been paid to baseline surveys, scientific research, and the application of marine technologies.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261027_5d0a547736#7",
+    "doc_id": "vneconomy_en_20261027_5d0a547736",
+    "sent_idx": 7,
+    "text": "Living standards in coastal and island communities have improved.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261027_5d0a547736#8",
+    "doc_id": "vneconomy_en_20261027_5d0a547736",
+    "sent_idx": 8,
+    "text": "National defense, security, foreign affairs, and international cooperation have been strengthened, helping safeguard sovereignty, sovereign rights, and national jurisdiction while maintaining a peaceful and stable environment for national development.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261027_5d0a547736#9",
+    "doc_id": "vneconomy_en_20261027_5d0a547736",
+    "sent_idx": 9,
+    "text": "However, realizing the goal of making Vietnam a strong maritime nation remains challenging.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261027_5d0a547736#10",
+    "doc_id": "vneconomy_en_20261027_5d0a547736",
+    "sent_idx": 10,
+    "text": "Awareness of the sea's position and role, as well as the requirements for developing a strong maritime nation, has at times and in some places remained incomplete.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261027_5d0a547736#11",
+    "doc_id": "vneconomy_en_20261027_5d0a547736",
+    "sent_idx": 11,
+    "text": "Marine governance has not kept pace with development requirements.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261027_5d0a547736#12",
+    "doc_id": "vneconomy_en_20261027_5d0a547736",
+    "sent_idx": 12,
+    "text": "Institutions and policies lack consistency, while the effectiveness and efficiency of State management remain limited and responsibilities and functions overlap.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261027_5d0a547736#13",
+    "doc_id": "vneconomy_en_20261027_5d0a547736",
+    "sent_idx": 13,
+    "text": "The marine economy has yet to develop commensurate with its potential and advantages.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261027_5d0a547736#14",
+    "doc_id": "vneconomy_en_20261027_5d0a547736",
+    "sent_idx": 14,
+    "text": "Structural transformation across marine industries has been slow, and productivity, quality, efficiency, and competitiveness remain insufficient.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261027_5d0a547736#15",
+    "doc_id": "vneconomy_en_20261027_5d0a547736",
+    "sent_idx": 15,
+    "text": "Science, technology, innovation, baseline surveys, and marine human resources development have not met requirements.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261027_5d0a547736#16",
+    "doc_id": "vneconomy_en_20261027_5d0a547736",
+    "sent_idx": 16,
+    "text": "Environmental protection, ecosystem conservation, and marine biodiversity face considerable challenges.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261027_5d0a547736#17",
+    "doc_id": "vneconomy_en_20261027_5d0a547736",
+    "sent_idx": 17,
+    "text": "Marine pollution, declining fisheries resources, climate change, sea-level rise, and coastal erosion have become increasingly complex issues.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261027_5d0a547736#18",
+    "doc_id": "vneconomy_en_20261027_5d0a547736",
+    "sent_idx": 18,
+    "text": "Progress in addressing the European Commission's \"yellow card\" warning over illegal, unreported, and unregulated (IUU) fishing has also been slow.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261027_5d0a547736#19",
+    "doc_id": "vneconomy_en_20261027_5d0a547736",
+    "sent_idx": 19,
+    "text": "Some coastal and island communities continue to face difficult living conditions, while the cultural values associated with the sea have not been fully harnessed and promoted.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261027_5d0a547736#20",
+    "doc_id": "vneconomy_en_20261027_5d0a547736",
+    "sent_idx": 20,
+    "text": "Management, exploitation, and control of maritime space remain inadequate, and capacities to forecast, prevent, and respond to maritime security challenges are limited.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261027_5d0a547736#21",
+    "doc_id": "vneconomy_en_20261027_5d0a547736",
+    "sent_idx": 21,
+    "text": "In addition, numerous emerging domestic and international issues underscore the urgent need to build and develop a strong maritime nation.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261027_5d0a547736#22",
+    "doc_id": "vneconomy_en_20261027_5d0a547736",
+    "sent_idx": 22,
+    "text": "First, Vietnam is a maritime nation of exceptional geostrategic importance, with a maritime area exceeding 1 million sq km, or approximately three-times its land area.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261027_5d0a547736#23",
+    "doc_id": "vneconomy_en_20261027_5d0a547736",
+    "sent_idx": 23,
+    "text": "The sea is a space for national survival, a strategic development space, a gateway for international exchange, and an integral component of the country's overall national strength.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261027_5d0a547736#24",
+    "doc_id": "vneconomy_en_20261027_5d0a547736",
+    "sent_idx": 24,
+    "text": "As the scope for further development on land increasingly approaches its limits, a maritime-oriented development strategy is an inevitable trend and an objective requirement for expanding the country's development space.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261027_5d0a547736#25",
+    "doc_id": "vneconomy_en_20261027_5d0a547736",
+    "sent_idx": 25,
+    "text": "Second, the reorganization of administrative units under the two-tier local government model and reforms in national governance require a decisive shift from sector-based management to integrated, unified governance of national maritime space, underpinned by digital data and marine spatial planning.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261027_5d0a547736#26",
+    "doc_id": "vneconomy_en_20261027_5d0a547736",
+    "sent_idx": 26,
+    "text": "Vietnam must move from exploiting the sea to modern marine governance, and from developing the marine economy to building a strong maritime nation based on science, technology, innovation, digital transformation, and the effective use of marine data.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261027_5d0a547736#27",
+    "doc_id": "vneconomy_en_20261027_5d0a547736",
+    "sent_idx": 27,
+    "text": "Third, the seas and oceans have long been arenas of strategic competition between nations, closely linked to national defense, security, natural resources, energy, supply chains, and traditional and non-traditional security issues.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261027_5d0a547736#28",
+    "doc_id": "vneconomy_en_20261027_5d0a547736",
+    "sent_idx": 28,
+    "text": "The sea is not merely a space for natural resources and economic activity, but also a comprehensive strategic domain encompassing national defense, security, science, technology, culture, foreign affairs, and international integration.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261027_5d0a547736#29",
+    "doc_id": "vneconomy_en_20261027_5d0a547736",
+    "sent_idx": 29,
+    "text": "On this basis, the Central Commission for Policy and Strategy advised the Politburo to submit to the Party Central Committee for consideration a resolution on building and developing Vietnam into a strong maritime nation.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261027_5d0a547736#30",
+    "doc_id": "vneconomy_en_20261027_5d0a547736",
+    "sent_idx": 30,
+    "text": "New thinking on developing a strong maritime nation",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261027_5d0a547736#31",
+    "doc_id": "vneconomy_en_20261027_5d0a547736",
+    "sent_idx": 31,
+    "text": "Implementing the Resolution from the 14th National Party Congress amid rapid domestic and global changes and intensifying strategic competition at sea requires a new resolution from the Party Central Committee to drive a decisive shift in thinking, institutions, and the model of maritime development.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261027_5d0a547736#32",
+    "doc_id": "vneconomy_en_20261027_5d0a547736",
+    "sent_idx": 32,
+    "text": "This calls for a comprehensive strategic vision and stronger policy directions and decisions in the period ahead.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261027_5d0a547736#33",
+    "doc_id": "vneconomy_en_20261027_5d0a547736",
+    "sent_idx": 33,
+    "text": "At a meeting with the Central Commission for Policy and Strategy and relevant agencies on June 8, 2026, to review the implementation of Resolution No. 36, Party General Secretary and State President To Lam directed the implementation of key priorities reflecting breakthrough thinking on the development of a strong maritime nation.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261027_5d0a547736#34",
+    "doc_id": "vneconomy_en_20261027_5d0a547736",
+    "sent_idx": 34,
+    "text": "First, the new resolution must adopt an inclusive approach, centered on shifting decisively from thinking in terms of marine economic development to developing national maritime space; from exploiting the sea to generating greater wealth from it; from developing individual sectors in isolation to pursuing cross-sectoral development; and from relying on natural resources to harnessing science, technology, innovation, and knowledge.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261027_5d0a547736#35",
+    "doc_id": "vneconomy_en_20261027_5d0a547736",
+    "sent_idx": 35,
+    "text": "It must chart a course toward a nation with modern marine governance, a developed marine economy, advanced marine science and technology, the capacity to safeguard maritime sovereignty and island territories, and an increasingly prominent international standing in maritime affairs.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261027_5d0a547736#36",
+    "doc_id": "vneconomy_en_20261027_5d0a547736",
+    "sent_idx": 36,
+    "text": "It must ensure the effective exploitation, governance, and development of the entire national maritime space in service of national development through 2030, 2045, and beyond.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261027_5d0a547736#37",
+    "doc_id": "vneconomy_en_20261027_5d0a547736",
+    "sent_idx": 37,
+    "text": "This requires a fundamental shift from developing the marine economy to building and developing a strong maritime nation, and from prioritizing individual marine industries to comprehensively strengthening national maritime capabilities.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261027_5d0a547736#38",
+    "doc_id": "vneconomy_en_20261027_5d0a547736",
+    "sent_idx": 38,
+    "text": "The sea must genuinely become one of the key pillars of the cause of building and defending the Fatherland in the new era.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261027_5d0a547736#39",
+    "doc_id": "vneconomy_en_20261027_5d0a547736",
+    "sent_idx": 39,
+    "text": "Second, the sea must be positioned as one of the strategic drivers for implementing the Resolution from the 14th National Party Congress, becoming a new growth space where new growth poles, industries, and development drivers emerge.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261027_5d0a547736#40",
+    "doc_id": "vneconomy_en_20261027_5d0a547736",
+    "sent_idx": 40,
+    "text": "Research and investment should prioritize areas with strong potential for breakthroughs, including a modern maritime economy, a green marine economy, maritime logistics, offshore renewable energy, sustainable exploitation of marine minerals, industrial-scale marine aquaculture, marine cities, high-tech coastal industries, marine biotechnology, and emerging ocean-based industries.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261027_5d0a547736#41",
+    "doc_id": "vneconomy_en_20261027_5d0a547736",
+    "sent_idx": 41,
+    "text": "Third, science, technology, innovation, and digital transformation must be established as the principal drivers of maritime development.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261027_5d0a547736#42",
+    "doc_id": "vneconomy_en_20261027_5d0a547736",
+    "sent_idx": 42,
+    "text": "The new resolution should incorporate additional provisions on national marine data, digital ocean mapping, AI in marine governance, deep-sea technologies, marine monitoring technologies, intelligent maritime surveillance systems, and next-generation marine technologies.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261027_5d0a547736#43",
+    "doc_id": "vneconomy_en_20261027_5d0a547736",
+    "sent_idx": 43,
+    "text": "Fourth, marine economic development must be closely integrated with the strengthening of national defense and maritime security, guided by the principle of safeguarding the Fatherland proactively and from an early stage, at a distance.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261027_5d0a547736#44",
+    "doc_id": "vneconomy_en_20261027_5d0a547736",
+    "sent_idx": 44,
+    "text": "All maritime plans, strategies, and development programs must simultaneously serve the protection of sovereignty, sovereign rights, and national jurisdiction, preserve a peaceful and stable environment, strengthen defense capabilities, and safeguard national interests at sea.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261027_5d0a547736#45",
+    "doc_id": "vneconomy_en_20261027_5d0a547736",
+    "sent_idx": 45,
+    "text": "At the same time, the impacts of competition between major powers must be fully assessed.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261027_5d0a547736#46",
+    "doc_id": "vneconomy_en_20261027_5d0a547736",
+    "sent_idx": 46,
+    "text": "Appropriate approaches must be developed to address maritime disputes and issues involving offshore oil and gas and marine mineral exploitation in accordance with international law, thereby preserving peace and ensuring freedom of navigation in the East Sea.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261027_5d0a547736#47",
+    "doc_id": "vneconomy_en_20261027_5d0a547736",
+    "sent_idx": 47,
+    "text": "Fifth, the resolution should propose a modern, unified, and interconnected model of marine governance based on data and national marine spatial planning.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261027_5d0a547736#48",
+    "doc_id": "vneconomy_en_20261027_5d0a547736",
+    "sent_idx": 48,
+    "text": "This model must ensure integrated governance of the sea surface, seabed, subsoil beneath the seabed, islands, coastal areas, and the airspace above the sea.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261027_5d0a547736#49",
+    "doc_id": "vneconomy_en_20261027_5d0a547736",
+    "sent_idx": 49,
+    "text": "It must also establish close links between the mainland and offshore islands, and between economic development, national defense, security, and environmental protection.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261027_5d0a547736#50",
+    "doc_id": "vneconomy_en_20261027_5d0a547736",
+    "sent_idx": 50,
+    "text": "Sixth, the resolution's policy directions must be translated into concrete action programs with clearly identified personnel, tasks, timelines, responsibilities, and deliverables, supported by mechanisms for inspection, supervision, and performance evaluation.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261027_5d0a547736#51",
+    "doc_id": "vneconomy_en_20261027_5d0a547736",
+    "sent_idx": 51,
+    "text": "The new resolution and its action programs must clearly define priority tasks, national programs, strategic projects, measurable targets, and the responsibilities of each agency, administrative level, sector, and locality.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261027_5d0a547736#52",
+    "doc_id": "vneconomy_en_20261027_5d0a547736",
+    "sent_idx": 52,
+    "text": "These key directives embody breakthrough thinking on maritime development and provide a solid foundation for formulating and finalizing the resolution.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261027_5d0a547736#53",
+    "doc_id": "vneconomy_en_20261027_5d0a547736",
+    "sent_idx": 53,
+    "text": "Resolution No. 20 sets out five groups of guiding principles, objectives through 2030 with a vision to 2045, and nine major groups of tasks and solutions.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261027_5d0a547736#54",
+    "doc_id": "vneconomy_en_20261027_5d0a547736",
+    "sent_idx": 54,
+    "text": "First guiding principle: Clearly define the role and position of the sea in the new stage of development.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261027_5d0a547736#55",
+    "doc_id": "vneconomy_en_20261027_5d0a547736",
+    "sent_idx": 55,
+    "text": "Building and developing Vietnam into a strong maritime nation is a long-term national development strategy closely linked to the cause of building and defending the Fatherland.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261027_5d0a547736#56",
+    "doc_id": "vneconomy_en_20261027_5d0a547736",
+    "sent_idx": 56,
+    "text": "Establish modern marine governance, a developed marine economy, advanced marine science and technology, a sustainable environment, a distinctive cultural identity, prosperous communities, solid national defense and security, and substantive and effective international integration, while steadily enhancing its international standing and reputation.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261027_5d0a547736#57",
+    "doc_id": "vneconomy_en_20261027_5d0a547736",
+    "sent_idx": 57,
+    "text": "Second guiding principle: Set new requirements for renewing thinking and improving institutions in the spirit of Resolution No. 66-NQ/TW.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261027_5d0a547736#58",
+    "doc_id": "vneconomy_en_20261027_5d0a547736",
+    "sent_idx": 58,
+    "text": "Shift decisively from exploiting the sea to modern marine governance; from coastal economic development to developing a maritime-oriented nation; and from sector-based management to integrated, unified governance of national maritime space.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261027_5d0a547736#59",
+    "doc_id": "vneconomy_en_20261027_5d0a547736",
+    "sent_idx": 59,
+    "text": "Institutional reform to develop a strong maritime nation must constitute a strategic breakthrough.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261027_5d0a547736#60",
+    "doc_id": "vneconomy_en_20261027_5d0a547736",
+    "sent_idx": 60,
+    "text": "All resources must be mobilized more effectively to unlock the sea's potential and advantages, establish new growth poles, economic centers, and maritime economic corridors, and strengthen connectivity among the mainland, the sea, islands, and emerging development spaces.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261027_5d0a547736#61",
+    "doc_id": "vneconomy_en_20261027_5d0a547736",
+    "sent_idx": 61,
+    "text": "Third guiding principle: Affirm the role of science, technology, innovation, and digital transformation as the principal drivers of building and developing Vietnam into a strong maritime nation.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261027_5d0a547736#62",
+    "doc_id": "vneconomy_en_20261027_5d0a547736",
+    "sent_idx": 62,
+    "text": "Science, technology, innovation, digital transformation, and a highly-skilled workforce are the principal drivers of development, with priority given to generating and mastering marine knowledge, data, and technologies.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261027_5d0a547736#63",
+    "doc_id": "vneconomy_en_20261027_5d0a547736",
+    "sent_idx": 63,
+    "text": "Accelerate baseline marine surveys and scientific research, and develop the capacity to master marine and ocean technologies.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261027_5d0a547736#64",
+    "doc_id": "vneconomy_en_20261027_5d0a547736",
+    "sent_idx": 64,
+    "text": "Fourth guiding principle: Fully identify the factors necessary to ensure sustainability in building and developing Vietnam into a strong maritime nation.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261027_5d0a547736#65",
+    "doc_id": "vneconomy_en_20261027_5d0a547736",
+    "sent_idx": 65,
+    "text": "Exploit and use marine resources efficiently and sustainably while protecting the environment and conserving marine ecosystems through green and smart development within ecological limits and the carrying capacity of the marine and ocean environment.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261027_5d0a547736#66",
+    "doc_id": "vneconomy_en_20261027_5d0a547736",
+    "sent_idx": 66,
+    "text": "Economic growth must never come at the expense of the environment.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261027_5d0a547736#67",
+    "doc_id": "vneconomy_en_20261027_5d0a547736",
+    "sent_idx": 67,
+    "text": "Substantially reduce unsustainable exploitation that depletes resources and causes environmental pollution.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261027_5d0a547736#68",
+    "doc_id": "vneconomy_en_20261027_5d0a547736",
+    "sent_idx": 68,
+    "text": "Strengthen biodiversity protection, expand marine protected areas and improve their management, while linking conservation with sustainable livelihoods for local communities.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261027_5d0a547736#69",
+    "doc_id": "vneconomy_en_20261027_5d0a547736",
+    "sent_idx": 69,
+    "text": "Proactively respond to climate change and changes in ocean conditions, strengthen resilience and disaster prevention and control, and reduce risks to ensure that the strategic values and benefits derived from the sea are preserved for present and future generations.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261027_5d0a547736#70",
+    "doc_id": "vneconomy_en_20261027_5d0a547736",
+    "sent_idx": 70,
+    "text": "Fifth guiding principle: Define the responsibilities, rights, and obligations of all stakeholder groups.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261027_5d0a547736#71",
+    "doc_id": "vneconomy_en_20261027_5d0a547736",
+    "sent_idx": 71,
+    "text": "Building and developing Vietnam into a strong maritime nation is a strategic mission for the entire Party, people, armed forces, and political system.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261027_5d0a547736#72",
+    "doc_id": "vneconomy_en_20261027_5d0a547736",
+    "sent_idx": 72,
+    "text": "It is also the right, responsibility, and obligation of every organization, business, and citizen.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261027_5d0a547736#73",
+    "doc_id": "vneconomy_en_20261027_5d0a547736",
+    "sent_idx": 73,
+    "text": "The effort must remain under the comprehensive leadership of the Party and the unified management of the State, with the active and responsible participation of all social stakeholders.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261027_5d0a547736#74",
+    "doc_id": "vneconomy_en_20261027_5d0a547736",
+    "sent_idx": 74,
+    "text": "Promote patriotism, self-reliance, resilience, and the aspiration to reach out to the open sea.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261027_5d0a547736#75",
+    "doc_id": "vneconomy_en_20261027_5d0a547736",
+    "sent_idx": 75,
+    "text": "Place people and businesses at the center of maritime-oriented national development, while firmly safeguarding sovereignty over the sea and islands.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261027_5d0a547736#76",
+    "doc_id": "vneconomy_en_20261027_5d0a547736",
+    "sent_idx": 76,
+    "text": "2. Objectives through 2030, with a vision to 2045",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261027_5d0a547736#77",
+    "doc_id": "vneconomy_en_20261027_5d0a547736",
+    "sent_idx": 77,
+    "text": "The Resolution establishes an overall objective for 2030 and a vision for 2045, together with six groups of objectives to be achieved during 2026-2030.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261027_5d0a547736#78",
+    "doc_id": "vneconomy_en_20261027_5d0a547736",
+    "sent_idx": 78,
+    "text": "These objectives will lay the groundwork for building and developing a strong maritime nation and cover the following areas: Economy; Maritime spatial development and marine infrastructure; Science, technology, innovation, and digital transformation; Marine spatial governance, environmental protection, and sustainable development; Culture and society; National defense and security and foreign affairs.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261027_5d0a547736#79",
+    "doc_id": "vneconomy_en_20261027_5d0a547736",
+    "sent_idx": 79,
+    "text": "The Resolution identifies nine major groups of tasks and solutions:",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261027_5d0a547736#80",
+    "doc_id": "vneconomy_en_20261027_5d0a547736",
+    "sent_idx": 80,
+    "text": "- Strengthen the Party's leadership, renew thinking, raise awareness of developing a strong maritime nation, and improve the effectiveness and efficiency of national marine governance.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261027_5d0a547736#81",
+    "doc_id": "vneconomy_en_20261027_5d0a547736",
+    "sent_idx": 81,
+    "text": "- Improve institutions and reform national marine spatial planning to create breakthroughs in the development of a strong maritime nation.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261027_5d0a547736#82",
+    "doc_id": "vneconomy_en_20261027_5d0a547736",
+    "sent_idx": 82,
+    "text": "- Mobilize, promote, and efficiently use resources, while fostering the development of marine enterprises, particularly large-scale corporate groups and general corporations.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261027_5d0a547736#83",
+    "doc_id": "vneconomy_en_20261027_5d0a547736",
+    "sent_idx": 83,
+    "text": "- Advance science, technology, innovation, digital transformation, and the development of a highly-skilled workforce.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261027_5d0a547736#84",
+    "doc_id": "vneconomy_en_20261027_5d0a547736",
+    "sent_idx": 84,
+    "text": "- Drive breakthroughs in modern, green, and smart marine industries, as well as emerging maritime sectors and fields.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261027_5d0a547736#85",
+    "doc_id": "vneconomy_en_20261027_5d0a547736",
+    "sent_idx": 85,
+    "text": "-Develop marine infrastructure in a coordinated manner, expand national development space, and establish major marine economic centers serving both national and regional development.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261027_5d0a547736#86",
+    "doc_id": "vneconomy_en_20261027_5d0a547736",
+    "sent_idx": 86,
+    "text": "- Protect the environment and conserve marine ecosystems, proactively adapt to climate change, and strengthen the resilience of coastal and island localities.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261027_5d0a547736#87",
+    "doc_id": "vneconomy_en_20261027_5d0a547736",
+    "sent_idx": 87,
+    "text": "- Build a maritime culture, improve people's living standards, and harness the strength of maritime communities in building and defending the Fatherland.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261027_5d0a547736#88",
+    "doc_id": "vneconomy_en_20261027_5d0a547736",
+    "sent_idx": 88,
+    "text": "- Ensure national defense, security, and safety at sea and on islands; strengthen international integration and cooperation; and enhance Vietnam's national standing.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261027_5d0a547736#89",
+    "doc_id": "vneconomy_en_20261027_5d0a547736",
+    "sent_idx": 89,
+    "text": "The Resolution assigns implementation responsibilities to six groups of agencies: the National Assembly Party Committee; the Government Party Committee; provincial and municipal Party committees and Party committees directly under the Party Central Committee; the Party Committee of the Vietnam Fatherland Front and central mass organizations; the Central Commission for Communications, Education, and Mass Mobilization; and the Central Commission for Policy and Strategy.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261027_5d0a547736#90",
+    "doc_id": "vneconomy_en_20261027_5d0a547736",
+    "sent_idx": 90,
+    "text": "The Resolution on building and developing Vietnam into a strong maritime nation embodies a strategic vision grounded in new and breakthrough thinking on maritime development.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261027_5d0a547736#91",
+    "doc_id": "vneconomy_en_20261027_5d0a547736",
+    "sent_idx": 91,
+    "text": "All Party members and relevant officials are urged to thoroughly internalize the Resolution, deepen their understanding, and translate its principles into action, while providing decisive leadership and direction to ensure successful implementation of the goal of making Vietnam a strong and prosperous maritime nation with a high level of development.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261027_5d0a547736#92",
+    "doc_id": "vneconomy_en_20261027_5d0a547736",
+    "sent_idx": 92,
+    "text": "Vietnam must establish modern marine governance, advanced marine science and technology, and a rapidly-growing, green, and sustainable marine economy that becomes a principal driver of national economic growth.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261027_5d0a547736#93",
+    "doc_id": "vneconomy_en_20261027_5d0a547736",
+    "sent_idx": 93,
+    "text": "The material and spiritual well-being of people living in coastal and island areas must improve comprehensively, while maritime culture must be preserved and promoted.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261027_5d0a547736#94",
+    "doc_id": "vneconomy_en_20261027_5d0a547736",
+    "sent_idx": 94,
+    "text": "National defense, security, sovereignty, sovereign rights, and national jurisdiction at sea must be firmly safeguarded.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261027_5d0a547736#95",
+    "doc_id": "vneconomy_en_20261027_5d0a547736",
+    "sent_idx": 95,
+    "text": "Vietnam must continue to enhance its standing, reputation, and role in international cooperation, marine governance, and global ocean governance.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261027_5d0a547736#96",
+    "doc_id": "vneconomy_en_20261027_5d0a547736",
+    "sent_idx": 96,
+    "text": "(*) The report was delivered at the National Conference to Study, Disseminate, and Implement the Resolutions from the Third Plenum of the 14th Party Central Committee, held in Hanoi on July 29, one day after Resolution No. 20 was adopted.",
+    "lang": "en",
+    "is_title": false
+  }
+]

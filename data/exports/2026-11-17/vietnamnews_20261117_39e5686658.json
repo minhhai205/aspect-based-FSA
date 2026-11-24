@@ -1,0 +1,194 @@
+[
+  {
+    "sent_id": "vietnamnews_20261117_39e5686658#0",
+    "doc_id": "vietnamnews_20261117_39e5686658",
+    "sent_idx": 0,
+    "text": "Market drops due to sell-off in oil and gas stocks",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261117_39e5686658#1",
+    "doc_id": "vietnamnews_20261117_39e5686658",
+    "sent_idx": 1,
+    "text": "HÀ NỘI - The VN-Index reversed course on Tuesday as heavy selling in large-cap stocks, particularly oil and gas companies, dragged the market benchmark lower, despite a late-session recovery in bargain-hunting demand.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_39e5686658#2",
+    "doc_id": "vietnamnews_20261117_39e5686658",
+    "sent_idx": 2,
+    "text": "The VN-Index on the Hochiminh Stock Exchange (HoSE) closed at 1,726.72 points, down 10.17 points.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_39e5686658#3",
+    "doc_id": "vietnamnews_20261117_39e5686658",
+    "sent_idx": 3,
+    "text": "Market breadth remained in the negative zone, with 207 stocks declining while 110 ticked higher.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_39e5686658#4",
+    "doc_id": "vietnamnews_20261117_39e5686658",
+    "sent_idx": 4,
+    "text": "Trading liquidity on the HoSE improved significantly from the previous session, with total transaction value reaching over VNĐ14.6 trillion (US$568 million).",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_39e5686658#5",
+    "doc_id": "vietnamnews_20261117_39e5686658",
+    "sent_idx": 5,
+    "text": "The VN30-Index remained weak, falling by 7.12 points, with only eight stocks in the basket closing higher.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_39e5686658#6",
+    "doc_id": "vietnamnews_20261117_39e5686658",
+    "sent_idx": 6,
+    "text": "On the Hanoi Stock Exchange (HNX), the HNX-Index also decreased by 6.31 points to finish the day at 248.6 points.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_39e5686658#7",
+    "doc_id": "vietnamnews_20261117_39e5686658",
+    "sent_idx": 7,
+    "text": "Selling pressure was more pronounced among declining blue chips.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_39e5686658#8",
+    "doc_id": "vietnamnews_20261117_39e5686658",
+    "sent_idx": 8,
+    "text": "Oil and gas stocks Petrovietnam Refining and Petrochemical Corporation (BSR) and PV Gas (GAS) posted the steepest losses in the VN30 basket, falling by 4.72 per cent and 3.71 per cent, respectively.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_39e5686658#9",
+    "doc_id": "vietnamnews_20261117_39e5686658",
+    "sent_idx": 9,
+    "text": "The energy sector faced the heaviest selling pressure during the session, with average share prices falling more than 3.8 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_39e5686658#10",
+    "doc_id": "vietnamnews_20261117_39e5686658",
+    "sent_idx": 10,
+    "text": "Aside from BSR and GAS, several other energy stocks also declined sharply.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_39e5686658#11",
+    "doc_id": "vietnamnews_20261117_39e5686658",
+    "sent_idx": 11,
+    "text": "PetroVietnam Transportation Corporation (PVT) lost 5.26 per cent and PetroVietnam Technical Services Corporation (PVS) fell by more than 3.1 per cent, while PetroVietnam Coating (PVB) and PV Drilling (PVD) each dropped more than 2 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_39e5686658#12",
+    "doc_id": "vietnamnews_20261117_39e5686658",
+    "sent_idx": 12,
+    "text": "Selling pressure also spread to major banking stocks, weighing further on the benchmark.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_39e5686658#13",
+    "doc_id": "vietnamnews_20261117_39e5686658",
+    "sent_idx": 13,
+    "text": "Vietcombank (VCB) and BIDV (BID) both fell by more than 2 per cent, making them among the main contributors to the VN-Index's decline alongside GAS and BSR.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_39e5686658#14",
+    "doc_id": "vietnamnews_20261117_39e5686658",
+    "sent_idx": 14,
+    "text": "Other large-cap stocks also weakened, with LPBank (LPB), SeABank (SSB), FPT Corporation (FPT) and Vietnam Rubber Group (GVR) each losing more than 1 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_39e5686658#15",
+    "doc_id": "vietnamnews_20261117_39e5686658",
+    "sent_idx": 15,
+    "text": "Property stocks were among the few bright spots, as buying interest spread to mid- and small-cap companies, helping offset pressure from Vingroup-related shares.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_39e5686658#16",
+    "doc_id": "vietnamnews_20261117_39e5686658",
+    "sent_idx": 16,
+    "text": "Khang Dien House (KDH) rose by 3.64 per cent, while Khai Hoan Land Group (KHG) gained 2.65 per cent and CEO Group (CEO) advanced by 2.56 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_39e5686658#17",
+    "doc_id": "vietnamnews_20261117_39e5686658",
+    "sent_idx": 17,
+    "text": "Dat Xanh Group (DXG) increased by 1.83 per cent, Hoang Huy Investment Financial Services (TCH) climbed by 1.53 per cent, DIC Group (DIG) added 1.49 per cent and HDC rose by 1.5 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_39e5686658#18",
+    "doc_id": "vietnamnews_20261117_39e5686658",
+    "sent_idx": 18,
+    "text": "Masan Consumer (MCH) continued to advance, although its gain narrowed considerably from the previous session.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_39e5686658#19",
+    "doc_id": "vietnamnews_20261117_39e5686658",
+    "sent_idx": 19,
+    "text": "It was still the strongest performer in the VN30 basket, rising by 1.38 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_39e5686658#20",
+    "doc_id": "vietnamnews_20261117_39e5686658",
+    "sent_idx": 20,
+    "text": "Sacombank (STB) gained 1.12 per cent, while other advancing stocks recorded only marginal increases.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_39e5686658#21",
+    "doc_id": "vietnamnews_20261117_39e5686658",
+    "sent_idx": 21,
+    "text": "Foreign investors returned to net selling on HoSE after two consecutive sessions of net buying, recording net sales of more than VNĐ358 billion.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_39e5686658#22",
+    "doc_id": "vietnamnews_20261117_39e5686658",
+    "sent_idx": 22,
+    "text": "FPT faced the strongest foreign selling pressure, with net sales exceeding VNĐ146 billion.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_39e5686658#23",
+    "doc_id": "vietnamnews_20261117_39e5686658",
+    "sent_idx": 23,
+    "text": "VCB followed, with foreign investors selling more than VNĐ102 billion worth of shares. - BIZHUB/VNS",
+    "lang": "en",
+    "is_title": false
+  }
+]

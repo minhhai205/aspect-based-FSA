@@ -1,0 +1,242 @@
+[
+  {
+    "sent_id": "sggp_en_20261110_c87c18ef6d#0",
+    "doc_id": "sggp_en_20261110_c87c18ef6d",
+    "sent_idx": 0,
+    "text": "Vietnam among 13 nations maintaining energy stability despite global shocks",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "sggp_en_20261110_c87c18ef6d#1",
+    "doc_id": "sggp_en_20261110_c87c18ef6d",
+    "sent_idx": 1,
+    "text": "As per the Ministry of Industry and Trade's first-ever Vietnam Energy Security Report 2026, Vietnam is among 13 nations maintaining energy stability despite global shocks.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "sggp_en_20261110_c87c18ef6d#2",
+    "doc_id": "sggp_en_20261110_c87c18ef6d",
+    "sent_idx": 2,
+    "text": "On November 10, the Ministry of Industry and Trade held the National Energy Security Forum in Hanoi and announced the Vietnam Energy Security Report 2026 for the first time.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "sggp_en_20261110_c87c18ef6d#3",
+    "doc_id": "sggp_en_20261110_c87c18ef6d",
+    "sent_idx": 3,
+    "text": "According to the Vietnam Energy Security Report 2026, the global energy system faced major shocks.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "sggp_en_20261110_c87c18ef6d#4",
+    "doc_id": "sggp_en_20261110_c87c18ef6d",
+    "sent_idx": 4,
+    "text": "The Strait of Hormuz was blockaded for several months, putting pressure on the energy supply chain.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "sggp_en_20261110_c87c18ef6d#5",
+    "doc_id": "sggp_en_20261110_c87c18ef6d",
+    "sent_idx": 5,
+    "text": "Brent crude oil prices at times reached US$118.35 per barrel.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "sggp_en_20261110_c87c18ef6d#6",
+    "doc_id": "sggp_en_20261110_c87c18ef6d",
+    "sent_idx": 6,
+    "text": "Heatwaves and the El Nino phenomenon pushed electricity demand to record levels, while Vietnam's annual hydropower output could be about 18.5 billion kWh lower than in 2025.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "sggp_en_20261110_c87c18ef6d#7",
+    "doc_id": "sggp_en_20261110_c87c18ef6d",
+    "sent_idx": 7,
+    "text": "As of November 9, among 177 countries surveyed in the report, 102 faced energy difficulties.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "sggp_en_20261110_c87c18ef6d#8",
+    "doc_id": "sggp_en_20261110_c87c18ef6d",
+    "sent_idx": 8,
+    "text": "Only 13 countries maintained stability, including Vietnam.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "sggp_en_20261110_c87c18ef6d#9",
+    "doc_id": "sggp_en_20261110_c87c18ef6d",
+    "sent_idx": 9,
+    "text": "Vietnam ensured electricity supply amid rising demand.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "sggp_en_20261110_c87c18ef6d#10",
+    "doc_id": "sggp_en_20261110_c87c18ef6d",
+    "sent_idx": 10,
+    "text": "Electricity production and imports in 2026 are estimated at 356.2 billion kWh, an increase of 10.3 percent compared to 2025 and about 6.2 billion kWh higher than the baseline scenario.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "sggp_en_20261110_c87c18ef6d#11",
+    "doc_id": "sggp_en_20261110_c87c18ef6d",
+    "sent_idx": 11,
+    "text": "The total system's peak capacity reached 57,537MW on June 24, 2026, with the Northern region reaching 30,248MW.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "sggp_en_20261110_c87c18ef6d#12",
+    "doc_id": "sggp_en_20261110_c87c18ef6d",
+    "sent_idx": 12,
+    "text": "Despite the high load, the country did not have to undergo rolling blackouts.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "sggp_en_20261110_c87c18ef6d#13",
+    "doc_id": "sggp_en_20261110_c87c18ef6d",
+    "sent_idx": 13,
+    "text": "Commercial electricity in the first 10 months of 2026 increased by 9.84 percent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "sggp_en_20261110_c87c18ef6d#14",
+    "doc_id": "sggp_en_20261110_c87c18ef6d",
+    "sent_idx": 14,
+    "text": "According to Deputy Minister of Industry and Trade Nguyen Viet Son, the power system overcame three extreme heatwaves without implementing rolling blackouts, even though electricity demand surged and hydropower sources were impacted by the weather.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "sggp_en_20261110_c87c18ef6d#15",
+    "doc_id": "sggp_en_20261110_c87c18ef6d",
+    "sent_idx": 15,
+    "text": "Regarding petroleum supply, two domestic oil refineries produced approximately 12.1 million tons in the first nine months of 2026.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "sggp_en_20261110_c87c18ef6d#16",
+    "doc_id": "sggp_en_20261110_c87c18ef6d",
+    "sent_idx": 16,
+    "text": "Dung Quat Refinery operated at about 123 percent capacity, while Nghi Son Refinery and Petrochemical Complex reached about 112 percent of its equivalent design capacity.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "sggp_en_20261110_c87c18ef6d#17",
+    "doc_id": "sggp_en_20261110_c87c18ef6d",
+    "sent_idx": 17,
+    "text": "Crude oil sources were diversified from one to over 10 types.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "sggp_en_20261110_c87c18ef6d#18",
+    "doc_id": "sggp_en_20261110_c87c18ef6d",
+    "sent_idx": 18,
+    "text": "Vietnam did not experience petroleum shortages and has not had to tap into its national reserves.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "sggp_en_20261110_c87c18ef6d#19",
+    "doc_id": "sggp_en_20261110_c87c18ef6d",
+    "sent_idx": 19,
+    "text": "However, Deputy Minister of Industry and Trade Nguyen Viet Son also pointed out certain limitations regarding energy security.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "sggp_en_20261110_c87c18ef6d#20",
+    "doc_id": "sggp_en_20261110_c87c18ef6d",
+    "sent_idx": 20,
+    "text": "By 2025, net energy imports are projected to account for 43.9 percent of the total primary energy supply.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "sggp_en_20261110_c87c18ef6d#21",
+    "doc_id": "sggp_en_20261110_c87c18ef6d",
+    "sent_idx": 21,
+    "text": "Vietnam has yet to meet the target of maintaining a petroleum reserve equivalent to approximately 90 days of net imports as stipulated in Resolution 70-NQ/TW and has not yet established a dedicated national reserve system for crude oil.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "sggp_en_20261110_c87c18ef6d#22",
+    "doc_id": "sggp_en_20261110_c87c18ef6d",
+    "sent_idx": 22,
+    "text": "Furthermore, electricity demand in the Northern region has surged, while many power generation and grid projects continue to face obstacles related to regulatory mechanisms, land clearance, and capital.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "sggp_en_20261110_c87c18ef6d#23",
+    "doc_id": "sggp_en_20261110_c87c18ef6d",
+    "sent_idx": 23,
+    "text": "The report also notes that E10 gasoline is set to be sold nationwide starting in June 2026, which is estimated to help reduce CO2 emissions by approximately 2.5 million tonnes annually.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "sggp_en_20261110_c87c18ef6d#24",
+    "doc_id": "sggp_en_20261110_c87c18ef6d",
+    "sent_idx": 24,
+    "text": "The state has allocated over VND64 trillion toward policies for reducing petroleum-related taxes and fees, as well as providing advances from the Price Stabilization Fund.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "sggp_en_20261110_c87c18ef6d#25",
+    "doc_id": "sggp_en_20261110_c87c18ef6d",
+    "sent_idx": 25,
+    "text": "As of October 26, retail gasoline prices in Vietnam stood at approximately 63 percent of the global average, the lowest among the 16 economies included in the comparison.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "sggp_en_20261110_c87c18ef6d#26",
+    "doc_id": "sggp_en_20261110_c87c18ef6d",
+    "sent_idx": 26,
+    "text": "Deputy Minister Nguyen Viet Son emphasized that \"energy must stay one step ahead; energy autonomy is the foundation of economic autonomy,\" and called for a significant shift in the approach to ensuring energy security.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "sggp_en_20261110_c87c18ef6d#27",
+    "doc_id": "sggp_en_20261110_c87c18ef6d",
+    "sent_idx": 27,
+    "text": "According to the Ministry of Industry and Trade, the Vietnam Energy Security Report will be produced annually in conjunction with the National Energy Security Forum.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "sggp_en_20261110_c87c18ef6d#28",
+    "doc_id": "sggp_en_20261110_c87c18ef6d",
+    "sent_idx": 28,
+    "text": "The 2026 forum will be themed \"Energy Autonomy: The Lifeblood of Double-Digit Growth.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "sggp_en_20261110_c87c18ef6d#29",
+    "doc_id": "sggp_en_20261110_c87c18ef6d",
+    "sent_idx": 29,
+    "text": "The report is published in a bilingual format and includes five in-depth appendices covering electricity, petroleum, energy pricing, energy conservation, and global energy security.",
+    "lang": "en",
+    "is_title": false
+  }
+]

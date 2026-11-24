@@ -1,0 +1,66 @@
+[
+  {
+    "sent_id": "vneconomy_en_20261027_83cd7b777b#0",
+    "doc_id": "vneconomy_en_20261027_83cd7b777b",
+    "sent_idx": 0,
+    "text": "At least 22 banks commit to cutting lending rates",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vneconomy_en_20261027_83cd7b777b#1",
+    "doc_id": "vneconomy_en_20261027_83cd7b777b",
+    "sent_idx": 1,
+    "text": "At least 22 commercial banks in Vietnam, including wholly foreign-owned Shinhan Bank Vietnam, have committed to reducing lending rates, according to statistics from the Vietnam Banks Association (VNBA).",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261027_83cd7b777b#2",
+    "doc_id": "vneconomy_en_20261027_83cd7b777b",
+    "sent_idx": 2,
+    "text": "The reductions generally range from 1.5 to 2 percentage points per year compared with banks' standard lending rates.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261027_83cd7b777b#3",
+    "doc_id": "vneconomy_en_20261027_83cd7b777b",
+    "sent_idx": 3,
+    "text": "Of these institutions, 15 have announced the scale of their preferential lending packages, with a combined value of more than VND451 trillion (approximately $17 billion).",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261027_83cd7b777b#4",
+    "doc_id": "vneconomy_en_20261027_83cd7b777b",
+    "sent_idx": 4,
+    "text": "This represents around 2.2% of the banking system's total outstanding loans, which stand at VND20.72 quadrillion (more than $802 billion).",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261027_83cd7b777b#5",
+    "doc_id": "vneconomy_en_20261027_83cd7b777b",
+    "sent_idx": 5,
+    "text": "Banks are primarily prioritising short-term loans with maturities of less than six months to support production and business activities.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261027_83cd7b777b#6",
+    "doc_id": "vneconomy_en_20261027_83cd7b777b",
+    "sent_idx": 6,
+    "text": "The main beneficiaries include small and medium-sized enterprises (SMEs), household businesses and companies operating in agriculture, import-export, supporting industries, high technology, logistics, energy and infrastructure.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261027_83cd7b777b#7",
+    "doc_id": "vneconomy_en_20261027_83cd7b777b",
+    "sent_idx": 7,
+    "text": "The commitments are intended to improve access to financing for businesses and support economic growth.",
+    "lang": "en",
+    "is_title": false
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "sent_id": "sggp_en_20261115_3ef8b14867#0",
+    "doc_id": "sggp_en_20261115_3ef8b14867",
+    "sent_idx": 0,
+    "text": "HCMC Vice Chairman visits e-commerce booths on Nguyen Hue pedestrian street",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "sggp_en_20261115_3ef8b14867#1",
+    "doc_id": "sggp_en_20261115_3ef8b14867",
+    "sent_idx": 1,
+    "text": "Ho Chi Minh City Vice Chairman Truong Minh Huy Vu visited exhibition booths at the 2026 Ho Chi Minh City Digital Content Creators Week on Nguyen Hue pedestrian street.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "sggp_en_20261115_3ef8b14867#2",
+    "doc_id": "sggp_en_20261115_3ef8b14867",
+    "sent_idx": 2,
+    "text": "Vice Chairman of the Ho Chi Minh City People's Committee Truong Minh Huy Vu toured digital media and e-commerce exhibition booths at the 2026 Ho Chi Minh City Digital Content Creators Week in Saigon Ward on November 14 where he observed livestream activities and innovative digital content models.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "sggp_en_20261115_3ef8b14867#3",
+    "doc_id": "sggp_en_20261115_3ef8b14867",
+    "sent_idx": 3,
+    "text": "At noon on November 14, Vice Chairman of the Ho Chi Minh City People's Committee Truong Minh Huy Vu visited a series of booths showcasing digital media and e-commerce applications at the 2026 Ho Chi Minh City Digital Content Creators Week, currently taking place on Nguyen Hue pedestrian street in Saigon Ward, Ho Chi Minh City.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "sggp_en_20261115_3ef8b14867#4",
+    "doc_id": "sggp_en_20261115_3ef8b14867",
+    "sent_idx": 4,
+    "text": "Vice Chairman Truong Minh Huy Vu toured the \"Vibrant\" exhibition area, where an eye-catching layout and dynamic displays recreated the atmosphere of a bustling marketplace while showcasing modern consumer trends.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "sggp_en_20261115_3ef8b14867#5",
+    "doc_id": "sggp_en_20261115_3ef8b14867",
+    "sent_idx": 5,
+    "text": "At the booths of Tuoi Tre Online Newspaper and the Digital Media Alliance, he observed livestream broadcasts firsthand, gaining insights into emerging digital media models and innovative approaches to audience engagement.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "sggp_en_20261115_3ef8b14867#6",
+    "doc_id": "sggp_en_20261115_3ef8b14867",
+    "sent_idx": 6,
+    "text": "Vice Chairman Truong Minh Huy Vu also spent considerable time surveying booths displaying products in the fields of science, technology, and startups, as well as visiting the livestream area of the TikTok platform.",
+    "lang": "en",
+    "is_title": false
+  }
+]

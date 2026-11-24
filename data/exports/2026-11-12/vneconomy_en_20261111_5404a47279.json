@@ -1,0 +1,146 @@
+[
+  {
+    "sent_id": "vneconomy_en_20261111_5404a47279#0",
+    "doc_id": "vneconomy_en_20261111_5404a47279",
+    "sent_idx": 0,
+    "text": "AWS launches $100 million healthcare AI initiative",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vneconomy_en_20261111_5404a47279#1",
+    "doc_id": "vneconomy_en_20261111_5404a47279",
+    "sent_idx": 1,
+    "text": "Announced on November 10, the five-year initiative provides AI technology, agentic AI services, and cloud infrastructure.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261111_5404a47279#2",
+    "doc_id": "vneconomy_en_20261111_5404a47279",
+    "sent_idx": 2,
+    "text": "HII enables non-profit healthcare entities, government bodies, research institutes, and health tech startups to build and scale medical solutions addressing global healthcare and research disparities.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261111_5404a47279#3",
+    "doc_id": "vneconomy_en_20261111_5404a47279",
+    "sent_idx": 3,
+    "text": "While generative AI accelerates diagnoses, streamlines workflows, and manages large datasets, adoption costs remain a high barrier for organizations serving underserved populations.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261111_5404a47279#4",
+    "doc_id": "vneconomy_en_20261111_5404a47279",
+    "sent_idx": 4,
+    "text": "Building on AWS's 2021 Health Equity Initiative (HEI), which delivered $60 million in technology to more than 400 organizations, HII expands access to critical digital resources for global and domestic healthcare providers.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261111_5404a47279#5",
+    "doc_id": "vneconomy_en_20261111_5404a47279",
+    "sent_idx": 5,
+    "text": "The initiative focuses on three key priorities:",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261111_5404a47279#6",
+    "doc_id": "vneconomy_en_20261111_5404a47279",
+    "sent_idx": 6,
+    "text": "Expanding access to quality care: AI and cloud solutions improve diagnostic precision and treatment speed in remote areas and low-to-middle-income countries.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261111_5404a47279#7",
+    "doc_id": "vneconomy_en_20261111_5404a47279",
+    "sent_idx": 7,
+    "text": "Previously under HEI, 92 percent of supported organizations focused on improving healthcare access and quality.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261111_5404a47279#8",
+    "doc_id": "vneconomy_en_20261111_5404a47279",
+    "sent_idx": 8,
+    "text": "Advancing women's and children's health: Despite women and children comprising two-thirds of the global population, only 5 percent of medical research funding addresses women's health, and half of pediatric medications lack specific clinical trials.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261111_5404a47279#9",
+    "doc_id": "vneconomy_en_20261111_5404a47279",
+    "sent_idx": 9,
+    "text": "HII supports research, data collection, and tailored treatments for these demographics.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261111_5404a47279#10",
+    "doc_id": "vneconomy_en_20261111_5404a47279",
+    "sent_idx": 10,
+    "text": "Improving food security and nutrition: Addressing rising malnutrition among pregnant women and the global stunting rate affecting one in four children, HII funds projects optimizing food distribution and forecasting food security risks.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261111_5404a47279#11",
+    "doc_id": "vneconomy_en_20261111_5404a47279",
+    "sent_idx": 11,
+    "text": "In Vietnam, national statistics indicate approximately 14 doctors per 10,000 people, with lower ratios in rural regions.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261111_5404a47279#12",
+    "doc_id": "vneconomy_en_20261111_5404a47279",
+    "sent_idx": 12,
+    "text": "Under the Healthcare Facility Network Master Plan for 2021-2030 with a vision to 2045, the government targets 19 doctors per 10,000 people by 2030.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261111_5404a47279#13",
+    "doc_id": "vneconomy_en_20261111_5404a47279",
+    "sent_idx": 13,
+    "text": "Achieving this target requires both expanding medical personnel and deploying technological tools to extend healthcare coverage.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261111_5404a47279#14",
+    "doc_id": "vneconomy_en_20261111_5404a47279",
+    "sent_idx": 14,
+    "text": "A recent study by BMC Health Services Research shows that 58.6 percent of Vietnamese citizens are willing to utilize AI-assisted healthcare services.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261111_5404a47279#15",
+    "doc_id": "vneconomy_en_20261111_5404a47279",
+    "sent_idx": 15,
+    "text": "HII offers Vietnamese hospitals, research units, and startups direct access to advanced AI and cloud infrastructure, helping local healthcare systems integrate modern technology.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261111_5404a47279#16",
+    "doc_id": "vneconomy_en_20261111_5404a47279",
+    "sent_idx": 16,
+    "text": "Dr. Rowland Illing, Chief Medical Officer and Director of Healthcare and Life Sciences at AWS, noted that while AI and automated agents are transforming healthcare delivery, underserved communities often lack access to these tools.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261111_5404a47279#17",
+    "doc_id": "vneconomy_en_20261111_5404a47279",
+    "sent_idx": 17,
+    "text": "HII aims to democratize AI and cloud innovation so organizations can deploy technology where it is needed most.",
+    "lang": "en",
+    "is_title": false
+  }
+]

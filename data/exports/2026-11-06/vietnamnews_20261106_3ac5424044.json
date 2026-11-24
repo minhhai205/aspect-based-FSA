@@ -1,0 +1,146 @@
+[
+  {
+    "sent_id": "vietnamnews_20261106_3ac5424044#0",
+    "doc_id": "vietnamnews_20261106_3ac5424044",
+    "sent_idx": 0,
+    "text": "AI cameras help Hà Nội power grid detect faults early",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261106_3ac5424044#1",
+    "doc_id": "vietnamnews_20261106_3ac5424044",
+    "sent_idx": 1,
+    "text": "HÀ NỘI - Hanoi Electricity Corporation (EVNHANOI) is deploying artificial intelligence (AI)-powered thermal cameras at substations to detect equipment abnormalities early and prevent power supply disruptions, supporting the national digital transformation drive under Resolution No 57-NQ/TW.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_3ac5424044#2",
+    "doc_id": "vietnamnews_20261106_3ac5424044",
+    "sent_idx": 2,
+    "text": "The system uses infrared cameras and AI to monitor equipment temperatures in real time, automatically alerting operators to abnormal heat levels that could signal potential faults.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_3ac5424044#3",
+    "doc_id": "vietnamnews_20261106_3ac5424044",
+    "sent_idx": 3,
+    "text": "At 110kV and 220kV substations, monitoring the temperature of transformers, electrical contacts and connection points is essential to maintaining safe and reliable power supply.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_3ac5424044#4",
+    "doc_id": "vietnamnews_20261106_3ac5424044",
+    "sent_idx": 4,
+    "text": "Overheating can damage equipment and cause outages if not detected and addressed promptly.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_3ac5424044#5",
+    "doc_id": "vietnamnews_20261106_3ac5424044",
+    "sent_idx": 5,
+    "text": "Previously, workers mainly conducted thermal inspections manually at scheduled intervals, leaving potential temperature fluctuations between inspections difficult to detect.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_3ac5424044#6",
+    "doc_id": "vietnamnews_20261106_3ac5424044",
+    "sent_idx": 6,
+    "text": "The new system allows operators to monitor equipment remotely through a centralised platform, receive alerts and assess potential risks before they develop into incidents.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_3ac5424044#7",
+    "doc_id": "vietnamnews_20261106_3ac5424044",
+    "sent_idx": 7,
+    "text": "At the 220kV Tây Hồ Substation, thermal cameras enable workers to track equipment conditions on control screens rather than repeatedly accessing areas containing live electrical equipment.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_3ac5424044#8",
+    "doc_id": "vietnamnews_20261106_3ac5424044",
+    "sent_idx": 8,
+    "text": "\"The system allows us to monitor equipment temperatures directly from the control screen.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_3ac5424044#9",
+    "doc_id": "vietnamnews_20261106_3ac5424044",
+    "sent_idx": 9,
+    "text": "When abnormalities are detected, alerts help us inspect and assess the situation and propose appropriate measures,\" said Phạm Đình Luật, an operator at the substation.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_3ac5424044#10",
+    "doc_id": "vietnamnews_20261106_3ac5424044",
+    "sent_idx": 10,
+    "text": "The technology also stores temperature data over time, supporting equipment condition analysis and more targeted maintenance planning.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_3ac5424044#11",
+    "doc_id": "vietnamnews_20261106_3ac5424044",
+    "sent_idx": 11,
+    "text": "According to Trần Văn Duy, head of EVNHANOI's Safety Department, early detection of equipment abnormalities is essential to preventing incidents and protecting workers.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_3ac5424044#12",
+    "doc_id": "vietnamnews_20261106_3ac5424044",
+    "sent_idx": 12,
+    "text": "He said the technology supports a shift from routine inspections towards continuous, data-driven monitoring, while technical staff remain responsible for assessing alerts and taking action in accordance with safety procedures.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_3ac5424044#13",
+    "doc_id": "vietnamnews_20261106_3ac5424044",
+    "sent_idx": 13,
+    "text": "EVNHANOI manages 68 110kV and 220kV substations and 159 transformers of the same voltage levels, alongside more than 1,129km of 110kV transmission lines and extensive medium- and low-voltage networks.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_3ac5424044#14",
+    "doc_id": "vietnamnews_20261106_3ac5424044",
+    "sent_idx": 14,
+    "text": "The corporation serves nearly three million customers, according to figures released in June 2026.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_3ac5424044#15",
+    "doc_id": "vietnamnews_20261106_3ac5424044",
+    "sent_idx": 15,
+    "text": "The deployment is part of EVNHANOI's efforts to apply science and technology, innovation and digital transformation in power grid management, in line with Resolution No 57-NQ/TW on breakthroughs in these areas.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_3ac5424044#16",
+    "doc_id": "vietnamnews_20261106_3ac5424044",
+    "sent_idx": 16,
+    "text": "For Hà Nội, reliable electricity is essential to maintaining business operations and supporting economic and social development.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_3ac5424044#17",
+    "doc_id": "vietnamnews_20261106_3ac5424044",
+    "sent_idx": 17,
+    "text": "The use of AI-based monitoring is expected to strengthen grid reliability and improve the efficiency of power system operations. - VNS",
+    "lang": "en",
+    "is_title": false
+  }
+]

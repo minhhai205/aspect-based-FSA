@@ -1,0 +1,290 @@
+[
+  {
+    "sent_id": "vietnamnews_20261030_f5f52da059#0",
+    "doc_id": "vietnamnews_20261030_f5f52da059",
+    "sent_idx": 0,
+    "text": "AI promotes development of smart livestock farming in Việt Nam",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261030_f5f52da059#1",
+    "doc_id": "vietnamnews_20261030_f5f52da059",
+    "sent_idx": 1,
+    "text": "HÀ NỘI - Artificial intelligence (AI) and digital data could help Việt Nam's livestock sector boost productivity, control disease and optimise costs, but data standardisation and assessments of practical benefits are needed before such technologies can be rolled out on a wider scale, experts said at a seminar in Hà Nội on October 29.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261030_f5f52da059#2",
+    "doc_id": "vietnamnews_20261030_f5f52da059",
+    "sent_idx": 2,
+    "text": "The seminar, entitled 'The journey towards data-driven livestock farming and the application of artificial intelligence (AI)', was organised by the Agriculture and Environment Newspaper and GREENFEED Vietnam Joint Stock Company, as part of 21st Asian-Australasian Association of Animal Production Societies Animal Science Congress - AAAP 2026.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261030_f5f52da059#3",
+    "doc_id": "vietnamnews_20261030_f5f52da059",
+    "sent_idx": 3,
+    "text": "It brought together scientists, experts and business representatives.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261030_f5f52da059#4",
+    "doc_id": "vietnamnews_20261030_f5f52da059",
+    "sent_idx": 4,
+    "text": "Dr Bùi Huy Doanh, acting head of the Faculty of Animal Science at Vietnam National University of Agriculture, said the livestock sector faced challenges involving productivity, input costs, disease risks and environmental protection.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261030_f5f52da059#5",
+    "doc_id": "vietnamnews_20261030_f5f52da059",
+    "sent_idx": 5,
+    "text": "Meanwhile, data at many farms remained fragmented and was not systematically connected across production stages.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261030_f5f52da059#6",
+    "doc_id": "vietnamnews_20261030_f5f52da059",
+    "sent_idx": 6,
+    "text": "Smart livestock farming requires an integrated data system covering breeding stock, animal feed, veterinary supplies and product distribution, Doanh said.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261030_f5f52da059#7",
+    "doc_id": "vietnamnews_20261030_f5f52da059",
+    "sent_idx": 7,
+    "text": "Sensors, cameras and AI can help monitor farm conditions and animal health, identify unusual signs and provide early warnings of potential disease outbreaks.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261030_f5f52da059#8",
+    "doc_id": "vietnamnews_20261030_f5f52da059",
+    "sent_idx": 8,
+    "text": "However, digital transformation does not mean investing heavily in technology and equipment without clear objectives.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261030_f5f52da059#9",
+    "doc_id": "vietnamnews_20261030_f5f52da059",
+    "sent_idx": 9,
+    "text": "Solutions should address practical needs and undergo technical and economic assessments before being deployed on a wider scale, he said.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261030_f5f52da059#10",
+    "doc_id": "vietnamnews_20261030_f5f52da059",
+    "sent_idx": 10,
+    "text": "Lê Thị Hải Yến, deputy general director in charge of information technology and digital technology at GREENFEED Vietnam, said the livestock sector faced pressure from productivity gaps between farms, disease risks, fluctuating feed prices, shortages of skilled workers and environmental protection requirements.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261030_f5f52da059#11",
+    "doc_id": "vietnamnews_20261030_f5f52da059",
+    "sent_idx": 11,
+    "text": "Operating in Việt Nam, Laos, Cambodia and Myanmar with the integrated Feed-Farm-Food model, GREENFEED has nine animal feed mills, more than 50 farms, two food processing plants and over 5,000 employees.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261030_f5f52da059#12",
+    "doc_id": "vietnamnews_20261030_f5f52da059",
+    "sent_idx": 12,
+    "text": "This scale requires an integrated data system to manage operations across the entire value chain.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261030_f5f52da059#13",
+    "doc_id": "vietnamnews_20261030_f5f52da059",
+    "sent_idx": 13,
+    "text": "Yến said the company was implementing farm digital transformation in five stages, from data integration and standardisation to automation, AI applications and decision support.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261030_f5f52da059#14",
+    "doc_id": "vietnamnews_20261030_f5f52da059",
+    "sent_idx": 14,
+    "text": "First, data on production, breeding, feed, animal health, costs and sales are integrated into a single system.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261030_f5f52da059#15",
+    "doc_id": "vietnamnews_20261030_f5f52da059",
+    "sent_idx": 15,
+    "text": "Standardised management indicators allow the company to compare performance across farms.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261030_f5f52da059#16",
+    "doc_id": "vietnamnews_20261030_f5f52da059",
+    "sent_idx": 16,
+    "text": "Employees then use mobile devices and electronic identification tags to record information directly at livestock housing facilities, replacing manual record-keeping.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261030_f5f52da059#17",
+    "doc_id": "vietnamnews_20261030_f5f52da059",
+    "sent_idx": 17,
+    "text": "This reduces delays, limits errors and improves traceability.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261030_f5f52da059#18",
+    "doc_id": "vietnamnews_20261030_f5f52da059",
+    "sent_idx": 18,
+    "text": "At the automation stage, sensors help regulate ventilation fans, lighting and cooling equipment to maintain suitable housing conditions.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261030_f5f52da059#19",
+    "doc_id": "vietnamnews_20261030_f5f52da059",
+    "sent_idx": 19,
+    "text": "The system also issues equipment failure alerts so staff can respond promptly.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261030_f5f52da059#20",
+    "doc_id": "vietnamnews_20261030_f5f52da059",
+    "sent_idx": 20,
+    "text": "Cameras, automated weighing systems and AI help count and weigh animals at farm entry and exit points and sales locations, improving the accuracy of herd management.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261030_f5f52da059#21",
+    "doc_id": "vietnamnews_20261030_f5f52da059",
+    "sent_idx": 21,
+    "text": "AI is also used to monitor biosecurity and detect breaches of procedures at farm gates and within facilities.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261030_f5f52da059#22",
+    "doc_id": "vietnamnews_20261030_f5f52da059",
+    "sent_idx": 22,
+    "text": "In the final stage, data is analysed through statistical dashboards and AI agents to identify anomalies, forecast trends and recommend responses.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261030_f5f52da059#23",
+    "doc_id": "vietnamnews_20261030_f5f52da059",
+    "sent_idx": 23,
+    "text": "In animal feed management, the technology helps forecast production demand and develop raw material purchasing scenarios, enabling the company to respond more proactively to price fluctuations.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261030_f5f52da059#24",
+    "doc_id": "vietnamnews_20261030_f5f52da059",
+    "sent_idx": 24,
+    "text": "Yến said digital transformation went beyond digitising records or automating equipment, aiming instead to establish data-driven management systems.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261030_f5f52da059#25",
+    "doc_id": "vietnamnews_20261030_f5f52da059",
+    "sent_idx": 25,
+    "text": "This approach could help control costs, reduce waste, maintain stable livestock housing conditions and cut manual paperwork.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261030_f5f52da059#26",
+    "doc_id": "vietnamnews_20261030_f5f52da059",
+    "sent_idx": 26,
+    "text": "Drawing on the company's experience, Yến said that three key requirements for effective digital transformation are establishing accurate data, recording information where and when it is generated, and ensuring that technology is easy to use and meets practical needs.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261030_f5f52da059#27",
+    "doc_id": "vietnamnews_20261030_f5f52da059",
+    "sent_idx": 27,
+    "text": "Connecting data to improve production efficiency",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261030_f5f52da059#28",
+    "doc_id": "vietnamnews_20261030_f5f52da059",
+    "sent_idx": 28,
+    "text": "Meanwhile, Đặng Thạch Quân, general director of Excel Technologies, introduced integrated farm management platforms designed to connect data on feed rations, veterinary drug use, operating costs and product traceability.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261030_f5f52da059#29",
+    "doc_id": "vietnamnews_20261030_f5f52da059",
+    "sent_idx": 29,
+    "text": "Consolidating information on a single platform enables livestock farms to monitor operations more comprehensively, manage resources more effectively and support decision-making.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261030_f5f52da059#30",
+    "doc_id": "vietnamnews_20261030_f5f52da059",
+    "sent_idx": 30,
+    "text": "It can also improve supply chain transparency and the competitiveness of livestock products.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261030_f5f52da059#31",
+    "doc_id": "vietnamnews_20261030_f5f52da059",
+    "sent_idx": 31,
+    "text": "During the discussion, experts and business representatives emphasised that the sector also needs to invest in digital skills training and select technologies suited to the scale and production characteristics of individual farms and localities.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261030_f5f52da059#32",
+    "doc_id": "vietnamnews_20261030_f5f52da059",
+    "sent_idx": 32,
+    "text": "Closer cooperation among state management agencies, research institutes, universities and businesses was also considered necessary to promote research, testing and wider adoption of smart livestock farming models.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261030_f5f52da059#33",
+    "doc_id": "vietnamnews_20261030_f5f52da059",
+    "sent_idx": 33,
+    "text": "Participants said digital transformation should follow an appropriate roadmap and be linked to economic efficiency, biosecurity and environmental protection.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261030_f5f52da059#34",
+    "doc_id": "vietnamnews_20261030_f5f52da059",
+    "sent_idx": 34,
+    "text": "Technology can deliver value only when it addresses farmers' practical problems, rather than increasing costs or adding to their management burden.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261030_f5f52da059#35",
+    "doc_id": "vietnamnews_20261030_f5f52da059",
+    "sent_idx": 35,
+    "text": "With data as the foundation and people at the centre, AI and automation are expected to help improve productivity, use resources more efficiently and support the development of Vietnam's livestock sector towards a more modern, safe and sustainable future. - VNS",
+    "lang": "en",
+    "is_title": false
+  }
+]

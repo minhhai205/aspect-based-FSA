@@ -1,0 +1,690 @@
+[
+  {
+    "sent_id": "vneconomy_en_20261106_faacc604d0#0",
+    "doc_id": "vneconomy_en_20261106_faacc604d0",
+    "sent_idx": 0,
+    "text": "Roses and thorns: Eximbank's journey to become a bank of choice for growing SMEs",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vneconomy_en_20261106_faacc604d0#1",
+    "doc_id": "vneconomy_en_20261106_faacc604d0",
+    "sent_idx": 1,
+    "text": "Mr. Michael Harte, an independent member of Eximbank's Board of Directors, brings his experience and perspective to the bank amid its transformation journey.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261106_faacc604d0#2",
+    "doc_id": "vneconomy_en_20261106_faacc604d0",
+    "sent_idx": 2,
+    "text": "Mr. Michael Harte, an independent member of Eximbank's Board of Directors, believes that lasting customer trust begins with people.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261106_faacc604d0#3",
+    "doc_id": "vneconomy_en_20261106_faacc604d0",
+    "sent_idx": 3,
+    "text": "He sees stronger governance, empowered employees, and responsible technology as essential to building a bank that understands and supports the ambitions of Vietnam's growing businesses.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261106_faacc604d0#4",
+    "doc_id": "vneconomy_en_20261106_faacc604d0",
+    "sent_idx": 4,
+    "text": "Though he has spent more than 35 years working in financial services, technology, and digital transformation, what struck him most during his first visits to Eximbank had little to do with technology.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261106_faacc604d0#5",
+    "doc_id": "vneconomy_en_20261106_faacc604d0",
+    "sent_idx": 5,
+    "text": "At the bank's branches, he encountered frontline employees who were dedicated, diligent, and caring.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261106_faacc604d0#6",
+    "doc_id": "vneconomy_en_20261106_faacc604d0",
+    "sent_idx": 6,
+    "text": "He saw a similar commitment among risk and finance teams, along with a strong determination to succeed.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261106_faacc604d0#7",
+    "doc_id": "vneconomy_en_20261106_faacc604d0",
+    "sent_idx": 7,
+    "text": "Just as importantly, he met long-standing customers who remained loyal to Eximbank and wanted the bank to succeed.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261106_faacc604d0#8",
+    "doc_id": "vneconomy_en_20261106_faacc604d0",
+    "sent_idx": 8,
+    "text": "For someone who has spent much of his career helping major financial institutions navigate change, those impressions mattered.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261106_faacc604d0#9",
+    "doc_id": "vneconomy_en_20261106_faacc604d0",
+    "sent_idx": 9,
+    "text": "Mr. Harte's connection with Eximbank began through a former colleague with whom he had worked at McKinsey and the Commonwealth Bank of Australia (CBA) during a major transformation focused on customer service and accountable governance.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261106_faacc604d0#10",
+    "doc_id": "vneconomy_en_20261106_faacc604d0",
+    "sent_idx": 10,
+    "text": "A subsequent meeting in Singapore to discuss Eximbank's future convinced him to become part of its transformation journey.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261106_faacc604d0#11",
+    "doc_id": "vneconomy_en_20261106_faacc604d0",
+    "sent_idx": 11,
+    "text": "He saw a long-established Vietnamese bank, with deep roots in trade and corporate banking, that had an opportunity to renew its focus on customers and strengthen the way it supported their financial well-being.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261106_faacc604d0#12",
+    "doc_id": "vneconomy_en_20261106_faacc604d0",
+    "sent_idx": 12,
+    "text": "Mr. Harte now serves as an independent member of Eximbank's Board of Directors for the 2025-2030 term.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261106_faacc604d0#13",
+    "doc_id": "vneconomy_en_20261106_faacc604d0",
+    "sent_idx": 13,
+    "text": "His career has included senior roles at Citigroup, PNC Financial Services, CBA, Barclays, and Banco Santander.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261106_faacc604d0#14",
+    "doc_id": "vneconomy_en_20261106_faacc604d0",
+    "sent_idx": 14,
+    "text": "He is also a co-founder of CaptureNow and an Industry Research Fellow at the Massachusetts Institute of Technology (MIT).",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261106_faacc604d0#15",
+    "doc_id": "vneconomy_en_20261106_faacc604d0",
+    "sent_idx": 15,
+    "text": "For Mr. Harte, however, the opportunity at Eximbank is ultimately about something more personal than technology or institutional scale: helping people and businesses achieve what matters to them.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261106_faacc604d0#16",
+    "doc_id": "vneconomy_en_20261106_faacc604d0",
+    "sent_idx": 16,
+    "text": "Beyond the loan: Understanding the ambitions of growing businesses",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261106_faacc604d0#17",
+    "doc_id": "vneconomy_en_20261106_faacc604d0",
+    "sent_idx": 17,
+    "text": "Consider a restaurant founder running five outlets.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261106_faacc604d0#18",
+    "doc_id": "vneconomy_en_20261106_faacc604d0",
+    "sent_idx": 18,
+    "text": "The business is growing, and its owner wants to open two more restaurants and expand the workforce to 25 people.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261106_faacc604d0#19",
+    "doc_id": "vneconomy_en_20261106_faacc604d0",
+    "sent_idx": 19,
+    "text": "A conventional banking conversation might begin with a loan application.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261106_faacc604d0#20",
+    "doc_id": "vneconomy_en_20261106_faacc604d0",
+    "sent_idx": 20,
+    "text": "How much financing does the owner need?",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261106_faacc604d0#21",
+    "doc_id": "vneconomy_en_20261106_faacc604d0",
+    "sent_idx": 21,
+    "text": "What collateral is available?",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261106_faacc604d0#22",
+    "doc_id": "vneconomy_en_20261106_faacc604d0",
+    "sent_idx": 22,
+    "text": "How long will approval take?",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261106_faacc604d0#23",
+    "doc_id": "vneconomy_en_20261106_faacc604d0",
+    "sent_idx": 23,
+    "text": "But Mr. Harte believes that approach captures only a small part of what the business actually needs.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261106_faacc604d0#24",
+    "doc_id": "vneconomy_en_20261106_faacc604d0",
+    "sent_idx": 24,
+    "text": "Expansion brings a much wider range of financial decisions.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261106_faacc604d0#25",
+    "doc_id": "vneconomy_en_20261106_faacc604d0",
+    "sent_idx": 25,
+    "text": "The owner must manage daily cash flow, pay employees, organize working capital, plan future expenses, and decide how best to use the business's available funds.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261106_faacc604d0#26",
+    "doc_id": "vneconomy_en_20261106_faacc604d0",
+    "sent_idx": 26,
+    "text": "Rather than responding to individual financing requests, a bank could support the business through a more comprehensive relationship covering cash management, payroll, treasury services, savings, and appropriate financing solutions.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261106_faacc604d0#27",
+    "doc_id": "vneconomy_en_20261106_faacc604d0",
+    "sent_idx": 27,
+    "text": "The relationship might also extend to personal banking for the founder and financial services for employees.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261106_faacc604d0#28",
+    "doc_id": "vneconomy_en_20261106_faacc604d0",
+    "sent_idx": 28,
+    "text": "Mr. Harte uses this illustrative example to explain a broader philosophy: banks should understand the business behind the borrower.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261106_faacc604d0#29",
+    "doc_id": "vneconomy_en_20261106_faacc604d0",
+    "sent_idx": 29,
+    "text": "For small and medium-sized enterprises (SMEs), which often operate with limited resources while managing increasingly complex financial needs, such an approach could make a meaningful difference.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261106_faacc604d0#30",
+    "doc_id": "vneconomy_en_20261106_faacc604d0",
+    "sent_idx": 30,
+    "text": "A growing business does not simply need access to capital.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261106_faacc604d0#31",
+    "doc_id": "vneconomy_en_20261106_faacc604d0",
+    "sent_idx": 31,
+    "text": "It needs a financial partner that understands where it is today, what it hopes to become, and which decisions could help it get there.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261106_faacc604d0#32",
+    "doc_id": "vneconomy_en_20261106_faacc604d0",
+    "sent_idx": 32,
+    "text": "Mr. Harte describes this relationship through the analogy of a trusted \"financial doctor\".",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261106_faacc604d0#33",
+    "doc_id": "vneconomy_en_20261106_faacc604d0",
+    "sent_idx": 33,
+    "text": "Just as a doctor needs to understand a patient's circumstances before offering advice, a bank should understand its customers' financial habits, immediate challenges, and long-term ambitions.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261106_faacc604d0#34",
+    "doc_id": "vneconomy_en_20261106_faacc604d0",
+    "sent_idx": 34,
+    "text": "The objective is not simply to sell more banking products.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261106_faacc604d0#35",
+    "doc_id": "vneconomy_en_20261106_faacc604d0",
+    "sent_idx": 35,
+    "text": "It is to help customers make better financial decisions and build stronger financial futures.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261106_faacc604d0#36",
+    "doc_id": "vneconomy_en_20261106_faacc604d0",
+    "sent_idx": 36,
+    "text": "For Eximbank, Mr. Harte believes this philosophy offers an opportunity to deepen relationships with households, entrepreneurs, and growing businesses, creating value that extends well beyond lending.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261106_faacc604d0#37",
+    "doc_id": "vneconomy_en_20261106_faacc604d0",
+    "sent_idx": 37,
+    "text": "When technology works, customers should barely notice it",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261106_faacc604d0#38",
+    "doc_id": "vneconomy_en_20261106_faacc604d0",
+    "sent_idx": 38,
+    "text": "Delivering this level of understanding becomes more challenging as a bank serves thousands, or even millions, of customers.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261106_faacc604d0#39",
+    "doc_id": "vneconomy_en_20261106_faacc604d0",
+    "sent_idx": 39,
+    "text": "This is where Mr. Harte sees technology and AI playing an important role.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261106_faacc604d0#40",
+    "doc_id": "vneconomy_en_20261106_faacc604d0",
+    "sent_idx": 40,
+    "text": "Drawing on his experience with international financial institutions, including CBA, Barclays, and Santander, he points to three essential lessons: understand what customers need, establish clear accountability, and equip employees with the right tools.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261106_faacc604d0#41",
+    "doc_id": "vneconomy_en_20261106_faacc604d0",
+    "sent_idx": 41,
+    "text": "Vietnam, he believes, has an opportunity to leapfrog older technologies rather than follow every stage of development experienced by more mature banking markets.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261106_faacc604d0#42",
+    "doc_id": "vneconomy_en_20261106_faacc604d0",
+    "sent_idx": 42,
+    "text": "But adopting AI alone will not guarantee success.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261106_faacc604d0#43",
+    "doc_id": "vneconomy_en_20261106_faacc604d0",
+    "sent_idx": 43,
+    "text": "\"Technology must become invisible,\" he said.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261106_faacc604d0#44",
+    "doc_id": "vneconomy_en_20261106_faacc604d0",
+    "sent_idx": 44,
+    "text": "For Mr. Harte, invisible technology means systems that work seamlessly in the background, enabling banks to provide faster, more convenient and cost-effective services without sacrificing empathy or personal connection.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261106_faacc604d0#45",
+    "doc_id": "vneconomy_en_20261106_faacc604d0",
+    "sent_idx": 45,
+    "text": "Many Vietnamese banks are moving rapidly to transform their digital capabilities.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261106_faacc604d0#46",
+    "doc_id": "vneconomy_en_20261106_faacc604d0",
+    "sent_idx": 46,
+    "text": "Eximbank is approaching this competition from a different starting point, but Mr. Harte does not believe the race will necessarily be won by whoever introduces new technology first.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261106_faacc604d0#47",
+    "doc_id": "vneconomy_en_20261106_faacc604d0",
+    "sent_idx": 47,
+    "text": "\"Speed matters, but being first with new technology is less critical than delivering the right solutions at the right time,\" he said.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261106_faacc604d0#48",
+    "doc_id": "vneconomy_en_20261106_faacc604d0",
+    "sent_idx": 48,
+    "text": "The emphasis, he believes, should be on using technology to strengthen customer relationships rather than allowing technology to define them.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261106_faacc604d0#49",
+    "doc_id": "vneconomy_en_20261106_faacc604d0",
+    "sent_idx": 49,
+    "text": "One approach is the concept of \"Customer of One\", which treats each customer as an individual with distinct circumstances instead of grouping thousands of people into broad categories with supposedly identical needs.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261106_faacc604d0#50",
+    "doc_id": "vneconomy_en_20261106_faacc604d0",
+    "sent_idx": 50,
+    "text": "In Vietnam, Mr. Harte sees opportunities to combine the strengths of physical branches with reliable mobile banking, giving customers both digital convenience and access to personal support.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261106_faacc604d0#51",
+    "doc_id": "vneconomy_en_20261106_faacc604d0",
+    "sent_idx": 51,
+    "text": "He also recognizes the potential of broader digital ecosystems, where customers increasingly conduct everyday transactions and manage different aspects of their financial lives.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261106_faacc604d0#52",
+    "doc_id": "vneconomy_en_20261106_faacc604d0",
+    "sent_idx": 52,
+    "text": "Such developments may offer opportunities for financial institutions to provide more accessible and relevant services over time.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261106_faacc604d0#53",
+    "doc_id": "vneconomy_en_20261106_faacc604d0",
+    "sent_idx": 53,
+    "text": "The real question, however, is not how much technology a bank can deploy, but whether that technology enables customers to manage their finances more easily and make better decisions.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261106_faacc604d0#54",
+    "doc_id": "vneconomy_en_20261106_faacc604d0",
+    "sent_idx": 54,
+    "text": "Technology should support the relationship, not replace it.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261106_faacc604d0#55",
+    "doc_id": "vneconomy_en_20261106_faacc604d0",
+    "sent_idx": 55,
+    "text": "Building a culture of accountability and customer trust",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261106_faacc604d0#56",
+    "doc_id": "vneconomy_en_20261106_faacc604d0",
+    "sent_idx": 56,
+    "text": "For all the promise of digital technology, Mr. Harte believes some of the most important foundations of transformation lie in how a bank is governed, how decisions are made, and how employees work together to serve customers.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261106_faacc604d0#57",
+    "doc_id": "vneconomy_en_20261106_faacc604d0",
+    "sent_idx": 57,
+    "text": "A bank's ability to deliver reliable services depends not only on its frontline employees, but also on the coordination of teams across the organization.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261106_faacc604d0#58",
+    "doc_id": "vneconomy_en_20261106_faacc604d0",
+    "sent_idx": 58,
+    "text": "When responsibilities are clearly defined, decisions are made transparently, and different functions work towards shared objectives, employees are better equipped to respond to customers effectively.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261106_faacc604d0#59",
+    "doc_id": "vneconomy_en_20261106_faacc604d0",
+    "sent_idx": 59,
+    "text": "For Mr. Harte, this is where governance becomes directly relevant to the customer experience.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261106_faacc604d0#60",
+    "doc_id": "vneconomy_en_20261106_faacc604d0",
+    "sent_idx": 60,
+    "text": "Clear accountability helps people understand who is responsible for decisions and outcomes.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261106_faacc604d0#61",
+    "doc_id": "vneconomy_en_20261106_faacc604d0",
+    "sent_idx": 61,
+    "text": "Transparent decision-making strengthens confidence in the organization, while better coordination across functions can reduce unnecessary delays and improve the consistency of service.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261106_faacc604d0#62",
+    "doc_id": "vneconomy_en_20261106_faacc604d0",
+    "sent_idx": 62,
+    "text": "Rather than focusing only on individual departments, he believes banks should encourage a shared understanding of how each function contributes to the needs of customers.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261106_faacc604d0#63",
+    "doc_id": "vneconomy_en_20261106_faacc604d0",
+    "sent_idx": 63,
+    "text": "This requires an organizational culture that supports collaboration, continuous improvement, and personal responsibility.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261106_faacc604d0#64",
+    "doc_id": "vneconomy_en_20261106_faacc604d0",
+    "sent_idx": 64,
+    "text": "Cross-functional collaboration, regular communication, and clearly-defined priorities can help teams identify challenges, coordinate responses, and review progress more effectively.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261106_faacc604d0#65",
+    "doc_id": "vneconomy_en_20261106_faacc604d0",
+    "sent_idx": 65,
+    "text": "One question Mr. Harte encourages employees to consider captures the spirit of this approach: \"How can I help you achieve what you need this week?",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261106_faacc604d0#66",
+    "doc_id": "vneconomy_en_20261106_faacc604d0",
+    "sent_idx": 66,
+    "text": "The principle is less about adopting a particular management model and more about encouraging people to take ownership of their contributions and support one another in achieving shared goals.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261106_faacc604d0#67",
+    "doc_id": "vneconomy_en_20261106_faacc604d0",
+    "sent_idx": 67,
+    "text": "He also believes that employee engagement matters.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261106_faacc604d0#68",
+    "doc_id": "vneconomy_en_20261106_faacc604d0",
+    "sent_idx": 68,
+    "text": "When people have the right tools, clear responsibilities and support from colleagues, they are better positioned to deliver services that customers value.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261106_faacc604d0#69",
+    "doc_id": "vneconomy_en_20261106_faacc604d0",
+    "sent_idx": 69,
+    "text": "From a governance perspective, the priority is to strengthen the principles of accountability, transparency and sound decision-making, while management remains responsible for translating those principles into day-to-day operations.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261106_faacc604d0#70",
+    "doc_id": "vneconomy_en_20261106_faacc604d0",
+    "sent_idx": 70,
+    "text": "For Harte, these elements are interconnected.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261106_faacc604d0#71",
+    "doc_id": "vneconomy_en_20261106_faacc604d0",
+    "sent_idx": 71,
+    "text": "Good governance creates the conditions for effective collaboration, which in turn enables employees to serve customers more consistently.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261106_faacc604d0#72",
+    "doc_id": "vneconomy_en_20261106_faacc604d0",
+    "sent_idx": 72,
+    "text": "Over time, that consistency is what helps an institution earn and sustain trust.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261106_faacc604d0#73",
+    "doc_id": "vneconomy_en_20261106_faacc604d0",
+    "sent_idx": 73,
+    "text": "The road ahead will have roses and thorns",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261106_faacc604d0#74",
+    "doc_id": "vneconomy_en_20261106_faacc604d0",
+    "sent_idx": 74,
+    "text": "Mr. Harte does not underestimate the challenges involved in transforming a long-established bank.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261106_faacc604d0#75",
+    "doc_id": "vneconomy_en_20261106_faacc604d0",
+    "sent_idx": 75,
+    "text": "\"The journey has both roses and thorns,\" he said, reflecting his belief that meaningful progress requires patience, determination, and continuous improvement.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261106_faacc604d0#76",
+    "doc_id": "vneconomy_en_20261106_faacc604d0",
+    "sent_idx": 76,
+    "text": "For Eximbank, he sees an opportunity to build on the bank's heritage and long-standing customer relationships while strengthening the governance and organizational capabilities needed for the future.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261106_faacc604d0#77",
+    "doc_id": "vneconomy_en_20261106_faacc604d0",
+    "sent_idx": 77,
+    "text": "His aspirations extend beyond technological progress or institutional scale.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261106_faacc604d0#78",
+    "doc_id": "vneconomy_en_20261106_faacc604d0",
+    "sent_idx": 78,
+    "text": "While Mr. Harte has expressed ambitious hopes for Eximbank's longer-term position in Vietnam's banking sector, he believes the more meaningful measure of success lies in how customers experience and value their relationship with the bank.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261106_faacc604d0#79",
+    "doc_id": "vneconomy_en_20261106_faacc604d0",
+    "sent_idx": 79,
+    "text": "His vision is for Eximbank to become one of the most trusted, loved, and preferred financial institutions for growing SMEs and households across Vietnam.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261106_faacc604d0#80",
+    "doc_id": "vneconomy_en_20261106_faacc604d0",
+    "sent_idx": 80,
+    "text": "That ambition places customers, rather than rankings, at the center of the bank's future.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261106_faacc604d0#81",
+    "doc_id": "vneconomy_en_20261106_faacc604d0",
+    "sent_idx": 81,
+    "text": "Achieving it will depend on how consistently the institution understands customer needs, makes responsible decisions, and delivers on its commitments.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261106_faacc604d0#82",
+    "doc_id": "vneconomy_en_20261106_faacc604d0",
+    "sent_idx": 82,
+    "text": "It will also require continuous improvement, with progress built through everyday actions rather than a single dramatic breakthrough.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261106_faacc604d0#83",
+    "doc_id": "vneconomy_en_20261106_faacc604d0",
+    "sent_idx": 83,
+    "text": "The opportunity is ahead, through what the bank offers, the confidence it inspires, and the value it creates.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261106_faacc604d0#84",
+    "doc_id": "vneconomy_en_20261106_faacc604d0",
+    "sent_idx": 84,
+    "text": "For Eximbank, success would mean more than becoming a stronger bank.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261106_faacc604d0#85",
+    "doc_id": "vneconomy_en_20261106_faacc604d0",
+    "sent_idx": 85,
+    "text": "It would mean earning a place in the ambitions of Vietnam's entrepreneurs and helping small businesses become great ones.",
+    "lang": "en",
+    "is_title": false
+  }
+]

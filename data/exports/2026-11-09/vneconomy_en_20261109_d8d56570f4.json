@@ -1,0 +1,82 @@
+[
+  {
+    "sent_id": "vneconomy_en_20261109_d8d56570f4#0",
+    "doc_id": "vneconomy_en_20261109_d8d56570f4",
+    "sent_idx": 0,
+    "text": "Da Nang approves $288m shipping channel project",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vneconomy_en_20261109_d8d56570f4#1",
+    "doc_id": "vneconomy_en_20261109_d8d56570f4",
+    "sent_idx": 1,
+    "text": "Central Da Nang city's authorities have approved the VND7.585 trillion ($288 million) investment project to develop the Cua Lo shipping channel.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261109_d8d56570f4#2",
+    "doc_id": "vneconomy_en_20261109_d8d56570f4",
+    "sent_idx": 2,
+    "text": "The project will involve constructing a 6.58km navigation channel, with a width of 140 metres and a design depth of 13.2 metres.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261109_d8d56570f4#3",
+    "doc_id": "vneconomy_en_20261109_d8d56570f4",
+    "sent_idx": 3,
+    "text": "It will also include a maritime signalling system and a pilot boarding and disembarking area capable of accommodating vessels of up to 50,000 DWT.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261109_d8d56570f4#4",
+    "doc_id": "vneconomy_en_20261109_d8d56570f4",
+    "sent_idx": 4,
+    "text": "The development is expected to improve maritime access to the East Sea for the Central Highlands, southern Laos, northeastern Cambodia and Thailand.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261109_d8d56570f4#5",
+    "doc_id": "vneconomy_en_20261109_d8d56570f4",
+    "sent_idx": 5,
+    "text": "It will directly serve Chu Lai Open Economic Zone and surrounding areas, while supporting economic restructuring in Da Nang.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261109_d8d56570f4#6",
+    "doc_id": "vneconomy_en_20261109_d8d56570f4",
+    "sent_idx": 6,
+    "text": "Cargo throughput along the route is projected to reach 7.5-9 million tons annually by 2030, 14 million tons by 2040 and 22 million tons by 2050.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261109_d8d56570f4#7",
+    "doc_id": "vneconomy_en_20261109_d8d56570f4",
+    "sent_idx": 7,
+    "text": "The project will be implemented under a build-transfer (BT) contract.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261109_d8d56570f4#8",
+    "doc_id": "vneconomy_en_20261109_d8d56570f4",
+    "sent_idx": 8,
+    "text": "Construction is scheduled to run from the fourth quarter of 2026 to the fourth quarter of 2028.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261109_d8d56570f4#9",
+    "doc_id": "vneconomy_en_20261109_d8d56570f4",
+    "sent_idx": 9,
+    "text": "Once operational, the channel is expected to lower logistics costs and attract further investment to southern Da Nang and the wider central region.",
+    "lang": "en",
+    "is_title": false
+  }
+]

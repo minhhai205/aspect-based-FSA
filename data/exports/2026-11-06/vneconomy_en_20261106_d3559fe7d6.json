@@ -1,0 +1,66 @@
+[
+  {
+    "sent_id": "vneconomy_en_20261106_d3559fe7d6#0",
+    "doc_id": "vneconomy_en_20261106_d3559fe7d6",
+    "sent_idx": 0,
+    "text": "Gia Lai approves $9.5m inland container depot",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vneconomy_en_20261106_d3559fe7d6#1",
+    "doc_id": "vneconomy_en_20261106_d3559fe7d6",
+    "sent_idx": 1,
+    "text": "The People's Committee of central Gia Lai province has approved the investment policy and selected Thagri Gia Lai Agriculture Company Limited as the investor for the first phase of the Nam Pleiku Inland Container Depot (ICD), to be developed in Hoi Phu Ward.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261106_d3559fe7d6#2",
+    "doc_id": "vneconomy_en_20261106_d3559fe7d6",
+    "sent_idx": 2,
+    "text": "Covering approximately 10 hectares, the project has a total investment of VND250 billion ($9.5 million).",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261106_d3559fe7d6#3",
+    "doc_id": "vneconomy_en_20261106_d3559fe7d6",
+    "sent_idx": 3,
+    "text": "The investor will contribute VND50 billion, equivalent to 20% of the total, while the remaining VND200 billion will be raised from other sources.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261106_d3559fe7d6#4",
+    "doc_id": "vneconomy_en_20261106_d3559fe7d6",
+    "sent_idx": 4,
+    "text": "The depot is designed to handle 50,000 twenty-foot equivalent units (TEUs) annually.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261106_d3559fe7d6#5",
+    "doc_id": "vneconomy_en_20261106_d3559fe7d6",
+    "sent_idx": 5,
+    "text": "Its services will include cargo reception, consolidation, loading and unloading, storage and transshipment.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261106_d3559fe7d6#6",
+    "doc_id": "vneconomy_en_20261106_d3559fe7d6",
+    "sent_idx": 6,
+    "text": "The development will feature approximately 20,000 square metres of warehouse space and 30,000 square metres of container yards, cargo handling and storage areas.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261106_d3559fe7d6#7",
+    "doc_id": "vneconomy_en_20261106_d3559fe7d6",
+    "sent_idx": 7,
+    "text": "Construction is scheduled to begin in December 2026 with completion and operations expected for December 2027.",
+    "lang": "en",
+    "is_title": false
+  }
+]

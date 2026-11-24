@@ -1,0 +1,114 @@
+[
+  {
+    "sent_id": "vietnamnews_20261121_d07b910b5e#0",
+    "doc_id": "vietnamnews_20261121_d07b910b5e",
+    "sent_idx": 0,
+    "text": "Ministry proposes production electricity tariffs for data centres",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261121_d07b910b5e#1",
+    "doc_id": "vietnamnews_20261121_d07b910b5e",
+    "sent_idx": 1,
+    "text": "HÀ NỘI - The Ministry of Industry and Trade is seeking feedback on proposed amendments to electricity pricing regulations that would classify data centres under the production electricity tariff category.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261121_d07b910b5e#2",
+    "doc_id": "vietnamnews_20261121_d07b910b5e",
+    "sent_idx": 2,
+    "text": "Undrer the draft circular which would amend and supplement several provisions of Circular 60/2025/TT-BCT governing the implementation of retail electricity prices, data centre operations would be added to the group subject to production electricity tariffs.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261121_d07b910b5e#3",
+    "doc_id": "vietnamnews_20261121_d07b910b5e",
+    "sent_idx": 3,
+    "text": "The draft also introduces a definition of a data centre as a telecommunications facility comprising buildings, stations, cable systems, computers, power systems and auxiliary equipment installed to process, store and manage data for one or more organisations or individuals.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261121_d07b910b5e#4",
+    "doc_id": "vietnamnews_20261121_d07b910b5e",
+    "sent_idx": 4,
+    "text": "According to the Electricity Authority of Vietnam, data centres previously qualified for production electricity tariffs.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261121_d07b910b5e#5",
+    "doc_id": "vietnamnews_20261121_d07b910b5e",
+    "sent_idx": 5,
+    "text": "Circular 60/2025 placed data centres providing services to other organisations and individuals in the group subject to business tariffs, while those serving their own companies were charged according to the purposes specified in their existing electricity purchase contracts.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261121_d07b910b5e#6",
+    "doc_id": "vietnamnews_20261121_d07b910b5e",
+    "sent_idx": 6,
+    "text": "For data centres using electricity for multiple purposes, buyers and sellers were required to agree on the proportion of electricity consumed for each activity to determine the applicable tariffs.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261121_d07b910b5e#7",
+    "doc_id": "vietnamnews_20261121_d07b910b5e",
+    "sent_idx": 7,
+    "text": "However, implementation has encountered difficulties because of the technical characteristics and cross-sector applications of data centres, the Electricity Authority of Vietnam said, addign that this makes it difficult for electricity suppliers and customers to accurately separate consumption by purpose.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261121_d07b910b5e#8",
+    "doc_id": "vietnamnews_20261121_d07b910b5e",
+    "sent_idx": 8,
+    "text": "On April 9, 2026, the Ministry of Science and Technology asked the Ministry of Industry and Trade to provide clearer guidance on electricity pricing for data centres.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261121_d07b910b5e#9",
+    "doc_id": "vietnamnews_20261121_d07b910b5e",
+    "sent_idx": 9,
+    "text": "It argued that electricity tariffs should be applied consistently with those for other telecommunications services, regardless of whether data centres serve internal operations or provide services to external customers.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261121_d07b910b5e#10",
+    "doc_id": "vietnamnews_20261121_d07b910b5e",
+    "sent_idx": 10,
+    "text": "On April 22, 2026, the Ministry of Industry and Trade issued guidance to Vietnam Electricity (EVN) allowing production electricity tariffs to be applied to data centres' technical systems when the parties could not agree on the allocation of electricity consumption by purpose.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261121_d07b910b5e#11",
+    "doc_id": "vietnamnews_20261121_d07b910b5e",
+    "sent_idx": 11,
+    "text": "However, following an audit of EVN, the State Audit Office of Vietnam called for the legal basis of the guidance to be reviewed, arguing that it was an individual administrative document and could not replace the provisions of Circular 60/2025.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261121_d07b910b5e#12",
+    "doc_id": "vietnamnews_20261121_d07b910b5e",
+    "sent_idx": 12,
+    "text": "Applying such an exception could also create unequal treatment among businesses.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261121_d07b910b5e#13",
+    "doc_id": "vietnamnews_20261121_d07b910b5e",
+    "sent_idx": 13,
+    "text": "The proposed amendments are intended to establish a consistent approach to electricity pricing for data centres and address the shortcomings arising from the current regulations in the context that Việt Nam aims to attract high-tech investment flow. - VNS",
+    "lang": "en",
+    "is_title": false
+  }
+]

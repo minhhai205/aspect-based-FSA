@@ -1,0 +1,58 @@
+[
+  {
+    "sent_id": "vietnamnews_20261027_dce3ad8c19#0",
+    "doc_id": "vietnamnews_20261027_dce3ad8c19",
+    "sent_idx": 0,
+    "text": "Hà Nội to host international exhibition on food, beverage and packaging technology",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261027_dce3ad8c19#1",
+    "doc_id": "vietnamnews_20261027_dce3ad8c19",
+    "sent_idx": 1,
+    "text": "HÀ NỘI - The International Exhibition on Food and Beverage and Food Processing-Packaging Technology and Equipment in Hà Nội will return to the capital city from November 4 to 7, featuring 250 domestic and foreign exhibitors.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_dce3ad8c19#2",
+    "doc_id": "vietnamnews_20261027_dce3ad8c19",
+    "sent_idx": 2,
+    "text": "The upcoming exhibition , co-organised by VINEXAD National Trade Fair and Advertising JSC, Ho Chi Minh City Food and Foodstuffs Association and the Vietnam Beer-Alcohol-Beverage Association, will allow visitors to sample products and meet manufacturers, suppliers and brands to identify suitable products and explore business partnerships.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_dce3ad8c19#3",
+    "doc_id": "vietnamnews_20261027_dce3ad8c19",
+    "sent_idx": 3,
+    "text": "During the event, Vietnamese companies will showcase processed foods, agricultural produce, seafood, spices, confectionery, coffee, tea and other beverages, while international firms will present goods from overseas markets, offering buyers opportunities to explore new products, sourcing options and consumer trends.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_dce3ad8c19#4",
+    "doc_id": "vietnamnews_20261027_dce3ad8c19",
+    "sent_idx": 4,
+    "text": "The event aims to connect importers, distributors, retailers, supermarket operators, hotels, restaurants and manufacturers with suppliers, enabling them to compare products, identify sourcing opportunities and expand business networks.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_dce3ad8c19#5",
+    "doc_id": "vietnamnews_20261027_dce3ad8c19",
+    "sent_idx": 5,
+    "text": "According to organisers, the event will also host seminars and industry programmes focusing on consumer trends, agricultural product development and branding.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_dce3ad8c19#6",
+    "doc_id": "vietnamnews_20261027_dce3ad8c19",
+    "sent_idx": 6,
+    "text": "A business-to-business matchmaking programme will connect exhibitors with potential buyers, importers, distributors, retail chains, manufacturers and hotel and restaurant operators to facilitate supplier assessments, product exchanges and potential partnerships. -VNS",
+    "lang": "en",
+    "is_title": false
+  }
+]

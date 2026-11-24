@@ -1,0 +1,202 @@
+[
+  {
+    "sent_id": "vietnamnews_20261117_6ee41981c7#0",
+    "doc_id": "vietnamnews_20261117_6ee41981c7",
+    "sent_idx": 0,
+    "text": "Việt Nam faces growing mobile threats, highlighting need for stronger app security",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261117_6ee41981c7#1",
+    "doc_id": "vietnamnews_20261117_6ee41981c7",
+    "sent_idx": 1,
+    "text": "HCM CITY - As digital banking, electronic payments, e-commerce and other online services increasingly move to mobile applications, smartphones have become key gateways to digital services in Việt Nam.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_6ee41981c7#2",
+    "doc_id": "vietnamnews_20261117_6ee41981c7",
+    "sent_idx": 2,
+    "text": "However, growing reliance on mobile devices is also expanding the attack surface, with cybercriminals developing new ways to steal credentials, personal data and access to online services.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_6ee41981c7#3",
+    "doc_id": "vietnamnews_20261117_6ee41981c7",
+    "sent_idx": 3,
+    "text": "The trend is reflected across the Asia-Pacific region.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_6ee41981c7#4",
+    "doc_id": "vietnamnews_20261117_6ee41981c7",
+    "sent_idx": 4,
+    "text": "According to Kaspersky's Q1 2026 mobile threat data, the average number of mobile threat detections per affected user across eight APAC markets rose by 49 per cent year on year, from 4.9 to 7.3 detections per affected user.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_6ee41981c7#5",
+    "doc_id": "vietnamnews_20261117_6ee41981c7",
+    "sent_idx": 5,
+    "text": "The increase was recorded in all markets analysed, despite an overall decline in the number of affected users.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_6ee41981c7#6",
+    "doc_id": "vietnamnews_20261117_6ee41981c7",
+    "sent_idx": 6,
+    "text": "The figures point to a higher frequency of threat encounters among affected users.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_6ee41981c7#7",
+    "doc_id": "vietnamnews_20261117_6ee41981c7",
+    "sent_idx": 7,
+    "text": "Beyond scams requiring user interaction, cybercriminals are using fake applications, malicious advertising, phishing links and multi-stage attack chains to deliver malware to devices.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_6ee41981c7#8",
+    "doc_id": "vietnamnews_20261117_6ee41981c7",
+    "sent_idx": 8,
+    "text": "Some attack methods require little or no user interaction, making threats more difficult to identify through traditional protection measures alone.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_6ee41981c7#9",
+    "doc_id": "vietnamnews_20261117_6ee41981c7",
+    "sent_idx": 9,
+    "text": "The growing adoption of AI is adding dimension to the mobile threat landscape.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_6ee41981c7#10",
+    "doc_id": "vietnamnews_20261117_6ee41981c7",
+    "sent_idx": 10,
+    "text": "Cybercriminals can exploit the popularity of AI-powered services to make malicious applications, websites and content appear more legitimate, making it harder for users to distinguish genuine tools from malicious ones.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_6ee41981c7#11",
+    "doc_id": "vietnamnews_20261117_6ee41981c7",
+    "sent_idx": 11,
+    "text": "In Việt Nam, data from the Vietnam National Cybersecurity Association, collected through its nTrust mobile security platform, showed that 62,952 new mobile malware types were detected in 2025.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_6ee41981c7#12",
+    "doc_id": "vietnamnews_20261117_6ee41981c7",
+    "sent_idx": 12,
+    "text": "These included 931 malware variants disguised as popular applications to steal user information or remotely control devices.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_6ee41981c7#13",
+    "doc_id": "vietnamnews_20261117_6ee41981c7",
+    "sent_idx": 13,
+    "text": "The data also showed that 34.13 per cent of users experienced at least one malware-related incident, up from 23.4 per cent in 2024.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_6ee41981c7#14",
+    "doc_id": "vietnamnews_20261117_6ee41981c7",
+    "sent_idx": 14,
+    "text": "AI-assisted social engineering and increasingly convincing impersonation can further expose users to phishing and attempts to access financial accounts or sensitive information.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_6ee41981c7#15",
+    "doc_id": "vietnamnews_20261117_6ee41981c7",
+    "sent_idx": 15,
+    "text": "These figures highlight the risks facing a market where smartphones increasingly serve as gateways to banking, payments, shopping and other digital services.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_6ee41981c7#16",
+    "doc_id": "vietnamnews_20261117_6ee41981c7",
+    "sent_idx": 16,
+    "text": "A compromised device can expose not only personal data but also the applications and services accessed through it, underscoring the need for protection that goes beyond the device and is built directly into the applications and services users rely on.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_6ee41981c7#17",
+    "doc_id": "vietnamnews_20261117_6ee41981c7",
+    "sent_idx": 17,
+    "text": "Financial applications are particularly attractive targets because of the value of the information they handle.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_6ee41981c7#18",
+    "doc_id": "vietnamnews_20261117_6ee41981c7",
+    "sent_idx": 18,
+    "text": "Kaspersky recorded 162,275 new mobile banking Trojan installation packages globally in Q1 2026, more than twice the total number recorded throughout 2024.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_6ee41981c7#19",
+    "doc_id": "vietnamnews_20261117_6ee41981c7",
+    "sent_idx": 19,
+    "text": "Banking Trojans accounted for 52.96 per cent of all malicious mobile applications detected worldwide during the quarter.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_6ee41981c7#20",
+    "doc_id": "vietnamnews_20261117_6ee41981c7",
+    "sent_idx": 20,
+    "text": "According to experts, as mobile threats become more sophisticated, businesses need to look beyond protecting devices and users.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_6ee41981c7#21",
+    "doc_id": "vietnamnews_20261117_6ee41981c7",
+    "sent_idx": 21,
+    "text": "While conventional safeguards remain essential, organisations must also address risks within the application environment.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_6ee41981c7#22",
+    "doc_id": "vietnamnews_20261117_6ee41981c7",
+    "sent_idx": 22,
+    "text": "For applications handling sensitive data, credentials and transactions, embedding security into the application can help identify potential risks closer to the point of interaction and strengthen protection as threats continue to evolve.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_6ee41981c7#23",
+    "doc_id": "vietnamnews_20261117_6ee41981c7",
+    "sent_idx": 23,
+    "text": "\"As mobile applications increasingly become a primary channel for users to conduct transactions and access important services, security needs to be considered part of the application architecture rather than simply an external layer of protection.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_6ee41981c7#24",
+    "doc_id": "vietnamnews_20261117_6ee41981c7",
+    "sent_idx": 24,
+    "text": "Security-by-Design enables businesses to proactively assess the environment in which their applications operate, identify potential risks and strengthen the application's ability to protect itself at the point of user interaction,\" said Choon Hong Chee, Head of Consumer Channel for APAC at Kaspersky. - VNS",
+    "lang": "en",
+    "is_title": false
+  }
+]

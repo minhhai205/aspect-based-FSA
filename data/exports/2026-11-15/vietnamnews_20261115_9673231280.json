@@ -1,0 +1,82 @@
+[
+  {
+    "sent_id": "vietnamnews_20261115_9673231280#0",
+    "doc_id": "vietnamnews_20261115_9673231280",
+    "sent_idx": 0,
+    "text": "HCM City approves 147 land plots for pilot commercial housing projects",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261115_9673231280#1",
+    "doc_id": "vietnamnews_20261115_9673231280",
+    "sent_idx": 1,
+    "text": "HCM CITY - The HCM City People's Council has approved a list of 147 land plots for commercial housing development under a pilot mechanism established by National Assembly Resolution No 171/2024/QH15.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261115_9673231280#2",
+    "doc_id": "vietnamnews_20261115_9673231280",
+    "sent_idx": 2,
+    "text": "The approval was granted at the council's sixth session for the 2026-31 term, paving the way for further procedures to develop commercial housing projects and help address the city's housing demand.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261115_9673231280#3",
+    "doc_id": "vietnamnews_20261115_9673231280",
+    "sent_idx": 3,
+    "text": "Under Resolution No 125/NQ-HĐND, these plots cover a combined area of more than 855ha, including over 457ha of existing residential land or land proposed for conversion to residential use.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261115_9673231280#4",
+    "doc_id": "vietnamnews_20261115_9673231280",
+    "sent_idx": 4,
+    "text": "The list includes approximately 342ha of rice-growing land earmarked for conversion.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261115_9673231280#5",
+    "doc_id": "vietnamnews_20261115_9673231280",
+    "sent_idx": 5,
+    "text": "Of the total, 94 plots covering nearly 590ha were previously under the jurisdiction of HCM City, while 19 plots covering 125ha were in former Bà Rịa-Vũng Tàu Province and 34 plots covering 140ha were in former Bình Dương Province.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261115_9673231280#6",
+    "doc_id": "vietnamnews_20261115_9673231280",
+    "sent_idx": 6,
+    "text": "The list also includes one plot currently designated for national defence purposes.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261115_9673231280#7",
+    "doc_id": "vietnamnews_20261115_9673231280",
+    "sent_idx": 7,
+    "text": "The municipal People's Committee said inclusion in the approved list merely provides a basis for proceeding with subsequent procedures under the pilot mechanism and does not constitute approval of investment policies, investor selection, land allocation or leasing, or changes in land-use purposes.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261115_9673231280#8",
+    "doc_id": "vietnamnews_20261115_9673231280",
+    "sent_idx": 8,
+    "text": "All projects must undergo the relevant procedures in accordance with existing regulations.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261115_9673231280#9",
+    "doc_id": "vietnamnews_20261115_9673231280",
+    "sent_idx": 9,
+    "text": "The city has also instructed relevant agencies to closely monitor implementation, ensure transparency and set specific deadlines for completing each project's procedures. - VNS",
+    "lang": "en",
+    "is_title": false
+  }
+]

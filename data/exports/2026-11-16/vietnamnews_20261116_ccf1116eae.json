@@ -1,0 +1,138 @@
+[
+  {
+    "sent_id": "vietnamnews_20261116_ccf1116eae#0",
+    "doc_id": "vietnamnews_20261116_ccf1116eae",
+    "sent_idx": 0,
+    "text": "Việt Nam considers shifting international flights from Nội Bài to Gia Bình",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261116_ccf1116eae#1",
+    "doc_id": "vietnamnews_20261116_ccf1116eae",
+    "sent_idx": 1,
+    "text": "HÀ NỘI - Việt Nam is studying a plan to transfer all international flight operations from Nội Bài to the planned Gia Bình international airports in Bắc Ninh Province while developing direct rail connections between the new airport and central Hà Nội to cut travel times.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261116_ccf1116eae#2",
+    "doc_id": "vietnamnews_20261116_ccf1116eae",
+    "sent_idx": 2,
+    "text": "Deputy Minister of Construction Bùi Xuân Dũng said the proposed transfer of international operations to Gia Bình would require further study, with decisions on flight routes, participating airlines and the redistribution of traffic yet to be determined.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261116_ccf1116eae#3",
+    "doc_id": "vietnamnews_20261116_ccf1116eae",
+    "sent_idx": 3,
+    "text": "Improving transport links between the airports and Hà Nội is a key part of the planning, with authorities considering both road and rail connections.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261116_ccf1116eae#4",
+    "doc_id": "vietnamnews_20261116_ccf1116eae",
+    "sent_idx": 4,
+    "text": "Dũng said a rail route from Gia Bình through Gia Lâm station to central Hà Nội is under consideration with the aim to reduce rail travel times between central Hà Nội and the airports to around 30-45 minutes.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261116_ccf1116eae#5",
+    "doc_id": "vietnamnews_20261116_ccf1116eae",
+    "sent_idx": 5,
+    "text": "Authorities will also examine connections from southern central Hà Nội towards Nội Bài while ensuring integration between national railways, urban rail systems and dedicated railway networks to allow passengers arriving at one airport to connect with flights at the other.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261116_ccf1116eae#6",
+    "doc_id": "vietnamnews_20261116_ccf1116eae",
+    "sent_idx": 6,
+    "text": "The Civil Aviation Authority of Vietnam (CAAV) is preparing a separate scheme for the readiness of Gia Bình airport, which is expected to be made public for consultation with ministries and relevant agencies within the next one to two months, said Đỗ Hồng Cẩm, CAAV's deputy director.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261116_ccf1116eae#7",
+    "doc_id": "vietnamnews_20261116_ccf1116eae",
+    "sent_idx": 7,
+    "text": "Technical flight operations are scheduled for late 2026 to test Gia Bình's infrastructure, technical systems and operational readiness.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261116_ccf1116eae#8",
+    "doc_id": "vietnamnews_20261116_ccf1116eae",
+    "sent_idx": 8,
+    "text": "Gia Bình International Airport has a total investment estimated at more than VNĐ196 trillion (US$7.4 billion), covering an area of around 1,884 ha.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261116_ccf1116eae#9",
+    "doc_id": "vietnamnews_20261116_ccf1116eae",
+    "sent_idx": 9,
+    "text": "The airport is envisioned as a modern aviation economic hub integrated with logistics, international trade, high-tech industries and urban development to create a new growth driver for the capital region.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261116_ccf1116eae#10",
+    "doc_id": "vietnamnews_20261116_ccf1116eae",
+    "sent_idx": 10,
+    "text": "By 2030, the airport is expected to handle 30 million passengers and 1.6 million tonnes of cargo annually.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261116_ccf1116eae#11",
+    "doc_id": "vietnamnews_20261116_ccf1116eae",
+    "sent_idx": 11,
+    "text": "Its planned capacity will increase to 50 million passengers and 2.5 million tonnes of cargo by 2050.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261116_ccf1116eae#12",
+    "doc_id": "vietnamnews_20261116_ccf1116eae",
+    "sent_idx": 12,
+    "text": "Construction of key components is being accelerated, with the project also targeting readiness to serve the APEC 2027 summit.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261116_ccf1116eae#13",
+    "doc_id": "vietnamnews_20261116_ccf1116eae",
+    "sent_idx": 13,
+    "text": "Nội Bài is expected to handle 50 million passengers annually by 2030 and 100 million by 2050.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261116_ccf1116eae#14",
+    "doc_id": "vietnamnews_20261116_ccf1116eae",
+    "sent_idx": 14,
+    "text": "It would continue serving domestic flights and some international services in 2029-30, while the proposed second airport for Hà Nội is being studied.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261116_ccf1116eae#15",
+    "doc_id": "vietnamnews_20261116_ccf1116eae",
+    "sent_idx": 15,
+    "text": "In a government notice dated November 6, 2026, Permanent Deputy Prime Minister Phạm Gia Túc asked Hà Nội to coordinate with the Ministry of Construction and neighbouring localities to study urban railway connections directly linking Gia Bình and Nội Bài airports with the capital's centre.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261116_ccf1116eae#16",
+    "doc_id": "vietnamnews_20261116_ccf1116eae",
+    "sent_idx": 16,
+    "text": "The authorities were requested to submit an overall connectivity plan in November 2026. - VNS",
+    "lang": "en",
+    "is_title": false
+  }
+]

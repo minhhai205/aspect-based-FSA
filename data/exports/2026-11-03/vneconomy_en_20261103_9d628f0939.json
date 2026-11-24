@@ -1,0 +1,90 @@
+[
+  {
+    "sent_id": "vneconomy_en_20261103_9d628f0939#0",
+    "doc_id": "vneconomy_en_20261103_9d628f0939",
+    "sent_idx": 0,
+    "text": "CPI rises 4.57% in first 10M of 2026",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_9d628f0939#1",
+    "doc_id": "vneconomy_en_20261103_9d628f0939",
+    "sent_idx": 1,
+    "text": "Vietnam's consumer price index (CPI) increased by 0.20 per cent in October compared with the previous month, while average CPI for the first 10 months of 2026 rose 4.57 per cent year-on-year, according to a report released by the National Statistics Office on November 3.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_9d628f0939#2",
+    "doc_id": "vneconomy_en_20261103_9d628f0939",
+    "sent_idx": 2,
+    "text": "Of the 11 major groups of consumer goods and services, seven recorded price increases in October, while four saw declines.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_9d628f0939#3",
+    "doc_id": "vneconomy_en_20261103_9d628f0939",
+    "sent_idx": 3,
+    "text": "Among the groups posting increases, transport recorded the largest rise, at 2.66 per cent, making the biggest contribution to the overall CPI increase, adding 0.27 percentage points.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_9d628f0939#4",
+    "doc_id": "vneconomy_en_20261103_9d628f0939",
+    "sent_idx": 4,
+    "text": "This was mainly driven by a 6.86 per cent increase in petrol prices and a 0.75 per cent rise in diesel prices, following adjustments in line with international fuel market trends.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_9d628f0939#5",
+    "doc_id": "vneconomy_en_20261103_9d628f0939",
+    "sent_idx": 5,
+    "text": "Meanwhile, lower prices in four consumer groups helped moderate overall inflation.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_9d628f0939#6",
+    "doc_id": "vneconomy_en_20261103_9d628f0939",
+    "sent_idx": 6,
+    "text": "Culture, entertainment and tourism recorded the sharpest decline, at 0.87 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_9d628f0939#7",
+    "doc_id": "vneconomy_en_20261103_9d628f0939",
+    "sent_idx": 7,
+    "text": "October marked the low season for both domestic and international tourism, with domestic travel service prices falling 1.27 per cent, outbound tourism services dropping 1.03 per cent, and hotel and guesthouse accommodation prices decreasing 1.72 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_9d628f0939#8",
+    "doc_id": "vneconomy_en_20261103_9d628f0939",
+    "sent_idx": 8,
+    "text": "Notably, prices in the food and catering services group fell 0.24 per cent, directly reducing overall CPI by 0.09 percentage points.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_9d628f0939#9",
+    "doc_id": "vneconomy_en_20261103_9d628f0939",
+    "sent_idx": 9,
+    "text": "Core inflation declined 0.05 per cent month-on-month in October but rose 4.04 per cent year-on-year.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_9d628f0939#10",
+    "doc_id": "vneconomy_en_20261103_9d628f0939",
+    "sent_idx": 10,
+    "text": "On average, core inflation increased 4.24 per cent in the first 10 months of 2026, below the corresponding 4.57 per cent rise in headline CPI.",
+    "lang": "en",
+    "is_title": false
+  }
+]

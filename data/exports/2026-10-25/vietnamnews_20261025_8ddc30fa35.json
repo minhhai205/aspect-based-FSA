@@ -1,0 +1,162 @@
+[
+  {
+    "sent_id": "vietnamnews_20261025_8ddc30fa35#0",
+    "doc_id": "vietnamnews_20261025_8ddc30fa35",
+    "sent_idx": 0,
+    "text": "VCCI proposes revision for VAT regulations",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261025_8ddc30fa35#1",
+    "doc_id": "vietnamnews_20261025_8ddc30fa35",
+    "sent_idx": 1,
+    "text": "HÀ NỘI - The Vietnam Chamber of Commerce and Industry (VCCI) has proposed applying a zero per cent value-added tax (VAT) rate to data centre services, cloud computing, and artificial intelligence (AI) products and services provided to foreign clients.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261025_8ddc30fa35#2",
+    "doc_id": "vietnamnews_20261025_8ddc30fa35",
+    "sent_idx": 2,
+    "text": "The proposal was under the VCCI's feedback on the Ministry of Finance-drafted decree that amends Decree No. 181/2025/NĐ-CP detailing the implementation of certain articles of the Law on Value Added Tax.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261025_8ddc30fa35#3",
+    "doc_id": "vietnamnews_20261025_8ddc30fa35",
+    "sent_idx": 3,
+    "text": "According to the VCCI, the draft decree will encourage deep processing, increase the value of domestic products, and support exporting enterprises.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261025_8ddc30fa35#4",
+    "doc_id": "vietnamnews_20261025_8ddc30fa35",
+    "sent_idx": 4,
+    "text": "It said that data centre and cloud computing services are currently classified as telecommunications services.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261025_8ddc30fa35#5",
+    "doc_id": "vietnamnews_20261025_8ddc30fa35",
+    "sent_idx": 5,
+    "text": "Consequently, they are excluded from the 0 per cent VAT rate under Decree No. 181/2025/NĐ-CP, even though they are essentially export services.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261025_8ddc30fa35#6",
+    "doc_id": "vietnamnews_20261025_8ddc30fa35",
+    "sent_idx": 6,
+    "text": "Since foreign clients generally cannot deduct Vietnamese VAT, the 10 per cent tax effectively becomes an additional cost for them.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261025_8ddc30fa35#7",
+    "doc_id": "vietnamnews_20261025_8ddc30fa35",
+    "sent_idx": 7,
+    "text": "This renders the services approximately 10 per cent more expensive compared to those offered by providers in other countries within the region.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261025_8ddc30fa35#8",
+    "doc_id": "vietnamnews_20261025_8ddc30fa35",
+    "sent_idx": 8,
+    "text": "Meanwhile, for AI products and services, the challenge lies in the documentation required to prove that consumption takes place outside of Việt Nam.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261025_8ddc30fa35#9",
+    "doc_id": "vietnamnews_20261025_8ddc30fa35",
+    "sent_idx": 9,
+    "text": "While there are established regulations for digital content products delivered online, no specific guidelines exist regarding the documentation required for AI-related services such as model inference, training, and fine-tuning when provided to foreign parties.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261025_8ddc30fa35#10",
+    "doc_id": "vietnamnews_20261025_8ddc30fa35",
+    "sent_idx": 10,
+    "text": "Therefore, the lack of a unified framework makes it difficult for both businesses and tax authorities to determine the eligibility criteria, creating a risk that the regulations may be interpreted and applied inconsistently across different jurisdictions, the VCCI said.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261025_8ddc30fa35#11",
+    "doc_id": "vietnamnews_20261025_8ddc30fa35",
+    "sent_idx": 11,
+    "text": "The impact of this tax policy also influences decisions regarding the placement of computing infrastructure for the 2027-2030 period.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261025_8ddc30fa35#12",
+    "doc_id": "vietnamnews_20261025_8ddc30fa35",
+    "sent_idx": 12,
+    "text": "According to feedback from businesses, if they were to absorb the 10 per cent tax to keep prices competitive, their pre-tax project profits would decline by approximately 40-45 per cent, a margin significant enough to alter decisions on where to locate investments.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261025_8ddc30fa35#13",
+    "doc_id": "vietnamnews_20261025_8ddc30fa35",
+    "sent_idx": 13,
+    "text": "To address this, the VCCI has proposed amending the exclusion regulation to allow data centre and cloud computing services - when provided to foreign clients and consumed outside of Viet Nam - to qualify for a 0 per cent VAT rate.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261025_8ddc30fa35#14",
+    "doc_id": "vietnamnews_20261025_8ddc30fa35",
+    "sent_idx": 14,
+    "text": "It is proposed that the scope not be extended to other telecommunications services.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261025_8ddc30fa35#15",
+    "doc_id": "vietnamnews_20261025_8ddc30fa35",
+    "sent_idx": 15,
+    "text": "Regarding AI products and services, the VCCI suggests requiring additional documentation to verify consumption outside of Việt Nam, such as the customer's billing address, registered business address, IP address, or similar identifying information.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261025_8ddc30fa35#16",
+    "doc_id": "vietnamnews_20261025_8ddc30fa35",
+    "sent_idx": 16,
+    "text": "Through the recommendations, the VCCI aims to ensure a smoother application of the 0 per cent tax rate, covering everything from the handling of intermediary transactions and the clarification of responsibilities between buyers and sellers, to the finalisation of documentation for digital services.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261025_8ddc30fa35#17",
+    "doc_id": "vietnamnews_20261025_8ddc30fa35",
+    "sent_idx": 17,
+    "text": "The adjustments are intended to reduce implementation hurdles, thereby ensuring that the policy effectively supports cash flow and enhances the competitiveness of exporting enterprises.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261025_8ddc30fa35#18",
+    "doc_id": "vietnamnews_20261025_8ddc30fa35",
+    "sent_idx": 18,
+    "text": "Under the feedback on the draft decree, to ensure the policy is effective upon implementation, the VCCI has also recommended the inclusion of transitional provisions.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261025_8ddc30fa35#19",
+    "doc_id": "vietnamnews_20261025_8ddc30fa35",
+    "sent_idx": 19,
+    "text": "As currently drafted, the decree would take effect from the date of signing, yet it lacks any such transitional regulation. - BIZHUB/VNS",
+    "lang": "en",
+    "is_title": false
+  }
+]

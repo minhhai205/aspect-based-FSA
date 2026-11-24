@@ -1,0 +1,114 @@
+[
+  {
+    "sent_id": "vietnamnews_20261027_a114881504#0",
+    "doc_id": "vietnamnews_20261027_a114881504",
+    "sent_idx": 0,
+    "text": "Ministry clarifies fees for e-wallets linked to transport accounts",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261027_a114881504#1",
+    "doc_id": "vietnamnews_20261027_a114881504",
+    "sent_idx": 1,
+    "text": "HÀ NỘI - Fees for e-wallets linked to transport accounts are not transport account maintenance fees, and users can choose another payment method, the Ministry of Construction said.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_a114881504#2",
+    "doc_id": "vietnamnews_20261027_a114881504",
+    "sent_idx": 2,
+    "text": "The conclusion was made under a ministry's report on inspecting fees for using e-wallets linked to transport payment accounts submitted to Permanent Deputy Prime Minister Phạm Gia Túc.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_a114881504#3",
+    "doc_id": "vietnamnews_20261027_a114881504",
+    "sent_idx": 3,
+    "text": "The move was made after e-wallet providers VETC and Viettel Money announced plans to introduce a monthly fee of VNĐ6,600 for individual users and VNĐ66,000 for corporate or institutional clients.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_a114881504#4",
+    "doc_id": "vietnamnews_20261027_a114881504",
+    "sent_idx": 4,
+    "text": "The policy was scheduled to take effect on August 1, 2026, but has since been put on hold following public pushback.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_a114881504#5",
+    "doc_id": "vietnamnews_20261027_a114881504",
+    "sent_idx": 5,
+    "text": "After public complaints, the ministry instructed the Vietnam Road Administration to clarify the fee policy, the basis for setting the fee and the groups covered.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_a114881504#6",
+    "doc_id": "vietnamnews_20261027_a114881504",
+    "sent_idx": 6,
+    "text": "The ministry determined that the planned fee is a charge for using a payment instrument under banking regulations, not a road-use fee or a transport-account maintenance fee.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_a114881504#7",
+    "doc_id": "vietnamnews_20261027_a114881504",
+    "sent_idx": 7,
+    "text": "Customers can cancel their current payment link and choose another without affecting their transport account.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_a114881504#8",
+    "doc_id": "vietnamnews_20261027_a114881504",
+    "sent_idx": 8,
+    "text": "At the time of inspection, VETC and Viettel Money had already suspended the implementation of their fee-charging policies in order to study more appropriate alternatives.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_a114881504#9",
+    "doc_id": "vietnamnews_20261027_a114881504",
+    "sent_idx": 9,
+    "text": "As no fees have been collected, no actual financial loss has been incurred by customers.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_a114881504#10",
+    "doc_id": "vietnamnews_20261027_a114881504",
+    "sent_idx": 10,
+    "text": "To safeguard the interests of users, the ministry has recommended that the businesses develop flexible pricing policies tailored to different customer segments.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_a114881504#11",
+    "doc_id": "vietnamnews_20261027_a114881504",
+    "sent_idx": 11,
+    "text": "Proposed options include charging per transaction, calculating fees based on a percentage of the transaction value, or offering exemptions for accounts associated with vehicles that are used infrequently.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_a114881504#12",
+    "doc_id": "vietnamnews_20261027_a114881504",
+    "sent_idx": 12,
+    "text": "The ministry has also mandated that the businesses fully disclose their pricing policies, ensuring that users are well-informed and have the right to make an informed choice before any such policies are implemented.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_a114881504#13",
+    "doc_id": "vietnamnews_20261027_a114881504",
+    "sent_idx": 13,
+    "text": "The ministry has also proposed the continued expansion of links between transport-related accounts and various banks or payment intermediaries, with the aim of providing users with more options, fostering competition, and enhancing the quality of service. - BIZHUB/VNS",
+    "lang": "en",
+    "is_title": false
+  }
+]

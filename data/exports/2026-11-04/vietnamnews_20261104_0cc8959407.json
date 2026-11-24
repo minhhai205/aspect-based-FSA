@@ -1,0 +1,82 @@
+[
+  {
+    "sent_id": "vietnamnews_20261104_0cc8959407#0",
+    "doc_id": "vietnamnews_20261104_0cc8959407",
+    "sent_idx": 0,
+    "text": "Việt Nam sharply cuts petrol prices, except mazut",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261104_0cc8959407#1",
+    "doc_id": "vietnamnews_20261104_0cc8959407",
+    "sent_idx": 1,
+    "text": "HÀ NỘI - The Vietnamese ministries of finance and industry and trade have ordered a sharp cut in petrol prices, with mazut the exception.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261104_0cc8959407#2",
+    "doc_id": "vietnamnews_20261104_0cc8959407",
+    "sent_idx": 2,
+    "text": "E5RON92 gasoline is sold at VNĐ23,203 (US$0.89) per liter, down VNĐ1,020 per liter from the previous adjustment, and VNĐ28 per liter below E10RON95-III, which is set at VNĐ23,231 per liter, down VNĐ928 per liter.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261104_0cc8959407#3",
+    "doc_id": "vietnamnews_20261104_0cc8959407",
+    "sent_idx": 3,
+    "text": "Diesel 0.05S is priced at VNĐ28,876 per liter, down VNĐ1,370 per liter; while mazut 180CST 3.5S is at VNĐ23,974 per kg, up VNĐ378 per kg.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261104_0cc8959407#4",
+    "doc_id": "vietnamnews_20261104_0cc8959407",
+    "sent_idx": 4,
+    "text": "For this adjustment, VNĐ700 per liter will be allocated to the fuel price stabilisation fund for biofuel using an advance from the state budget, while continuing to halt fund disbursements.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261104_0cc8959407#5",
+    "doc_id": "vietnamnews_20261104_0cc8959407",
+    "sent_idx": 5,
+    "text": "The Ministry of Industry and Trade (MOIT) said the global petrol market in this cycle was driven mainly by the US-Iran diplomatic outlook, signs of improvement in Saudi Arabia's oil exports and the ongoing Russia-Ukraine conflict.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261104_0cc8959407#6",
+    "doc_id": "vietnamnews_20261104_0cc8959407",
+    "sent_idx": 6,
+    "text": "Those factors pushed global refined petrol prices up or down depending on the product in recent days.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261104_0cc8959407#7",
+    "doc_id": "vietnamnews_20261104_0cc8959407",
+    "sent_idx": 7,
+    "text": "In this cycle, the ministries also continued applying the special consumption tax on gasoline under the Government's Resolution 45 and carrying out fund allocation and disbursement.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261104_0cc8959407#8",
+    "doc_id": "vietnamnews_20261104_0cc8959407",
+    "sent_idx": 8,
+    "text": "Earlier, on November 1, the MOIT announced a sharp reduction in gasoline prices.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261104_0cc8959407#9",
+    "doc_id": "vietnamnews_20261104_0cc8959407",
+    "sent_idx": 9,
+    "text": "This marks two consecutive fuel price cuts, driven by tax policies and falling global oil prices. - VNA/VNS",
+    "lang": "en",
+    "is_title": false
+  }
+]

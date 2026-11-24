@@ -1,0 +1,242 @@
+[
+  {
+    "sent_id": "vietnamnews_20261112_dbaca18897#0",
+    "doc_id": "vietnamnews_20261112_dbaca18897",
+    "sent_idx": 0,
+    "text": "Minister of Finance pledges to accelerate public investment, tighten tax management",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261112_dbaca18897#1",
+    "doc_id": "vietnamnews_20261112_dbaca18897",
+    "sent_idx": 1,
+    "text": "HÀ NỘI - Minister of Finance Ngô Văn Tuấn has pledged to tackle persistent bottlenecks in public investment disbursement and strengthen tax administration to improve the efficiency of public spending and mobilise resources for socio-economic development.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261112_dbaca18897#2",
+    "doc_id": "vietnamnews_20261112_dbaca18897",
+    "sent_idx": 2,
+    "text": "Addressing lawmakers during a question-and-answer meeting at the second session of the 16th National Assembly on November 12, Tuấn said that project implementation remained the weakest link, with inadequate project preparation preventing allocated funds from being used on schedule.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261112_dbaca18897#3",
+    "doc_id": "vietnamnews_20261112_dbaca18897",
+    "sent_idx": 3,
+    "text": "He added that procedures would be further streamlined.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261112_dbaca18897#4",
+    "doc_id": "vietnamnews_20261112_dbaca18897",
+    "sent_idx": 4,
+    "text": "The minister also highlighted persistent difficulties in disbursing funds for ODA-funded projects, with disbursement reaching just 35.42 per cent of the annual allocation disbursed by the end of October 2026.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261112_dbaca18897#5",
+    "doc_id": "vietnamnews_20261112_dbaca18897",
+    "sent_idx": 5,
+    "text": "Việt Nam is expected to mobilise more than VNĐ1 quadrillion (US$38.9 billion) in ODA and concessional loans during 2026-30, but implementation remains complicated by the need to comply with both Vietnamese regulations and donor requirements.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261112_dbaca18897#6",
+    "doc_id": "vietnamnews_20261112_dbaca18897",
+    "sent_idx": 6,
+    "text": "The Ministry of Finance is working with major development partners to harmonise procedures and accelerate project implementation.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261112_dbaca18897#7",
+    "doc_id": "vietnamnews_20261112_dbaca18897",
+    "sent_idx": 7,
+    "text": "An ODA project takes at least four years from preparation to disbursement, according to ministry figures.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261112_dbaca18897#8",
+    "doc_id": "vietnamnews_20261112_dbaca18897",
+    "sent_idx": 8,
+    "text": "The ministry aims to reduce this period to 18-20 months, Tuấn said.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261112_dbaca18897#9",
+    "doc_id": "vietnamnews_20261112_dbaca18897",
+    "sent_idx": 9,
+    "text": "Deputy Prime Minister Nguyễn Văn Thắng said the Government is aiming to fully disburse the funds allocated under the 2026 public investment plan, an outcome expected to contribute an additional 1.7 percentage points to economic growth and support the country's double-digit growth target.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261112_dbaca18897#10",
+    "doc_id": "vietnamnews_20261112_dbaca18897",
+    "sent_idx": 10,
+    "text": "Public investment disbursement reached 74 per cent of the annual target in the first 10 months of 2026, which he described as a positive result.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261112_dbaca18897#11",
+    "doc_id": "vietnamnews_20261112_dbaca18897",
+    "sent_idx": 11,
+    "text": "However, the Government was determined to ensure that disbursement translated into actual economic activity rather than merely meeting numerical targets, Thắng stressed.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261112_dbaca18897#12",
+    "doc_id": "vietnamnews_20261112_dbaca18897",
+    "sent_idx": 12,
+    "text": "Regarding tax administration, Tuấn said tax revenue from e-commerce reached VNĐ241 trillion in the first 10 months of 2026, up approximately 42 per cent from a year earlier as the domestic e-commerce market continued to expand, having grown by around 20 per cent annually since 2022.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261112_dbaca18897#13",
+    "doc_id": "vietnamnews_20261112_dbaca18897",
+    "sent_idx": 13,
+    "text": "The ministry is strengthening taxpayer identification, collecting transaction data and connecting information systems with e-commerce platforms, payment providers and logistics companies.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261112_dbaca18897#14",
+    "doc_id": "vietnamnews_20261112_dbaca18897",
+    "sent_idx": 14,
+    "text": "Regarding the tax-code clean-up campaign, Tuấn said tax authorities had reviewed and updated 777,000 tax identification numbers since the beginning of 2026.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261112_dbaca18897#15",
+    "doc_id": "vietnamnews_20261112_dbaca18897",
+    "sent_idx": 15,
+    "text": "However, around 2.5 million tax identification numbers remained to be reviewed and standardised.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261112_dbaca18897#16",
+    "doc_id": "vietnamnews_20261112_dbaca18897",
+    "sent_idx": 16,
+    "text": "Most were associated with businesses that had ceased operations or were no longer operating at their registered addresses.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261112_dbaca18897#17",
+    "doc_id": "vietnamnews_20261112_dbaca18897",
+    "sent_idx": 17,
+    "text": "The work must be completed ahead of an OECD assessment scheduled for the second quarter of 2028, Tuấn said, noting that the outcome could affect Việt Nam's international standing in tax transparency and cooperation.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261112_dbaca18897#18",
+    "doc_id": "vietnamnews_20261112_dbaca18897",
+    "sent_idx": 18,
+    "text": "The ministry has submitted proposals to the Government and the National Assembly Standing Committee on procedures for resolving outstanding issues concerning tax identification numbers, Tuấn said.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261112_dbaca18897#19",
+    "doc_id": "vietnamnews_20261112_dbaca18897",
+    "sent_idx": 19,
+    "text": "Acknowledging that illegal invoice trading and the establishment of shell companies remained problems, Tuấn said the finance ministry will strengthen coordination with the Ministry of Public Security to verify the identities of individuals registering and representing businesses.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261112_dbaca18897#20",
+    "doc_id": "vietnamnews_20261112_dbaca18897",
+    "sent_idx": 20,
+    "text": "Responding to concerns about delayed VAT refunds, Tuấn said the tax authorities have introduced a risk-based classification system, with approximately 80 per cent of refund applications classified as green, allowing refunds to be issued before inspections are conducted.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261112_dbaca18897#21",
+    "doc_id": "vietnamnews_20261112_dbaca18897",
+    "sent_idx": 21,
+    "text": "The remaining 20 per cent are subject to inspection before refunds are granted.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261112_dbaca18897#22",
+    "doc_id": "vietnamnews_20261112_dbaca18897",
+    "sent_idx": 22,
+    "text": "All VAT refund applications are now processed electronically.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261112_dbaca18897#23",
+    "doc_id": "vietnamnews_20261112_dbaca18897",
+    "sent_idx": 23,
+    "text": "Tuấn stressed that tax officials must also be held accountable for delays.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261112_dbaca18897#24",
+    "doc_id": "vietnamnews_20261112_dbaca18897",
+    "sent_idx": 24,
+    "text": "National Assembly President Trần Thanh Mẫn called for faster action to improve public investment management, strengthen tax oversight and address persistent obstacles facing businesses.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261112_dbaca18897#25",
+    "doc_id": "vietnamnews_20261112_dbaca18897",
+    "sent_idx": 25,
+    "text": "Mẫn said capital must be reallocated from projects falling behind schedule to those better able to use the funds effectively.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261112_dbaca18897#26",
+    "doc_id": "vietnamnews_20261112_dbaca18897",
+    "sent_idx": 26,
+    "text": "For ODA-funded projects, he stressed the need for better preparation, closer coordination with donors and procedures that better match implementation capacity and debt repayment ability.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261112_dbaca18897#27",
+    "doc_id": "vietnamnews_20261112_dbaca18897",
+    "sent_idx": 27,
+    "text": "On PPP investment, he proposed studying the establishment of a project development fund combining State budget resources with financing from international financial institutions.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261112_dbaca18897#28",
+    "doc_id": "vietnamnews_20261112_dbaca18897",
+    "sent_idx": 28,
+    "text": "He also called for outstanding difficulties involving build-transfer (BT) projects to be resolved before December 31, 2027.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261112_dbaca18897#29",
+    "doc_id": "vietnamnews_20261112_dbaca18897",
+    "sent_idx": 29,
+    "text": "Regarding taxation, the chairman urged the Government to improve tax administration for e-commerce, digital platforms and foreign service providers, while strengthening inspections of high-risk taxpayers and reducing compliance costs for businesses and individuals. - VNS",
+    "lang": "en",
+    "is_title": false
+  }
+]

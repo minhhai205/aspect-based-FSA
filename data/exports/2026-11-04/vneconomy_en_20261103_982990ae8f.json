@@ -1,0 +1,146 @@
+[
+  {
+    "sent_id": "vneconomy_en_20261103_982990ae8f#0",
+    "doc_id": "vneconomy_en_20261103_982990ae8f",
+    "sent_idx": 0,
+    "text": "VARS comments on land price table mechanism and land price adjustment coefficient",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_982990ae8f#1",
+    "doc_id": "vneconomy_en_20261103_982990ae8f",
+    "sent_idx": 1,
+    "text": "According to the Vietnam Association of Realtors (VARS), the implementation of the 2024 Land Law has revealed that determining specific land prices has become one of the \"bottlenecks\" in real estate investment activities.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_982990ae8f#2",
+    "doc_id": "vneconomy_en_20261103_982990ae8f",
+    "sent_idx": 2,
+    "text": "In a recent document commenting on the draft amendment to the Land Law, VARS noted that the current land pricing process depends on many factors, lacks consistency in application, and prolongs the approval time for financial obligations.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_982990ae8f#3",
+    "doc_id": "vneconomy_en_20261103_982990ae8f",
+    "sent_idx": 3,
+    "text": "Some projects have to wait for land price determination for many years, affecting the progress of project implementation and the efficient use of resources.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_982990ae8f#4",
+    "doc_id": "vneconomy_en_20261103_982990ae8f",
+    "sent_idx": 4,
+    "text": "In this context, the draft amendment, dated September 12, 2026, continues to orient towards using the land price table multiplied by the K coefficient as a basis for calculating financial obligations in most cases, replacing the determination of specific land prices.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_982990ae8f#5",
+    "doc_id": "vneconomy_en_20261103_982990ae8f",
+    "sent_idx": 5,
+    "text": "VARS assesses this as a necessary direction, which can shorten the time for procedural implementation, reduce administrative costs, and enhance consistency in application.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_982990ae8f#6",
+    "doc_id": "vneconomy_en_20261103_982990ae8f",
+    "sent_idx": 6,
+    "text": "However, the scope of using the land price table and the K coefficient has been expanded to many activities, from calculating land use fees, land rent, compensation when land is recovered, to determining the starting price for auctions.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_982990ae8f#7",
+    "doc_id": "vneconomy_en_20261103_982990ae8f",
+    "sent_idx": 7,
+    "text": "Meanwhile, the draft has not fully clarified the basis for determination, the review cycle, and the mechanism for verifying the K coefficient.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_982990ae8f#8",
+    "doc_id": "vneconomy_en_20261103_982990ae8f",
+    "sent_idx": 8,
+    "text": "Therefore, VARS believes that without these regulations, the bottleneck may shift from the stage of determining specific land prices to the process of building the land price table and the K coefficient, while also posing risks regarding transparency and policy stability.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_982990ae8f#9",
+    "doc_id": "vneconomy_en_20261103_982990ae8f",
+    "sent_idx": 9,
+    "text": "To mitigate these risks, VARS recommends clarifying the nature of the K coefficient as the ratio between market land prices and land prices in the corresponding land price table, determined from transaction data, auctions, and verifiable information sources.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_982990ae8f#10",
+    "doc_id": "vneconomy_en_20261103_982990ae8f",
+    "sent_idx": 10,
+    "text": "Additionally, the land price table and the K coefficient need to be reviewed annually, adjusted when the market fluctuates beyond thresholds, and the calculation basis should be publicly disclosed before application.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_982990ae8f#11",
+    "doc_id": "vneconomy_en_20261103_982990ae8f",
+    "sent_idx": 11,
+    "text": "VARS proposes studying a fluctuation threshold of about 20% to trigger a review, with a publication period of no less than 6 months for adjustments that increase financial obligations.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_982990ae8f#12",
+    "doc_id": "vneconomy_en_20261103_982990ae8f",
+    "sent_idx": 12,
+    "text": "For cases directly affected by policy changes, it is suggested to build a targeted transition mechanism, focusing on households, individuals, and projects that have completed certain legal steps before the new land price table and K coefficient take effect.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_982990ae8f#13",
+    "doc_id": "vneconomy_en_20261103_982990ae8f",
+    "sent_idx": 13,
+    "text": "Proposed options include limiting the increase in financial obligations by phase, applying a transition roadmap, or allowing conditional installment payments.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_982990ae8f#14",
+    "doc_id": "vneconomy_en_20261103_982990ae8f",
+    "sent_idx": 14,
+    "text": "In the field of compensation, VARS recommends that the compensation rate for land should not be less than 100% of the land price determined according to the land price table and the K coefficient at the time of approving the compensation, support, and resettlement plan.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_982990ae8f#15",
+    "doc_id": "vneconomy_en_20261103_982990ae8f",
+    "sent_idx": 15,
+    "text": "Simultaneously, the Association proposes separating the functions of determining land value and regulating financial obligations.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_982990ae8f#16",
+    "doc_id": "vneconomy_en_20261103_982990ae8f",
+    "sent_idx": 16,
+    "text": "Accordingly, the K coefficient should reflect land value, while support, exemption, or adjustment of financial obligations must be implemented through separate, public tools with clear legal grounds.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_982990ae8f#17",
+    "doc_id": "vneconomy_en_20261103_982990ae8f",
+    "sent_idx": 17,
+    "text": "For projects involving land reclamation, mixed-use land, large-scale projects, or areas lacking transaction data, VARS recommends continuing to maintain the mechanism for determining specific land prices as an exceptional method with clear criteria, to limit errors in mass valuation.",
+    "lang": "en",
+    "is_title": false
+  }
+]

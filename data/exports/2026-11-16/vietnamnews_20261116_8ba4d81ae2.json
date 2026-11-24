@@ -1,0 +1,130 @@
+[
+  {
+    "sent_id": "vietnamnews_20261116_8ba4d81ae2#0",
+    "doc_id": "vietnamnews_20261116_8ba4d81ae2",
+    "sent_idx": 0,
+    "text": "Long Thành airport runs first full passenger trials ahead of commercial launch",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261116_8ba4d81ae2#1",
+    "doc_id": "vietnamnews_20261116_8ba4d81ae2",
+    "sent_idx": 1,
+    "text": "HÀ NỘI - Ahead of its first commercial flights from 00:00 on December 24, Long Thành International Airport in Đồng Nai city has put 50 staff through the terminal as \"passengers\" testing end-to-end service and operations at the country's largest mega-airport.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261116_8ba4d81ae2#2",
+    "doc_id": "vietnamnews_20261116_8ba4d81ae2",
+    "sent_idx": 2,
+    "text": "Under its ORAT trial, the airport ran scenario 1TO-11 - Phase 1 passenger service for domestic and international flights, using three simulated cases: domestic departure, international departure and international arrival.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261116_8ba4d81ae2#3",
+    "doc_id": "vietnamnews_20261116_8ba4d81ae2",
+    "sent_idx": 3,
+    "text": "The 50 airport personnel and relevant teams walked the full closed-loop process: check-in, boarding pass checks, security screening, immigration, health quarantine and customs.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261116_8ba4d81ae2#4",
+    "doc_id": "vietnamnews_20261116_8ba4d81ae2",
+    "sent_idx": 4,
+    "text": "Technical teams, meanwhile, checked coordination and passenger and baggage data flows across each stage, and reviewed departure gate control systems and passenger announcements.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261116_8ba4d81ae2#5",
+    "doc_id": "vietnamnews_20261116_8ba4d81ae2",
+    "sent_idx": 5,
+    "text": "After the standard passenger run, Long Thành moved to scenario 1TO-07 to test readiness for passengers with reduced mobility on domestic, international and international transit routes.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261116_8ba4d81ae2#6",
+    "doc_id": "vietnamnews_20261116_8ba4d81ae2",
+    "sent_idx": 6,
+    "text": "Units tightly reviewed wheelchair support from terminal movement and check-in through security, immigration, boarding, baggage collection and safe handover at arrivals.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261116_8ba4d81ae2#7",
+    "doc_id": "vietnamnews_20261116_8ba4d81ae2",
+    "sent_idx": 7,
+    "text": "Accessible infrastructure, including elevators, restrooms, signage, priority counters and dedicated routes, was also physically checked to ensure safety, convenience and a barrier-free journey once operations begin.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261116_8ba4d81ae2#8",
+    "doc_id": "vietnamnews_20261116_8ba4d81ae2",
+    "sent_idx": 8,
+    "text": "ORAT, or Operational Readiness and Airport Transfer, is a full-scale \"dress rehearsal\" designed to synchronise infrastructure, technology, people and procedures.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261116_8ba4d81ae2#9",
+    "doc_id": "vietnamnews_20261116_8ba4d81ae2",
+    "sent_idx": 9,
+    "text": "A Long Thành Airport representative said moving operations into a large-scale aviation facility is never easy.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261116_8ba4d81ae2#10",
+    "doc_id": "vietnamnews_20261116_8ba4d81ae2",
+    "sent_idx": 10,
+    "text": "ORAT lets operators practice procedures and test cross-sector coordination, exposing and fixing technical gaps or operational bottlenecks before the first passengers arrive.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261116_8ba4d81ae2#11",
+    "doc_id": "vietnamnews_20261116_8ba4d81ae2",
+    "sent_idx": 11,
+    "text": "ORAT typically runs through five strategic phases, including planning, preparation, trials and evaluation, operational transfer and post-opening support.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261116_8ba4d81ae2#12",
+    "doc_id": "vietnamnews_20261116_8ba4d81ae2",
+    "sent_idx": 12,
+    "text": "At Long Thành, these are being interwoven and run in parallel with construction and equipment installation.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261116_8ba4d81ae2#13",
+    "doc_id": "vietnamnews_20261116_8ba4d81ae2",
+    "sent_idx": 13,
+    "text": "The recent drills are just the start.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261116_8ba4d81ae2#14",
+    "doc_id": "vietnamnews_20261116_8ba4d81ae2",
+    "sent_idx": 14,
+    "text": "Long Thành will expand trial scenarios at larger scale, closing out final steps ahead of what it calls a historic takeoff day for Vietnamese aviation.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261116_8ba4d81ae2#15",
+    "doc_id": "vietnamnews_20261116_8ba4d81ae2",
+    "sent_idx": 15,
+    "text": "Under the initial plan, the Airports Corporation of Vietnam (ACV) expects to operate up to about 366 flights per week at Long Thành, including 322 domestic and 44 international flights. - VNA/VNS",
+    "lang": "en",
+    "is_title": false
+  }
+]

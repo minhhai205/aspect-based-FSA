@@ -1,0 +1,754 @@
+[
+  {
+    "sent_id": "vneconomy_en_20261110_a3ee27d203#0",
+    "doc_id": "vneconomy_en_20261110_a3ee27d203",
+    "sent_idx": 0,
+    "text": "Increasing influence",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_a3ee27d203#1",
+    "doc_id": "vneconomy_en_20261110_a3ee27d203",
+    "sent_idx": 1,
+    "text": "Vietnam's next phase of industrial development will require a shift from attracting investment to strengthening the quality and resilience of the industrial value it creates.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_a3ee27d203#2",
+    "doc_id": "vneconomy_en_20261110_a3ee27d203",
+    "sent_idx": 2,
+    "text": "At the recent \"Building Sustainable Industrial Value: From ESG Commitments to Real-World Implementation\" business dialogue, held by EuroCham Vietnam and Savills Vietnam in Hanoi on October 21, industry leaders discussed how environmental, social, and governance (ESG) commitments are reshaping investor expectations, and why implementation, rather than ambition alone, will determine whether Vietnam can sustain its competitive position.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_a3ee27d203#3",
+    "doc_id": "vneconomy_en_20261110_a3ee27d203",
+    "sent_idx": 3,
+    "text": "As manufacturers move toward higher-value activities and as new industries such as semiconductors and data centers emerge, the requirements for industrial property are changing.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_a3ee27d203#4",
+    "doc_id": "vneconomy_en_20261110_a3ee27d203",
+    "sent_idx": 4,
+    "text": "Investors increasingly look beyond land prices and labor availability to assess infrastructure reliability, energy costs, operational efficiency, and the ability of facilities to adapt as business needs evolve.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_a3ee27d203#5",
+    "doc_id": "vneconomy_en_20261110_a3ee27d203",
+    "sent_idx": 5,
+    "text": "Sustainability is becoming part of this broader calculation, linking environmental performance directly to productivity, cost control, and long-term asset value.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_a3ee27d203#6",
+    "doc_id": "vneconomy_en_20261110_a3ee27d203",
+    "sent_idx": 6,
+    "text": "For many multinational companies, sustainability is no longer simply a requirement to satisfy in a report or certification process.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_a3ee27d203#7",
+    "doc_id": "vneconomy_en_20261110_a3ee27d203",
+    "sent_idx": 7,
+    "text": "It increasingly influences where companies invest, which industrial parks they choose, and whether local suppliers can remain part of international supply chains.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_a3ee27d203#8",
+    "doc_id": "vneconomy_en_20261110_a3ee27d203",
+    "sent_idx": 8,
+    "text": "Mr. John Campbell, Director, Head of Industrial Service, at Savills Vietnam, said the shift was particularly visible among large investors and companies supplying multinational manufacturers.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_a3ee27d203#9",
+    "doc_id": "vneconomy_en_20261110_a3ee27d203",
+    "sent_idx": 9,
+    "text": "Though smaller tenants may still regard ESG as a desirable extra rather than a business necessity, expectations among larger occupiers are becoming more demanding.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_a3ee27d203#10",
+    "doc_id": "vneconomy_en_20261110_a3ee27d203",
+    "sent_idx": 10,
+    "text": "Sustainability can affect long-term operating costs and the ability to meet customers' requirements, making it increasingly relevant to investment decisions.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_a3ee27d203#11",
+    "doc_id": "vneconomy_en_20261110_a3ee27d203",
+    "sent_idx": 11,
+    "text": "However, the shift does not mean Vietnam is being rejected wholesale because of sustainability concerns.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_a3ee27d203#12",
+    "doc_id": "vneconomy_en_20261110_a3ee27d203",
+    "sent_idx": 12,
+    "text": "Rather, investors may compare individual localities and industrial parks according to the infrastructure and environmental standards they can offer.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_a3ee27d203#13",
+    "doc_id": "vneconomy_en_20261110_a3ee27d203",
+    "sent_idx": 13,
+    "text": "This places greater pressure on developers to demonstrate that their facilities can support occupiers' operational needs, rather than relying solely on competitive rents or available land.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_a3ee27d203#14",
+    "doc_id": "vneconomy_en_20261110_a3ee27d203",
+    "sent_idx": 14,
+    "text": "Mr. Jonathan Sourintha, Co-Chair of EuroCham's Green Growth Sector Committee and Co-Founder of Turn Green, described a broader change in corporate attitudes.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_a3ee27d203#15",
+    "doc_id": "vneconomy_en_20261110_a3ee27d203",
+    "sent_idx": 15,
+    "text": "Ten years ago, he said, companies paid less attention to how production was carried out.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_a3ee27d203#16",
+    "doc_id": "vneconomy_en_20261110_a3ee27d203",
+    "sent_idx": 16,
+    "text": "The mindset has changed, particularly since Covid-19, though businesses remain at different stages of the transition.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_a3ee27d203#17",
+    "doc_id": "vneconomy_en_20261110_a3ee27d203",
+    "sent_idx": 17,
+    "text": "Some companies are primarily concerned with meeting regulatory requirements, while others are beginning to go beyond compliance and use sustainability to develop new markets.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_a3ee27d203#18",
+    "doc_id": "vneconomy_en_20261110_a3ee27d203",
+    "sent_idx": 18,
+    "text": "The challenge is to move more businesses toward the latter approach.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_a3ee27d203#19",
+    "doc_id": "vneconomy_en_20261110_a3ee27d203",
+    "sent_idx": 19,
+    "text": "For Vietnam, this means ensuring that ESG policies and commitments translate into practical improvements in the way industrial facilities are designed, built, and operated.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_a3ee27d203#20",
+    "doc_id": "vneconomy_en_20261110_a3ee27d203",
+    "sent_idx": 20,
+    "text": "One of the most significant gaps in sustainable industrial development lies between a building's design and its day-to-day performance.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_a3ee27d203#21",
+    "doc_id": "vneconomy_en_20261110_a3ee27d203",
+    "sent_idx": 21,
+    "text": "A facility may be designed to meet environmental standards, but its actual performance depends on how well its systems are maintained, how efficiently resources are used, and how effectively operational problems are addressed.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_a3ee27d203#22",
+    "doc_id": "vneconomy_en_20261110_a3ee27d203",
+    "sent_idx": 22,
+    "text": "Mr. Luca Vadala, Head of Integrated Facility Management Services at Savills Vietnam, argued that facility management should be considered from the earliest stages of a project rather than introduced shortly before a building is handed over.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_a3ee27d203#23",
+    "doc_id": "vneconomy_en_20261110_a3ee27d203",
+    "sent_idx": 23,
+    "text": "In Vietnam, facility management providers are often engaged only three or four months before handover, when many important design and construction decisions have already been made.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_a3ee27d203#24",
+    "doc_id": "vneconomy_en_20261110_a3ee27d203",
+    "sent_idx": 24,
+    "text": "This can make it more difficult and expensive to correct problems that could have been anticipated earlier.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_a3ee27d203#25",
+    "doc_id": "vneconomy_en_20261110_a3ee27d203",
+    "sent_idx": 25,
+    "text": "The financial implications are substantial.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_a3ee27d203#26",
+    "doc_id": "vneconomy_en_20261110_a3ee27d203",
+    "sent_idx": 26,
+    "text": "An estimated 60-80 per cent of a building's lifecycle costs are associated with operation and maintenance, meaning that decisions made during design can have consequences long after construction is completed.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_a3ee27d203#27",
+    "doc_id": "vneconomy_en_20261110_a3ee27d203",
+    "sent_idx": 27,
+    "text": "Accessibility for maintenance, equipment selection, system integration, and the availability of technical documentation all influence whether a facility can be operated efficiently.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_a3ee27d203#28",
+    "doc_id": "vneconomy_en_20261110_a3ee27d203",
+    "sent_idx": 28,
+    "text": "Early involvement also helps clarify the responsibilities of developers, landlords, tenants, and service providers.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_a3ee27d203#29",
+    "doc_id": "vneconomy_en_20261110_a3ee27d203",
+    "sent_idx": 29,
+    "text": "Equipment records, testing documentation, and maintenance plans should be prepared and transferred systematically, allowing operators to understand how the building is intended to function.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_a3ee27d203#30",
+    "doc_id": "vneconomy_en_20261110_a3ee27d203",
+    "sent_idx": 30,
+    "text": "Rather than treating sustainability as a certificate obtained at the end of construction, developers need to establish measurable operational targets and systems for tracking performance throughout the building's life.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_a3ee27d203#31",
+    "doc_id": "vneconomy_en_20261110_a3ee27d203",
+    "sent_idx": 31,
+    "text": "Digitalization can support this transition.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_a3ee27d203#32",
+    "doc_id": "vneconomy_en_20261110_a3ee27d203",
+    "sent_idx": 32,
+    "text": "Building management systems can monitor equipment and energy consumption in real time, while computer-aided facility management and computerized maintenance management systems help organize maintenance schedules, retain records, and identify recurring problems.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_a3ee27d203#33",
+    "doc_id": "vneconomy_en_20261110_a3ee27d203",
+    "sent_idx": 33,
+    "text": "AI can also help detect anomalies and anticipate equipment failures, potentially reducing downtime and unnecessary energy use.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_a3ee27d203#34",
+    "doc_id": "vneconomy_en_20261110_a3ee27d203",
+    "sent_idx": 34,
+    "text": "But technology does not eliminate the need for professional judgment.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_a3ee27d203#35",
+    "doc_id": "vneconomy_en_20261110_a3ee27d203",
+    "sent_idx": 35,
+    "text": "As Mr. Vadala explained, a decline in electricity or water consumption does not automatically indicate improved efficiency: it could also reflect lower production.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_a3ee27d203#36",
+    "doc_id": "vneconomy_en_20261110_a3ee27d203",
+    "sent_idx": 36,
+    "text": "Data therefore needs to be interpreted in the context of operational activity.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_a3ee27d203#37",
+    "doc_id": "vneconomy_en_20261110_a3ee27d203",
+    "sent_idx": 37,
+    "text": "For industrial property owners and occupiers, the strongest argument for sustainability may be its effect on operating performance.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_a3ee27d203#38",
+    "doc_id": "vneconomy_en_20261110_a3ee27d203",
+    "sent_idx": 38,
+    "text": "Mr. Matthew Jackson, General Manager, Northern Vietnam, at the LŌ-GOI Group, emphasized that the objective should be to maximize output while minimizing the resources required to achieve it.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_a3ee27d203#39",
+    "doc_id": "vneconomy_en_20261110_a3ee27d203",
+    "sent_idx": 39,
+    "text": "In this view, ESG is not a separate layer added to an industrial asset, but a way to improve how the asset performs.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_a3ee27d203#40",
+    "doc_id": "vneconomy_en_20261110_a3ee27d203",
+    "sent_idx": 40,
+    "text": "\"My theory is that the optimal form of ESG is the least amount of input and the maximum amount of output that you're getting out of a real estate facility or a manufacturing facility,\" he explained.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_a3ee27d203#41",
+    "doc_id": "vneconomy_en_20261110_a3ee27d203",
+    "sent_idx": 41,
+    "text": "Solar panels, batteries, and other visible features, he continued, can contribute to better environmental performance, but their presence does not necessarily make a facility efficient.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_a3ee27d203#42",
+    "doc_id": "vneconomy_en_20261110_a3ee27d203",
+    "sent_idx": 42,
+    "text": "Poorly maintained equipment, production interruptions, and avoidable energy consumption can undermine the benefits of those investments.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_a3ee27d203#43",
+    "doc_id": "vneconomy_en_20261110_a3ee27d203",
+    "sent_idx": 43,
+    "text": "The financial consequences of operational inefficiency can be significant.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_a3ee27d203#44",
+    "doc_id": "vneconomy_en_20261110_a3ee27d203",
+    "sent_idx": 44,
+    "text": "A power interruption or equipment failure may disrupt an entire production line, while seemingly minor problems - such as leaking pipes, drainage failures, or inadequate preventive maintenance - can accumulate into higher costs and reduced productivity.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_a3ee27d203#45",
+    "doc_id": "vneconomy_en_20261110_a3ee27d203",
+    "sent_idx": 45,
+    "text": "For tenants, the resulting losses can outweigh the difference between a conventional facility and one with a modest rental premium.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_a3ee27d203#46",
+    "doc_id": "vneconomy_en_20261110_a3ee27d203",
+    "sent_idx": 46,
+    "text": "For owners, operational performance influences the asset's attractiveness to tenants and its long-term market value.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_a3ee27d203#47",
+    "doc_id": "vneconomy_en_20261110_a3ee27d203",
+    "sent_idx": 47,
+    "text": "This is why sustainability investments should be evaluated according to their practical contribution, rather than their visibility.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_a3ee27d203#48",
+    "doc_id": "vneconomy_en_20261110_a3ee27d203",
+    "sent_idx": 48,
+    "text": "Buying technology solely to demonstrate ESG credentials can add cost without delivering meaningful benefits.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_a3ee27d203#49",
+    "doc_id": "vneconomy_en_20261110_a3ee27d203",
+    "sent_idx": 49,
+    "text": "The priority should be to identify where resources are being wasted, establish measurable performance targets, and make investments that address the underlying problems.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_a3ee27d203#50",
+    "doc_id": "vneconomy_en_20261110_a3ee27d203",
+    "sent_idx": 50,
+    "text": "The same principle applies to the physical design of industrial buildings.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_a3ee27d203#51",
+    "doc_id": "vneconomy_en_20261110_a3ee27d203",
+    "sent_idx": 51,
+    "text": "A facility that can accommodate different tenants and uses is more likely to remain relevant as industries change.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_a3ee27d203#52",
+    "doc_id": "vneconomy_en_20261110_a3ee27d203",
+    "sent_idx": 52,
+    "text": "A building initially used for manufacturing might later need to combine manufacturing with warehousing or R&D.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_a3ee27d203#53",
+    "doc_id": "vneconomy_en_20261110_a3ee27d203",
+    "sent_idx": 53,
+    "text": "If its layout and systems cannot accommodate these changes, the owner may face expensive modifications or a shorter useful life.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_a3ee27d203#54",
+    "doc_id": "vneconomy_en_20261110_a3ee27d203",
+    "sent_idx": 54,
+    "text": "Adaptability can therefore support both commercial resilience and environmental performance.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_a3ee27d203#55",
+    "doc_id": "vneconomy_en_20261110_a3ee27d203",
+    "sent_idx": 55,
+    "text": "Keeping an industrial asset productive for longer can reduce the need for replacement construction and the associated consumption of materials.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_a3ee27d203#56",
+    "doc_id": "vneconomy_en_20261110_a3ee27d203",
+    "sent_idx": 56,
+    "text": "It also helps owners protect the long-term usefulness of their investments in a market where occupier requirements are evolving.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_a3ee27d203#57",
+    "doc_id": "vneconomy_en_20261110_a3ee27d203",
+    "sent_idx": 57,
+    "text": "Workforce conditions are another part of this equation.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_a3ee27d203#58",
+    "doc_id": "vneconomy_en_20261110_a3ee27d203",
+    "sent_idx": 58,
+    "text": "Mr. Jackson highlighted the importance of creating industrial environments that support employees, particularly in Vietnam, where many industrial workers move from rural areas to employment in manufacturing centers.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_a3ee27d203#59",
+    "doc_id": "vneconomy_en_20261110_a3ee27d203",
+    "sent_idx": 59,
+    "text": "Even the most efficient industrial facility cannot compensate for an unreliable electricity supply.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_a3ee27d203#60",
+    "doc_id": "vneconomy_en_20261110_a3ee27d203",
+    "sent_idx": 60,
+    "text": "As Vietnam seeks to attract more sophisticated manufacturing and digital infrastructure, power availability, reliability, and cost are becoming central to its investment proposition.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_a3ee27d203#61",
+    "doc_id": "vneconomy_en_20261110_a3ee27d203",
+    "sent_idx": 61,
+    "text": "Mr. Campbell identified semiconductors and data centers as important potential drivers of future industrial demand.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_a3ee27d203#62",
+    "doc_id": "vneconomy_en_20261110_a3ee27d203",
+    "sent_idx": 62,
+    "text": "Data center operators are examining opportunities in Vietnam, while the expansion of AI is increasing the scale of power requirements associated with digital infrastructure.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_a3ee27d203#63",
+    "doc_id": "vneconomy_en_20261110_a3ee27d203",
+    "sent_idx": 63,
+    "text": "These facilities can require substantially more electricity than conventional industrial operations, making available grid capacity and reliable supply fundamental conditions for investment.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_a3ee27d203#64",
+    "doc_id": "vneconomy_en_20261110_a3ee27d203",
+    "sent_idx": 64,
+    "text": "The challenge extends beyond data centers.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_a3ee27d203#65",
+    "doc_id": "vneconomy_en_20261110_a3ee27d203",
+    "sent_idx": 65,
+    "text": "Semiconductor manufacturing and increasing automation can also raise electricity demand, while investors must consider whether energy prices allow them to remain competitive with other production locations in Asia.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_a3ee27d203#66",
+    "doc_id": "vneconomy_en_20261110_a3ee27d203",
+    "sent_idx": 66,
+    "text": "A country may offer attractive labor costs and a growing industrial ecosystem, but those advantages can be undermined if electricity is expensive, unreliable, or unavailable at the scale required.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_a3ee27d203#67",
+    "doc_id": "vneconomy_en_20261110_a3ee27d203",
+    "sent_idx": 67,
+    "text": "ESG is increasingly becoming less of a tick-box exercise and more of a genuine requirement for certain manufacturers, particularly those with large-scale projects or major FDI investments.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_a3ee27d203#68",
+    "doc_id": "vneconomy_en_20261110_a3ee27d203",
+    "sent_idx": 68,
+    "text": "Incorporating sustainability at that scale saves money in the long term.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_a3ee27d203#69",
+    "doc_id": "vneconomy_en_20261110_a3ee27d203",
+    "sent_idx": 69,
+    "text": "Looking toward 2030, speakers identified energy as one of the most urgent priorities for Vietnam's industrial development.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_a3ee27d203#70",
+    "doc_id": "vneconomy_en_20261110_a3ee27d203",
+    "sent_idx": 70,
+    "text": "Mr. Campbell emphasized the need for reliable power capacity and credible guarantees of supply, while Mr. Jackson stressed that both availability and cost would shape investment decisions.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_a3ee27d203#71",
+    "doc_id": "vneconomy_en_20261110_a3ee27d203",
+    "sent_idx": 71,
+    "text": "As factories adopt more automated systems, the importance of competitive and dependable electricity is likely to increase further.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_a3ee27d203#72",
+    "doc_id": "vneconomy_en_20261110_a3ee27d203",
+    "sent_idx": 72,
+    "text": "Industrial property developers are already adapting to changing occupier requirements.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_a3ee27d203#73",
+    "doc_id": "vneconomy_en_20261110_a3ee27d203",
+    "sent_idx": 73,
+    "text": "Mr. Campbell noted a shift away from a market focused primarily on land transactions toward ready-built and customized facilities designed around tenants' specific operational needs.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_a3ee27d203#74",
+    "doc_id": "vneconomy_en_20261110_a3ee27d203",
+    "sent_idx": 74,
+    "text": "Industrial parks are also diversifying their offerings to accommodate logistics, distribution, R&D, data centers, and other activities alongside traditional manufacturing.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_a3ee27d203#75",
+    "doc_id": "vneconomy_en_20261110_a3ee27d203",
+    "sent_idx": 75,
+    "text": "These changes reflect a broader transformation in what investors expect from an industrial location.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_a3ee27d203#76",
+    "doc_id": "vneconomy_en_20261110_a3ee27d203",
+    "sent_idx": 76,
+    "text": "The ability to move into a facility quickly matters, but so does the confidence that its infrastructure will support production over the long term.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_a3ee27d203#77",
+    "doc_id": "vneconomy_en_20261110_a3ee27d203",
+    "sent_idx": 77,
+    "text": "For Vietnam, securing the next wave of investment will depend on matching its industrial ambitions with the energy and infrastructure required to deliver them.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_a3ee27d203#78",
+    "doc_id": "vneconomy_en_20261110_a3ee27d203",
+    "sent_idx": 78,
+    "text": "Vietnam has an opportunity to draw lessons from other Asian markets as it develops its industrial ecosystem.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_a3ee27d203#79",
+    "doc_id": "vneconomy_en_20261110_a3ee27d203",
+    "sent_idx": 79,
+    "text": "Its experience in manufacturing, combined with continuing investment in infrastructure and workforce capabilities, provides a foundation for moving into higher-value activities.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_a3ee27d203#80",
+    "doc_id": "vneconomy_en_20261110_a3ee27d203",
+    "sent_idx": 80,
+    "text": "Digitalization and AI could also help businesses improve productivity and adopt more advanced operating practices.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_a3ee27d203#81",
+    "doc_id": "vneconomy_en_20261110_a3ee27d203",
+    "sent_idx": 81,
+    "text": "However, progress will depend on implementation.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_a3ee27d203#82",
+    "doc_id": "vneconomy_en_20261110_a3ee27d203",
+    "sent_idx": 82,
+    "text": "Mr. Sourintha described Vietnam as a \"work in progress,\" noting that the country has clearer goals and regulations but still needs to accelerate the process of turning them into results.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_a3ee27d203#83",
+    "doc_id": "vneconomy_en_20261110_a3ee27d203",
+    "sent_idx": 83,
+    "text": "He pointed to opportunities in emerging areas such as offshore wind and the circular economy, which could create new industrial activities while supporting broader sustainability objectives.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_a3ee27d203#84",
+    "doc_id": "vneconomy_en_20261110_a3ee27d203",
+    "sent_idx": 84,
+    "text": "Mr. Campbell similarly cautioned against assuming that Vietnam can automatically leapfrog other markets.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_a3ee27d203#85",
+    "doc_id": "vneconomy_en_20261110_a3ee27d203",
+    "sent_idx": 85,
+    "text": "The country is adapting quickly, learning from regional experience and adjusting its industrial offering, but new technologies and changing investor expectations will continue to test its readiness.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_a3ee27d203#86",
+    "doc_id": "vneconomy_en_20261110_a3ee27d203",
+    "sent_idx": 86,
+    "text": "Mr. Vadala added that digitalization could help Vietnam advance more rapidly than earlier industrializing economies, though success would depend on how effectively businesses incorporate these tools into everyday operations.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_a3ee27d203#87",
+    "doc_id": "vneconomy_en_20261110_a3ee27d203",
+    "sent_idx": 87,
+    "text": "The priorities are interconnected: reliable and affordable energy supports investment; efficient facility management protects productivity; adaptable buildings extend asset life; and stronger logistics and waste management improve the wider industrial ecosystem.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_a3ee27d203#88",
+    "doc_id": "vneconomy_en_20261110_a3ee27d203",
+    "sent_idx": 88,
+    "text": "None can be addressed in isolation.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_a3ee27d203#89",
+    "doc_id": "vneconomy_en_20261110_a3ee27d203",
+    "sent_idx": 89,
+    "text": "Sustainable industrial development requires coordination between policymakers, developers, manufacturers, and service providers, with clear responsibilities and measurable results.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_a3ee27d203#90",
+    "doc_id": "vneconomy_en_20261110_a3ee27d203",
+    "sent_idx": 90,
+    "text": "Vietnam's competitive advantage will ultimately depend not only on how much investment it attracts, but also on how well its industrial assets perform over time.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_a3ee27d203#91",
+    "doc_id": "vneconomy_en_20261110_a3ee27d203",
+    "sent_idx": 91,
+    "text": "ESG commitments become meaningful when they influence design decisions, maintenance practices, energy use, and workforce conditions, and when their benefits can be demonstrated through better operational results.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_a3ee27d203#92",
+    "doc_id": "vneconomy_en_20261110_a3ee27d203",
+    "sent_idx": 92,
+    "text": "Turning those commitments into consistent performance will be essential if Vietnam is to attract higher-value investment and build a more resilient industrial economy.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_a3ee27d203#93",
+    "doc_id": "vneconomy_en_20261110_a3ee27d203",
+    "sent_idx": 93,
+    "text": "The optimal form of ESG is the least amount of input and the maximum amount of output that you're getting out of a real estate facility or a manufacturing facility.",
+    "lang": "en",
+    "is_title": false
+  }
+]

@@ -1,0 +1,186 @@
+[
+  {
+    "sent_id": "vietnamnews_20261030_e29c519a1d#0",
+    "doc_id": "vietnamnews_20261030_e29c519a1d",
+    "sent_idx": 0,
+    "text": "Acoustic warning systems proposed to be mandatory for battery EVs",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261030_e29c519a1d#1",
+    "doc_id": "vietnamnews_20261030_e29c519a1d",
+    "sent_idx": 1,
+    "text": "HÀ NỘI - The Vietnam Register has proposed requiring all battery electric vehicles (BEVs) to be equipped with acoustic vehicle alerting systems (AVAS) under a draft technical regulation aimed at improving road safety.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261030_e29c519a1d#2",
+    "doc_id": "vietnamnews_20261030_e29c519a1d",
+    "sent_idx": 2,
+    "text": "The draft, which is being made public for comments, would replace the existing standard QCVN 09:2024/BGTVT on technical safety and environmental protection requirements for automobiles.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261030_e29c519a1d#3",
+    "doc_id": "vietnamnews_20261030_e29c519a1d",
+    "sent_idx": 3,
+    "text": "Under the proposal, BEVs, also known as pure electric vehicles, would be required to have AVAS, while other vehicle types would not be subject to the mandate.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261030_e29c519a1d#4",
+    "doc_id": "vietnamnews_20261030_e29c519a1d",
+    "sent_idx": 4,
+    "text": "The system would automatically activate when a vehicle travels at speeds below 20km per hour or in reserse.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261030_e29c519a1d#5",
+    "doc_id": "vietnamnews_20261030_e29c519a1d",
+    "sent_idx": 5,
+    "text": "AVAS controls could be installed within the driver's reach to activate or deactivate the system easily.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261030_e29c519a1d#6",
+    "doc_id": "vietnamnews_20261030_e29c519a1d",
+    "sent_idx": 6,
+    "text": "However, the system would default to active mode whenever the vehicle starts.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261030_e29c519a1d#7",
+    "doc_id": "vietnamnews_20261030_e29c519a1d",
+    "sent_idx": 7,
+    "text": "The draft also stipulates that the volume of the warning may decrease as vehicle speed increases.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261030_e29c519a1d#8",
+    "doc_id": "vietnamnews_20261030_e29c519a1d",
+    "sent_idx": 8,
+    "text": "The sound must provide continuous information to pedestrians, cyclists and other potentially vulnerable road users about a vehicle's presence and movement.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261030_e29c519a1d#9",
+    "doc_id": "vietnamnews_20261030_e29c519a1d",
+    "sent_idx": 9,
+    "text": "Under the proposed regulation, sounds that could be confused with warning signals, emergency alerts or sirens of priority vehicles would be prohibited.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261030_e29c519a1d#10",
+    "doc_id": "vietnamnews_20261030_e29c519a1d",
+    "sent_idx": 10,
+    "text": "These include horns, bells, sirens, fire alarms, burglar alarms, smoke alarms, intermittent sounds, musical tones and imitations of animal or insect noises.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261030_e29c519a1d#11",
+    "doc_id": "vietnamnews_20261030_e29c519a1d",
+    "sent_idx": 11,
+    "text": "In addition, sounds that could mislead road users about a vehicle's type, operating status or direction of travel would also be prohibited.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261030_e29c519a1d#12",
+    "doc_id": "vietnamnews_20261030_e29c519a1d",
+    "sent_idx": 12,
+    "text": "The Vietnam Register said the existing regulations already addressed AVAS, but did not make the equipment compulsory for BEVs.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261030_e29c519a1d#13",
+    "doc_id": "vietnamnews_20261030_e29c519a1d",
+    "sent_idx": 13,
+    "text": "The department pointed out that Europe has recently made AVAS compulsory for BEVs rather than an optional feature.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261030_e29c519a1d#14",
+    "doc_id": "vietnamnews_20261030_e29c519a1d",
+    "sent_idx": 14,
+    "text": "As a result, introducing a mandatory AVAS requirement for electric cars in Việt Nam would not be a problem for imported cars.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261030_e29c519a1d#15",
+    "doc_id": "vietnamnews_20261030_e29c519a1d",
+    "sent_idx": 15,
+    "text": "According to the department, AVAS is expected to improve safety for pedestrians and motorcyclists, particularly in urban areas.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261030_e29c519a1d#16",
+    "doc_id": "vietnamnews_20261030_e29c519a1d",
+    "sent_idx": 16,
+    "text": "Pure electric vehicles can travel at low speeds with little audible engine noise, making them difficult for people nearby to detect.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261030_e29c519a1d#17",
+    "doc_id": "vietnamnews_20261030_e29c519a1d",
+    "sent_idx": 17,
+    "text": "AVAS is expected to help pedestrians, cyclists and people with visual impairments recognise a vehicle's presence, direction and movement, particularly near passenger pick-up and drop-off points, car parks and on urban streets, the department said.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261030_e29c519a1d#18",
+    "doc_id": "vietnamnews_20261030_e29c519a1d",
+    "sent_idx": 18,
+    "text": "The Vietnam Register said additional costs could include sound-generating equipment, control units, wiring, sound calibration and conformity assessments for vehicle models that do not already meet the requirements.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261030_e29c519a1d#19",
+    "doc_id": "vietnamnews_20261030_e29c519a1d",
+    "sent_idx": 19,
+    "text": "According to a blog post on its website, BEV maker VinFast said AVAS enhances safety for pedestrians and nearby road users, particularly in residential areas, car parks and when vehicles start moving in confined spaces.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261030_e29c519a1d#20",
+    "doc_id": "vietnamnews_20261030_e29c519a1d",
+    "sent_idx": 20,
+    "text": "The system is designed to preserve the quiet driving experience associated with BEVs, with warning sounds calibrated to alert people without causing discomfort.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261030_e29c519a1d#21",
+    "doc_id": "vietnamnews_20261030_e29c519a1d",
+    "sent_idx": 21,
+    "text": "VinFast said AVAS also helps BEVs meet international safety standards for acoustic warnings.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261030_e29c519a1d#22",
+    "doc_id": "vietnamnews_20261030_e29c519a1d",
+    "sent_idx": 22,
+    "text": "However, the company cautioned drivers against relying solely on AVAS to alert pedestrians, stressing that the system is a safety aid rather than a collision-avoidance feature, urging drivers to remain alert to their surroundings and follow safe driving practices. - VNS",
+    "lang": "en",
+    "is_title": false
+  }
+]

@@ -1,0 +1,154 @@
+[
+  {
+    "sent_id": "vietnamnews_20261120_78f8261c8e#0",
+    "doc_id": "vietnamnews_20261120_78f8261c8e",
+    "sent_idx": 0,
+    "text": "Banks' spending on deposit interest up 52.7 per cent as rates rise",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261120_78f8261c8e#1",
+    "doc_id": "vietnamnews_20261120_78f8261c8e",
+    "sent_idx": 1,
+    "text": "HÀ NỘI - Banks spent more than VNĐ560 trillion (US$21.8 billion) paying interest on customer deposits in the first nine months of 2026, up 52.7 per cent year-on-year, as rising deposit rates pushed up funding costs.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261120_78f8261c8e#2",
+    "doc_id": "vietnamnews_20261120_78f8261c8e",
+    "sent_idx": 2,
+    "text": "Financial statements for the third quarter of 2026 from 29 listed banks showed that all recorded higher interest expenses on customer deposits compared with the same period last year.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261120_78f8261c8e#3",
+    "doc_id": "vietnamnews_20261120_78f8261c8e",
+    "sent_idx": 3,
+    "text": "Military Commercial Joint Stock Bank (MB) reported the sharpest increase, with deposit interest expenses reaching VNĐ34.9 trillion, up 99.4 per cent year-on-year.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261120_78f8261c8e#4",
+    "doc_id": "vietnamnews_20261120_78f8261c8e",
+    "sent_idx": 4,
+    "text": "As of September 30, MB's customer deposits stood at VNĐ990.5 trillion, a 26 per cent increase from VNĐ782.7 trillion a year earlier.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261120_78f8261c8e#5",
+    "doc_id": "vietnamnews_20261120_78f8261c8e",
+    "sent_idx": 5,
+    "text": "Several other banks also recorded increases of more than 70 per cent in deposit interest expenses, including HDBank (up 79.3 per cent), National Citizen Bank (up 77.5 per cent), ABBank (up 73 per cent), TPBank (up 72 per cent), Techcombank (up 71 per cent) and Nam A Bank (up 70.4 per cent).",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261120_78f8261c8e#6",
+    "doc_id": "vietnamnews_20261120_78f8261c8e",
+    "sent_idx": 6,
+    "text": "VPBank and MSB reported increases of 68.5 per cent and 66 per cent, respectively.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261120_78f8261c8e#7",
+    "doc_id": "vietnamnews_20261120_78f8261c8e",
+    "sent_idx": 7,
+    "text": "Three State-owned lenders - BIDV, VietinBank and Vietcombank - recorded the largest deposit interest expenses in absolute terms, although their growth rates remained below 50 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261120_78f8261c8e#8",
+    "doc_id": "vietnamnews_20261120_78f8261c8e",
+    "sent_idx": 8,
+    "text": "BIDV spent VNĐ76.6 trillion on deposit interest during the period, followed by VietinBank with VNĐ68.7 trillion and Vietcombank with VNĐ48.4 trillion.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261120_78f8261c8e#9",
+    "doc_id": "vietnamnews_20261120_78f8261c8e",
+    "sent_idx": 9,
+    "text": "Among private lenders, VPBank reported interest expenses of VNĐ35 trillion, while MB, SHB and HDBank recorded approximately VNĐ34.9 trillion, VNĐ34.3 trillion and VNĐ34 trillion, respectively.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261120_78f8261c8e#10",
+    "doc_id": "vietnamnews_20261120_78f8261c8e",
+    "sent_idx": 10,
+    "text": "The 29 banks collectively spent approximately VNĐ560 trillion on customer deposit interest by the end of September, while their total customer deposits reached around VNĐ14.4 quadrillion.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261120_78f8261c8e#11",
+    "doc_id": "vietnamnews_20261120_78f8261c8e",
+    "sent_idx": 11,
+    "text": "The increase in interest expenses was driven not only by deposit growth, but also by higher deposit rates since the beginning of the year, amid strong credit demand and competition for funding.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261120_78f8261c8e#12",
+    "doc_id": "vietnamnews_20261120_78f8261c8e",
+    "sent_idx": 12,
+    "text": "From early 2026 through September, interest rates in Việt Nam climbed steadily on strong credit demand, outpacing deposit growth with medium- to long-term deposit rates rising by an average of 1 to 1.5 percentage points to reach around 7.5 per cent per annum or even 9 per cent, which pushed up average lending rates.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261120_78f8261c8e#13",
+    "doc_id": "vietnamnews_20261120_78f8261c8e",
+    "sent_idx": 13,
+    "text": "To ease borrowing costs for production and business, the Government and the State Bank of Vietnam (SBV) are working to cut deposit rates by at least 0.5 percentage points and up to 2 percentage points for priority sectors.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261120_78f8261c8e#14",
+    "doc_id": "vietnamnews_20261120_78f8261c8e",
+    "sent_idx": 14,
+    "text": "The SBV in late October reported that average interest rates on newly mobilised deposits had fallen by 0.4 percentage points per year compared with mid-October, while average lending rates had declined by up to 0.5 percentage points.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261120_78f8261c8e#15",
+    "doc_id": "vietnamnews_20261120_78f8261c8e",
+    "sent_idx": 15,
+    "text": "Cấn Văn Lực, a member of the National Financial and Monetary Policy Advisory Council, said sustainable reductions in interest rates over the longer term will require coordinated measures rather than reliance solely on administrative interventions.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261120_78f8261c8e#16",
+    "doc_id": "vietnamnews_20261120_78f8261c8e",
+    "sent_idx": 16,
+    "text": "The SBV could consider using foreign exchange swap instruments or purchasing foreign currency from commercial banks to support market liquidity, depending on developments in capital and foreign exchange supply and demand, he said.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261120_78f8261c8e#17",
+    "doc_id": "vietnamnews_20261120_78f8261c8e",
+    "sent_idx": 17,
+    "text": "He also highlighted the need to accelerate public investment disbursement and resolve stalled projects to improve cash flows across the economy.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261120_78f8261c8e#18",
+    "doc_id": "vietnamnews_20261120_78f8261c8e",
+    "sent_idx": 18,
+    "text": "Speeding up value-added tax refunds and other tax refunds would also help ease liquidity pressures and support economic activity, he said. - VNS",
+    "lang": "en",
+    "is_title": false
+  }
+]

@@ -1,0 +1,154 @@
+[
+  {
+    "sent_id": "vneconomy_en_20261107_cc6bc42ace#0",
+    "doc_id": "vneconomy_en_20261107_cc6bc42ace",
+    "sent_idx": 0,
+    "text": "Vietnamese building materials required to bear energy labels from 2029",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vneconomy_en_20261107_cc6bc42ace#1",
+    "doc_id": "vneconomy_en_20261107_cc6bc42ace",
+    "sent_idx": 1,
+    "text": "Detailed regulations regarding label specifications and administrative penalties have also been officially established.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261107_cc6bc42ace#2",
+    "doc_id": "vneconomy_en_20261107_cc6bc42ace",
+    "sent_idx": 2,
+    "text": "To ensure management transparency, the Ministry of Construction has promulgated regulations on energy labeling for building materials within its jurisdiction, clearly identifying impacted entities as well as exemption cases.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261107_cc6bc42ace#3",
+    "doc_id": "vneconomy_en_20261107_cc6bc42ace",
+    "sent_idx": 3,
+    "text": "The regulations apply to manufacturers, importers, distributors, and retailers, including e-commerce platforms, handling building materials subject to mandatory energy labeling.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261107_cc6bc42ace#4",
+    "doc_id": "vneconomy_en_20261107_cc6bc42ace",
+    "sent_idx": 4,
+    "text": "They also govern testing laboratories measuring thermal characteristics for labeling, along with relevant state management agencies, organizations, and individuals.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261107_cc6bc42ace#5",
+    "doc_id": "vneconomy_en_20261107_cc6bc42ace",
+    "sent_idx": 5,
+    "text": "Exemptions are granted to building materials under temporary import for re-export, transit, or transshipment; goods manufactured or processed strictly for export; non-commercial imports, gifts, samples, displays, and research or testing items not placed on the market; and materials serving national defense, security, or state secret purposes.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261107_cc6bc42ace#6",
+    "doc_id": "vneconomy_en_20261107_cc6bc42ace",
+    "sent_idx": 6,
+    "text": "The energy labeling catalog for building materials is divided into two distinct groups based on implementation timelines.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261107_cc6bc42ace#7",
+    "doc_id": "vneconomy_en_20261107_cc6bc42ace",
+    "sent_idx": 7,
+    "text": "Group 1 products face mandatory energy labeling starting January 1, 2029.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261107_cc6bc42ace#8",
+    "doc_id": "vneconomy_en_20261107_cc6bc42ace",
+    "sent_idx": 8,
+    "text": "This group comprises construction glass (including float glass, sheet glass made via horizontal or vertical drawing, patterned glass, tempered glass, laminated and safety laminated glass, low-E glass, reflective glass, sealed insulating glass units, heat-absorbing colored glass, photochromic glass, solar-integrated glass, and wire glass), emulsion wall paints, as well as metal roofing and cladding sheets.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261107_cc6bc42ace#9",
+    "doc_id": "vneconomy_en_20261107_cc6bc42ace",
+    "sent_idx": 9,
+    "text": "Group 2 products will require energy labeling from January 1, 2031.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261107_cc6bc42ace#10",
+    "doc_id": "vneconomy_en_20261107_cc6bc42ace",
+    "sent_idx": 10,
+    "text": "This group includes thermal insulation foam boards made of polystyrene, polyurethane, and other materials; ceiling and partition panels; and non-baked building materials such as autoclaved aerated concrete blocks and panels, extruded hollow concrete wall panels, three-layer sandwich lightweight panels, and lightweight concrete blocks and panels.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261107_cc6bc42ace#11",
+    "doc_id": "vneconomy_en_20261107_cc6bc42ace",
+    "sent_idx": 11,
+    "text": "Energy labels must display key information, including the manufacturer or importer name, product name, model identifier, thermal characteristics, declared values, testing standards used, and an electronic lookup code where available.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261107_cc6bc42ace#12",
+    "doc_id": "vneconomy_en_20261107_cc6bc42ace",
+    "sent_idx": 12,
+    "text": "Labels can be integrated into product labeling or displayed separately, with sizes appropriate to ensure clarity.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261107_cc6bc42ace#13",
+    "doc_id": "vneconomy_en_20261107_cc6bc42ace",
+    "sent_idx": 13,
+    "text": "Manufacturers and importers must submit electronic declarations to the Ministry of Construction for publication on its portal and publish them on their corporate websites.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261107_cc6bc42ace#14",
+    "doc_id": "vneconomy_en_20261107_cc6bc42ace",
+    "sent_idx": 14,
+    "text": "Re-testing and re-declaration are mandatory when changes occur in product structure, raw materials, technology, or manufacturing location.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261107_cc6bc42ace#15",
+    "doc_id": "vneconomy_en_20261107_cc6bc42ace",
+    "sent_idx": 15,
+    "text": "For purely administrative changes, businesses must update their websites and notify the ministry without re-testing.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261107_cc6bc42ace#16",
+    "doc_id": "vneconomy_en_20261107_cc6bc42ace",
+    "sent_idx": 16,
+    "text": "Energy labels will be suspended or revoked for counterfeit labeling, unapproved labeling, inaccurate specifications, fraudulent dossiers, or repeated violations penalized two or more times.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261107_cc6bc42ace#17",
+    "doc_id": "vneconomy_en_20261107_cc6bc42ace",
+    "sent_idx": 17,
+    "text": "Provincial People's Committees will issue enforcement decisions based on inspection findings and notify the Ministry of Construction.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261107_cc6bc42ace#18",
+    "doc_id": "vneconomy_en_20261107_cc6bc42ace",
+    "sent_idx": 18,
+    "text": "Non-compliant enterprises must execute corrective measures before resuming label usage.",
+    "lang": "en",
+    "is_title": false
+  }
+]

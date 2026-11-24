@@ -1,0 +1,106 @@
+[
+  {
+    "sent_id": "vneconomy_en_20261104_b1824d49e4#0",
+    "doc_id": "vneconomy_en_20261104_b1824d49e4",
+    "sent_idx": 0,
+    "text": "Vietnam unveils first domestically designed security chip",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vneconomy_en_20261104_b1824d49e4#1",
+    "doc_id": "vneconomy_en_20261104_b1824d49e4",
+    "sent_idx": 1,
+    "text": "Vietnam's Government Cipher Committee and military-run telecom group Viettel on November 3 unveiled the VGC v1.0 security chip, alongside the country's first domestically designed secure semiconductor platform.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261104_b1824d49e4#2",
+    "doc_id": "vneconomy_en_20261104_b1824d49e4",
+    "sent_idx": 2,
+    "text": "The launch marks a milestone for Vietnam's semiconductor and national cryptographic security industries, bringing Vietnamese cryptographic algorithms directly onto silicon and laying the groundwork for protecting digital sovereignty through core technologies.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261104_b1824d49e4#3",
+    "doc_id": "vneconomy_en_20261104_b1824d49e4",
+    "sent_idx": 3,
+    "text": "Presenting the results of the VGC v1.0 design and manufacturing project and the development of the secure semiconductor platform, Lieutenant General Vu Ngoc Thiem, head of the Government Cipher Committee, said that in today's digital environment, information protection must begin at the hardware level where cryptographic operations are performed.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261104_b1824d49e4#4",
+    "doc_id": "vneconomy_en_20261104_b1824d49e4",
+    "sent_idx": 4,
+    "text": "He stressed that national sovereignty is increasingly linked to the ability to protect data, secure information systems and master essential technologies.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261104_b1824d49e4#5",
+    "doc_id": "vneconomy_en_20261104_b1824d49e4",
+    "sent_idx": 5,
+    "text": "To meet these requirements, the committee and Viettel jointly developed the secure semiconductor platform, with VGC v1.0 as its first product.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261104_b1824d49e4#6",
+    "doc_id": "vneconomy_en_20261104_b1824d49e4",
+    "sent_idx": 6,
+    "text": "The chip measures 10 × 10 mm in package size, contains 300 million transistors and is manufactured using a 28-nanometre CMOS process.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261104_b1824d49e4#7",
+    "doc_id": "vneconomy_en_20261104_b1824d49e4",
+    "sent_idx": 7,
+    "text": "Testing showed that the chip can encrypt and decrypt data approximately 15 times faster than a purely software-based solution performing the same tasks.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261104_b1824d49e4#8",
+    "doc_id": "vneconomy_en_20261104_b1824d49e4",
+    "sent_idx": 8,
+    "text": "Engineers also implemented technical measures to protect the chip's design before it was sent to the manufacturing plant, helping reduce the risk of information leakage or reverse engineering.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261104_b1824d49e4#9",
+    "doc_id": "vneconomy_en_20261104_b1824d49e4",
+    "sent_idx": 9,
+    "text": "Internationally, manufacturers have integrated dedicated security chips or hardware into digital devices to support cryptographic processing and data protection.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261104_b1824d49e4#10",
+    "doc_id": "vneconomy_en_20261104_b1824d49e4",
+    "sent_idx": 10,
+    "text": "Examples include Google's Titan M chip in selected Pixel devices and Apple's Secure Enclave technology.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261104_b1824d49e4#11",
+    "doc_id": "vneconomy_en_20261104_b1824d49e4",
+    "sent_idx": 11,
+    "text": "VGC v1.0 follows a similar development approach.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261104_b1824d49e4#12",
+    "doc_id": "vneconomy_en_20261104_b1824d49e4",
+    "sent_idx": 12,
+    "text": "In the first quarter of 2026, the initial batch of VGC v1.0 chips passed technical testing and received certification for use in socio-economic activities.",
+    "lang": "en",
+    "is_title": false
+  }
+]

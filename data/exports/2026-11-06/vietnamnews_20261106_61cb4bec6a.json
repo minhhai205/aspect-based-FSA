@@ -1,0 +1,170 @@
+[
+  {
+    "sent_id": "vietnamnews_20261106_61cb4bec6a#0",
+    "doc_id": "vietnamnews_20261106_61cb4bec6a",
+    "sent_idx": 0,
+    "text": "Central bank uses FX swap to support liquidity for banking system",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261106_61cb4bec6a#1",
+    "doc_id": "vietnamnews_20261106_61cb4bec6a",
+    "sent_idx": 1,
+    "text": "HÀ NỘI - The State Bank of Vietnam (SBV) is implement a six month foreign exchange (FX) swap with a maximum volume of US$2 billion, meaning that nearly VNĐ49 trillion will be injected to strengthen liquidity support for the banking system.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_61cb4bec6a#2",
+    "doc_id": "vietnamnews_20261106_61cb4bec6a",
+    "sent_idx": 2,
+    "text": "According to the Interbank Market Research Association, the SBV on Wednesday announced that it will conduct a 182-day FX swap operation today, with a maximum size of $2 billion.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_61cb4bec6a#3",
+    "doc_id": "vietnamnews_20261106_61cb4bec6a",
+    "sent_idx": 3,
+    "text": "Specifically, the SBV will buy the US dollar at a spot exchange rate of VNĐ24,399 per dollar and sell them back at a forward rate of VNĐ24,704 per dollar.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_61cb4bec6a#4",
+    "doc_id": "vietnamnews_20261106_61cb4bec6a",
+    "sent_idx": 4,
+    "text": "The transaction date is expected to be today, with maturity scheduled for May 10, 2027.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_61cb4bec6a#5",
+    "doc_id": "vietnamnews_20261106_61cb4bec6a",
+    "sent_idx": 5,
+    "text": "Eligible participants include credit institutions and foreign bank branches with outstanding medium- and long-term foreign loans or international bonds carrying a remaining maturity of at least 12 months.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_61cb4bec6a#6",
+    "doc_id": "vietnamnews_20261106_61cb4bec6a",
+    "sent_idx": 6,
+    "text": "Each bank may register for up to 80 per cent of the operation's total size, subject to the limit of its eligible outstanding foreign currency debt.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_61cb4bec6a#7",
+    "doc_id": "vietnamnews_20261106_61cb4bec6a",
+    "sent_idx": 7,
+    "text": "Through the operation, banks can temporarily convert their dollar holdings into Vietnamese đồng to supplement liquidity.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_61cb4bec6a#8",
+    "doc_id": "vietnamnews_20261106_61cb4bec6a",
+    "sent_idx": 8,
+    "text": "With the buying price set at VNĐ24,399 per dollar, the maximum amount of VNĐ liquidity potentially injected into the system is estimated at nearly VNĐ49 trillion.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_61cb4bec6a#9",
+    "doc_id": "vietnamnews_20261106_61cb4bec6a",
+    "sent_idx": 9,
+    "text": "FX swaps are a tool frequently employed by the SBV, primarily to support short-term liquidity within the banking system.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_61cb4bec6a#10",
+    "doc_id": "vietnamnews_20261106_61cb4bec6a",
+    "sent_idx": 10,
+    "text": "This year, the central bank conducted several FX swap transactions, ranging from $1 billion to $2 billion in volume, but these were for short tenors of less than 30 days.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_61cb4bec6a#11",
+    "doc_id": "vietnamnews_20261106_61cb4bec6a",
+    "sent_idx": 11,
+    "text": "This FX swap marks the first time the SBV has executed such a transaction with a relatively longer tenor.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_61cb4bec6a#12",
+    "doc_id": "vietnamnews_20261106_61cb4bec6a",
+    "sent_idx": 12,
+    "text": "This measure is expected to provide credit institutions with a more abundant supply of the đồng , thereby helping to lower interest rate levels and support the goal of achieving double-digit economic growth.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_61cb4bec6a#13",
+    "doc_id": "vietnamnews_20261106_61cb4bec6a",
+    "sent_idx": 13,
+    "text": "Besides, the SBV believed that the flexible FX swap instruments has helped support short-term liquidity within the system, while maintaining interest rate differentials at appropriate levels to mitigate pressure on the exchange rate.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_61cb4bec6a#14",
+    "doc_id": "vietnamnews_20261106_61cb4bec6a",
+    "sent_idx": 14,
+    "text": "According to analysts from the VPS Securities Company, the SBV has conducted several FX swap operations since the beginning of this year, typically with maturities ranging from three to 21 days and maximum sizes of $1 billion to $2 billion.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_61cb4bec6a#15",
+    "doc_id": "vietnamnews_20261106_61cb4bec6a",
+    "sent_idx": 15,
+    "text": "Extending the maturity to 182 days therefore marks a notable shift in the SBV's approach to liquidity management.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_61cb4bec6a#16",
+    "doc_id": "vietnamnews_20261106_61cb4bec6a",
+    "sent_idx": 16,
+    "text": "VPS's analysts said that the SBV was proactively supporting VNĐ liquidity amid rising funding demand across the banking system.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_61cb4bec6a#17",
+    "doc_id": "vietnamnews_20261106_61cb4bec6a",
+    "sent_idx": 17,
+    "text": "With a maximum size of $2 billion, the FX swap operation can help ease liquidity pressures and cool interbank interest rates.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_61cb4bec6a#18",
+    "doc_id": "vietnamnews_20261106_61cb4bec6a",
+    "sent_idx": 18,
+    "text": "More importantly, the extension of the swap maturity to 182 days will allow banks to maintain more stable funding sources over a longer period, reducing the need to repeatedly roll over funding and limiting the risk of short-term liquidity shortages.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_61cb4bec6a#19",
+    "doc_id": "vietnamnews_20261106_61cb4bec6a",
+    "sent_idx": 19,
+    "text": "As pressure on the interbank funding market eases, banks may also have less need to compete aggressively for deposits from households and businesses, the analysts said.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_61cb4bec6a#20",
+    "doc_id": "vietnamnews_20261106_61cb4bec6a",
+    "sent_idx": 20,
+    "text": "Given the persistent uncertainties in the global economy, the SBV said that it will continue to manage monetary policy in a proactive, flexible, and prudent manner, closely coordinating with fiscal policy, to control inflation, ensure macro-economic stability, and support sustainable growth. - BIZHUB/VNS",
+    "lang": "en",
+    "is_title": false
+  }
+]

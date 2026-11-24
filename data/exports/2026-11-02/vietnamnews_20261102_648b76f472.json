@@ -1,0 +1,186 @@
+[
+  {
+    "sent_id": "vietnamnews_20261102_648b76f472#0",
+    "doc_id": "vietnamnews_20261102_648b76f472",
+    "sent_idx": 0,
+    "text": "Vietjet posts nine-month revenue of $2.88 billion, profit rises",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261102_648b76f472#1",
+    "doc_id": "vietnamnews_20261102_648b76f472",
+    "sent_idx": 1,
+    "text": "HCM CITY - Vietjet Aviation Joint Stock Company (HOSE: VJC) reported consolidated revenue of VNĐ74.39 trillion (US$2.88 billion) in the first nine months of 2026, with net profit after tax reaching VNĐ1.72 trillion, as the airline expanded its international network and increased investment in fleet and operational capabilities.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261102_648b76f472#2",
+    "doc_id": "vietnamnews_20261102_648b76f472",
+    "sent_idx": 2,
+    "text": "The revenue and profit figures represented 86 per cent and 82 per cent, respectively, of the airline's full-year targets.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261102_648b76f472#3",
+    "doc_id": "vietnamnews_20261102_648b76f472",
+    "sent_idx": 3,
+    "text": "In the third quarter alone, Vietjet operated 39,000 flights and carried 7.3 million passengers.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261102_648b76f472#4",
+    "doc_id": "vietnamnews_20261102_648b76f472",
+    "sent_idx": 4,
+    "text": "Consolidated revenue rose 35 per cent year-on-year to VNĐ22.85 trillion, while net profit after tax stood at VNĐ348 billion.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261102_648b76f472#5",
+    "doc_id": "vietnamnews_20261102_648b76f472",
+    "sent_idx": 5,
+    "text": "The airline attributed its performance to contributions from passenger transportation, cargo, ancillary services and aircraft financing operations.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261102_648b76f472#6",
+    "doc_id": "vietnamnews_20261102_648b76f472",
+    "sent_idx": 6,
+    "text": "As of September 30, 2026, Vietjet's consolidated total assets stood at VNĐ152.8 trillion.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261102_648b76f472#7",
+    "doc_id": "vietnamnews_20261102_648b76f472",
+    "sent_idx": 7,
+    "text": "Its net debt-to-equity ratio was 2.4 times, while its liquidity ratio was 1.38 times.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261102_648b76f472#8",
+    "doc_id": "vietnamnews_20261102_648b76f472",
+    "sent_idx": 8,
+    "text": "During the nine-month period, the carrier operated 111,700 flights, transporting more than 20.7 million passengers and handling over 58,000 tonnes of cargo.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261102_648b76f472#9",
+    "doc_id": "vietnamnews_20261102_648b76f472",
+    "sent_idx": 9,
+    "text": "Its network expanded to 223 routes, including 176 international and 47 domestic services, connecting major economic, tourism and trade centres.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261102_648b76f472#10",
+    "doc_id": "vietnamnews_20261102_648b76f472",
+    "sent_idx": 10,
+    "text": "The airline launched several international routes, including Hà Nội-Almaty, Hà Nội-Prague and Almaty-Prague, strengthening connections between Southeast Asia, Central Asia and Europe.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261102_648b76f472#11",
+    "doc_id": "vietnamnews_20261102_648b76f472",
+    "sent_idx": 11,
+    "text": "It also expanded its South Asian network with the launch of the HCM City-Colombo service and opened bookings for routes connecting HCM City with the Maldives, as well as Hà Nội with Colombo and the Maldives.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261102_648b76f472#12",
+    "doc_id": "vietnamnews_20261102_648b76f472",
+    "sent_idx": 12,
+    "text": "Vietjet also announced a new route between HCM City and Western Sydney, scheduled to begin operations in January 2027.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261102_648b76f472#13",
+    "doc_id": "vietnamnews_20261102_648b76f472",
+    "sent_idx": 13,
+    "text": "The airline continued to expand its fleet, taking delivery of its 11th Boeing 737-8 aircraft in Seattle, the US.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261102_648b76f472#14",
+    "doc_id": "vietnamnews_20261102_648b76f472",
+    "sent_idx": 14,
+    "text": "Alongside network and fleet expansion, Vietjet has increased investment in technology and aviation infrastructure through partnerships with international companies.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261102_648b76f472#15",
+    "doc_id": "vietnamnews_20261102_648b76f472",
+    "sent_idx": 15,
+    "text": "Its cooperation with Starlink, a satellite internet service operated by SpaceX, aims to introduce high-speed internet connectivity onboard.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261102_648b76f472#16",
+    "doc_id": "vietnamnews_20261102_648b76f472",
+    "sent_idx": 16,
+    "text": "The airline is also working with Rolls-Royce through its TotalCare service to support the performance and maintenance of Trent 7000 engines used in its A330neo fleet.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261102_648b76f472#17",
+    "doc_id": "vietnamnews_20261102_648b76f472",
+    "sent_idx": 17,
+    "text": "Meanwhile, cooperation with CFM International to develop LEAP engine maintenance capabilities, together with plans for an aircraft maintenance centre at Long Thành International Airport, is expected to strengthen its technical capabilities.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261102_648b76f472#18",
+    "doc_id": "vietnamnews_20261102_648b76f472",
+    "sent_idx": 18,
+    "text": "Human resource development also remained a focus.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261102_648b76f472#19",
+    "doc_id": "vietnamnews_20261102_648b76f472",
+    "sent_idx": 19,
+    "text": "During the first nine months, Vietjet's Victoria Aviation Academy delivered more than 13,200 training courses to over 137,300 trainees.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261102_648b76f472#20",
+    "doc_id": "vietnamnews_20261102_648b76f472",
+    "sent_idx": 20,
+    "text": "Its ground handling subsidiary, AirportNEO, also expanded services at major airports, serving Vietjet and other international airlines.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261102_648b76f472#21",
+    "doc_id": "vietnamnews_20261102_648b76f472",
+    "sent_idx": 21,
+    "text": "Vietjet was named Asia's Low-Cost/Hybrid Airline of the Year by CAPA - Centre for Aviation and included in Forbes Vietnam's list of the Top 50 best listed companies in Việt Nam in 2026.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261102_648b76f472#22",
+    "doc_id": "vietnamnews_20261102_648b76f472",
+    "sent_idx": 22,
+    "text": "The airline said it would continue taking delivery of aircraft, expanding routes in line with market demand and improving operational efficiency ahead of the year-end travel season. - VNS",
+    "lang": "en",
+    "is_title": false
+  }
+]

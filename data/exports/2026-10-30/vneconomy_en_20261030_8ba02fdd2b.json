@@ -1,0 +1,58 @@
+[
+  {
+    "sent_id": "vneconomy_en_20261030_8ba02fdd2b#0",
+    "doc_id": "vneconomy_en_20261030_8ba02fdd2b",
+    "sent_idx": 0,
+    "text": "Domestic gold prices fall to three-month low",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vneconomy_en_20261030_8ba02fdd2b#1",
+    "doc_id": "vneconomy_en_20261030_8ba02fdd2b",
+    "sent_idx": 1,
+    "text": "SJC-branded gold bar prices at major retailers remained around VND138.4 million ($5,262) per tael for buying and VND141.4 million per tael for selling on the morning of October 30, down VND1.3 million per tael, or 0.9%, from the previous session.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261030_8ba02fdd2b#2",
+    "doc_id": "vneconomy_en_20261030_8ba02fdd2b",
+    "sent_idx": 2,
+    "text": "A tael is equivalent to 37.5 grams, or roughly 1.2 ounces.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261030_8ba02fdd2b#3",
+    "doc_id": "vneconomy_en_20261030_8ba02fdd2b",
+    "sent_idx": 3,
+    "text": "The decline marked the sharpest drop in approximately six weeks, while trading prices fell to their lowest level since late July 2026.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261030_8ba02fdd2b#4",
+    "doc_id": "vneconomy_en_20261030_8ba02fdd2b",
+    "sent_idx": 4,
+    "text": "On the global market, gold prices continued to weaken, falling more than 0.5% after a 1.14% decline in the previous session.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261030_8ba02fdd2b#5",
+    "doc_id": "vneconomy_en_20261030_8ba02fdd2b",
+    "sent_idx": 5,
+    "text": "Prices slipped to around $3,999.1 per ounce.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261030_8ba02fdd2b#6",
+    "doc_id": "vneconomy_en_20261030_8ba02fdd2b",
+    "sent_idx": 6,
+    "text": "As a result, SJC gold bars remained approximately VND14.86 million ($565) per tael more expensive than their global equivalent.",
+    "lang": "en",
+    "is_title": false
+  }
+]

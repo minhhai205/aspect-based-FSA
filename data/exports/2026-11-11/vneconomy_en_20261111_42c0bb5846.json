@@ -1,0 +1,202 @@
+[
+  {
+    "sent_id": "vneconomy_en_20261111_42c0bb5846#0",
+    "doc_id": "vneconomy_en_20261111_42c0bb5846",
+    "sent_idx": 0,
+    "text": "HCM City data center boom drives green energy requirements",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vneconomy_en_20261111_42c0bb5846#1",
+    "doc_id": "vneconomy_en_20261111_42c0bb5846",
+    "sent_idx": 1,
+    "text": "Data from the ( SHTP) Management Board shows that in the first nine months of 2026, SHTP attracted nearly $1.23 billion in newly registered capital, up 3.9 times year-on-year and reaching 87.9 percent of its annual target.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261111_42c0bb5846#2",
+    "doc_id": "vneconomy_en_20261111_42c0bb5846",
+    "sent_idx": 2,
+    "text": "Two data center projects accounted for $989.05 million, representing over 80 percent of newly registered capital.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261111_42c0bb5846#3",
+    "doc_id": "vneconomy_en_20261111_42c0bb5846",
+    "sent_idx": 3,
+    "text": "In early November, the SHTP Management Board announced its investment attraction portfolio for the 2026-2030 period under Decision 7013/QD-UBND of the Ho Chi Minh City People's Committee, dated October 20, 2026.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261111_42c0bb5846#4",
+    "doc_id": "vneconomy_en_20261111_42c0bb5846",
+    "sent_idx": 4,
+    "text": "The updated portfolio designates seven key sites while setting out priority criteria concerning the environment, energy, and emissions.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261111_42c0bb5846#5",
+    "doc_id": "vneconomy_en_20261111_42c0bb5846",
+    "sent_idx": 5,
+    "text": "Specifically, prioritized projects must present a roadmap and commitment to achieving net-zero emissions by 2045 at the latest, complete with waste treatment plans, environmental impact mitigation strategies, and designated capital for environmental protection.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261111_42c0bb5846#6",
+    "doc_id": "vneconomy_en_20261111_42c0bb5846",
+    "sent_idx": 6,
+    "text": "Investors must be committed to waste reduction, reuse, and recycling, while prioritizing renewable energy, energy conservation, and greenhouse gas reduction.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261111_42c0bb5846#7",
+    "doc_id": "vneconomy_en_20261111_42c0bb5846",
+    "sent_idx": 7,
+    "text": "Quantified targets require renewable energy to account for at least 20 percent of total primary energy by 2030 and 65-70 percent by 2045.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261111_42c0bb5846#8",
+    "doc_id": "vneconomy_en_20261111_42c0bb5846",
+    "sent_idx": 8,
+    "text": "Energy savings must reach 7-10 percent and 14-20 percent across these respective benchmarks.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261111_42c0bb5846#9",
+    "doc_id": "vneconomy_en_20261111_42c0bb5846",
+    "sent_idx": 9,
+    "text": "Greenhouse gas emission reductions from energy activities are set at 15-35 percent by 2030 and 70-80 percent by 2045.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261111_42c0bb5846#10",
+    "doc_id": "vneconomy_en_20261111_42c0bb5846",
+    "sent_idx": 10,
+    "text": "For data centers specifically, the required Power Usage Effectiveness (PUE) ratio is set below 1.3.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261111_42c0bb5846#11",
+    "doc_id": "vneconomy_en_20261111_42c0bb5846",
+    "sent_idx": 11,
+    "text": "This ratio measures the total energy consumed by the facility relative to the energy delivered to computing equipment, with values closer to 1.0 indicating higher efficiency.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261111_42c0bb5846#12",
+    "doc_id": "vneconomy_en_20261111_42c0bb5846",
+    "sent_idx": 12,
+    "text": "Setting a dedicated threshold highlights the focus on operational efficiency for continuously operating, power-intensive infrastructure.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261111_42c0bb5846#13",
+    "doc_id": "vneconomy_en_20261111_42c0bb5846",
+    "sent_idx": 13,
+    "text": "One project at SHTP has announced a specific green roadmap.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261111_42c0bb5846#14",
+    "doc_id": "vneconomy_en_20261111_42c0bb5846",
+    "sent_idx": 14,
+    "text": "According to the management board, Evolution DC VN HCMC aims to utilize renewable energy, achieve a PUE ratio not exceeding 1.25, and secure LEED Gold certification.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261111_42c0bb5846#15",
+    "doc_id": "vneconomy_en_20261111_42c0bb5846",
+    "sent_idx": 15,
+    "text": "Land at plot T8 was handed over to the project in August 2026, with investment objectives focusing on developing green energy infrastructure and energy efficiency.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261111_42c0bb5846#16",
+    "doc_id": "vneconomy_en_20261111_42c0bb5846",
+    "sent_idx": 16,
+    "text": "Presently, power demand for digital infrastructure is rising rapidly.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261111_42c0bb5846#17",
+    "doc_id": "vneconomy_en_20261111_42c0bb5846",
+    "sent_idx": 17,
+    "text": "According to Ho Chi Minh City Power Corporation (EVN-HCMC), the city needs to prepare approximately 200 MW for four data center projects with approved investment decisions.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261111_42c0bb5846#18",
+    "doc_id": "vneconomy_en_20261111_42c0bb5846",
+    "sent_idx": 18,
+    "text": "Over the long term, power demand for this segment could reach 1,000 MW.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261111_42c0bb5846#19",
+    "doc_id": "vneconomy_en_20261111_42c0bb5846",
+    "sent_idx": 19,
+    "text": "Because data centers operate continuously with servers, storage, networking, and cooling systems running around the clock, stable power supply remains critical.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261111_42c0bb5846#20",
+    "doc_id": "vneconomy_en_20261111_42c0bb5846",
+    "sent_idx": 20,
+    "text": "With a total designed IT load capacity of 112 MW, the two projects at SHTP require comprehensive calculations regarding real power demand, renewable energy supply, and backup systems.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261111_42c0bb5846#21",
+    "doc_id": "vneconomy_en_20261111_42c0bb5846",
+    "sent_idx": 21,
+    "text": "Beyond power supply, green commitments must translate into measurable criteria throughout the project lifecycle.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261111_42c0bb5846#22",
+    "doc_id": "vneconomy_en_20261111_42c0bb5846",
+    "sent_idx": 22,
+    "text": "For PUE, clear measurement protocols, evaluation timelines, and reporting mechanisms are required once facilities become operational.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261111_42c0bb5846#23",
+    "doc_id": "vneconomy_en_20261111_42c0bb5846",
+    "sent_idx": 23,
+    "text": "For renewable energy, verification procedures and supply structures must be clarified alongside environmental assessments for cooling solutions, water usage, and waste management.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261111_42c0bb5846#24",
+    "doc_id": "vneconomy_en_20261111_42c0bb5846",
+    "sent_idx": 24,
+    "text": "With nearly $1 billion in data center capital inflows, the overall success of attracting green investment will depend on securing reliable power supplies, fulfilling environmental commitments, and establishing strict operational oversight.",
+    "lang": "en",
+    "is_title": false
+  }
+]

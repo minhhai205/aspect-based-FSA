@@ -1,0 +1,202 @@
+[
+  {
+    "sent_id": "vietnamnews_20261106_67dfa5ddd1#0",
+    "doc_id": "vietnamnews_20261106_67dfa5ddd1",
+    "sent_idx": 0,
+    "text": "Việt Nam studies pilot system to trace cash flows in fraud cases",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261106_67dfa5ddd1#1",
+    "doc_id": "vietnamnews_20261106_67dfa5ddd1",
+    "sent_idx": 1,
+    "text": "HCM CITY - As Việt Nam is widening its digital finance defence beyond blocking cyberattacks, the new priority is detecting fraud early, tracing stolen cash and clawing it back.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_67dfa5ddd1#2",
+    "doc_id": "vietnamnews_20261106_67dfa5ddd1",
+    "sent_idx": 2,
+    "text": "Colonel Nguyễn Bá Sơn, deputy director-General of the Ministry of Public Security's Department of Cyber Security, disclosed the push at the Vietnam Digital Financial Security Forum 2026 held in HCM City on Friday.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_67dfa5ddd1#3",
+    "doc_id": "vietnamnews_20261106_67dfa5ddd1",
+    "sent_idx": 3,
+    "text": "Sơn said the ministry had held a working session with the State Bank of Vietnam (SBV) three days earlier to discuss a pilot system to reconcile and trace cash flows tied to fraud and asset appropriation, aiming to improve recovery and minimise victim losses.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_67dfa5ddd1#4",
+    "doc_id": "vietnamnews_20261106_67dfa5ddd1",
+    "sent_idx": 4,
+    "text": "The approach matters because fraud moves fast, with stolen funds passing through multiple accounts and intermediaries within minutes.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_67dfa5ddd1#5",
+    "doc_id": "vietnamnews_20261106_67dfa5ddd1",
+    "sent_idx": 5,
+    "text": "Once cash leaves a victim's account, identifying receiving accounts, following onward transactions and freezing funds in time are critical to recovery odds.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_67dfa5ddd1#6",
+    "doc_id": "vietnamnews_20261106_67dfa5ddd1",
+    "sent_idx": 6,
+    "text": "The scale is mounting.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_67dfa5ddd1#7",
+    "doc_id": "vietnamnews_20261106_67dfa5ddd1",
+    "sent_idx": 7,
+    "text": "Sơn said authorities recorded nearly 1,000 asset fraud cases in the first half of 2026, with losses running into trillions of Vietnamese đồng .",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_67dfa5ddd1#8",
+    "doc_id": "vietnamnews_20261106_67dfa5ddd1",
+    "sent_idx": 8,
+    "text": "Criminals are deploying AI to find vulnerabilities, build attack scenarios and fake identities, making scams more sophisticated and harder to spot.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_67dfa5ddd1#9",
+    "doc_id": "vietnamnews_20261106_67dfa5ddd1",
+    "sent_idx": 9,
+    "text": "He cited a case showing the risk is large-scale cyberattacks.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_67dfa5ddd1#10",
+    "doc_id": "vietnamnews_20261106_67dfa5ddd1",
+    "sent_idx": 10,
+    "text": "One person infiltrated a luxury restaurant, stole a payment card chip when customers handed over their cards, attached it to another card blank and bought iPhones, appropriating more than VNĐ200 million (US$7,700).",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_67dfa5ddd1#11",
+    "doc_id": "vietnamnews_20261106_67dfa5ddd1",
+    "sent_idx": 11,
+    "text": "The case highlights how gaps in payment information handling can become exploitable weak points.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_67dfa5ddd1#12",
+    "doc_id": "vietnamnews_20261106_67dfa5ddd1",
+    "sent_idx": 12,
+    "text": "The SBV's monitoring system is now connected to nearly 100 financial bodies and has flagged more than 668,000 accounts showing signs of violations.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_67dfa5ddd1#13",
+    "doc_id": "vietnamnews_20261106_67dfa5ddd1",
+    "sent_idx": 13,
+    "text": "Banks have issued millions of warnings and coordinated recovery or temporary suspension of cash flows worth trillions of Vietnamese đồng .",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_67dfa5ddd1#14",
+    "doc_id": "vietnamnews_20261106_67dfa5ddd1",
+    "sent_idx": 14,
+    "text": "Dr Đào Minh Tú, vice chairman and secretary general of the Vietnam Banks Association, said about 89 per cent of Vietnamese adults have payment accounts, and cashless payment value is 28 times GDP.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_67dfa5ddd1#15",
+    "doc_id": "vietnamnews_20261106_67dfa5ddd1",
+    "sent_idx": 15,
+    "text": "At many banks, more than 95 per cent of transactions are fully digital.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_67dfa5ddd1#16",
+    "doc_id": "vietnamnews_20261106_67dfa5ddd1",
+    "sent_idx": 16,
+    "text": "That penetration supports the economy but widens the reach and speed of financial security risks.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_67dfa5ddd1#17",
+    "doc_id": "vietnamnews_20261106_67dfa5ddd1",
+    "sent_idx": 17,
+    "text": "Tú said AI can help banks spot customer needs, detect unusual transactions and improve credit scoring.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_67dfa5ddd1#18",
+    "doc_id": "vietnamnews_20261106_67dfa5ddd1",
+    "sent_idx": 18,
+    "text": "But poorly standardised input data or inadequately controlled AI models can create new risks in decision making and data protection.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_67dfa5ddd1#19",
+    "doc_id": "vietnamnews_20261106_67dfa5ddd1",
+    "sent_idx": 19,
+    "text": "The response needs a unified data platform that lets financial bodies connect and share information under security and privacy rules.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_67dfa5ddd1#20",
+    "doc_id": "vietnamnews_20261106_67dfa5ddd1",
+    "sent_idx": 20,
+    "text": "It also needs an AI governance framework with clear control responsibilities and human approval for large or highly sensitive transactions.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_67dfa5ddd1#21",
+    "doc_id": "vietnamnews_20261106_67dfa5ddd1",
+    "sent_idx": 21,
+    "text": "Tú also called for stronger real-time transaction analytics and multi-layer warning and defence systems.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_67dfa5ddd1#22",
+    "doc_id": "vietnamnews_20261106_67dfa5ddd1",
+    "sent_idx": 22,
+    "text": "Banks should regularly review core banking systems, payment infrastructure and interbank digital signatures to catch exploitable weaknesses early.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_67dfa5ddd1#23",
+    "doc_id": "vietnamnews_20261106_67dfa5ddd1",
+    "sent_idx": 23,
+    "text": "A longer-term threat is quantum computing, which could weaken traditional encryption.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_67dfa5ddd1#24",
+    "doc_id": "vietnamnews_20261106_67dfa5ddd1",
+    "sent_idx": 24,
+    "text": "The banking sector should assess its dependence on current encryption algorithms and map a transition to post-quantum cryptography (PQC), rather than waiting for the risk to materialise, he added. - VNA/VNS",
+    "lang": "en",
+    "is_title": false
+  }
+]

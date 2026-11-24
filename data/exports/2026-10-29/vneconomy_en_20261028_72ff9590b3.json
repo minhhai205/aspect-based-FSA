@@ -1,0 +1,106 @@
+[
+  {
+    "sent_id": "vneconomy_en_20261028_72ff9590b3#0",
+    "doc_id": "vneconomy_en_20261028_72ff9590b3",
+    "sent_idx": 0,
+    "text": "Singapore grants conditional approval for renewable electricity imports from Vietnam",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vneconomy_en_20261028_72ff9590b3#1",
+    "doc_id": "vneconomy_en_20261028_72ff9590b3",
+    "sent_idx": 1,
+    "text": "Singapore's Energy Market Authority (EMA) has granted Sembcorp Utilities Pte Ltd (SCU) conditional approval to act as the electricity importer for the Vietnam-Malaysia-Singapore (VMS) renewable energy export project.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261028_72ff9590b3#2",
+    "doc_id": "vneconomy_en_20261028_72ff9590b3",
+    "sent_idx": 2,
+    "text": "The announcement was made during Singapore International Energy Week 2026 (SIEW 2026), held from October 26 to 30.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261028_72ff9590b3#3",
+    "doc_id": "vneconomy_en_20261028_72ff9590b3",
+    "sent_idx": 3,
+    "text": "The VMS project builds on a Joint Development Agreement signed in May 2025 between the VMS consortium and the MY Energy Consortium (MYEC).",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261028_72ff9590b3#4",
+    "doc_id": "vneconomy_en_20261028_72ff9590b3",
+    "sent_idx": 4,
+    "text": "The VMS consortium comprises Vietnam Petroleum Technical Services Corporation (PTSC), a subsidiary of state-owned Vietnam National Industry-Energy Group (Petrovietnam), and SCU.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261028_72ff9590b3#5",
+    "doc_id": "vneconomy_en_20261028_72ff9590b3",
+    "sent_idx": 5,
+    "text": "MYEC brings together Malaysia's national electricity utility Tenaga Nasional Berhad (TNB) and national oil and gas company PETRONAS.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261028_72ff9590b3#6",
+    "doc_id": "vneconomy_en_20261028_72ff9590b3",
+    "sent_idx": 6,
+    "text": "The project aims to deliver up to 1.3 gigawatts (GW) of renewable electricity to Singapore through a transmission corridor connecting Vietnam, Malaysia and Singapore.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261028_72ff9590b3#7",
+    "doc_id": "vneconomy_en_20261028_72ff9590b3",
+    "sent_idx": 7,
+    "text": "Under the proposed plan, most of the electricity would come from offshore wind projects in Vietnam, supplemented by solar power and battery energy storage systems (BESS) in Malaysia.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261028_72ff9590b3#8",
+    "doc_id": "vneconomy_en_20261028_72ff9590b3",
+    "sent_idx": 8,
+    "text": "Electricity generated in Vietnam would be transmitted through Malaysia to serve both markets, with Malaysia consuming part of the supply while acting as a transit country for exports to Singapore.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261028_72ff9590b3#9",
+    "doc_id": "vneconomy_en_20261028_72ff9590b3",
+    "sent_idx": 9,
+    "text": "Electricity imports are expected to begin in 2035.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261028_72ff9590b3#10",
+    "doc_id": "vneconomy_en_20261028_72ff9590b3",
+    "sent_idx": 10,
+    "text": "PTSC plans to conduct surveys on Vietnam's continental shelf in November, followed by detailed engineering design and financial planning.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261028_72ff9590b3#11",
+    "doc_id": "vneconomy_en_20261028_72ff9590b3",
+    "sent_idx": 11,
+    "text": "The project is targeting a final investment decision (FID) for its first phase in 2029.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261028_72ff9590b3#12",
+    "doc_id": "vneconomy_en_20261028_72ff9590b3",
+    "sent_idx": 12,
+    "text": "If implemented as planned, the project would unlock Vietnam's offshore wind potential, strengthen cross-border energy cooperation in Southeast Asia and advance the ASEAN Power Grid (APG) initiative.",
+    "lang": "en",
+    "is_title": false
+  }
+]

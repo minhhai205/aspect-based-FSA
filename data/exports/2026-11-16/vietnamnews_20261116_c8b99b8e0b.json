@@ -1,0 +1,242 @@
+[
+  {
+    "sent_id": "vietnamnews_20261116_c8b99b8e0b#0",
+    "doc_id": "vietnamnews_20261116_c8b99b8e0b",
+    "sent_idx": 0,
+    "text": "IFRS adoption clears the path for firms to raise global capital",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261116_c8b99b8e0b#1",
+    "doc_id": "vietnamnews_20261116_c8b99b8e0b",
+    "sent_idx": 1,
+    "text": "HÀ NỘI - The International Financial Reporting Standards (IFRS) are becoming an increasingly critical requirement for Vietnamese enterprises seeking international capital, but challenges related to human resources, technology and policy must still be addressed to ease the businesses in the rule's adoption, industry insiders said.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261116_c8b99b8e0b#2",
+    "doc_id": "vietnamnews_20261116_c8b99b8e0b",
+    "sent_idx": 2,
+    "text": "Financial statements prepared in accordance with international standards enable foreign investors to more easily assess a company's financial position, compare operational performance, and make informed investment decisions.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261116_c8b99b8e0b#3",
+    "doc_id": "vietnamnews_20261116_c8b99b8e0b",
+    "sent_idx": 3,
+    "text": "According to Phạm Thị Kim Oanh, head of the finance division at Hòa Phát Group, when a company seeks to raise international capital, meeting IFRS requirements is a fundamental condition set by investors.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261116_c8b99b8e0b#4",
+    "doc_id": "vietnamnews_20261116_c8b99b8e0b",
+    "sent_idx": 4,
+    "text": "She said that previously, the group engaged external services to convert its financial statements from Vietnamese accounting standards (VAS) to IFRS.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261116_c8b99b8e0b#5",
+    "doc_id": "vietnamnews_20261116_c8b99b8e0b",
+    "sent_idx": 5,
+    "text": "However, this approach limited the company's control over its own data and the timeline for preparing financial reports.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261116_c8b99b8e0b#6",
+    "doc_id": "vietnamnews_20261116_c8b99b8e0b",
+    "sent_idx": 6,
+    "text": "As a publicly listed company that attracts significant interest from foreign investors, the group has frequently had to provide explanations regarding discrepancies between VAS and IFRS, particularly concerning mergers and acquisitions.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261116_c8b99b8e0b#7",
+    "doc_id": "vietnamnews_20261116_c8b99b8e0b",
+    "sent_idx": 7,
+    "text": "Furthermore, when consolidating financial statements from overseas subsidiaries, the company has had to convert data from IFRS back to VAS, resulting in additional workloads and costs.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261116_c8b99b8e0b#8",
+    "doc_id": "vietnamnews_20261116_c8b99b8e0b",
+    "sent_idx": 8,
+    "text": "The adoption of IFRS would streamline the consolidation of financial statements, satisfy investor requirements, and support companies in their plans to expand operations into international markets.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261116_c8b99b8e0b#9",
+    "doc_id": "vietnamnews_20261116_c8b99b8e0b",
+    "sent_idx": 9,
+    "text": "However, with over 500 accounting staff nationwide, the group faces challenges in terms of personnel training.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261116_c8b99b8e0b#10",
+    "doc_id": "vietnamnews_20261116_c8b99b8e0b",
+    "sent_idx": 10,
+    "text": "In addition, the costs associated with investing in technology systems and management software, as well as the difficulty in finding qualified asset valuation firms, represent significant obstacles.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261116_c8b99b8e0b#11",
+    "doc_id": "vietnamnews_20261116_c8b99b8e0b",
+    "sent_idx": 11,
+    "text": "Therefore, the company seeks a clear roadmap for implementation, along with support for professional training and guidance on reconciling discrepancies between IFRS and tax regulations.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261116_c8b99b8e0b#12",
+    "doc_id": "vietnamnews_20261116_c8b99b8e0b",
+    "sent_idx": 12,
+    "text": "Beyond Hòa Phát Group, representatives from Vingroup, Eximbank, Vietnam Airlines, and others also highlighted the necessity of adopting IFRS.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261116_c8b99b8e0b#13",
+    "doc_id": "vietnamnews_20261116_c8b99b8e0b",
+    "sent_idx": 13,
+    "text": "Nevertheless, they said they continue to face challenges in the process of implementing these international accounting standards.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261116_c8b99b8e0b#14",
+    "doc_id": "vietnamnews_20261116_c8b99b8e0b",
+    "sent_idx": 14,
+    "text": "From a consulting perspective, Trần Thị Thúy Ngọc, Deputy CEO and Clients & Markets Leader at Deloitte Vietnam, noted that an increasing number of enterprises are approaching IFRS as part of their strategies for capital raising, market expansion, and the enhancement of governance capabilities.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261116_c8b99b8e0b#15",
+    "doc_id": "vietnamnews_20261116_c8b99b8e0b",
+    "sent_idx": 15,
+    "text": "According to Ngọc, many banks have proactively studied international standards, developed models, conducted pilot tests, and taken incremental steps toward preparing financial statements in accordance with IFRS.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261116_c8b99b8e0b#16",
+    "doc_id": "vietnamnews_20261116_c8b99b8e0b",
+    "sent_idx": 16,
+    "text": "Adopting IFRS enhances the transparency and comparability of financial information, improves data quality, and strengthens risk management.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261116_c8b99b8e0b#17",
+    "doc_id": "vietnamnews_20261116_c8b99b8e0b",
+    "sent_idx": 17,
+    "text": "These factors assist businesses in gaining access to international investors, banks, and capital markets.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261116_c8b99b8e0b#18",
+    "doc_id": "vietnamnews_20261116_c8b99b8e0b",
+    "sent_idx": 18,
+    "text": "However, Ngọc pointed out that the level of readiness varies among enterprises, depending on factors such as their size, industry, ownership structure, and the complexity of their governance systems.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261116_c8b99b8e0b#19",
+    "doc_id": "vietnamnews_20261116_c8b99b8e0b",
+    "sent_idx": 19,
+    "text": "Đặng Quyết Tiến, Director of the Ministry of Finance's Department of Accounting and Auditing Supervisory Management, said that Việt Nam has been preparing for the adoption of IFRS since 2020.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261116_c8b99b8e0b#20",
+    "doc_id": "vietnamnews_20261116_c8b99b8e0b",
+    "sent_idx": 20,
+    "text": "He said that the Ministry of Finance has issued Circular No. 118/2026/TT-BTC, which provides guidance on the scope, subjects, and procedures for applying international accounting standards in Việt Nam.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261116_c8b99b8e0b#21",
+    "doc_id": "vietnamnews_20261116_c8b99b8e0b",
+    "sent_idx": 21,
+    "text": "The objective is to announce the widespread adoption of IFRS for eligible enterprises no later than June 2027.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261116_c8b99b8e0b#22",
+    "doc_id": "vietnamnews_20261116_c8b99b8e0b",
+    "sent_idx": 22,
+    "text": "Addressing concerns raised by businesses regarding the IFRS implementation process, Tiến noted that the adoption of IFRS serves the interests of the enterprises themselves and meets market demands.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261116_c8b99b8e0b#23",
+    "doc_id": "vietnamnews_20261116_c8b99b8e0b",
+    "sent_idx": 23,
+    "text": "Consequently, State regulatory authorities must also adjust institutional frameworks to accommodate the requirements of implementing these international standards.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261116_c8b99b8e0b#24",
+    "doc_id": "vietnamnews_20261116_c8b99b8e0b",
+    "sent_idx": 24,
+    "text": "Đặng Thị Mai Trang, head of the Vietnam Representative Office for the Institute of Chartered Accountants in England and Wales (ICAEW), noted that human resources represent a common challenge during the IFRS implementation process.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261116_c8b99b8e0b#25",
+    "doc_id": "vietnamnews_20261116_c8b99b8e0b",
+    "sent_idx": 25,
+    "text": "She said that though the ICAEW has collaborated with various institutions and universities to conduct training initiatives, a substantial gap remains between theoretical knowledge and the practical requirements of businesses.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261116_c8b99b8e0b#26",
+    "doc_id": "vietnamnews_20261116_c8b99b8e0b",
+    "sent_idx": 26,
+    "text": "The ICAEW has introduced an international IFRS certification programme in Việt Nam, focused on professional training and competency assessment through certification examinations.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261116_c8b99b8e0b#27",
+    "doc_id": "vietnamnews_20261116_c8b99b8e0b",
+    "sent_idx": 27,
+    "text": "In the coming time, the ICAEW aims to collaborate with State authorities to implement training across two levels, including an awareness-raising programme designed for corporate leaders, chief financial officers, and government regulators, and an in-depth programme focused on the accounting teams directly responsible for implementing IFRS.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261116_c8b99b8e0b#28",
+    "doc_id": "vietnamnews_20261116_c8b99b8e0b",
+    "sent_idx": 28,
+    "text": "The Department of Accounting and Auditing Supervisory Management, in conjunction with Deloitte Vietnam, is conducting a survey on the readiness to adopt IFRS in Việt Nam with the aim of gauging the business community's level of preparedness, identifying challenges and obstacles, and consolidating the need for support during the IFRS adoption process.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261116_c8b99b8e0b#29",
+    "doc_id": "vietnamnews_20261116_c8b99b8e0b",
+    "sent_idx": 29,
+    "text": "The survey results will serve as a foundation for guiding and developing an IFRS implementation roadmap tailored to the specific context of Việt Nam for the 2027-2030 period. - BIZHUB/VNS",
+    "lang": "en",
+    "is_title": false
+  }
+]

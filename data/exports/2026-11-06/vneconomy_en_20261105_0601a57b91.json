@@ -1,0 +1,66 @@
+[
+  {
+    "sent_id": "vneconomy_en_20261105_0601a57b91#0",
+    "doc_id": "vneconomy_en_20261105_0601a57b91",
+    "sent_idx": 0,
+    "text": "Thanh Hoa approves $304 million upgrade to National Highway 45",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_0601a57b91#1",
+    "doc_id": "vneconomy_en_20261105_0601a57b91",
+    "sent_idx": 1,
+    "text": "The People's Council of central Thanh Hoa Province has approved a resolution adjusting the investment policy for a project to upgrade National Highway 45, from the boundary with northern Ninh Binh Province to Thanh Hoa's provincial center.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_0601a57b91#2",
+    "doc_id": "vneconomy_en_20261105_0601a57b91",
+    "sent_idx": 2,
+    "text": "The project's total investment has been increased to a maximum of VND8.073 trillion ($304 million), comprising VND5.5 trillion from central government budget and VND2.573 trillion from the provincial budget.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_0601a57b91#3",
+    "doc_id": "vneconomy_en_20261105_0601a57b91",
+    "sent_idx": 3,
+    "text": "Spanning approximately 68.35 kilometers, the project is expected to improve transport links between Thanh Hoa's midland and mountainous areas and its provincial centre, while strengthening interprovincial connectivity with Ninh Binh.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_0601a57b91#4",
+    "doc_id": "vneconomy_en_20261105_0601a57b91",
+    "sent_idx": 4,
+    "text": "Improved traffic capacity could give goods from production facilities and industrial parks better access to major north-south transport routes.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_0601a57b91#5",
+    "doc_id": "vneconomy_en_20261105_0601a57b91",
+    "sent_idx": 5,
+    "text": "The upgraded infrastructure is also expected to support more effective use of land along the route and attract investment in industry, logistics, tourism and services.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_0601a57b91#6",
+    "doc_id": "vneconomy_en_20261105_0601a57b91",
+    "sent_idx": 6,
+    "text": "These benefits will depend on project implementation and coordinated connections with surrounding roads.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_0601a57b91#7",
+    "doc_id": "vneconomy_en_20261105_0601a57b91",
+    "sent_idx": 7,
+    "text": "Construction is scheduled for 2028-2029, with completion, acceptance and commissioning expected in 2030.",
+    "lang": "en",
+    "is_title": false
+  }
+]

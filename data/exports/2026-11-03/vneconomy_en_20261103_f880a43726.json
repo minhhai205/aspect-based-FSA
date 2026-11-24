@@ -1,0 +1,298 @@
+[
+  {
+    "sent_id": "vneconomy_en_20261103_f880a43726#0",
+    "doc_id": "vneconomy_en_20261103_f880a43726",
+    "sent_idx": 0,
+    "text": "Vietnam MarTech appoints new Chairman, unveils 5 strategic pillars to position Vietnam as a regional AI and Martech hub",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_f880a43726#1",
+    "doc_id": "vneconomy_en_20261103_f880a43726",
+    "sent_idx": 1,
+    "text": "Dr. Dinh Le Dat is the Co-founder & Chairman of Antsomi, Co-founder of the Customer Data Platform Institute Southeast Asia (CDP Institute SEA), and Co-founder of Vietnam MarTech.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_f880a43726#2",
+    "doc_id": "vneconomy_en_20261103_f880a43726",
+    "sent_idx": 2,
+    "text": "The organization has set a clear goal: to position Vietnam as one of Southeast Asia's leading hubs for MarTech and Artificial Intelligence (AI) innovation, with a strong emphasis on Agentic AI.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_f880a43726#3",
+    "doc_id": "vneconomy_en_20261103_f880a43726",
+    "sent_idx": 3,
+    "text": "Speaking at the Vietnam MarTech Day conference held on November 1, 2026, alongside updating advanced technology trends, Dr. Dinh Le Dat stressed the importance of community-building and enhancing practical MarTech adoption capabilities in Vietnam.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_f880a43726#4",
+    "doc_id": "vneconomy_en_20261103_f880a43726",
+    "sent_idx": 4,
+    "text": "He reaffirmed that Vietnam MarTech's overarching priority is to elevate local MarTech talent to international standards.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_f880a43726#5",
+    "doc_id": "vneconomy_en_20261103_f880a43726",
+    "sent_idx": 5,
+    "text": "To realize this vision, the organization has established five strategic pillars.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_f880a43726#6",
+    "doc_id": "vneconomy_en_20261103_f880a43726",
+    "sent_idx": 6,
+    "text": "The first pillar focuses on nurturing a workforce capable of seamlessly integrating business acumen, marketing knowledge, and technical skill set, rather than merely utilizing isolated tools.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_f880a43726#7",
+    "doc_id": "vneconomy_en_20261103_f880a43726",
+    "sent_idx": 7,
+    "text": "Next-generation practitioners must master customer data management, execute omnichannel marketing platforms, and measure campaign effectiveness.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_f880a43726#8",
+    "doc_id": "vneconomy_en_20261103_f880a43726",
+    "sent_idx": 8,
+    "text": "They are expected to shift from manual execution to strategic AI orchestrators managing workflow AI agents, while maintaining international-grade language proficiency for global work environments.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_f880a43726#9",
+    "doc_id": "vneconomy_en_20261103_f880a43726",
+    "sent_idx": 9,
+    "text": "Vietnam MarTech has identified five core competence groups: Creative & Content, Advertising, and E-commerce; Customer Data & Customer Relationship Management (CRM/CDP); Marketing Automation (CEP) & Customer Journey Management; Analytics, Growth, and Strategy; and Digital Experience & AI Application.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_f880a43726#10",
+    "doc_id": "vneconomy_en_20261103_f880a43726",
+    "sent_idx": 10,
+    "text": "To operationalize these competencies, the organization is launching three key initiatives.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_f880a43726#11",
+    "doc_id": "vneconomy_en_20261103_f880a43726",
+    "sent_idx": 11,
+    "text": "MarTech Academy will handle deep-dive technical and operational training.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_f880a43726#12",
+    "doc_id": "vneconomy_en_20261103_f880a43726",
+    "sent_idx": 12,
+    "text": "Leadership Masterclass is tailored for executives to develop strategic thinking and team management.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_f880a43726#13",
+    "doc_id": "vneconomy_en_20261103_f880a43726",
+    "sent_idx": 13,
+    "text": "Notably, the Talent Fellowship & MarTech Hackathon program targets students and young professionals, offering hands-on project practice and direct employment matchmaking.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_f880a43726#14",
+    "doc_id": "vneconomy_en_20261103_f880a43726",
+    "sent_idx": 14,
+    "text": "The second pillar drives the integration of AI and Agentic AI into the entire marketing value chain, from problem selection and workflow design to performance control and evaluation.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_f880a43726#15",
+    "doc_id": "vneconomy_en_20261103_f880a43726",
+    "sent_idx": 15,
+    "text": "Dr. Dat noted that the focus goes beyond generative AI for content creation; it lies in restructuring operating models, including data governance, quality control, and human-in-the-loop collaboration.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_f880a43726#16",
+    "doc_id": "vneconomy_en_20261103_f880a43726",
+    "sent_idx": 16,
+    "text": "MarTech professionals will set strategic objectives, supply input data, and determine critical human touchpoints.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_f880a43726#17",
+    "doc_id": "vneconomy_en_20261103_f880a43726",
+    "sent_idx": 17,
+    "text": "A guiding principle remains strict accountability, ensuring humans retain ultimate responsibility for AI-driven outcomes via access control, audit logging, and mandatory approvals at key operational stages.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_f880a43726#18",
+    "doc_id": "vneconomy_en_20261103_f880a43726",
+    "sent_idx": 18,
+    "text": "Vietnam MarTech's third pillar targets practical deployment and quantifiable business impact.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_f880a43726#19",
+    "doc_id": "vneconomy_en_20261103_f880a43726",
+    "sent_idx": 19,
+    "text": "Specifically, the organization assists enterprises in assessing their readiness prior to investment across five key dimensions: Business Objectives, Customer Data, Technology, Talent, and Operations & Measurement.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_f880a43726#20",
+    "doc_id": "vneconomy_en_20261103_f880a43726",
+    "sent_idx": 20,
+    "text": "Deployment effectiveness will be quantified through core performance metrics, including marketing productivity, conversion rates, customer retention, customer lifetime value (CLV), and Return on Investment (ROI).",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_f880a43726#21",
+    "doc_id": "vneconomy_en_20261103_f880a43726",
+    "sent_idx": 21,
+    "text": "Global Vietnamese experts will also be mobilized under this pillar to share battle-tested insights and benchmark international best practices for the local ecosystem.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_f880a43726#22",
+    "doc_id": "vneconomy_en_20261103_f880a43726",
+    "sent_idx": 22,
+    "text": "Under the fourth pillar , Vietnam MarTech aims to foster a collaborative ecosystem by proactively bridging businesses, brands, universities, research institutes, and international partners to broaden knowledge access.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_f880a43726#23",
+    "doc_id": "vneconomy_en_20261103_f880a43726",
+    "sent_idx": 23,
+    "text": "This strategy will be executed via three landmark programs.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_f880a43726#24",
+    "doc_id": "vneconomy_en_20261103_f880a43726",
+    "sent_idx": 24,
+    "text": "The MarTech Industry - University Partnership program accelerates corporate-academic collaboration in curriculum co-development and internship placements.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_f880a43726#25",
+    "doc_id": "vneconomy_en_20261103_f880a43726",
+    "sent_idx": 25,
+    "text": "The SEA MarTech Exchange serves as a cross-border networking hub for regional MarTech experts and organizations to exchange industry expertise.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_f880a43726#26",
+    "doc_id": "vneconomy_en_20261103_f880a43726",
+    "sent_idx": 26,
+    "text": "Finally, the annual Vietnam MarTech Day held on November 1 serves as the largest flagship gathering to connect the community, release industry research, and promote trade partnerships.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_f880a43726#27",
+    "doc_id": "vneconomy_en_20261103_f880a43726",
+    "sent_idx": 27,
+    "text": "The fifth pillar aims to build a standardized reference system, equipping enterprises with scientific criteria for investment decisions while helping practitioners benchmark and validate their expertise.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_f880a43726#28",
+    "doc_id": "vneconomy_en_20261103_f880a43726",
+    "sent_idx": 28,
+    "text": "Vietnam MarTech commits to strict research transparency, independence from sponsored content, authorized data utilization, and respect for intellectual property rights, thereby laying a trustworthy foundation for the market.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_f880a43726#29",
+    "doc_id": "vneconomy_en_20261103_f880a43726",
+    "sent_idx": 29,
+    "text": "Sharing his long-term vision, Dr. Dinh Le Dat highlighted that as Agentic AI becomes deeply embedded in marketing, Vietnam's key opportunity lies in building systems that harmonize human intelligence, data assets, and AI execution capabilities.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_f880a43726#30",
+    "doc_id": "vneconomy_en_20261103_f880a43726",
+    "sent_idx": 30,
+    "text": "This will be the key to transforming marketing from a mere promotional support function into a core growth engine for the entire enterprise.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_f880a43726#31",
+    "doc_id": "vneconomy_en_20261103_f880a43726",
+    "sent_idx": 31,
+    "text": "Initiated in 2018 and officially launched on November 1, 2023, Vietnam MarTech became a strategic member of the Asia AdMarCom Alliance in July 2026, deepening ties with premier regional advertising and tech associations.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_f880a43726#32",
+    "doc_id": "vneconomy_en_20261103_f880a43726",
+    "sent_idx": 32,
+    "text": "Between 2018 and 2026, the network connected over 50,000 marketers and hosted 20 deep-dive national seminars.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_f880a43726#33",
+    "doc_id": "vneconomy_en_20261103_f880a43726",
+    "sent_idx": 33,
+    "text": "Graduating with honors and earning his Ph.D. in Big Data & Semantic Web from Lomonosov Moscow State University (Faculty of Mechanics and Mathematics), Dr. Dinh Le Dat is the Co-founder & Chairman of Antsomi, Co-founder of CDP Institute SEA, Co-founder of Vietnam MarTech, and an advisor/expert for the Vietnam E-commerce Association (VECOM).",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_f880a43726#34",
+    "doc_id": "vneconomy_en_20261103_f880a43726",
+    "sent_idx": 34,
+    "text": "He previously served as Chief Technology Officer (CTO) at FPT Online and as a strategic advisor on MarTech and customer data for major Retail and F&B conglomerates across Vietnam and the ASEAN region.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_f880a43726#35",
+    "doc_id": "vneconomy_en_20261103_f880a43726",
+    "sent_idx": 35,
+    "text": "On the global stage, he was the sole Southeast Asian representative speaking at MarTech World Forum 2024 in Melbourne, Australia.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_f880a43726#36",
+    "doc_id": "vneconomy_en_20261103_f880a43726",
+    "sent_idx": 36,
+    "text": "He also served as the sole Vietnamese representative presenting at ASIA Pacific Media Forum 2024 in Bali, Indonesia and d-Conference 2024 in Kuala Lumpur, Malaysia, as well as the sole Vietnamese speaker on Customer Data Platforms at Big Data World Asia Conference 2022 in Singapore.",
+    "lang": "en",
+    "is_title": false
+  }
+]

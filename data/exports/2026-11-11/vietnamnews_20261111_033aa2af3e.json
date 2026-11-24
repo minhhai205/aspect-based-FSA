@@ -1,0 +1,274 @@
+[
+  {
+    "sent_id": "vietnamnews_20261111_033aa2af3e#0",
+    "doc_id": "vietnamnews_20261111_033aa2af3e",
+    "sent_idx": 0,
+    "text": "Rate cuts face test as banks compete for deposits",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261111_033aa2af3e#1",
+    "doc_id": "vietnamnews_20261111_033aa2af3e",
+    "sent_idx": 1,
+    "text": "HÀ NỘI - Banks are still competing to attract deposits despite falling listed interest rates, as strong credit demand keeps pressure on funding.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261111_033aa2af3e#2",
+    "doc_id": "vietnamnews_20261111_033aa2af3e",
+    "sent_idx": 2,
+    "text": "Although listed deposit rates have fallen following a call by the State Bank of Vietnam (SBV) to cut interest rates, some banks are offering extra interest to attract depositors.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261111_033aa2af3e#3",
+    "doc_id": "vietnamnews_20261111_033aa2af3e",
+    "sent_idx": 3,
+    "text": "In the first week of November, digital bank Cake by VPBank offered an additional 2.2 percentage points to first-time depositors and customers renewing eligible savings accounts.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261111_033aa2af3e#4",
+    "doc_id": "vietnamnews_20261111_033aa2af3e",
+    "sent_idx": 4,
+    "text": "With its listed rate of 6.9 per cent per year for six-month deposits, customers could earn up to 9.1 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261111_033aa2af3e#5",
+    "doc_id": "vietnamnews_20261111_033aa2af3e",
+    "sent_idx": 5,
+    "text": "Techcombank offered additional interest of up to 1.7 percentage points, bringing rates to 8.4 per cent for six-month deposits.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261111_033aa2af3e#6",
+    "doc_id": "vietnamnews_20261111_033aa2af3e",
+    "sent_idx": 6,
+    "text": "MB offered an additional 2.35-2.9 percentage points, with rates reaching 8.2 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261111_033aa2af3e#7",
+    "doc_id": "vietnamnews_20261111_033aa2af3e",
+    "sent_idx": 7,
+    "text": "These promotional rates come with conditions.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261111_033aa2af3e#8",
+    "doc_id": "vietnamnews_20261111_033aa2af3e",
+    "sent_idx": 8,
+    "text": "PVcomBank offers 10 per cent for 12-13-month deposits of at least VNĐ2 trillion, while MSB offers 9 per cent for deposits of at least VNĐ500 billion.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261111_033aa2af3e#9",
+    "doc_id": "vietnamnews_20261111_033aa2af3e",
+    "sent_idx": 9,
+    "text": "The offers come as the SBV seeks to lower interest rates to support growth.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261111_033aa2af3e#10",
+    "doc_id": "vietnamnews_20261111_033aa2af3e",
+    "sent_idx": 10,
+    "text": "At a Government press conference on November 4, SBV Deputy Governor Phạm Thanh Hà said banks had been asked to cut rates on new deposits of six months or longer by 0.5-1 percentage point per year.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261111_033aa2af3e#11",
+    "doc_id": "vietnamnews_20261111_033aa2af3e",
+    "sent_idx": 11,
+    "text": "Listed deposit rates at State-owned commercial banks and foreign banks had fallen by around 0.5 percentage point, while those at joint-stock commercial banks had declined by 0.5-0.7 percentage point.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261111_033aa2af3e#12",
+    "doc_id": "vietnamnews_20261111_033aa2af3e",
+    "sent_idx": 12,
+    "text": "However, strong credit demand means banks still need to secure sufficient funding to support lending.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261111_033aa2af3e#13",
+    "doc_id": "vietnamnews_20261111_033aa2af3e",
+    "sent_idx": 13,
+    "text": "According to EBC Financial Group, outstanding credit across the banking system exceeded VNĐ20.88 quadrillion (US$803 million) at the end of October, with growth of around 12.27 per cent from the end of 2025.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261111_033aa2af3e#14",
+    "doc_id": "vietnamnews_20261111_033aa2af3e",
+    "sent_idx": 14,
+    "text": "By mid-October, deposit mobilisation had increased by around 11.22 per cent, compared with credit growth of 11.44 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261111_033aa2af3e#15",
+    "doc_id": "vietnamnews_20261111_033aa2af3e",
+    "sent_idx": 15,
+    "text": "Although the gap between outstanding loans and mobilised funds had narrowed from VNĐ2 quadrillion to below VNĐ1.5 quadrillion, financing needs across the economy remained substantial.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261111_033aa2af3e#16",
+    "doc_id": "vietnamnews_20261111_033aa2af3e",
+    "sent_idx": 16,
+    "text": "EBC also noted that around 80 per cent of deposits in the banking system were short-term, while banks continued to finance medium- and long-term lending needs.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261111_033aa2af3e#17",
+    "doc_id": "vietnamnews_20261111_033aa2af3e",
+    "sent_idx": 17,
+    "text": "This maturity mismatch added to funding pressure as banks must secure stable funding while managing liquidity costs.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261111_033aa2af3e#18",
+    "doc_id": "vietnamnews_20261111_033aa2af3e",
+    "sent_idx": 18,
+    "text": "\"Banks can adjust deposit and lending rates, but the pass-through ultimately depends on deposit mobilisation, the marginal cost of liquidity and the pace of credit expansion,\" Sana Ur Rehman, senior market analyst at EBC Financial Group, said in a statement sent to Việt Nam News .",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261111_033aa2af3e#19",
+    "doc_id": "vietnamnews_20261111_033aa2af3e",
+    "sent_idx": 19,
+    "text": "\"Put simply, cheaper credit still must be funded somewhere.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261111_033aa2af3e#20",
+    "doc_id": "vietnamnews_20261111_033aa2af3e",
+    "sent_idx": 20,
+    "text": "Deposit mobilisation varied significantly among banks.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261111_033aa2af3e#21",
+    "doc_id": "vietnamnews_20261111_033aa2af3e",
+    "sent_idx": 21,
+    "text": "BIDV led the system with VNĐ2.36 quadrillion in customer deposits in the first nine months of 2026, followed by VietinBank with VNĐ1.94 quadrillion and Vietcombank with VNĐ1.78 quadrillion.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261111_033aa2af3e#22",
+    "doc_id": "vietnamnews_20261111_033aa2af3e",
+    "sent_idx": 22,
+    "text": "In terms of new deposits, VPBank and Sacombank recorded stronger growth, adding around VNĐ165 trillion and VNĐ155.5 trillion, respectively.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261111_033aa2af3e#23",
+    "doc_id": "vietnamnews_20261111_033aa2af3e",
+    "sent_idx": 23,
+    "text": "By contrast, ACB added VNĐ10.6 trillion, down nearly 70 per cent year on year, while OCB gained less than VNĐ2 trillion, down around 85 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261111_033aa2af3e#24",
+    "doc_id": "vietnamnews_20261111_033aa2af3e",
+    "sent_idx": 24,
+    "text": "The differences suggest that funding pressure is uneven across the banking system, depending on existing deposit bases, credit growth and the ability to attract new funds.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261111_033aa2af3e#25",
+    "doc_id": "vietnamnews_20261111_033aa2af3e",
+    "sent_idx": 25,
+    "text": "Lower lending rates depend on funding costs",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261111_033aa2af3e#26",
+    "doc_id": "vietnamnews_20261111_033aa2af3e",
+    "sent_idx": 26,
+    "text": "Reducing deposit rates can help banks lower their funding costs, but the extent to which savings are passed on to borrowers depends on each bank's funding structure and liquidity position.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261111_033aa2af3e#27",
+    "doc_id": "vietnamnews_20261111_033aa2af3e",
+    "sent_idx": 27,
+    "text": "In its November 2026 banking sector update, SSI Securities Corporation said commercial banks would support the economy by reducing both deposit and lending rates, putting pressure on net interest margins (NIM) in the short term.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261111_033aa2af3e#28",
+    "doc_id": "vietnamnews_20261111_033aa2af3e",
+    "sent_idx": 28,
+    "text": "SSI also noted that relatively high interest rates continued to weigh on the debt-servicing capacity of small- and medium-sized enterprises, micro-enterprises, households and individual borrowers.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261111_033aa2af3e#29",
+    "doc_id": "vietnamnews_20261111_033aa2af3e",
+    "sent_idx": 29,
+    "text": "Banks with stable deposit bases and lower funding costs would have an advantage in reducing pressure on NIM while offering more flexible lending rates to customers.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261111_033aa2af3e#30",
+    "doc_id": "vietnamnews_20261111_033aa2af3e",
+    "sent_idx": 30,
+    "text": "According to Rehman, lower borrowing costs are most sustainable when supported by a stable funding base.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261111_033aa2af3e#31",
+    "doc_id": "vietnamnews_20261111_033aa2af3e",
+    "sent_idx": 31,
+    "text": "Meanwhile, inflation and exchange-rate developments will also influence the room for further rate reductions.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261111_033aa2af3e#32",
+    "doc_id": "vietnamnews_20261111_033aa2af3e",
+    "sent_idx": 32,
+    "text": "Việt Nam's consumer price index rose by 5.09 per cent year on year in October, while average inflation in the first 10 months reached 4.57 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261111_033aa2af3e#33",
+    "doc_id": "vietnamnews_20261111_033aa2af3e",
+    "sent_idx": 33,
+    "text": "The challenge for the SBV is to lower borrowing costs while maintaining liquidity and economic stability and ensure that lower deposit rates translate into cheaper loans for businesses and households. - VNS",
+    "lang": "en",
+    "is_title": false
+  }
+]

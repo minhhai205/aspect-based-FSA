@@ -1,0 +1,50 @@
+[
+  {
+    "sent_id": "vneconomy_en_20261116_5fa3a6c138#0",
+    "doc_id": "vneconomy_en_20261116_5fa3a6c138",
+    "sent_idx": 0,
+    "text": "Thanh Hoa approves $110m expansion of Trung Son Hydropower Plant",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vneconomy_en_20261116_5fa3a6c138#1",
+    "doc_id": "vneconomy_en_20261116_5fa3a6c138",
+    "sent_idx": 1,
+    "text": "The People's Committee of central Thanh Hoa province has approved the investment policy and investor for the Trung Son Hydropower Plant expansion project in Trung Son Commune, with an estimated total investment of VND2.91 trillion ($110 million).",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261116_5fa3a6c138#2",
+    "doc_id": "vneconomy_en_20261116_5fa3a6c138",
+    "sent_idx": 2,
+    "text": "The project will have an installed capacity of 130MW, comprising two generating units of 65MW each.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261116_5fa3a6c138#3",
+    "doc_id": "vneconomy_en_20261116_5fa3a6c138",
+    "sent_idx": 3,
+    "text": "The approved investor is Trung Son Hydropower One-Member Limited Liability Company, which is wholly owned by Power Generation Corporation 2 (EVNGENCO 2).",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261116_5fa3a6c138#4",
+    "doc_id": "vneconomy_en_20261116_5fa3a6c138",
+    "sent_idx": 4,
+    "text": "Under the approval decision, construction must be completed and the plant commissioned no later than 42 months after the State hands over the project land.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261116_5fa3a6c138#5",
+    "doc_id": "vneconomy_en_20261116_5fa3a6c138",
+    "sent_idx": 5,
+    "text": "The project will have an operational term of 40 years from the effective date of the investment policy approval.",
+    "lang": "en",
+    "is_title": false
+  }
+]

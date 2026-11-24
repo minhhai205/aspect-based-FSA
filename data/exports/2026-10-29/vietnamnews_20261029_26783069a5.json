@@ -1,0 +1,178 @@
+[
+  {
+    "sent_id": "vietnamnews_20261029_26783069a5#0",
+    "doc_id": "vietnamnews_20261029_26783069a5",
+    "sent_idx": 0,
+    "text": "Banks to issue 7.3 billion shares worth $5.4 billion in 2027",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261029_26783069a5#1",
+    "doc_id": "vietnamnews_20261029_26783069a5",
+    "sent_idx": 1,
+    "text": "HÀ NỘI - Eight banks have planned to issue shares worth approximately VNĐ144 trillion (US$5.4 billion) next year to raise capital amid rising credit demands.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261029_26783069a5#2",
+    "doc_id": "vietnamnews_20261029_26783069a5",
+    "sent_idx": 2,
+    "text": "In a recent report on the investment strategy outline for 2027, analysts of the Saigon Securities Incorporation (SSI) estimated that NVB, VCB, and BID account for nearly two-thirds of the total.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261029_26783069a5#3",
+    "doc_id": "vietnamnews_20261029_26783069a5",
+    "sent_idx": 3,
+    "text": "SSI noted that the wave of capital increases comes as credit demand continues to rise, even as banks face ongoing pressures regarding capital mobilisation and asset quality.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261029_26783069a5#4",
+    "doc_id": "vietnamnews_20261029_26783069a5",
+    "sent_idx": 4,
+    "text": "It believes that capital increases will remain a key theme for the sector for years to come, as credit demand rises and banks seek to strengthen their capital buffers.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261029_26783069a5#5",
+    "doc_id": "vietnamnews_20261029_26783069a5",
+    "sent_idx": 5,
+    "text": "According to the report, most major banks intend to issue new shares amounting to less than 15 per cent of their pre-issuance share count.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261029_26783069a5#6",
+    "doc_id": "vietnamnews_20261029_26783069a5",
+    "sent_idx": 6,
+    "text": "However, NVB plans a capital increase equivalent to 113 per cent, followed by PVcomBank at 33 per cent and MSB at 25 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261029_26783069a5#7",
+    "doc_id": "vietnamnews_20261029_26783069a5",
+    "sent_idx": 7,
+    "text": "The analysts estimated that the new capital will boost the equity of listed banks by approximately 6.9 per cent, excluding retained earnings for 2027, though they noted that this scale remains modest relative to medium-term capital requirements.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261029_26783069a5#8",
+    "doc_id": "vietnamnews_20261029_26783069a5",
+    "sent_idx": 8,
+    "text": "Under the report, they forecast that credit of the banking sector will grow by approximately 16-17 per cent in 2027, led by MBB, VPB, and HDB that have been tasked with the mandatory acquisition of distressed credit institutions by the central bank.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261029_26783069a5#9",
+    "doc_id": "vietnamnews_20261029_26783069a5",
+    "sent_idx": 9,
+    "text": "Bank credit is expected to concentrate on construction and infrastructure, with an increase in syndicated lending, allowing multiple banks to co-finance projects and share risks.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261029_26783069a5#10",
+    "doc_id": "vietnamnews_20261029_26783069a5",
+    "sent_idx": 10,
+    "text": "Conversely, high interest rates may dampen demand for speculative real estate borrowing, as well as expansion plans among small and medium-sized enterprises (SMEs) and individual business households.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261029_26783069a5#11",
+    "doc_id": "vietnamnews_20261029_26783069a5",
+    "sent_idx": 11,
+    "text": "While credit demand remains high, deposit mobilisation capacity is not expected to improve at a commensurate pace.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261029_26783069a5#12",
+    "doc_id": "vietnamnews_20261029_26783069a5",
+    "sent_idx": 12,
+    "text": "The analysts anticipated that term deposits will remain the primary source of funding, with banks likely issuing additional certificates of deposit and bonds to bridge the gap between credit growth and deposit mobilisation.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261029_26783069a5#13",
+    "doc_id": "vietnamnews_20261029_26783069a5",
+    "sent_idx": 13,
+    "text": "Public investment and foreign-currency borrowing will serve only as supplementary sources.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261029_26783069a5#14",
+    "doc_id": "vietnamnews_20261029_26783069a5",
+    "sent_idx": 14,
+    "text": "The analysts suggested that the pace of disbursement could slow in 2027 as projects transition into the construction phase, while USD borrowing will be constrained by high interest costs and the expenses associated with exchange-rate hedging.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261029_26783069a5#15",
+    "doc_id": "vietnamnews_20261029_26783069a5",
+    "sent_idx": 15,
+    "text": "The current scale of credit also adds to the prevailing pressure.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261029_26783069a5#16",
+    "doc_id": "vietnamnews_20261029_26783069a5",
+    "sent_idx": 16,
+    "text": "According to the analysts, Việt Nam's credit-to-GDP ratio currently stands between 140 per cent and 150 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261029_26783069a5#17",
+    "doc_id": "vietnamnews_20261029_26783069a5",
+    "sent_idx": 17,
+    "text": "Meanwhile, the portfolio of announced mega-projects alone could absorb at least 30 per cent of the net credit growth projected for the 2026-2030 period.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261029_26783069a5#18",
+    "doc_id": "vietnamnews_20261029_26783069a5",
+    "sent_idx": 18,
+    "text": "Therefore, the analysts suggested that developing the capital market is essential to shift long-term risks off bank balance sheets.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261029_26783069a5#19",
+    "doc_id": "vietnamnews_20261029_26783069a5",
+    "sent_idx": 19,
+    "text": "However, they noted that the process would take several years.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261029_26783069a5#20",
+    "doc_id": "vietnamnews_20261029_26783069a5",
+    "sent_idx": 20,
+    "text": "Based on the forecasts, the analysts proposed that the banking sector should focus on risk control and management capabilities, rather than the pace of credit expansion, in 2027.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261029_26783069a5#21",
+    "doc_id": "vietnamnews_20261029_26783069a5",
+    "sent_idx": 21,
+    "text": "A solid deposit base, appropriate provisioning levels, and disciplined project selection will be the key factors driving differentiation among banks, they said. - BIZHUB/VNS",
+    "lang": "en",
+    "is_title": false
+  }
+]

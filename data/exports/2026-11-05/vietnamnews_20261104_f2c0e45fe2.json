@@ -1,0 +1,258 @@
+[
+  {
+    "sent_id": "vietnamnews_20261104_f2c0e45fe2#0",
+    "doc_id": "vietnamnews_20261104_f2c0e45fe2",
+    "sent_idx": 0,
+    "text": "Fintech firms target Việt Nam's household businesses",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261104_f2c0e45fe2#1",
+    "doc_id": "vietnamnews_20261104_f2c0e45fe2",
+    "sent_idx": 1,
+    "text": "HÀ NỘI - Digital banks and fintech firms in Việt Nam are expanding lending services for household businesses, seeking to close financing gaps through partnerships with sales management platforms.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261104_f2c0e45fe2#2",
+    "doc_id": "vietnamnews_20261104_f2c0e45fe2",
+    "sent_idx": 2,
+    "text": "The nation has about 5.2 million household businesses, contributing as much as 30 per cent of gross domestic product and providing jobs for tens of millions of workers, according to figures from the Ministry of Finance.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261104_f2c0e45fe2#3",
+    "doc_id": "vietnamnews_20261104_f2c0e45fe2",
+    "sent_idx": 3,
+    "text": "The sector plays a key role in the country's retail market and consumer services.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261104_f2c0e45fe2#4",
+    "doc_id": "vietnamnews_20261104_f2c0e45fe2",
+    "sent_idx": 4,
+    "text": "However, grocery stores, restaurants and other small businesses continue to face difficulties accessing finance because they lack collateral and formal financial records.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261104_f2c0e45fe2#5",
+    "doc_id": "vietnamnews_20261104_f2c0e45fe2",
+    "sent_idx": 5,
+    "text": "When they need funds to replenish stocks during peak seasons, some business owners turn to costly informal lending channels.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261104_f2c0e45fe2#6",
+    "doc_id": "vietnamnews_20261104_f2c0e45fe2",
+    "sent_idx": 6,
+    "text": "Fintech companies are seeking to bridge this financing gap by partnering with sales management platforms.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261104_f2c0e45fe2#7",
+    "doc_id": "vietnamnews_20261104_f2c0e45fe2",
+    "sent_idx": 7,
+    "text": "Digital bank Cake by VPBank is among the institutions pursuing this model.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261104_f2c0e45fe2#8",
+    "doc_id": "vietnamnews_20261104_f2c0e45fe2",
+    "sent_idx": 8,
+    "text": "Cake and KiotViet began offering loans of up to VNĐ300 million (US$11,400) to household businesses in October.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261104_f2c0e45fe2#9",
+    "doc_id": "vietnamnews_20261104_f2c0e45fe2",
+    "sent_idx": 9,
+    "text": "The entire process, from application and electronic know-your-customer verification (eKYC) to credit limit approval and disbursement, is conducted online through the KiotViet app, with processing taking just a few minutes.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261104_f2c0e45fe2#10",
+    "doc_id": "vietnamnews_20261104_f2c0e45fe2",
+    "sent_idx": 10,
+    "text": "The two companies are also integrating payment tools, including dynamic QR codes and technology that turns a mobile phone into a card payment terminal.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261104_f2c0e45fe2#11",
+    "doc_id": "vietnamnews_20261104_f2c0e45fe2",
+    "sent_idx": 11,
+    "text": "The aim is to create an integrated operating system that allows merchants to manage inventory, monitor cash flows and access working capital through a single interface.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261104_f2c0e45fe2#12",
+    "doc_id": "vietnamnews_20261104_f2c0e45fe2",
+    "sent_idx": 12,
+    "text": "\"We want to help household businesses overcome difficulties, maintain stable cash flows and grow every day.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261104_f2c0e45fe2#13",
+    "doc_id": "vietnamnews_20261104_f2c0e45fe2",
+    "sent_idx": 13,
+    "text": "When they need capital, they can access formal financing safely and quickly through a tool they are already familiar with,\" Nguyễn Hữu Quang, CEO of Cake, told The Leader magazine.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261104_f2c0e45fe2#14",
+    "doc_id": "vietnamnews_20261104_f2c0e45fe2",
+    "sent_idx": 14,
+    "text": "Quang said household businesses increasingly want to manage multiple operations on a single platform while accessing financial services tailored to the scale of their businesses and their actual cash flows.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261104_f2c0e45fe2#15",
+    "doc_id": "vietnamnews_20261104_f2c0e45fe2",
+    "sent_idx": 15,
+    "text": "Cake by VPBank said its strategy of expanding its ecosystem to serve a range of customer segments, from young people and individual customers to household businesses, had helped it reach nearly 8 million customers.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261104_f2c0e45fe2#16",
+    "doc_id": "vietnamnews_20261104_f2c0e45fe2",
+    "sent_idx": 16,
+    "text": "Financial institutions' growing focus on household businesses reflects a significant gap in the credit market.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261104_f2c0e45fe2#17",
+    "doc_id": "vietnamnews_20261104_f2c0e45fe2",
+    "sent_idx": 17,
+    "text": "The 2025 Provincial Competitiveness Index (PCI) report, published by the Vietnam Chamber of Commerce and Industry (VCCI), found that more than 93 per cent of loans in Việt Nam still require collateral.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261104_f2c0e45fe2#18",
+    "doc_id": "vietnamnews_20261104_f2c0e45fe2",
+    "sent_idx": 18,
+    "text": "Meanwhile, 75.5 per cent of small and medium-sized enterprises (SMEs) said they could not access bank financing without collateral.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261104_f2c0e45fe2#19",
+    "doc_id": "vietnamnews_20261104_f2c0e45fe2",
+    "sent_idx": 19,
+    "text": "The barrier does not stem from a lack of liquidity in the banking system, but partly from traditional banks' limited tools for assessing risk based on the actual cash flows of small businesses.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261104_f2c0e45fe2#20",
+    "doc_id": "vietnamnews_20261104_f2c0e45fe2",
+    "sent_idx": 20,
+    "text": "Embedded finance is emerging as a way to connect businesses with funding through the digital platforms they use in their daily operations.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261104_f2c0e45fe2#21",
+    "doc_id": "vietnamnews_20261104_f2c0e45fe2",
+    "sent_idx": 21,
+    "text": "Before partnering with KiotViet, Cake worked with MISA Group to roll out digital lending packages through MISA Lending, a platform that connects borrowers with lenders.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261104_f2c0e45fe2#22",
+    "doc_id": "vietnamnews_20261104_f2c0e45fe2",
+    "sent_idx": 22,
+    "text": "The platform is integrated into accounting, electronic invoicing and sales management software, including meInvoice, MISA eShop and CukCuk.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261104_f2c0e45fe2#23",
+    "doc_id": "vietnamnews_20261104_f2c0e45fe2",
+    "sent_idx": 23,
+    "text": "Rather than relying solely on collateral or traditional financial records, the system collects and standardises transaction, cash flow and invoice data that household businesses agree to share.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261104_f2c0e45fe2#24",
+    "doc_id": "vietnamnews_20261104_f2c0e45fe2",
+    "sent_idx": 24,
+    "text": "The data are used to assess creditworthiness with artificial intelligence (AI), helping shorten application processing times and speed up lending decisions.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261104_f2c0e45fe2#25",
+    "doc_id": "vietnamnews_20261104_f2c0e45fe2",
+    "sent_idx": 25,
+    "text": "After five years of operation, MISA Lending had connected with 16 financial institutions and served more than 400,000 businesses and household businesses with cumulative disbursements of VNĐ40 trillion ($1.5 billion).",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261104_f2c0e45fe2#26",
+    "doc_id": "vietnamnews_20261104_f2c0e45fe2",
+    "sent_idx": 26,
+    "text": "The success rate for loan applications reached 36.2 per cent, 10 times the rate for traditional unsecured lending channels.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261104_f2c0e45fe2#27",
+    "doc_id": "vietnamnews_20261104_f2c0e45fe2",
+    "sent_idx": 27,
+    "text": "Cake was among the platform's partners with one of the highest successful disbursement rates, according to the information provided.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261104_f2c0e45fe2#28",
+    "doc_id": "vietnamnews_20261104_f2c0e45fe2",
+    "sent_idx": 28,
+    "text": "SMEs and household businesses have genuine and recurring financing needs, but are extremely sensitive to timing.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261104_f2c0e45fe2#29",
+    "doc_id": "vietnamnews_20261104_f2c0e45fe2",
+    "sent_idx": 29,
+    "text": "When funding arrives too late, their business opportunities may already have passed, Nguyễn Thị Ngoan, deputy general director of MISA Group, said.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261104_f2c0e45fe2#30",
+    "doc_id": "vietnamnews_20261104_f2c0e45fe2",
+    "sent_idx": 30,
+    "text": "Fintechs are not seeking to persuade banks to lower their lending standards to increase disbursements, Ngoan said.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261104_f2c0e45fe2#31",
+    "doc_id": "vietnamnews_20261104_f2c0e45fe2",
+    "sent_idx": 31,
+    "text": "Instead, they are focusing on improving data quality and using AI to continuously analyse operational indicators, giving banks a stronger factual basis for making more accurate lending decisions. - VNS",
+    "lang": "en",
+    "is_title": false
+  }
+]

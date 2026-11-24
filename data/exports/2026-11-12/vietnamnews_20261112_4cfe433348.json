@@ -1,0 +1,466 @@
+[
+  {
+    "sent_id": "vietnamnews_20261112_4cfe433348#0",
+    "doc_id": "vietnamnews_20261112_4cfe433348",
+    "sent_idx": 0,
+    "text": "EU businesses see Việt Nam as strategic hub for investment and supply chains",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261112_4cfe433348#1",
+    "doc_id": "vietnamnews_20261112_4cfe433348",
+    "sent_idx": 1,
+    "text": "Around 110 senior executives representing nearly 40 European companies visited Hà Nội from November 4 to 6 to explore opportunities for deeper business and investment ties with Việt Nam.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261112_4cfe433348#2",
+    "doc_id": "vietnamnews_20261112_4cfe433348",
+    "sent_idx": 2,
+    "text": "Led by the EU-ASEAN Business Council (EU-ABC), the visit came as Việt Nam and the EU mark six years of the EU-Việt Nam Free Trade Agreement (EVFTA) in August and after the upgrade of bilateral relations to a Comprehensive Strategic Partnership in January.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261112_4cfe433348#3",
+    "doc_id": "vietnamnews_20261112_4cfe433348",
+    "sent_idx": 3,
+    "text": "In an interview with Việt Nam News reporter Vũ Hoa, EU-ABC Vice Chair Noel Clehane, who is also Global Head of Public Policy at BDO, a global accounting and advisory firm, discusses Việt Nam's growing appeal to European investors, opportunities for cooperation and the policy improvements needed to unlock greater trade and investment.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261112_4cfe433348#4",
+    "doc_id": "vietnamnews_20261112_4cfe433348",
+    "sent_idx": 4,
+    "text": "How should the EU-Việt Nam Comprehensive Strategic Partnership translate into stronger investment and business ties in the coming years?",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261112_4cfe433348#5",
+    "doc_id": "vietnamnews_20261112_4cfe433348",
+    "sent_idx": 5,
+    "text": "The partnership should go beyond the immediate issues of market access and tariff reductions under the EVFTA, which has been in force for more than six years.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261112_4cfe433348#6",
+    "doc_id": "vietnamnews_20261112_4cfe433348",
+    "sent_idx": 6,
+    "text": "It should support deeper economic integration between Europe and Việt Nam, and ASEAN more broadly, particularly through supply chains and the development of Việt Nam as a regional business hub.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261112_4cfe433348#7",
+    "doc_id": "vietnamnews_20261112_4cfe433348",
+    "sent_idx": 7,
+    "text": "One priority is greater regulatory predictability and consultation with foreign businesses during the policy- and law-making process.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261112_4cfe433348#8",
+    "doc_id": "vietnamnews_20261112_4cfe433348",
+    "sent_idx": 8,
+    "text": "Tax policy, for example, is a concern for some of our members, who fear that increases in taxes across certain sectors could offset some of the benefits gained from tariff reductions under the EVFTA.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261112_4cfe433348#9",
+    "doc_id": "vietnamnews_20261112_4cfe433348",
+    "sent_idx": 9,
+    "text": "Cross-border data transfers and personal data protection are other areas where clearer and more facilitative regulations could help deepen trade and investment.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261112_4cfe433348#10",
+    "doc_id": "vietnamnews_20261112_4cfe433348",
+    "sent_idx": 10,
+    "text": "The business outlook, however, remains positive.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261112_4cfe433348#11",
+    "doc_id": "vietnamnews_20261112_4cfe433348",
+    "sent_idx": 11,
+    "text": "Our latest survey shows that 64 per cent of EU-ABC members intend to expand operations in Việt Nam over the next five years.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261112_4cfe433348#12",
+    "doc_id": "vietnamnews_20261112_4cfe433348",
+    "sent_idx": 12,
+    "text": "EuroCham Vietnam's latest Business Confidence Index also recorded 78.3 points, with 90 per cent recommending Việt Nam as an investment destination.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261112_4cfe433348#13",
+    "doc_id": "vietnamnews_20261112_4cfe433348",
+    "sent_idx": 13,
+    "text": "A more enabling policy environment would help turn this confidence into stronger investment and bilateral trade.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261112_4cfe433348#14",
+    "doc_id": "vietnamnews_20261112_4cfe433348",
+    "sent_idx": 14,
+    "text": "Which sectors offer the greatest opportunities for European businesses in Việt Nam over the next five to 10 years?",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261112_4cfe433348#15",
+    "doc_id": "vietnamnews_20261112_4cfe433348",
+    "sent_idx": 15,
+    "text": "Việt Nam is already one of the most attractive destinations in ASEAN for European investment.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261112_4cfe433348#16",
+    "doc_id": "vietnamnews_20261112_4cfe433348",
+    "sent_idx": 16,
+    "text": "Its appeal could be further strengthened by policies that encourage foreign companies to establish closer links with local businesses and supply chains, rather than simply setting up subsidiaries.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261112_4cfe433348#17",
+    "doc_id": "vietnamnews_20261112_4cfe433348",
+    "sent_idx": 17,
+    "text": "Opportunities span a wide range of sectors, particularly healthcare, biotechnology, sustainable manufacturing, aviation and financial services.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261112_4cfe433348#18",
+    "doc_id": "vietnamnews_20261112_4cfe433348",
+    "sent_idx": 18,
+    "text": "Education is another promising area, with Vietnamese students benefiting from European universities and bringing knowledge and expertise back home.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261112_4cfe433348#19",
+    "doc_id": "vietnamnews_20261112_4cfe433348",
+    "sent_idx": 19,
+    "text": "European companies also have considerable experience in green and sustainable manufacturing, supported by long-established environmental standards and reporting requirements.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261112_4cfe433348#20",
+    "doc_id": "vietnamnews_20261112_4cfe433348",
+    "sent_idx": 20,
+    "text": "As Việt Nam makes green growth and digital transformation central to its economic development, European businesses are well positioned to contribute technology, expertise and solutions.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261112_4cfe433348#21",
+    "doc_id": "vietnamnews_20261112_4cfe433348",
+    "sent_idx": 21,
+    "text": "What advantages does Việt Nam have in becoming a regional business and supply chain hub for European companies?",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261112_4cfe433348#22",
+    "doc_id": "vietnamnews_20261112_4cfe433348",
+    "sent_idx": 22,
+    "text": "Geography is one of Việt Nam's greatest advantages.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261112_4cfe433348#23",
+    "doc_id": "vietnamnews_20261112_4cfe433348",
+    "sent_idx": 23,
+    "text": "It is strategically located within a few hours of major markets, including China, India, Japan, the Republic of Korea and ASEAN economies, giving it considerable potential as a regional supply chain and distribution centre.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261112_4cfe433348#24",
+    "doc_id": "vietnamnews_20261112_4cfe433348",
+    "sent_idx": 24,
+    "text": "Việt Nam has also developed a substantial industrial ecosystem over the past 10 to 15 years, alongside an increasingly educated workforce.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261112_4cfe433348#25",
+    "doc_id": "vietnamnews_20261112_4cfe433348",
+    "sent_idx": 25,
+    "text": "Continued investment in infrastructure, including ports, airports and motorways, further strengthens its competitiveness.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261112_4cfe433348#26",
+    "doc_id": "vietnamnews_20261112_4cfe433348",
+    "sent_idx": 26,
+    "text": "However, infrastructure alone is not enough.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261112_4cfe433348#27",
+    "doc_id": "vietnamnews_20261112_4cfe433348",
+    "sent_idx": 27,
+    "text": "A predictable and business-friendly regulatory environment is equally important.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261112_4cfe433348#28",
+    "doc_id": "vietnamnews_20261112_4cfe433348",
+    "sent_idx": 28,
+    "text": "Investors will choose destinations where doing business is straightforward, not simply where tariffs are low.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261112_4cfe433348#29",
+    "doc_id": "vietnamnews_20261112_4cfe433348",
+    "sent_idx": 29,
+    "text": "Businesses still encounter challenges in areas such as inconsistent customs procedures, taxation, data protection and limited private sector consultation on new legislation.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261112_4cfe433348#30",
+    "doc_id": "vietnamnews_20261112_4cfe433348",
+    "sent_idx": 30,
+    "text": "Việt Nam has an extensive network of free trade agreements, but their benefits can only be fully realised if companies can operate efficiently.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261112_4cfe433348#31",
+    "doc_id": "vietnamnews_20261112_4cfe433348",
+    "sent_idx": 31,
+    "text": "Where do you see the biggest opportunities for EU-Việt Nam cooperation in green technology, renewable energy and sustainable manufacturing?",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261112_4cfe433348#32",
+    "doc_id": "vietnamnews_20261112_4cfe433348",
+    "sent_idx": 32,
+    "text": "These sectors offer significant opportunities for Việt Nam to move up the value chain, attract higher-quality investment and strengthen technology transfer and links between foreign investors and domestic businesses.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261112_4cfe433348#33",
+    "doc_id": "vietnamnews_20261112_4cfe433348",
+    "sent_idx": 33,
+    "text": "European companies have extensive experience in green manufacturing, sustainability reporting and emissions management.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261112_4cfe433348#34",
+    "doc_id": "vietnamnews_20261112_4cfe433348",
+    "sent_idx": 34,
+    "text": "In renewable energy, Danish firms are global leaders in wind power, while British and French businesses have expertise in wave energy.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261112_4cfe433348#35",
+    "doc_id": "vietnamnews_20261112_4cfe433348",
+    "sent_idx": 35,
+    "text": "Europe also has considerable experience in developing and managing integrated electricity grids.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261112_4cfe433348#36",
+    "doc_id": "vietnamnews_20261112_4cfe433348",
+    "sent_idx": 36,
+    "text": "These capabilities could support Việt Nam's energy transition and its ambition to develop a more sustainable economy.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261112_4cfe433348#37",
+    "doc_id": "vietnamnews_20261112_4cfe433348",
+    "sent_idx": 37,
+    "text": "European businesses can also contribute to circular manufacturing models and advanced production technologies.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261112_4cfe433348#38",
+    "doc_id": "vietnamnews_20261112_4cfe433348",
+    "sent_idx": 38,
+    "text": "The key is to create mutually beneficial partnerships that enable technology transfer while ensuring a supportive environment for long-term investment.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261112_4cfe433348#39",
+    "doc_id": "vietnamnews_20261112_4cfe433348",
+    "sent_idx": 39,
+    "text": "What are the main concerns European businesses will raise with the Vietnamese Government during this visit?",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261112_4cfe433348#40",
+    "doc_id": "vietnamnews_20261112_4cfe433348",
+    "sent_idx": 40,
+    "text": "Our message is not a list of complaints, but a set of recommendations on how to facilitate more investment and trade in both directions.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261112_4cfe433348#41",
+    "doc_id": "vietnamnews_20261112_4cfe433348",
+    "sent_idx": 41,
+    "text": "We support Việt Nam's ambition to pursue technology-driven, higher-quality economic growth and believe European companies can help achieve these objectives.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261112_4cfe433348#42",
+    "doc_id": "vietnamnews_20261112_4cfe433348",
+    "sent_idx": 42,
+    "text": "Stronger links with Vietnamese businesses are essential.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261112_4cfe433348#43",
+    "doc_id": "vietnamnews_20261112_4cfe433348",
+    "sent_idx": 43,
+    "text": "Some priorities include simplifying customs procedures, improving access to public-private partnerships and investment incentives, and strengthening intellectual property protection.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261112_4cfe433348#44",
+    "doc_id": "vietnamnews_20261112_4cfe433348",
+    "sent_idx": 44,
+    "text": "The latter is particularly important for European companies in technology-intensive and services sectors.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261112_4cfe433348#45",
+    "doc_id": "vietnamnews_20261112_4cfe433348",
+    "sent_idx": 45,
+    "text": "Intellectual property is often central to their competitive advantage.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261112_4cfe433348#46",
+    "doc_id": "vietnamnews_20261112_4cfe433348",
+    "sent_idx": 46,
+    "text": "Businesses need confidence that their technology and expertise will be adequately protected and that technology transfer will take place on mutually beneficial terms.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261112_4cfe433348#47",
+    "doc_id": "vietnamnews_20261112_4cfe433348",
+    "sent_idx": 47,
+    "text": "Greater access to capital and more flexible mechanisms for mobilising investment would also help attract European businesses.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261112_4cfe433348#48",
+    "doc_id": "vietnamnews_20261112_4cfe433348",
+    "sent_idx": 48,
+    "text": "More broadly, consultation with foreign investors on legislation covering areas such as land, employment, immigration and planning would help prevent unintended regulatory barriers.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261112_4cfe433348#49",
+    "doc_id": "vietnamnews_20261112_4cfe433348",
+    "sent_idx": 49,
+    "text": "Việt Nam is already a major success story for international investors.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261112_4cfe433348#50",
+    "doc_id": "vietnamnews_20261112_4cfe433348",
+    "sent_idx": 50,
+    "text": "Many European companies have operated in Việt Nam for decades and continue to promote the country as an investment destination.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261112_4cfe433348#51",
+    "doc_id": "vietnamnews_20261112_4cfe433348",
+    "sent_idx": 51,
+    "text": "Việt Nam is also increasingly important to European companies' supply chain diversification strategies.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261112_4cfe433348#52",
+    "doc_id": "vietnamnews_20261112_4cfe433348",
+    "sent_idx": 52,
+    "text": "It is no longer viewed simply as a low-cost manufacturing base for exports to Europe.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261112_4cfe433348#53",
+    "doc_id": "vietnamnews_20261112_4cfe433348",
+    "sent_idx": 53,
+    "text": "ASEAN is a major market in its own right, with a population of nearly 700 million and a growing middle class, while Việt Nam is strategically positioned to serve the wider region.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261112_4cfe433348#54",
+    "doc_id": "vietnamnews_20261112_4cfe433348",
+    "sent_idx": 54,
+    "text": "The EVFTA has significantly boosted bilateral trade, particularly Vietnamese exports to Europe.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261112_4cfe433348#55",
+    "doc_id": "vietnamnews_20261112_4cfe433348",
+    "sent_idx": 55,
+    "text": "The Comprehensive Strategic Partnership now offers an opportunity to build on that progress.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261112_4cfe433348#56",
+    "doc_id": "vietnamnews_20261112_4cfe433348",
+    "sent_idx": 56,
+    "text": "Ultimately, Việt Nam should continue improving its regulatory environment, removing barriers to investment, facilitating capital flows, protecting intellectual property and consulting businesses on new policies.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261112_4cfe433348#57",
+    "doc_id": "vietnamnews_20261112_4cfe433348",
+    "sent_idx": 57,
+    "text": "Eliminating even relatively minor obstacles can make a significant difference to investors' decisions and help Việt Nam attract more high-quality European investment. - VNS",
+    "lang": "en",
+    "is_title": false
+  }
+]

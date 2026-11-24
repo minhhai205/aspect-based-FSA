@@ -1,0 +1,210 @@
+[
+  {
+    "sent_id": "vneconomy_en_20261112_ce8cd99d80#0",
+    "doc_id": "vneconomy_en_20261112_ce8cd99d80",
+    "sent_idx": 0,
+    "text": "Tax revenue from e-commerce reaches nearly $9.4 bln",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_ce8cd99d80#1",
+    "doc_id": "vneconomy_en_20261112_ce8cd99d80",
+    "sent_idx": 1,
+    "text": "At a National Assembly question-and-answer session on November 12, Minister of Finance Ngo Van Tuan stated that Vietnam's e-commerce sector has recorded average annual growth of around 20% since 2022, according to the Government's online newspaper (chinhphu.vn).",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_ce8cd99d80#2",
+    "doc_id": "vneconomy_en_20261112_ce8cd99d80",
+    "sent_idx": 2,
+    "text": "By the end of 2025, e-commerce sales are estimated to reach approximately $37 billion, making Vietnam the country with the second-fastest e-commerce growth rate in Southeast Asia.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_ce8cd99d80#3",
+    "doc_id": "vneconomy_en_20261112_ce8cd99d80",
+    "sent_idx": 3,
+    "text": "Along with market expansion, tax revenue from e-commerce services has also grown rapidly.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_ce8cd99d80#4",
+    "doc_id": "vneconomy_en_20261112_ce8cd99d80",
+    "sent_idx": 4,
+    "text": "By the end of the first ten months of 2026, tax collections reached VND241 trillion (approximately $9.38 billion), an increase of approximately 42% year-on-year.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_ce8cd99d80#5",
+    "doc_id": "vneconomy_en_20261112_ce8cd99d80",
+    "sent_idx": 5,
+    "text": "According to the minister, effective management of online business activities requires strict oversight of online sellers, KOLs, KOCs, e-commerce platforms, and supporting service providers such as payment companies, logistics firms, and delivery drivers.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_ce8cd99d80#6",
+    "doc_id": "vneconomy_en_20261112_ce8cd99d80",
+    "sent_idx": 6,
+    "text": "Currently, the tax authority manages more than 140,000 businesses and over one million household and individual online business operators.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_ce8cd99d80#7",
+    "doc_id": "vneconomy_en_20261112_ce8cd99d80",
+    "sent_idx": 7,
+    "text": "The key strategy is to identify business entities, collect data, and ensure that transactions conducted in the digital environment are properly monitored.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_ce8cd99d80#8",
+    "doc_id": "vneconomy_en_20261112_ce8cd99d80",
+    "sent_idx": 8,
+    "text": "The Ministry of Finance has implemented a tax withholding and remittance mechanism, requiring e-commerce platforms and service providers to deduct taxes at the source.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_ce8cd99d80#9",
+    "doc_id": "vneconomy_en_20261112_ce8cd99d80",
+    "sent_idx": 9,
+    "text": "To date, 96 banks offering electronic payment services and 105 logistics providers have been connected to the national database system.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_ce8cd99d80#10",
+    "doc_id": "vneconomy_en_20261112_ce8cd99d80",
+    "sent_idx": 10,
+    "text": "Mr. Tuan emphasized that that integration helps business operators avoid submitting the same information multiple times.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_ce8cd99d80#11",
+    "doc_id": "vneconomy_en_20261112_ce8cd99d80",
+    "sent_idx": 11,
+    "text": "They only need to declare information once and update it when changes occur.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_ce8cd99d80#12",
+    "doc_id": "vneconomy_en_20261112_ce8cd99d80",
+    "sent_idx": 12,
+    "text": "If an e-commerce platform has already paid taxes on behalf of a seller, the seller is not required to pay those taxes again.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_ce8cd99d80#13",
+    "doc_id": "vneconomy_en_20261112_ce8cd99d80",
+    "sent_idx": 13,
+    "text": "Authorities are also monitoring data and tracing payment transactions through e-wallets and bank accounts linked to verified identification information.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_ce8cd99d80#14",
+    "doc_id": "vneconomy_en_20261112_ce8cd99d80",
+    "sent_idx": 14,
+    "text": "For cross-border e-commerce activities, the ministry launched a National Electronic Information Portal in 2022, allowing foreign service providers to declare and pay taxes in Vietnam.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_ce8cd99d80#15",
+    "doc_id": "vneconomy_en_20261112_ce8cd99d80",
+    "sent_idx": 15,
+    "text": "Minister Tuan noted that the E-commerce Law, which took effect on July 1, 2026, requires global online platforms to maintain a representative presence in Vietnam.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_ce8cd99d80#16",
+    "doc_id": "vneconomy_en_20261112_ce8cd99d80",
+    "sent_idx": 16,
+    "text": "In addition to tax obligations, e-commerce management also involves combating counterfeit goods, fake products, prohibited items, and intellectual property violations.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_ce8cd99d80#17",
+    "doc_id": "vneconomy_en_20261112_ce8cd99d80",
+    "sent_idx": 17,
+    "text": "Therefore, tax authority data must be integrated with data from other government agencies, including payment regulators.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_ce8cd99d80#18",
+    "doc_id": "vneconomy_en_20261112_ce8cd99d80",
+    "sent_idx": 18,
+    "text": "Nearly 600 cases referred for investigation",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_ce8cd99d80#19",
+    "doc_id": "vneconomy_en_20261112_ce8cd99d80",
+    "sent_idx": 19,
+    "text": "Responding to questions about invoice trading and shell companies, the minister acknowledged that violations still occur despite the implementation of electronic invoices.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_ce8cd99d80#20",
+    "doc_id": "vneconomy_en_20261112_ce8cd99d80",
+    "sent_idx": 20,
+    "text": "He reported that since 2022, tax authorities have transferred nearly 600 company dossiers showing signs of tax evasion, tax fraud, or illegal invoice trading to investigative agencies.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_ce8cd99d80#21",
+    "doc_id": "vneconomy_en_20261112_ce8cd99d80",
+    "sent_idx": 21,
+    "text": "The Ministry of Finance plans to strengthen the use of digital technologies and work closely with relevant authorities, especially the Cybersecurity and High-Tech Crime Prevention Department under the Ministry of Public Security, to verify the identities of individuals registering and managing businesses.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_ce8cd99d80#22",
+    "doc_id": "vneconomy_en_20261112_ce8cd99d80",
+    "sent_idx": 22,
+    "text": "At the same time, tax authorities will increase inspections of actual business operations, focusing on high-risk sectors and groups.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_ce8cd99d80#23",
+    "doc_id": "vneconomy_en_20261112_ce8cd99d80",
+    "sent_idx": 23,
+    "text": "Regarding cases where citizens' identities have been misused to establish businesses fraudulently, the minister said that current reviews indicate approximately 8,000 affected individuals.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_ce8cd99d80#24",
+    "doc_id": "vneconomy_en_20261112_ce8cd99d80",
+    "sent_idx": 24,
+    "text": "Most of these companies were established about 20 years ago, when information technology systems and data-sharing mechanisms between tax and public security authorities were still underdeveloped.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_ce8cd99d80#25",
+    "doc_id": "vneconomy_en_20261112_ce8cd99d80",
+    "sent_idx": 25,
+    "text": "\"The Ministry of Finance will continue coordinating with public security agencies to investigate and cleanse these enterprises from the system, while also raising public awareness so that citizens can better protect their personal information,\" said Mr. Tuan.",
+    "lang": "en",
+    "is_title": false
+  }
+]

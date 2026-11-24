@@ -1,0 +1,250 @@
+[
+  {
+    "sent_id": "vneconomy_en_20261028_ceb429b869#0",
+    "doc_id": "vneconomy_en_20261028_ceb429b869",
+    "sent_idx": 0,
+    "text": "Vietnam holds 71 billion-ton CO2 storage potential, unlocking CCUS opportunities in oil and gas",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vneconomy_en_20261028_ceb429b869#1",
+    "doc_id": "vneconomy_en_20261028_ceb429b869",
+    "sent_idx": 1,
+    "text": "Carbon capture and storage (CCS), as well as carbon capture, utilization, and storage (CCUS) technologies, are increasingly recognized as vital pathways in emissions reduction-particularly for hard-to-abate industrial sectors.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261028_ceb429b869#2",
+    "doc_id": "vneconomy_en_20261028_ceb429b869",
+    "sent_idx": 2,
+    "text": "Vietnam is considered a country with immense potential to develop CCS and CCUS across its petroleum industry, especially via offshore carbon geological storage.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261028_ceb429b869#3",
+    "doc_id": "vneconomy_en_20261028_ceb429b869",
+    "sent_idx": 3,
+    "text": "According to assessments, the country possesses among the greatest CO2 storage capacities in Southeast Asia, with a potential of up to 71 billion tonnes of CO2 concentrated primarily across three geological regions...",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261028_ceb429b869#4",
+    "doc_id": "vneconomy_en_20261028_ceb429b869",
+    "sent_idx": 4,
+    "text": "Speaking at the workshop \"Carbon Capture, Utilization, and Storage (CCUS) Technologies: Solutions to Accelerate Net Zero in Vietnam\" on October 27, Dr. Nguyen Huu Luong, Senior Expert at the Vietnam Petroleum Institute, noted that current global operational CCUS capacity remains relatively modest, with approximately 64 million tonnes of CO2 being captured.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261028_ceb429b869#5",
+    "doc_id": "vneconomy_en_20261028_ceb429b869",
+    "sent_idx": 5,
+    "text": "However, global CCS deployment is forecast to expand rapidly, surging nearly tenfold by 2030 to surpass 500 million tonnes per year.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261028_ceb429b869#6",
+    "doc_id": "vneconomy_en_20261028_ceb429b869",
+    "sent_idx": 6,
+    "text": "Globally, there are 77 CCUS projects in commercial operation and 610 under various stages of development, with an anticipated average compound growth rate of nearly 40% through 2030.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261028_ceb429b869#7",
+    "doc_id": "vneconomy_en_20261028_ceb429b869",
+    "sent_idx": 7,
+    "text": "Key geological formations utilized worldwide for CO2 storage include depleted oil and gas reservoirs, deep saline aquifers, and unminable deep coal seams.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261028_ceb429b869#8",
+    "doc_id": "vneconomy_en_20261028_ceb429b869",
+    "sent_idx": 8,
+    "text": "To date, cumulative global injected and stored CO2 stands at around 380 million tonnes.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261028_ceb429b869#9",
+    "doc_id": "vneconomy_en_20261028_ceb429b869",
+    "sent_idx": 9,
+    "text": "\"This is an extremely modest figure against a theoretical global capacity exceeding 10 trillion tonnes of CO2, demonstrating enormous headroom for growth in this sector,\" Dr. Luong said.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261028_ceb429b869#10",
+    "doc_id": "vneconomy_en_20261028_ceb429b869",
+    "sent_idx": 10,
+    "text": "The International Energy Agency (IEA) has concluded that reaching Net Zero emissions by 2050-moved forward from the previous 2070 horizon-will require an additional 50% expansion in CCUS deployment.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261028_ceb429b869#11",
+    "doc_id": "vneconomy_en_20261028_ceb429b869",
+    "sent_idx": 11,
+    "text": "In 2023, the IEA also underscored CCUS as an indispensable, mandatory component to achieve Net Zero targets.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261028_ceb429b869#12",
+    "doc_id": "vneconomy_en_20261028_ceb429b869",
+    "sent_idx": 12,
+    "text": "For Vietnam, joint research conducted by Petrovietnam (PVN) and the Japan Organization for Metals and Energy Security (JOGMEC) identified Vietnam as possessing among the highest CO2 storage potentials in Southeast Asia, estimated at approximately 71 billion tonnes.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261028_ceb429b869#13",
+    "doc_id": "vneconomy_en_20261028_ceb429b869",
+    "sent_idx": 13,
+    "text": "This storage capacity is concentrated primarily in three offshore sedimentary basins: the Song Hong Basin (39 billion tonnes), the Nam Con Son Basin (22 billion tonnes), and the Cuu Long Basin (10 billion tonnes).",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261028_ceb429b869#14",
+    "doc_id": "vneconomy_en_20261028_ceb429b869",
+    "sent_idx": 14,
+    "text": "Crucially, Vietnam could capitalize on over 1 billion tonnes of effective storage capacity within depleted oil and gas fields alone.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261028_ceb429b869#15",
+    "doc_id": "vneconomy_en_20261028_ceb429b869",
+    "sent_idx": 15,
+    "text": "Vietnam also holds distinct competitive advantages for CCUS, including 34 offshore oil and gas fields whose storage suitability has been preliminarily evaluated by Petrovietnam.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261028_ceb429b869#16",
+    "doc_id": "vneconomy_en_20261028_ceb429b869",
+    "sent_idx": 16,
+    "text": "Notably, in 2011, Vietnam became the first nation in Southeast Asia to successfully implement CO2 enhanced oil recovery (EOR) injection at the Rang Dong field.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261028_ceb429b869#17",
+    "doc_id": "vneconomy_en_20261028_ceb429b869",
+    "sent_idx": 17,
+    "text": "CCUS scope in Vietnam's decarbonization roadmap",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261028_ceb429b869#18",
+    "doc_id": "vneconomy_en_20261028_ceb429b869",
+    "sent_idx": 18,
+    "text": "Addressing the workshop, Deputy Minister of Agriculture and Environment Le Trong Yen emphasized that achieving Vietnam's Net Zero emissions commitment by 2050 necessitates profound transformation across economic growth models-particularly as Vietnam targets ambitious double-digit GDP expansion-as well as production methods and natural resource utilization.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261028_ceb429b869#19",
+    "doc_id": "vneconomy_en_20261028_ceb429b869",
+    "sent_idx": 19,
+    "text": "According to the Deputy Minister, this transition must run parallel with ensuring national energy security, ecological integrity, and industrial competitiveness while creating fresh development impetus.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261028_ceb429b869#20",
+    "doc_id": "vneconomy_en_20261028_ceb429b869",
+    "sent_idx": 20,
+    "text": "Every mitigation solution must be evaluated on scientific rigor, economic feasibility, and Vietnam's unique practical conditions.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261028_ceb429b869#21",
+    "doc_id": "vneconomy_en_20261028_ceb429b869",
+    "sent_idx": 21,
+    "text": "To lay the groundwork for real-world deployment, Mr. Yen called for clearly defining the specific role, positioning, and application scope of CCUS within Vietnam's national decarbonization roadmap.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261028_ceb429b869#22",
+    "doc_id": "vneconomy_en_20261028_ceb429b869",
+    "sent_idx": 22,
+    "text": "Concurrently, technical standards, scientific benchmarks, and safety protocols across the entire CCUS value chain must be thoroughly clarified.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261028_ceb429b869#23",
+    "doc_id": "vneconomy_en_20261028_ceb429b869",
+    "sent_idx": 23,
+    "text": "Industry specialists noted that Vietnam has already established baseline prerequisites for CCUS development.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261028_ceb429b869#24",
+    "doc_id": "vneconomy_en_20261028_ceb429b869",
+    "sent_idx": 24,
+    "text": "The country possesses concentrated point-source CO2 emissions from power generation and heavy industries, vast offshore geological storage capacity in sedimentary basins and depleted fields, and mature oil and gas expertise, seismic data, and infrastructure that can be repurposed for CO2 transport, injection, and long-term storage.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261028_ceb429b869#25",
+    "doc_id": "vneconomy_en_20261028_ceb429b869",
+    "sent_idx": 25,
+    "text": "Furthermore, the gradual emergence of a domestic carbon market, green finance frameworks, and legal improvements governing petroleum operations provide foundational momentum for CCUS execution.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261028_ceb429b869#26",
+    "doc_id": "vneconomy_en_20261028_ceb429b869",
+    "sent_idx": 26,
+    "text": "Most notably, the amended Petroleum Law (Law No 10/2026/QH16), adopted by the National Assembly on August 23, 2026, and taking effect on March 1, 2027, introduced specific legal provisions governing carbon capture and storage operations linked to petroleum activities, establishing an initial regulatory cornerstone for field deployment.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261028_ceb429b869#27",
+    "doc_id": "vneconomy_en_20261028_ceb429b869",
+    "sent_idx": 27,
+    "text": "Dr. Nguyen Thanh Tung, Deputy Director of the Vietnam Petroleum Institute, assessed that incorporating CCUS provisions into the revised Petroleum Law is a decisive milestone, providing the legal basis to transition from exploratory research toward commercial projects.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261028_ceb429b869#28",
+    "doc_id": "vneconomy_en_20261028_ceb429b869",
+    "sent_idx": 28,
+    "text": "However, Dr. Tung stressed that to commercialize CCS/CCUS on an industrial scale, Vietnam must establish comprehensive guidelines covering the full project lifecycle: acreage block awards, investor selection, site characterization, injection licensing, operational monitoring, site closure, and post-closure long-term liability frameworks.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261028_ceb429b869#29",
+    "doc_id": "vneconomy_en_20261028_ceb429b869",
+    "sent_idx": 29,
+    "text": "From an international perspective, delegates concluded that under appropriate market conditions, CCS/CCUS provides critical decarbonization pathways for hard-to-abate industries, spurs technological innovation, and enhances the export competitiveness of low-carbon goods.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261028_ceb429b869#30",
+    "doc_id": "vneconomy_en_20261028_ceb429b869",
+    "sent_idx": 30,
+    "text": "The degree to which mitigation credits are monetized on carbon markets will ultimately hinge on robust legal architectures, baseline carbon accounting methodologies, and stringent measurement, reporting, and verification (MRV) protocols.",
+    "lang": "en",
+    "is_title": false
+  }
+]

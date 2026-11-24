@@ -1,0 +1,314 @@
+[
+  {
+    "sent_id": "vneconomy_en_20261031_a74b124300#0",
+    "doc_id": "vneconomy_en_20261031_a74b124300",
+    "sent_idx": 0,
+    "text": "Enterprises and business households to receive 30% income tax reduction",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vneconomy_en_20261031_a74b124300#1",
+    "doc_id": "vneconomy_en_20261031_a74b124300",
+    "sent_idx": 1,
+    "text": "Enterprises and business households with annual revenue below VND10 billion (more than $388,000) will receive a 30% income tax reduction immediately upon declaration or provisional payment per period, applicable for the 2026 and 2027 tax periods.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261031_a74b124300#2",
+    "doc_id": "vneconomy_en_20261031_a74b124300",
+    "sent_idx": 2,
+    "text": "If actual revenue exceeds VND10 billion, taxpayers must repay the entire reduced tax amount, according to Decree 398/2026/ND-CP of the Government (Decree 398).",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261031_a74b124300#3",
+    "doc_id": "vneconomy_en_20261031_a74b124300",
+    "sent_idx": 3,
+    "text": "This policy is effective from October 29 and applies to the 2026 and 2027 tax periods.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261031_a74b124300#4",
+    "doc_id": "vneconomy_en_20261031_a74b124300",
+    "sent_idx": 4,
+    "text": "A notable point is that the eligibility for the incentive is determined based on actual annual revenue, rather than just the projected revenue at the time of declaration.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261031_a74b124300#5",
+    "doc_id": "vneconomy_en_20261031_a74b124300",
+    "sent_idx": 5,
+    "text": "Aggregate total revenue to determine tax reduction eligibility",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261031_a74b124300#6",
+    "doc_id": "vneconomy_en_20261031_a74b124300",
+    "sent_idx": 6,
+    "text": "For business households and individual businesses, the 30% reduction is calculated on the personal income tax payable from business activities, regardless of whether the tax is calculated based on revenue or income.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261031_a74b124300#7",
+    "doc_id": "vneconomy_en_20261031_a74b124300",
+    "sent_idx": 7,
+    "text": "If the projected annual revenue does not exceed VND10 billion, taxpayers can declare the reduction along with the corresponding tax period's documents.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261031_a74b124300#8",
+    "doc_id": "vneconomy_en_20261031_a74b124300",
+    "sent_idx": 8,
+    "text": "Organizations and individuals withholding and paying taxes on behalf of others are also eligible for a 30% reduction in personal income tax on a monthly, quarterly, or per occurrence basis, calculated on the revenue subject to substitute declaration.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261031_a74b124300#9",
+    "doc_id": "vneconomy_en_20261031_a74b124300",
+    "sent_idx": 9,
+    "text": "To determine eligibility for the incentive, business operators must aggregate actual revenue from all activities throughout the year.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261031_a74b124300#10",
+    "doc_id": "vneconomy_en_20261031_a74b124300",
+    "sent_idx": 10,
+    "text": "If cumulative revenue exceeds the VND10 billion threshold, taxpayers must immediately adjust their declaration in the period when the revenue exceeds the threshold and repay the entire previously reduced tax amount, as stated in Decree 398.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261031_a74b124300#11",
+    "doc_id": "vneconomy_en_20261031_a74b124300",
+    "sent_idx": 11,
+    "text": "The additional tax payment in this case will not incur late payment interest until the tax declaration deadline of the period with revenue exceeding the threshold.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261031_a74b124300#12",
+    "doc_id": "vneconomy_en_20261031_a74b124300",
+    "sent_idx": 12,
+    "text": "For cases where the reduction has not been accounted for, taxpayers can supplement their declaration or reassess the reduction when finalizing the annual accounts.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261031_a74b124300#13",
+    "doc_id": "vneconomy_en_20261031_a74b124300",
+    "sent_idx": 13,
+    "text": "If taxes are paid based on a revenue percentage and result in overpayment, the excess amount will be offset or refunded according to regulations.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261031_a74b124300#14",
+    "doc_id": "vneconomy_en_20261031_a74b124300",
+    "sent_idx": 14,
+    "text": "Before the issuance of the guiding decree, the wait for specific implementation mechanisms caused some business households to be anxious about how to declare, determine benefits, and handle taxes already paid.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261031_a74b124300#15",
+    "doc_id": "vneconomy_en_20261031_a74b124300",
+    "sent_idx": 15,
+    "text": "With the policy guidance, the actual annual revenue condition remains a concern for business households with revenue approaching the regulatory threshold.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261031_a74b124300#16",
+    "doc_id": "vneconomy_en_20261031_a74b124300",
+    "sent_idx": 16,
+    "text": "On tax discussion forums, some business households express concern that revenue might exceed VND10 billion in the final months of the year, a period when sales activities are typically more active.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261031_a74b124300#17",
+    "doc_id": "vneconomy_en_20261031_a74b124300",
+    "sent_idx": 17,
+    "text": "For those nearing this threshold, a significant increase in revenue during peak seasons could disqualify them from the incentive and require repayment of previously reduced taxes.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261031_a74b124300#18",
+    "doc_id": "vneconomy_en_20261031_a74b124300",
+    "sent_idx": 18,
+    "text": "However, the new decree stipulates that if the total actual annual revenue exceeds the threshold, households no longer qualify for the incentive and must repay the reduced taxes from previous periods.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261031_a74b124300#19",
+    "doc_id": "vneconomy_en_20261031_a74b124300",
+    "sent_idx": 19,
+    "text": "This concern is not only about the tax amount but also relates to business planning and cash flow.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261031_a74b124300#20",
+    "doc_id": "vneconomy_en_20261031_a74b124300",
+    "sent_idx": 20,
+    "text": "The fourth quarter is a time when many stores need to increase capital for inventory to meet the shopping demand during the Tet (Lunar New Year) holiday.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261031_a74b124300#21",
+    "doc_id": "vneconomy_en_20261031_a74b124300",
+    "sent_idx": 21,
+    "text": "If revenue is not accurately forecasted, business households may have to simultaneously manage working capital needs and arising tax obligations.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261031_a74b124300#22",
+    "doc_id": "vneconomy_en_20261031_a74b124300",
+    "sent_idx": 22,
+    "text": "Therefore, monitoring cumulative revenue and forecasting business results until the end of the year is crucial, especially for those with revenue close to the VND10 billion threshold.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261031_a74b124300#23",
+    "doc_id": "vneconomy_en_20261031_a74b124300",
+    "sent_idx": 23,
+    "text": "Enterprises must include revenue from branches and dependent units",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261031_a74b124300#24",
+    "doc_id": "vneconomy_en_20261031_a74b124300",
+    "sent_idx": 24,
+    "text": "For enterprises, the 30% reduction is self-determined when making quarterly provisional corporate income tax payments, provided the annual revenue does not exceed VND10 billion.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261031_a74b124300#25",
+    "doc_id": "vneconomy_en_20261031_a74b124300",
+    "sent_idx": 25,
+    "text": "The policy also applies to cooperatives, public service units, and other organizations with income from production and business activities.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261031_a74b124300#26",
+    "doc_id": "vneconomy_en_20261031_a74b124300",
+    "sent_idx": 26,
+    "text": "Taxpayers should note that this policy only applies to personal income tax and corporate income tax, excluding value-added tax.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261031_a74b124300#27",
+    "doc_id": "vneconomy_en_20261031_a74b124300",
+    "sent_idx": 27,
+    "text": "Additionally, the 30% reduction is calculated on the personal or corporate income tax payable, not a 30% reduction in revenue or a direct 30% reduction in tax rates.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261031_a74b124300#28",
+    "doc_id": "vneconomy_en_20261031_a74b124300",
+    "sent_idx": 28,
+    "text": "This is a tax obligation support measure, helping business operators retain some resources for regular activities and reinvestment.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261031_a74b124300#29",
+    "doc_id": "vneconomy_en_20261031_a74b124300",
+    "sent_idx": 29,
+    "text": "Notably, enterprises already enjoying corporate income tax incentives can still receive an additional 30% reduction on the remaining tax payable after applying the incentives.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261031_a74b124300#30",
+    "doc_id": "vneconomy_en_20261031_a74b124300",
+    "sent_idx": 30,
+    "text": "Similar to business households, to determine policy eligibility, revenue includes sales revenue, service provision, financial revenue, and other income.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261031_a74b124300#31",
+    "doc_id": "vneconomy_en_20261031_a74b124300",
+    "sent_idx": 31,
+    "text": "In cases with branches, dependent units, or business locations, enterprises must include the revenue of these units.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261031_a74b124300#32",
+    "doc_id": "vneconomy_en_20261031_a74b124300",
+    "sent_idx": 32,
+    "text": "The regulation also sets requirements for enterprises established through division or separation after August 24, the effective date of the National Assembly's Resolution 43. If the total revenue of the new legal entities exceeds VND10 billion per year, these enterprises are not eligible for the tax reduction.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261031_a74b124300#33",
+    "doc_id": "vneconomy_en_20261031_a74b124300",
+    "sent_idx": 33,
+    "text": "Similar to business households, enterprises must pay the full amount of tax owed if actual revenue exceeds the regulatory threshold.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261031_a74b124300#34",
+    "doc_id": "vneconomy_en_20261031_a74b124300",
+    "sent_idx": 34,
+    "text": "Late payment interest, if incurred, is handled according to tax management laws.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261031_a74b124300#35",
+    "doc_id": "vneconomy_en_20261031_a74b124300",
+    "sent_idx": 35,
+    "text": "In cases where taxpayers supplement their declaration or are audited by competent authorities, resulting in an increase in tax payable, the additional tax is still eligible for a 30% reduction if revenue conditions are met.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261031_a74b124300#36",
+    "doc_id": "vneconomy_en_20261031_a74b124300",
+    "sent_idx": 36,
+    "text": "Conversely, if the tax payable decreases, the reduced amount must be reassessed accordingly.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261031_a74b124300#37",
+    "doc_id": "vneconomy_en_20261031_a74b124300",
+    "sent_idx": 37,
+    "text": "Previously, the Ministry of Finance estimated that the policy would reduce budget revenue by approximately VND6,700 billion (more than $260 million) over two years.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261031_a74b124300#38",
+    "doc_id": "vneconomy_en_20261031_a74b124300",
+    "sent_idx": 38,
+    "text": "About 99.86% of individuals, business households, and 81.1% of enterprises are expected to benefit from the new policy.",
+    "lang": "en",
+    "is_title": false
+  }
+]

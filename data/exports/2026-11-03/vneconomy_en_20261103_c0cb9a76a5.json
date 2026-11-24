@@ -1,0 +1,130 @@
+[
+  {
+    "sent_id": "vneconomy_en_20261103_c0cb9a76a5#0",
+    "doc_id": "vneconomy_en_20261103_c0cb9a76a5",
+    "sent_idx": 0,
+    "text": "Vietnam's FDI attraction hits $54.85 billion in 10M",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_c0cb9a76a5#1",
+    "doc_id": "vneconomy_en_20261103_c0cb9a76a5",
+    "sent_idx": 1,
+    "text": "Vietnam attracted $54.85 billion in registered foreign direct investment (FDI) this year, as of October 31, 2026, up 74 per cent from the same period last year and the highest level recorded since 2009, according to a report released by the National Statistics Office on November 3.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_c0cb9a76a5#2",
+    "doc_id": "vneconomy_en_20261103_c0cb9a76a5",
+    "sent_idx": 2,
+    "text": "The strong growth was largely driven by a surge in newly registered investment.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_c0cb9a76a5#3",
+    "doc_id": "vneconomy_en_20261103_c0cb9a76a5",
+    "sent_idx": 3,
+    "text": "During the 10-month period of 2026, Vietnam licensed 3,478 new projects, up 4.7 per cent year-on-year, with registered capital reaching $30.73 billion, 2.2 times the figure recorded in the same period of 2025.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_c0cb9a76a5#4",
+    "doc_id": "vneconomy_en_20261103_c0cb9a76a5",
+    "sent_idx": 4,
+    "text": "This indicates a growing concentration of investment in large-scale, high-technology projects.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_c0cb9a76a5#5",
+    "doc_id": "vneconomy_en_20261103_c0cb9a76a5",
+    "sent_idx": 5,
+    "text": "Investor confidence was also reflected in additional capital commitments by existing investors.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_c0cb9a76a5#6",
+    "doc_id": "vneconomy_en_20261103_c0cb9a76a5",
+    "sent_idx": 6,
+    "text": "A total of 1,079 previously licensed projects registered capital increases worth $16.13 billion, up 33.2 per cent year-on-year.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_c0cb9a76a5#7",
+    "doc_id": "vneconomy_en_20261103_c0cb9a76a5",
+    "sent_idx": 7,
+    "text": "Foreign investors also made 2,616 capital contribution and share purchase transactions worth $7.99 billion, an increase of 49.6 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_c0cb9a76a5#8",
+    "doc_id": "vneconomy_en_20261103_c0cb9a76a5",
+    "sent_idx": 8,
+    "text": "Of these, 828 transactions added $3.28 billion to companies' charter capital, while 1,788 share purchases worth $4.71 billion did not increase charter capital.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_c0cb9a76a5#9",
+    "doc_id": "vneconomy_en_20261103_c0cb9a76a5",
+    "sent_idx": 9,
+    "text": "Manufacturing and processing continued to attract the largest share of FDI.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_c0cb9a76a5#10",
+    "doc_id": "vneconomy_en_20261103_c0cb9a76a5",
+    "sent_idx": 10,
+    "text": "The sector secured $14.61 billion in newly registered capital, accounting for 47.5 per cent of the total.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_c0cb9a76a5#11",
+    "doc_id": "vneconomy_en_20261103_c0cb9a76a5",
+    "sent_idx": 11,
+    "text": "Including adjusted capital, its combined registered investment reached $24.19 billion, or 51.6 per cent of the $46.86 billion in new and adjusted project capital.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_c0cb9a76a5#12",
+    "doc_id": "vneconomy_en_20261103_c0cb9a76a5",
+    "sent_idx": 12,
+    "text": "Among 80 countries and territories with newly licensed projects, Singapore ranked first with $9.52 billion, representing 31 per cent of newly registered capital.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_c0cb9a76a5#13",
+    "doc_id": "vneconomy_en_20261103_c0cb9a76a5",
+    "sent_idx": 13,
+    "text": "South Korea followed with $5.81 billion (18.9 per cent), ahead of Luxembourg with $4.99 billion (16.2 per cent).",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_c0cb9a76a5#14",
+    "doc_id": "vneconomy_en_20261103_c0cb9a76a5",
+    "sent_idx": 14,
+    "text": "Other major investors included Hong Kong (China), with $3.57 billion; China with $2.77 billion; Japan with $1.58 billion; and the Netherlands with $438.5 million.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_c0cb9a76a5#15",
+    "doc_id": "vneconomy_en_20261103_c0cb9a76a5",
+    "sent_idx": 15,
+    "text": "Disbursed FDI in the first 10 months was estimated at $24.08 billion, up 13.1 per cent year-on-year and the highest disbursement recorded for the same 10-month period in the past five years.",
+    "lang": "en",
+    "is_title": false
+  }
+]

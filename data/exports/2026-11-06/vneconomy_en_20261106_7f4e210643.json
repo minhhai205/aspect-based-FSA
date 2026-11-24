@@ -1,0 +1,258 @@
+[
+  {
+    "sent_id": "vneconomy_en_20261106_7f4e210643#0",
+    "doc_id": "vneconomy_en_20261106_7f4e210643",
+    "sent_idx": 0,
+    "text": "Vietnamese banks and financial institutions turn to domestic email providers",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vneconomy_en_20261106_7f4e210643#1",
+    "doc_id": "vneconomy_en_20261106_7f4e210643",
+    "sent_idx": 1,
+    "text": "Increasing calls for customer data security, infrastructure control, and regulatory compliance are prompting financial institutions to reassess their choice of email providers.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261106_7f4e210643#2",
+    "doc_id": "vneconomy_en_20261106_7f4e210643",
+    "sent_idx": 2,
+    "text": "Solutions from Vietnamese technology companies, such as BizMail by Bizfly, offer an option that helps these organizations gain greater control over data management and system operations.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261106_7f4e210643#3",
+    "doc_id": "vneconomy_en_20261106_7f4e210643",
+    "sent_idx": 3,
+    "text": "Organizations in BFSI (Banking, Finance, Securities, and Insurance) typically hold large volumes of customer data.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261106_7f4e210643#4",
+    "doc_id": "vneconomy_en_20261106_7f4e210643",
+    "sent_idx": 4,
+    "text": "However, information is often scattered across multiple systems, making it more difficult to identify the right audiences and control how data is processed.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261106_7f4e210643#5",
+    "doc_id": "vneconomy_en_20261106_7f4e210643",
+    "sent_idx": 5,
+    "text": "In an email marketing project for a joint stock commercial bank, data from the core banking and card management systems had not been fully reconciled.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261106_7f4e210643#6",
+    "doc_id": "vneconomy_en_20261106_7f4e210643",
+    "sent_idx": 6,
+    "text": "As a result, the bank faced difficulties identifying valid email addresses and identifying customer segments with specific needs.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261106_7f4e210643#7",
+    "doc_id": "vneconomy_en_20261106_7f4e210643",
+    "sent_idx": 7,
+    "text": "Rather than sending the same marketing email to the entire customer base, BizMail supports combining data from multiple sources, verifying email addresses, and segmenting customers based on their service usage patterns.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261106_7f4e210643#8",
+    "doc_id": "vneconomy_en_20261106_7f4e210643",
+    "sent_idx": 8,
+    "text": "This enables businesses to focus product marketing campaigns on relevant customer groups, while prioritizing email marketing for customer outreach and reducing reliance on SMS messages where appropriate.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261106_7f4e210643#9",
+    "doc_id": "vneconomy_en_20261106_7f4e210643",
+    "sent_idx": 9,
+    "text": "However, when integrating data into communication systems, banks and financial firms must also control access rights, usage scope, and information processing activities.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261106_7f4e210643#10",
+    "doc_id": "vneconomy_en_20261106_7f4e210643",
+    "sent_idx": 10,
+    "text": "Unlike email marketing, transactional email is directly linked to the customer experience when using financial services.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261106_7f4e210643#11",
+    "doc_id": "vneconomy_en_20261106_7f4e210643",
+    "sent_idx": 11,
+    "text": "Notifications of account balance changes, payment confirmations, and account activations, for example, must reach the right recipients at the right time, with delivery statuses available for lookup.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261106_7f4e210643#12",
+    "doc_id": "vneconomy_en_20261106_7f4e210643",
+    "sent_idx": 12,
+    "text": "For businesses handling large transaction volumes, delayed emails or messages landing in spam folders can affect the customer experience.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261106_7f4e210643#13",
+    "doc_id": "vneconomy_en_20261106_7f4e210643",
+    "sent_idx": 13,
+    "text": "They can also make it harder for operations teams to handle complaints when tracking data is unavailable.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261106_7f4e210643#14",
+    "doc_id": "vneconomy_en_20261106_7f4e210643",
+    "sent_idx": 14,
+    "text": "Bizfly has also observed this challenge at an electronic payment company, where transactions involving deposits, withdrawals, payments, and bank account linking require timely, traceable transaction notifications.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261106_7f4e210643#15",
+    "doc_id": "vneconomy_en_20261106_7f4e210643",
+    "sent_idx": 15,
+    "text": "BizMail supports integration via API/SMTP, dedicated sending infrastructure for transactional email, and synchronization of delivery statuses with company systems through webhooks.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261106_7f4e210643#16",
+    "doc_id": "vneconomy_en_20261106_7f4e210643",
+    "sent_idx": 16,
+    "text": "The solution supports domain authentication via SPF, DKIM and DMARC, TLS-encrypted connections, and access control to increase email reliability and reduce the risk of domain spoofing.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261106_7f4e210643#17",
+    "doc_id": "vneconomy_en_20261106_7f4e210643",
+    "sent_idx": 17,
+    "text": "For financial institutions, it is important to track sent emails and their processing statuses, while managing data through clearly defined procedures.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261106_7f4e210643#18",
+    "doc_id": "vneconomy_en_20261106_7f4e210643",
+    "sent_idx": 18,
+    "text": "The Law on Personal Data Protection No. 91/2025/QH15 and Decree No. 356/2025/ND-CP officially took effect on January 1, 2026.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261106_7f4e210643#19",
+    "doc_id": "vneconomy_en_20261106_7f4e210643",
+    "sent_idx": 19,
+    "text": "For BFSI organizations that regularly process large volumes of customer information, data protection requirements are becoming an increasingly important criterion when selecting technology partners.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261106_7f4e210643#20",
+    "doc_id": "vneconomy_en_20261106_7f4e210643",
+    "sent_idx": 20,
+    "text": "When evaluating email services, enterprises need to consider where data is stored, how access rights are controlled, how information is protected during transmission, and the extent to which systems can be monitored.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261106_7f4e210643#21",
+    "doc_id": "vneconomy_en_20261106_7f4e210643",
+    "sent_idx": 21,
+    "text": "As a result, some organizations are also considering domestic providers to meet their data and infrastructure control requirements.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261106_7f4e210643#22",
+    "doc_id": "vneconomy_en_20261106_7f4e210643",
+    "sent_idx": 22,
+    "text": "However, choosing a Vietnamese provider or storing data in Vietnam does not automatically mean compliance with the law.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261106_7f4e210643#23",
+    "doc_id": "vneconomy_en_20261106_7f4e210643",
+    "sent_idx": 23,
+    "text": "The decisive factors remain system architecture, governance policies, and actual operational procedures.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261106_7f4e210643#24",
+    "doc_id": "vneconomy_en_20261106_7f4e210643",
+    "sent_idx": 24,
+    "text": "Bizfly has developed BizMail for businesses, including those in BFSI, offering three service categories: Business Email for business communications, Email Marketing for customer engagement, and Transactional Email for operational notifications.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261106_7f4e210643#25",
+    "doc_id": "vneconomy_en_20261106_7f4e210643",
+    "sent_idx": 25,
+    "text": "Businesses can choose from four deployment models: SaaS, Dedicated Cloud, Private Cloud, or On-premise, depending on their infrastructure requirements and desired degree of control over data management.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261106_7f4e210643#26",
+    "doc_id": "vneconomy_en_20261106_7f4e210643",
+    "sent_idx": 26,
+    "text": "They should also assess each deployment model against their internal requirements, as the degree of management autonomy and scope of control may vary between options.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261106_7f4e210643#27",
+    "doc_id": "vneconomy_en_20261106_7f4e210643",
+    "sent_idx": 27,
+    "text": "In terms of information security, Bizfly Cloud infrastructure holds ISO/IEC 27001:2022, ISO/IEC 27017:2015 , and PCI DSS 4.0.1 Level 1 certifications, within the scope of the respective certifications.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261106_7f4e210643#28",
+    "doc_id": "vneconomy_en_20261106_7f4e210643",
+    "sent_idx": 28,
+    "text": "These provide a reference point when assessing providers.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261106_7f4e210643#29",
+    "doc_id": "vneconomy_en_20261106_7f4e210643",
+    "sent_idx": 29,
+    "text": "Enterprises still need to conduct their own evaluations of technical capabilities, service scope, and actual security procedures.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261106_7f4e210643#30",
+    "doc_id": "vneconomy_en_20261106_7f4e210643",
+    "sent_idx": 30,
+    "text": "Such assessments should be updated whenever the system or scope of data processing changes.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261106_7f4e210643#31",
+    "doc_id": "vneconomy_en_20261106_7f4e210643",
+    "sent_idx": 31,
+    "text": "BizMail is an Enterprise Email Solution within the Bizfly - VCCorp ecosystem, offering Business Email, Transactional Email, and Email Marketing.",
+    "lang": "en",
+    "is_title": false
+  }
+]

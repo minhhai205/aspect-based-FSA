@@ -1,0 +1,258 @@
+[
+  {
+    "sent_id": "vietnamnews_20261028_2ba06200a8#0",
+    "doc_id": "vietnamnews_20261028_2ba06200a8",
+    "sent_idx": 0,
+    "text": "Low liquidity poses challenge for small-cap stocks moving to HoSE",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261028_2ba06200a8#1",
+    "doc_id": "vietnamnews_20261028_2ba06200a8",
+    "sent_idx": 1,
+    "text": "HÀ NỘI - Small-cap companies moving their shares to the Hochiminh Stock Exchange (HoSE) face mounting challenges in attracting investor demand as liquidity tightens and capital flows become increasingly selective, with recent trading data showing that a change of listing venue does not necessarily translate into stronger share prices or higher trading volumes.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_2ba06200a8#2",
+    "doc_id": "vietnamnews_20261028_2ba06200a8",
+    "sent_idx": 2,
+    "text": "Dong Son Holdings JSC (DSH), which has received approval to list 35 million shares on HoSE, and Helio Energy JSC (HIO), which has submitted an application to list 42 million shares, are among the next companies seeking access to the exchange.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_2ba06200a8#3",
+    "doc_id": "vietnamnews_20261028_2ba06200a8",
+    "sent_idx": 3,
+    "text": "Both currently have low liquidity on the UPCoM.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_2ba06200a8#4",
+    "doc_id": "vietnamnews_20261028_2ba06200a8",
+    "sent_idx": 4,
+    "text": "From May 8 to October 13, DSH shares fell 33 per cent, from VNĐ17,600 to VNĐ11,800 each, trading below their 200-day moving average (MA200).",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_2ba06200a8#5",
+    "doc_id": "vietnamnews_20261028_2ba06200a8",
+    "sent_idx": 5,
+    "text": "Average trading volume stood at around 81,000 shares per session.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_2ba06200a8#6",
+    "doc_id": "vietnamnews_20261028_2ba06200a8",
+    "sent_idx": 6,
+    "text": "HIO recorded an average matched volume of just over 8,000 shares per session as of October 13.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_2ba06200a8#7",
+    "doc_id": "vietnamnews_20261028_2ba06200a8",
+    "sent_idx": 7,
+    "text": "Low liquidity can make it difficult for investors to trade large volumes without affecting share prices, particularly when they need to exit positions during a market downturn.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_2ba06200a8#8",
+    "doc_id": "vietnamnews_20261028_2ba06200a8",
+    "sent_idx": 8,
+    "text": "Although moving to HoSE can expand a company's exposure to investors, it does not automatically generate new demand.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_2ba06200a8#9",
+    "doc_id": "vietnamnews_20261028_2ba06200a8",
+    "sent_idx": 9,
+    "text": "A stock's appeal also depends on earnings prospects, valuation, shareholder structure and free float.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_2ba06200a8#10",
+    "doc_id": "vietnamnews_20261028_2ba06200a8",
+    "sent_idx": 10,
+    "text": "Investors holding thinly traded shares may have to accept unfavourable prices when seeking to sell quickly.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_2ba06200a8#11",
+    "doc_id": "vietnamnews_20261028_2ba06200a8",
+    "sent_idx": 11,
+    "text": "DSH was founded in 2009 under its original name, Dong Son Infrastructure Investment JSC. The company was started with funding from three groups: 319 Corporation (under the Ministry of National Defence), Vina Invest JSC, and European Steel JSC. Later in 2017, 319 Corporation reduced its stake in the company's capital from 51 per cent down to 15 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_2ba06200a8#12",
+    "doc_id": "vietnamnews_20261028_2ba06200a8",
+    "sent_idx": 12,
+    "text": "HIO originated as Alpha Solar 1 Co., Ltd., established in 2020 with a charter capital of VNĐ10 billion (US$386,780).",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_2ba06200a8#13",
+    "doc_id": "vietnamnews_20261028_2ba06200a8",
+    "sent_idx": 13,
+    "text": "Following several capital increases, its charter capital has reached VNĐ420 billion.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_2ba06200a8#14",
+    "doc_id": "vietnamnews_20261028_2ba06200a8",
+    "sent_idx": 14,
+    "text": "HoSE listing does not guarantee share price gains",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_2ba06200a8#15",
+    "doc_id": "vietnamnews_20261028_2ba06200a8",
+    "sent_idx": 15,
+    "text": "The performance of stocks transferred to HoSE in 2026 also illustrates the risks.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_2ba06200a8#16",
+    "doc_id": "vietnamnews_20261028_2ba06200a8",
+    "sent_idx": 16,
+    "text": "In the first nine months of the year, Truong Son Investment and Construction JSC (TSA) listed more than 40.4 million shares on January 7, while An Giang Fruit-Vegetables & Foodstuff JSC (ANT) listed more than 24 million shares on January 20.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_2ba06200a8#17",
+    "doc_id": "vietnamnews_20261028_2ba06200a8",
+    "sent_idx": 17,
+    "text": "TSA fell by 20.7 per cent from VNĐ15,700 to VNĐ12,450 per share between September 14 and October 13, trading below its MA200 with an average matched volume of around 9,000 shares per session.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_2ba06200a8#18",
+    "doc_id": "vietnamnews_20261028_2ba06200a8",
+    "sent_idx": 18,
+    "text": "ANT declined by 37.9 per cent from VNĐ25,210 to VNĐ15,650 between April 24 and October 13. It also traded below its MA200, with average liquidity of just 21,600 shares per session.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_2ba06200a8#19",
+    "doc_id": "vietnamnews_20261028_2ba06200a8",
+    "sent_idx": 19,
+    "text": "TSA operates in electrical construction, power pole manufacturing and prestressed centrifugal concrete piles.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_2ba06200a8#20",
+    "doc_id": "vietnamnews_20261028_2ba06200a8",
+    "sent_idx": 20,
+    "text": "Its project portfolio includes the 110kV Ba Thien-Khai Quang line, the 500kV Song Hau-Duc Hoa line and power-grid contracts at Yen Phong 3. Its customers include subsidiaries of Vietnam Electricity.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_2ba06200a8#21",
+    "doc_id": "vietnamnews_20261028_2ba06200a8",
+    "sent_idx": 21,
+    "text": "ANT, established in 1975, processes and preserves fruit and vegetables and operates five factories.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_2ba06200a8#22",
+    "doc_id": "vietnamnews_20261028_2ba06200a8",
+    "sent_idx": 22,
+    "text": "Following a sharp business downturn in 2023, the company recovered in 2024 and 2025.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_2ba06200a8#23",
+    "doc_id": "vietnamnews_20261028_2ba06200a8",
+    "sent_idx": 23,
+    "text": "However, ANT's revenue in the first half of 2026 fell by 6 per cent year-on-year to VNĐ926.7 billion, while net profit declined by 5 per cent to VNĐ64.4 billion.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_2ba06200a8#24",
+    "doc_id": "vietnamnews_20261028_2ba06200a8",
+    "sent_idx": 24,
+    "text": "Notably, the company's borrowings rose from VNĐ199.5 billion on January 1, 2023, to VNĐ917.7 billion on June 30, 2026, an increase of around 360 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_2ba06200a8#25",
+    "doc_id": "vietnamnews_20261028_2ba06200a8",
+    "sent_idx": 25,
+    "text": "Debt stood at 234.6 per cent of equity, compared with an industry average of 78 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_2ba06200a8#26",
+    "doc_id": "vietnamnews_20261028_2ba06200a8",
+    "sent_idx": 26,
+    "text": "Rising borrowings and receivables highlight working-capital pressures, particularly if debt collection takes longer.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_2ba06200a8#27",
+    "doc_id": "vietnamnews_20261028_2ba06200a8",
+    "sent_idx": 27,
+    "text": "Higher financial leverage also increases interest and repayment burdens when interest rates remain elevated.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_2ba06200a8#28",
+    "doc_id": "vietnamnews_20261028_2ba06200a8",
+    "sent_idx": 28,
+    "text": "TSA and ANT demonstrate that newly listed shares can fall sharply when market liquidity is weak or business prospects fail to convince investors.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_2ba06200a8#29",
+    "doc_id": "vietnamnews_20261028_2ba06200a8",
+    "sent_idx": 29,
+    "text": "For thinly traded stocks, investors face not only price risk but also difficulty exiting positions at their target prices.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_2ba06200a8#30",
+    "doc_id": "vietnamnews_20261028_2ba06200a8",
+    "sent_idx": 30,
+    "text": "The competition for capital is intensifying as some established large-cap companies have fallen to valuations not seen in five years.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_2ba06200a8#31",
+    "doc_id": "vietnamnews_20261028_2ba06200a8",
+    "sent_idx": 31,
+    "text": "These businesses may offer stronger operating foundations, longer trading histories, higher liquidity and attractive valuations, making them alternatives to smaller newcomers. - BIZHUB/VNS",
+    "lang": "en",
+    "is_title": false
+  }
+]

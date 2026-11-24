@@ -1,0 +1,186 @@
+[
+  {
+    "sent_id": "vietnamnews_20261104_9a3c3feb39#0",
+    "doc_id": "vietnamnews_20261104_9a3c3feb39",
+    "sent_idx": 0,
+    "text": "Public investment disbursement reaches 74.1 per cent of annual target",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261104_9a3c3feb39#1",
+    "doc_id": "vietnamnews_20261104_9a3c3feb39",
+    "sent_idx": 1,
+    "text": "HÀ NỘI - Việt Nam disbursed 74.1 per cent of the public investment capital allocated by the Prime Minister in the first 10 months of 2026, up 19.7 percentage points from the same period last year, according to the Ministry of Finance.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261104_9a3c3feb39#2",
+    "doc_id": "vietnamnews_20261104_9a3c3feb39",
+    "sent_idx": 2,
+    "text": "As of October 31, total public investment disbursement stood at nearly VNĐ708.6 trillion (US$27.5 billion), rising more than VNĐ217.5 trillion from a year earlier.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261104_9a3c3feb39#3",
+    "doc_id": "vietnamnews_20261104_9a3c3feb39",
+    "sent_idx": 3,
+    "text": "Of this, central budget capital accounted for VNĐ182 trillion, or 59.6 per cent of its annual target, while local budget capital reached VNĐ526.5 trillion, or 81 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261104_9a3c3feb39#4",
+    "doc_id": "vietnamnews_20261104_9a3c3feb39",
+    "sent_idx": 4,
+    "text": "Excluding nearly VNĐ30.7 trillion in local budget savings expected from a 5 per cent reduction for the Lào Cai-Hà Nội-Hải Phòng railway project, the disbursement rate reached 76.6 per cent of the adjusted plan of nearly VNĐ925.2 trillion.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261104_9a3c3feb39#5",
+    "doc_id": "vietnamnews_20261104_9a3c3feb39",
+    "sent_idx": 5,
+    "text": "Despite the improvement, disbursement progress remained uneven among ministries, sectors and localities, with some lagging in capital allocation and disbursement, the ministry said.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261104_9a3c3feb39#6",
+    "doc_id": "vietnamnews_20261104_9a3c3feb39",
+    "sent_idx": 6,
+    "text": "Hà Nội recorded the largest disbursement at VNĐ125.4 trillion, followed by HCM City with VNĐ111 trillion.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261104_9a3c3feb39#7",
+    "doc_id": "vietnamnews_20261104_9a3c3feb39",
+    "sent_idx": 7,
+    "text": "Other localities with high disbursement included Hải Phòng (VNĐ33.9 trillion), Hưng Yên (VNĐ28.2 trillion), Tây Ninh (VNĐ25.6 trillion) and Đồng Nai (VNĐ20.3 trillion).",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261104_9a3c3feb39#8",
+    "doc_id": "vietnamnews_20261104_9a3c3feb39",
+    "sent_idx": 8,
+    "text": "Among ministries and central agencies, the Ministry of National Defence led with VNĐ38.6 trillion, followed by the Ministry of Public Security with VNĐ34.1 trillion and the Ministry of Construction with VNĐ21.7 trillion.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261104_9a3c3feb39#9",
+    "doc_id": "vietnamnews_20261104_9a3c3feb39",
+    "sent_idx": 9,
+    "text": "However, high disbursement volumes did not necessarily translate into high rates of target completion or top performance scores.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261104_9a3c3feb39#10",
+    "doc_id": "vietnamnews_20261104_9a3c3feb39",
+    "sent_idx": 10,
+    "text": "The Ministry of Finance's assessment placed seven ministries and central agencies and 13 localities in the top-performing group for their 2026 capital plans.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261104_9a3c3feb39#11",
+    "doc_id": "vietnamnews_20261104_9a3c3feb39",
+    "sent_idx": 11,
+    "text": "Five central agencies - the Vietnam Bank for Social Policies, the State Bank of Vietnam, the Vietnam Development Bank, the Ministry of Public Security and the Ministry of National Defence - scored 100 points.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261104_9a3c3feb39#12",
+    "doc_id": "vietnamnews_20261104_9a3c3feb39",
+    "sent_idx": 12,
+    "text": "The HCM National Academy of Politics scored 98.79, while the Ministry of Industry and Trade received 93.62.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261104_9a3c3feb39#13",
+    "doc_id": "vietnamnews_20261104_9a3c3feb39",
+    "sent_idx": 13,
+    "text": "Among localities, Điện Biên ranked first with 100 points, followed by Hải Phòng with 99.97, Cà Mau with 98.03, Gia Lai with 97.97 and Khánh Hoà with 97.67.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261104_9a3c3feb39#14",
+    "doc_id": "vietnamnews_20261104_9a3c3feb39",
+    "sent_idx": 14,
+    "text": "Lào Cai, Bắc Ninh, Tây Ninh, HCM City, Thái Nguyên, Quảng Ninh, Nghê An and Đồng Nai were also rated highly.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261104_9a3c3feb39#15",
+    "doc_id": "vietnamnews_20261104_9a3c3feb39",
+    "sent_idx": 15,
+    "text": "The Ministry of Finance also pointed out shortcomings in capital allocation.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261104_9a3c3feb39#16",
+    "doc_id": "vietnamnews_20261104_9a3c3feb39",
+    "sent_idx": 16,
+    "text": "Detailed allocations totalled over VNĐ1 quadrillion.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261104_9a3c3feb39#17",
+    "doc_id": "vietnamnews_20261104_9a3c3feb39",
+    "sent_idx": 17,
+    "text": "Excluding additional capital plans assigned by localities, the figure stood at VNĐ948 trillion, equivalent to 99.2 per cent of the Prime Minister's allocation.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261104_9a3c3feb39#18",
+    "doc_id": "vietnamnews_20261104_9a3c3feb39",
+    "sent_idx": 18,
+    "text": "Over VNĐ7.8 trillion in central budget capital, or 0.8 per cent of the plan, remained unallocated in detail, involving five central agencies and 20 localities.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261104_9a3c3feb39#19",
+    "doc_id": "vietnamnews_20261104_9a3c3feb39",
+    "sent_idx": 19,
+    "text": "The main reasons included difficulties with investment procedures, incomplete assignment of medium-term capital plans, and issues related to national target programmes, school construction in border areas and supplementary funding.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261104_9a3c3feb39#20",
+    "doc_id": "vietnamnews_20261104_9a3c3feb39",
+    "sent_idx": 20,
+    "text": "In the remaining months of the year, completing the allocation of outstanding capital, resolving investment procedure bottlenecks and strengthening the accountability of slow-disbursing units will be important to fulfilling the 2026 public investment plan, according to the Ministry of Finance.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261104_9a3c3feb39#21",
+    "doc_id": "vietnamnews_20261104_9a3c3feb39",
+    "sent_idx": 21,
+    "text": "The National Assembly approved a total 2026 public investment plan of VNĐ1.1 quadrillion from state budget funds.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261104_9a3c3feb39#22",
+    "doc_id": "vietnamnews_20261104_9a3c3feb39",
+    "sent_idx": 22,
+    "text": "After deducting amounts not yet assigned in detail, the plan allocated by the Prime Minister stood at nearly VNĐ955.87 trillion. - VNA/VNS",
+    "lang": "en",
+    "is_title": false
+  }
+]

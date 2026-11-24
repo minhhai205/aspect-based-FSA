@@ -1,0 +1,282 @@
+[
+  {
+    "sent_id": "vietnamnews_20261106_07d511b927#0",
+    "doc_id": "vietnamnews_20261106_07d511b927",
+    "sent_idx": 0,
+    "text": "Vietnamese coffee producers eye stronger global competitiveness",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261106_07d511b927#1",
+    "doc_id": "vietnamnews_20261106_07d511b927",
+    "sent_idx": 1,
+    "text": "HÀ NỘI - Việt Nam is the world's second-largest coffee producer and the leading producer of Robusta.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_07d511b927#2",
+    "doc_id": "vietnamnews_20261106_07d511b927",
+    "sent_idx": 2,
+    "text": "However, this position is increasingly challenged by climate change, declining soil quality and mounting pressure on water resources, all of which directly affect productivity and the livelihoods of millions of coffee-growing households.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_07d511b927#3",
+    "doc_id": "vietnamnews_20261106_07d511b927",
+    "sent_idx": 3,
+    "text": "Speaking at the 'Shaping the Future' discussion at the Fortune Southeast Asia 500 Summit last week, Nestlé Vietnam Managing Director Binu Jacob said no single solution or technology could address these challenges and strengthen the competitiveness of Vietnamese coffee.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_07d511b927#4",
+    "doc_id": "vietnamnews_20261106_07d511b927",
+    "sent_idx": 4,
+    "text": "Instead, improving productivity requires a combination of suitable coffee varieties, healthy soil, efficient water management and knowledge-sharing among farmers.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_07d511b927#5",
+    "doc_id": "vietnamnews_20261106_07d511b927",
+    "sent_idx": 5,
+    "text": "One of Nestlé's priorities in the Central Highlands is developing coffee varieties suited to local soil and growing conditions.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_07d511b927#6",
+    "doc_id": "vietnamnews_20261106_07d511b927",
+    "sent_idx": 6,
+    "text": "According to Jacob, the company has partnered with the Western Highlands Agriculture and Forestry Science Institute to research coffee varieties that are disease resistant, require less water and reduce the need for chemical fertilisers and pesticides.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_07d511b927#7",
+    "doc_id": "vietnamnews_20261106_07d511b927",
+    "sent_idx": 7,
+    "text": "Developing suitable crop varieties must go hand in hand with the capacity to propagate them on a large scale.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_07d511b927#8",
+    "doc_id": "vietnamnews_20261106_07d511b927",
+    "sent_idx": 8,
+    "text": "Through tissue culture technology, a single coffee leaf can be used to produce around 2,000 seedlings.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_07d511b927#9",
+    "doc_id": "vietnamnews_20261106_07d511b927",
+    "sent_idx": 9,
+    "text": "Over the past 15 years, the programme has produced 100 million disease-resistant coffee seedlings and distributed them to farmers in the Central Highlands at subsidised prices.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_07d511b927#10",
+    "doc_id": "vietnamnews_20261106_07d511b927",
+    "sent_idx": 10,
+    "text": "Jacob said that this is particularly important as many coffee plantations are ageing.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_07d511b927#11",
+    "doc_id": "vietnamnews_20261106_07d511b927",
+    "sent_idx": 11,
+    "text": "Coffee trees typically begin to see declining yields after around seven to 10 years, making replanting necessary to maintain productivity.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_07d511b927#12",
+    "doc_id": "vietnamnews_20261106_07d511b927",
+    "sent_idx": 12,
+    "text": "Alongside improved planting materials, restoring soil health and managing water resources through regenerative farming practices are essential to securing long-term coffee supplies, he noted.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_07d511b927#13",
+    "doc_id": "vietnamnews_20261106_07d511b927",
+    "sent_idx": 13,
+    "text": "Using less water and fewer crop protection chemicals does not necessarily mean lower yields.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_07d511b927#14",
+    "doc_id": "vietnamnews_20261106_07d511b927",
+    "sent_idx": 14,
+    "text": "When carried out properly, these practices can instead improve farmers' economic returns.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_07d511b927#15",
+    "doc_id": "vietnamnews_20261106_07d511b927",
+    "sent_idx": 15,
+    "text": "Another key element of Nestlé's regenerative agriculture model in Việt Nam is crop diversification.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_07d511b927#16",
+    "doc_id": "vietnamnews_20261106_07d511b927",
+    "sent_idx": 16,
+    "text": "Although the company focuses on coffee procurement, it encourages farmers to intercrop coffee with pepper, avocado and other fruit trees.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_07d511b927#17",
+    "doc_id": "vietnamnews_20261106_07d511b927",
+    "sent_idx": 17,
+    "text": "This approach makes better use of farmland, provides additional income streams and reduces farmers' dependence on a single crop.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_07d511b927#18",
+    "doc_id": "vietnamnews_20261106_07d511b927",
+    "sent_idx": 18,
+    "text": "Nestlé's experience shows that intercropping does not reduce coffee yields per hectare.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_07d511b927#19",
+    "doc_id": "vietnamnews_20261106_07d511b927",
+    "sent_idx": 19,
+    "text": "Instead, farmers' incomes can increase by 30-150 per cent, depending on the crops selected and local growing conditions, Jacob said.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_07d511b927#20",
+    "doc_id": "vietnamnews_20261106_07d511b927",
+    "sent_idx": 20,
+    "text": "Crop diversification also benefits soil health and contributes to more sustainable farming systems.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_07d511b927#21",
+    "doc_id": "vietnamnews_20261106_07d511b927",
+    "sent_idx": 21,
+    "text": "Changes at farm level have a direct bearing on farmers' livelihoods, as well as the quality and reliability of raw material supplies for processors.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_07d511b927#22",
+    "doc_id": "vietnamnews_20261106_07d511b927",
+    "sent_idx": 22,
+    "text": "For Việt Nam's coffee industry, this is becoming increasingly important as competing on the basis of large volumes and low prices is no longer enough to secure its position in international markets.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_07d511b927#23",
+    "doc_id": "vietnamnews_20261106_07d511b927",
+    "sent_idx": 23,
+    "text": "Jacob said Việt Nam has traditionally been known as a low-cost coffee supplier.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_07d511b927#24",
+    "doc_id": "vietnamnews_20261106_07d511b927",
+    "sent_idx": 24,
+    "text": "However, as export markets impose increasingly stringent requirements on quality and sustainability, a business model based primarily on price will become harder to sustain.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_07d511b927#25",
+    "doc_id": "vietnamnews_20261106_07d511b927",
+    "sent_idx": 25,
+    "text": "The country needs to move up the value chain, improving everything from farming practices to processing to deliver products that meet evolving market requirements.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_07d511b927#26",
+    "doc_id": "vietnamnews_20261106_07d511b927",
+    "sent_idx": 26,
+    "text": "He believes smallholder farmers can also make the transition from conventional farming to regenerative agriculture.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_07d511b927#27",
+    "doc_id": "vietnamnews_20261106_07d511b927",
+    "sent_idx": 27,
+    "text": "This would help them meet the standards of international buyers while creating new competitive advantages for Vietnamese coffee.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_07d511b927#28",
+    "doc_id": "vietnamnews_20261106_07d511b927",
+    "sent_idx": 28,
+    "text": "For Nestlé, supporting farmers is closely linked to maintaining a stable supply of raw materials that meets the increasingly demanding requirements of processing and exports.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_07d511b927#29",
+    "doc_id": "vietnamnews_20261106_07d511b927",
+    "sent_idx": 29,
+    "text": "The company currently accounts for around 23 per cent of Việt Nam's total coffee production in terms of procurement.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_07d511b927#30",
+    "doc_id": "vietnamnews_20261106_07d511b927",
+    "sent_idx": 30,
+    "text": "\"Improving the resilience of individual farming households is important for both businesses and the future of Việt Nam's coffee industry.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_07d511b927#31",
+    "doc_id": "vietnamnews_20261106_07d511b927",
+    "sent_idx": 31,
+    "text": "However, the transition to sustainable farming practices takes time and patience.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_07d511b927#32",
+    "doc_id": "vietnamnews_20261106_07d511b927",
+    "sent_idx": 32,
+    "text": "It requires long-term cooperation among businesses, regulators and farmers,\" Jacob said.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_07d511b927#33",
+    "doc_id": "vietnamnews_20261106_07d511b927",
+    "sent_idx": 33,
+    "text": "The experience of coffee growers in the Central Highlands highlights regenerative agriculture as an approach to making more efficient use of land, water and available resources while protecting farmers' livelihoods.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_07d511b927#34",
+    "doc_id": "vietnamnews_20261106_07d511b927",
+    "sent_idx": 34,
+    "text": "It also represents an important step towards ensuring that Vietnamese coffee remains competitive as international market standards continue to rise. - VNS",
+    "lang": "en",
+    "is_title": false
+  }
+]

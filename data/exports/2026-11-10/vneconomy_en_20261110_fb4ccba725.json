@@ -1,0 +1,346 @@
+[
+  {
+    "sent_id": "vneconomy_en_20261110_fb4ccba725#0",
+    "doc_id": "vneconomy_en_20261110_fb4ccba725",
+    "sent_idx": 0,
+    "text": "Synology highlights hybrid data storage as businesses balance performance, control and cost",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_fb4ccba725#1",
+    "doc_id": "vneconomy_en_20261110_fb4ccba725",
+    "sent_idx": 1,
+    "text": "As Vietnamese businesses generate more data and expand their use of AI, many are exploring hybrid storage models that combine on-premises infrastructure with public cloud services.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_fb4ccba725#2",
+    "doc_id": "vneconomy_en_20261110_fb4ccba725",
+    "sent_idx": 2,
+    "text": "Ms. Jola Le, Vietnam Country Manager at Synology, said the two approaches serve complementary needs, with the right balance depending on an organization's workloads, security requirements, and business continuity priorities.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_fb4ccba725#3",
+    "doc_id": "vneconomy_en_20261110_fb4ccba725",
+    "sent_idx": 3,
+    "text": "\"For many Vietnamese businesses, a hybrid approach is practical: retain critical or frequently-accessed data locally while using cloud services for selected applications and off-site protection,\" she explained.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_fb4ccba725#4",
+    "doc_id": "vneconomy_en_20261110_fb4ccba725",
+    "sent_idx": 4,
+    "text": "This model allows businesses to maintain greater control over sensitive data while benefiting from the flexibility of cloud services, helping them balance performance, security, and cost.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_fb4ccba725#5",
+    "doc_id": "vneconomy_en_20261110_fb4ccba725",
+    "sent_idx": 5,
+    "text": "Public cloud platforms such as Amazon Web Services (AWS), Google Cloud, and Microsoft Azure offer extensive services, flexible computing resources, and global infrastructure, making them well suited to cloud-native applications, fluctuating workloads, and geographically-distributed operations.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_fb4ccba725#6",
+    "doc_id": "vneconomy_en_20261110_fb4ccba725",
+    "sent_idx": 6,
+    "text": "On-premises storage, by contrast, gives organizations greater direct control over where data is stored, who can access it, and how it is managed and protected.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_fb4ccba725#7",
+    "doc_id": "vneconomy_en_20261110_fb4ccba725",
+    "sent_idx": 7,
+    "text": "According to Ms. Jola, businesses should assess the full lifecycle costs of each model rather than comparing initial investments alone.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_fb4ccba725#8",
+    "doc_id": "vneconomy_en_20261110_fb4ccba725",
+    "sent_idx": 8,
+    "text": "\"An on-premises deployment requires upfront investment in hardware and drives, along with electricity, maintenance, replacement planning, IT support, and an off-site backup strategy,\" she said.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_fb4ccba725#9",
+    "doc_id": "vneconomy_en_20261110_fb4ccba725",
+    "sent_idx": 9,
+    "text": "\"Cloud storage generally reduces the initial infrastructure commitment, but ongoing charges for capacity, data transfer, retrieval, support, and related services can become significant depending on usage.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_fb4ccba725#10",
+    "doc_id": "vneconomy_en_20261110_fb4ccba725",
+    "sent_idx": 10,
+    "text": "For businesses handling sensitive information or running performance-intensive applications, keeping frequently accessed data close to operational teams can deliver local-network performance while maintaining direct oversight of the infrastructure.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_fb4ccba725#11",
+    "doc_id": "vneconomy_en_20261110_fb4ccba725",
+    "sent_idx": 11,
+    "text": "However, this approach also requires investment in hardware, maintenance, physical security, connectivity, and capacity planning.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_fb4ccba725#12",
+    "doc_id": "vneconomy_en_20261110_fb4ccba725",
+    "sent_idx": 12,
+    "text": "Cloud services can reduce upfront infrastructure costs, but recurring fees may accumulate over time.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_fb4ccba725#13",
+    "doc_id": "vneconomy_en_20261110_fb4ccba725",
+    "sent_idx": 13,
+    "text": "For organizations with predictable data growth, frequent access to large files, and existing IT infrastructure, on-premises storage may offer greater visibility into long-term costs.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_fb4ccba725#14",
+    "doc_id": "vneconomy_en_20261110_fb4ccba725",
+    "sent_idx": 14,
+    "text": "A hybrid model allows businesses to allocate workloads between local infrastructure and cloud services according to their operational needs, rather than relying exclusively on either environment.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_fb4ccba725#15",
+    "doc_id": "vneconomy_en_20261110_fb4ccba725",
+    "sent_idx": 15,
+    "text": "As businesses modernize their infrastructure, performance, scalability, and availability become increasingly important for applications that cannot tolerate prolonged disruption.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_fb4ccba725#16",
+    "doc_id": "vneconomy_en_20261110_fb4ccba725",
+    "sent_idx": 16,
+    "text": "Synology's enterprise portfolio includes the PAS7700, an all-flash NVMe storage system designed for demanding enterprise workloads.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_fb4ccba725#17",
+    "doc_id": "vneconomy_en_20261110_fb4ccba725",
+    "sent_idx": 17,
+    "text": "The PAS7700 features an active-active architecture in which both storage controllers operate concurrently.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_fb4ccba725#18",
+    "doc_id": "vneconomy_en_20261110_fb4ccba725",
+    "sent_idx": 18,
+    "text": "The system is designed to deliver high performance, scalability, and continuous availability for mission-critical applications that require reliable access to data.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_fb4ccba725#19",
+    "doc_id": "vneconomy_en_20261110_fb4ccba725",
+    "sent_idx": 19,
+    "text": "Its all-flash NVMe design targets workloads requiring fast data access, while its scalable architecture accommodates changing capacity and performance requirements as businesses grow.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_fb4ccba725#20",
+    "doc_id": "vneconomy_en_20261110_fb4ccba725",
+    "sent_idx": 20,
+    "text": "These capabilities are relevant to organizations running data-intensive operations.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_fb4ccba725#21",
+    "doc_id": "vneconomy_en_20261110_fb4ccba725",
+    "sent_idx": 21,
+    "text": "Manufacturers, for example, may depend on timely access to production records and operational systems, while professional services firms need reliable access to confidential documents.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_fb4ccba725#22",
+    "doc_id": "vneconomy_en_20261110_fb4ccba725",
+    "sent_idx": 22,
+    "text": "Larger enterprises may also need to centralize storage and data protection across multiple locations.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_fb4ccba725#23",
+    "doc_id": "vneconomy_en_20261110_fb4ccba725",
+    "sent_idx": 23,
+    "text": "Synology's portfolio also includes scalable business storage solutions and ActiveProtect, which provides centralized data protection and recovery.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_fb4ccba725#24",
+    "doc_id": "vneconomy_en_20261110_fb4ccba725",
+    "sent_idx": 24,
+    "text": "Together, these offerings address different requirements, from day-to-day data access to safeguarding information and restoring operations following disruptions.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_fb4ccba725#25",
+    "doc_id": "vneconomy_en_20261110_fb4ccba725",
+    "sent_idx": 25,
+    "text": "The choice of infrastructure ultimately depends on workload characteristics, projected data growth, and the level of resilience required.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_fb4ccba725#26",
+    "doc_id": "vneconomy_en_20261110_fb4ccba725",
+    "sent_idx": 26,
+    "text": "Rather than applying a single architecture to every application, businesses can retain latency-sensitive or frequently-accessed data on-premises while using public cloud services for selected applications, additional capacity, and off-site data protection.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_fb4ccba725#27",
+    "doc_id": "vneconomy_en_20261110_fb4ccba725",
+    "sent_idx": 27,
+    "text": "This approach can help organizations balance performance, control, and cost while retaining the flexibility to adapt as their needs evolve.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_fb4ccba725#28",
+    "doc_id": "vneconomy_en_20261110_fb4ccba725",
+    "sent_idx": 28,
+    "text": "The shift toward remote work and geographically-distributed operations has increased demand for secure access to business information beyond the office.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_fb4ccba725#29",
+    "doc_id": "vneconomy_en_20261110_fb4ccba725",
+    "sent_idx": 29,
+    "text": "Synology supports centralized data management, controlled remote access, and file sharing across locations, allowing organizations to establish access policies based on team responsibilities and information sensitivity.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_fb4ccba725#30",
+    "doc_id": "vneconomy_en_20261110_fb4ccba725",
+    "sent_idx": 30,
+    "text": "This approach can provide many of the conveniences associated with cloud-based services while allowing businesses to retain greater control over their storage infrastructure.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_fb4ccba725#31",
+    "doc_id": "vneconomy_en_20261110_fb4ccba725",
+    "sent_idx": 31,
+    "text": "Employees can access approved information from authorized devices without carrying physical storage equipment.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_fb4ccba725#32",
+    "doc_id": "vneconomy_en_20261110_fb4ccba725",
+    "sent_idx": 32,
+    "text": "However, remote access still depends on system availability, internet connectivity, network configuration, and sufficient bandwidth.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_fb4ccba725#33",
+    "doc_id": "vneconomy_en_20261110_fb4ccba725",
+    "sent_idx": 33,
+    "text": "Effective data protection also requires more than deploying storage hardware.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_fb4ccba725#34",
+    "doc_id": "vneconomy_en_20261110_fb4ccba725",
+    "sent_idx": 34,
+    "text": "Organizations need clear procedures for access management, security updates, backup verification, and recovery.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_fb4ccba725#35",
+    "doc_id": "vneconomy_en_20261110_fb4ccba725",
+    "sent_idx": 35,
+    "text": "As systems become more complex or business-critical, dedicated IT oversight or support from a qualified service partner becomes increasingly important.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_fb4ccba725#36",
+    "doc_id": "vneconomy_en_20261110_fb4ccba725",
+    "sent_idx": 36,
+    "text": "Ms. Jola expects businesses to remain a major driver of demand for private and hybrid storage solutions in Vietnam, particularly small and medium-sized enterprises seeking more structured data governance and larger organizations developing multi-site infrastructure.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_fb4ccba725#37",
+    "doc_id": "vneconomy_en_20261110_fb4ccba725",
+    "sent_idx": 37,
+    "text": "Professional content creators and small studios managing substantial volumes of media files may also find these solutions relevant.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_fb4ccba725#38",
+    "doc_id": "vneconomy_en_20261110_fb4ccba725",
+    "sent_idx": 38,
+    "text": "Ultimately, the key consideration is not simply where data is stored, but whether organizations can maintain control, resilience, and flexibility as their operations evolve.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_fb4ccba725#39",
+    "doc_id": "vneconomy_en_20261110_fb4ccba725",
+    "sent_idx": 39,
+    "text": "Alongside its focus on enterprise storage and data protection, Synology is strengthening its local service support.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_fb4ccba725#40",
+    "doc_id": "vneconomy_en_20261110_fb4ccba725",
+    "sent_idx": 40,
+    "text": "On October 22, the company announced a partnership with FPT Services (FPT Information System Services Co., Ltd), authorizing the Vietnamese company to provide warranty and technical support for Synology products in Vietnam.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_fb4ccba725#41",
+    "doc_id": "vneconomy_en_20261110_fb4ccba725",
+    "sent_idx": 41,
+    "text": "Under the agreement, FPT Services will receive, inspect, and process warranty claims and provide related services in accordance with Synology's established procedures, standards, and scope of authorization.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_fb4ccba725#42",
+    "doc_id": "vneconomy_en_20261110_fb4ccba725",
+    "sent_idx": 42,
+    "text": "The partnership aims to safeguard customer interests and enhance Synology's after-sales services in Vietnam, providing local support as businesses increasingly rely on data infrastructure for daily operations and long-term digital development.",
+    "lang": "en",
+    "is_title": false
+  }
+]

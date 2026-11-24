@@ -1,0 +1,578 @@
+[
+  {
+    "sent_id": "vneconomy_en_20261102_383b9bdae6#0",
+    "doc_id": "vneconomy_en_20261102_383b9bdae6",
+    "sent_idx": 0,
+    "text": "Core role to fulfil",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_383b9bdae6#1",
+    "doc_id": "vneconomy_en_20261102_383b9bdae6",
+    "sent_idx": 1,
+    "text": "Vietnam enters the 2026-2030 period with ambitious targets: average annual GDP growth of at least 10 per cent, a Total Factor Productivity (TFP) contribution exceeding 55 per cent, and annual labor productivity growth of approximately 8.5 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_383b9bdae6#2",
+    "doc_id": "vneconomy_en_20261102_383b9bdae6",
+    "sent_idx": 2,
+    "text": "Achieving these goals requires more efficient resource allocation, science and technology as direct growth drivers, and stronger capabilities across the economy.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_383b9bdae6#3",
+    "doc_id": "vneconomy_en_20261102_383b9bdae6",
+    "sent_idx": 3,
+    "text": "Politburo Resolution No. 79-NQ/TW calls upon State-owned enterprises (SOEs) to lead development and open new paths.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_383b9bdae6#4",
+    "doc_id": "vneconomy_en_20261102_383b9bdae6",
+    "sent_idx": 4,
+    "text": "However, the key question is how effectively public resources invested in SOEs are converted into broader economic capabilities.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_383b9bdae6#5",
+    "doc_id": "vneconomy_en_20261102_383b9bdae6",
+    "sent_idx": 5,
+    "text": "As of the end of 2025, Vietnam had 695 SOEs, with total assets of approximately VND4,500 trillion ($173.1 billion), revenue of nearly VND2,900 trillion ($111.5 billion), and State budget contributions of around VND390 trillion ($15 billion).",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_383b9bdae6#6",
+    "doc_id": "vneconomy_en_20261102_383b9bdae6",
+    "sent_idx": 6,
+    "text": "These figures demonstrate the sector's importance but also highlight the need to improve resource utilization.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_383b9bdae6#7",
+    "doc_id": "vneconomy_en_20261102_383b9bdae6",
+    "sent_idx": 7,
+    "text": "Scale alone is not the ultimate measure of success.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_383b9bdae6#8",
+    "doc_id": "vneconomy_en_20261102_383b9bdae6",
+    "sent_idx": 8,
+    "text": "Capital, land, infrastructure, and other State-assigned assets are inputs whose real value emerges through higher productivity, technological advancement, stronger connectivity, and new development opportunities.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_383b9bdae6#9",
+    "doc_id": "vneconomy_en_20261102_383b9bdae6",
+    "sent_idx": 9,
+    "text": "Resources tied up in low-value-added activities or allocated inefficiently may retain their nominal value while losing their economic potential.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_383b9bdae6#10",
+    "doc_id": "vneconomy_en_20261102_383b9bdae6",
+    "sent_idx": 10,
+    "text": "Profitability alone does not demonstrate that an SOE has fulfilled its core role if it generates no additional technology, infrastructure, or broader economic benefits.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_383b9bdae6#11",
+    "doc_id": "vneconomy_en_20261102_383b9bdae6",
+    "sent_idx": 11,
+    "text": "This leads to the concept of public resource conversion efficiency: how effectively State-assigned resources generate enterprise competitiveness, stronger national capabilities, and spillover benefits for other stakeholders.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_383b9bdae6#12",
+    "doc_id": "vneconomy_en_20261102_383b9bdae6",
+    "sent_idx": 12,
+    "text": "It is not a single financial ratio, but a measure of the development outcomes produced by public investment.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_383b9bdae6#13",
+    "doc_id": "vneconomy_en_20261102_383b9bdae6",
+    "sent_idx": 13,
+    "text": "Capital preservation must therefore accompany productivity growth, innovation, and future value creation.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_383b9bdae6#14",
+    "doc_id": "vneconomy_en_20261102_383b9bdae6",
+    "sent_idx": 14,
+    "text": "Capital that remains unchanged on the books while competitiveness erodes or strategic opportunities are missed has already lost real value.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_383b9bdae6#15",
+    "doc_id": "vneconomy_en_20261102_383b9bdae6",
+    "sent_idx": 15,
+    "text": "The objective is to turn public resources into enterprise capabilities, enterprise capabilities into infrastructure and technology, and these outcomes into a stronger economic ecosystem.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_383b9bdae6#16",
+    "doc_id": "vneconomy_en_20261102_383b9bdae6",
+    "sent_idx": 16,
+    "text": "This approach reinforces rather than weakens market discipline, requiring SOEs to create value beyond their own operations.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_383b9bdae6#17",
+    "doc_id": "vneconomy_en_20261102_383b9bdae6",
+    "sent_idx": 17,
+    "text": "The central question is not how many enterprises the State owns or how many industries it operates in, but whether a particular outcome would emerge at the same scale, speed, level of security, and degree of spillover without State capital.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_383b9bdae6#18",
+    "doc_id": "vneconomy_en_20261102_383b9bdae6",
+    "sent_idx": 18,
+    "text": "This test helps establish the added value of State ownership.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_383b9bdae6#19",
+    "doc_id": "vneconomy_en_20261102_383b9bdae6",
+    "sent_idx": 19,
+    "text": "Such value arises when State investment creates capabilities that markets cannot readily develop independently, delivers them sooner or at sufficient scale, safeguards essential services, or generates benefits beyond those available to individual investors.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_383b9bdae6#20",
+    "doc_id": "vneconomy_en_20261102_383b9bdae6",
+    "sent_idx": 20,
+    "text": "State ownership does not automatically create added value.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_383b9bdae6#21",
+    "doc_id": "vneconomy_en_20261102_383b9bdae6",
+    "sent_idx": 21,
+    "text": "Strong commercial performance alone cannot justify it if an enterprise provides no distinctive function or wider benefits.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_383b9bdae6#22",
+    "doc_id": "vneconomy_en_20261102_383b9bdae6",
+    "sent_idx": 22,
+    "text": "Conversely, strategic infrastructure, core technologies, and reserve capacity may offer limited short-term returns while strengthening national autonomy and resilience.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_383b9bdae6#23",
+    "doc_id": "vneconomy_en_20261102_383b9bdae6",
+    "sent_idx": 23,
+    "text": "The State's role should therefore be determined by clearly defined missions rather than a fixed list of industries.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_383b9bdae6#24",
+    "doc_id": "vneconomy_en_20261102_383b9bdae6",
+    "sent_idx": 24,
+    "text": "First, in mature markets, SOEs must compete on equal terms and meet common standards for productivity, profitability, and governance.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_383b9bdae6#25",
+    "doc_id": "vneconomy_en_20261102_383b9bdae6",
+    "sent_idx": 25,
+    "text": "Second, SOEs should secure essential infrastructure in sectors requiring substantial capital and long payback periods.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_383b9bdae6#26",
+    "doc_id": "vneconomy_en_20261102_383b9bdae6",
+    "sent_idx": 26,
+    "text": "Third, SOEs should develop strategic capabilities in technologically demanding fields with long investment cycles.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_383b9bdae6#27",
+    "doc_id": "vneconomy_en_20261102_383b9bdae6",
+    "sent_idx": 27,
+    "text": "Fourth, SOEs should provide public services and fulfill national defense, security, and social responsibilities.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_383b9bdae6#28",
+    "doc_id": "vneconomy_en_20261102_383b9bdae6",
+    "sent_idx": 28,
+    "text": "PetroVietnam's operations across exploration, extraction, processing, power generation, and technical services contribute to energy security, supply chain resilience, and the protection of Vietnam's sovereignty over its seas and islands.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_383b9bdae6#29",
+    "doc_id": "vneconomy_en_20261102_383b9bdae6",
+    "sent_idx": 29,
+    "text": "These missions may coexist within a single conglomerate.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_383b9bdae6#30",
+    "doc_id": "vneconomy_en_20261102_383b9bdae6",
+    "sent_idx": 30,
+    "text": "They should be defined at the level of individual business segments, projects, and capital allocations, with clear objectives, justifications for State ownership, distinctions between commercial costs and public service obligations, and conditions for eventual transition or termination.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_383b9bdae6#31",
+    "doc_id": "vneconomy_en_20261102_383b9bdae6",
+    "sent_idx": 31,
+    "text": "A five-layer measurement framework can translate these missions into accountable outcomes:",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_383b9bdae6#32",
+    "doc_id": "vneconomy_en_20261102_383b9bdae6",
+    "sent_idx": 32,
+    "text": "Financial discipline and governance: Capital preservation, debt management, investment quality, transparency, and compliance.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_383b9bdae6#33",
+    "doc_id": "vneconomy_en_20261102_383b9bdae6",
+    "sent_idx": 33,
+    "text": "Economic performance and competitiveness: Productivity, asset efficiency, returns, and product quality, distinguishing innovation-driven profits from those based on resource advantages or market privileges.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_383b9bdae6#34",
+    "doc_id": "vneconomy_en_20261102_383b9bdae6",
+    "sent_idx": 34,
+    "text": "Mission performance: Infrastructure reliability, core technologies, intellectual property, reduced external dependence, and the quality and cost of public services.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_383b9bdae6#35",
+    "doc_id": "vneconomy_en_20261102_383b9bdae6",
+    "sent_idx": 35,
+    "text": "Ecosystem spillovers: Domestic suppliers, local value creation, shared infrastructure, technology platforms, and private capital mobilization.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_383b9bdae6#36",
+    "doc_id": "vneconomy_en_20261102_383b9bdae6",
+    "sent_idx": 36,
+    "text": "National autonomy and resilience: Self-reliance in technology, energy, infrastructure, and supply chains, alongside the ability to withstand and recover from shocks.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_383b9bdae6#37",
+    "doc_id": "vneconomy_en_20261102_383b9bdae6",
+    "sent_idx": 37,
+    "text": "The first two layers establish baseline requirements, while the remaining three capture the added value of State ownership.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_383b9bdae6#38",
+    "doc_id": "vneconomy_en_20261102_383b9bdae6",
+    "sent_idx": 38,
+    "text": "Their relative weight should reflect each enterprise's mission, with measurable outcomes and milestones to accommodate long investment cycles while identifying inefficiencies early.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_383b9bdae6#39",
+    "doc_id": "vneconomy_en_20261102_383b9bdae6",
+    "sent_idx": 39,
+    "text": "This framework should guide resource allocation, risk monitoring, management evaluation, and decisions on whether to maintain or adjust State capital.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_383b9bdae6#40",
+    "doc_id": "vneconomy_en_20261102_383b9bdae6",
+    "sent_idx": 40,
+    "text": "Metrics can reveal how effectively public resources are used, but they cannot create development capacity on their own.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_383b9bdae6#41",
+    "doc_id": "vneconomy_en_20261102_383b9bdae6",
+    "sent_idx": 41,
+    "text": "Effective institutions must align missions, authority, risk, and accountability: missions must be clear, authority sufficient, risks properly classified, and accountability strong enough to protect public resources.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_383b9bdae6#42",
+    "doc_id": "vneconomy_en_20261102_383b9bdae6",
+    "sent_idx": 42,
+    "text": "First, State ownership representative agencies must focus on ownership matters, including strategic missions, long-term objectives, capital allocation, management appointments, and performance oversight.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_383b9bdae6#43",
+    "doc_id": "vneconomy_en_20261102_383b9bdae6",
+    "sent_idx": 43,
+    "text": "They should not make day-to-day business decisions for enterprise boards or executive teams.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_383b9bdae6#44",
+    "doc_id": "vneconomy_en_20261102_383b9bdae6",
+    "sent_idx": 44,
+    "text": "Excessive intervention in individual projects, contracts, and operational personnel turns the State owner into a second management layer.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_383b9bdae6#45",
+    "doc_id": "vneconomy_en_20261102_383b9bdae6",
+    "sent_idx": 45,
+    "text": "A professional State owner must distinguish between decisions it should make, those it should delegate, and the outcomes it must monitor.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_383b9bdae6#46",
+    "doc_id": "vneconomy_en_20261102_383b9bdae6",
+    "sent_idx": 46,
+    "text": "Second, autonomy should reflect risk and governance quality.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_383b9bdae6#47",
+    "doc_id": "vneconomy_en_20261102_383b9bdae6",
+    "sent_idx": 47,
+    "text": "Well-governed, transparent enterprises should enjoy greater decision-making freedom, while projects affecting systemic stability or national security require proportionate controls.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_383b9bdae6#48",
+    "doc_id": "vneconomy_en_20261102_383b9bdae6",
+    "sent_idx": 48,
+    "text": "Oversight should move from uniform procedural approvals toward risk-based monitoring, clear boundaries, integrated data, and early warning systems.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_383b9bdae6#49",
+    "doc_id": "vneconomy_en_20261102_383b9bdae6",
+    "sent_idx": 49,
+    "text": "Third, accountability must distinguish between three types of adverse outcomes.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_383b9bdae6#50",
+    "doc_id": "vneconomy_en_20261102_383b9bdae6",
+    "sent_idx": 50,
+    "text": "Losses caused by violations or self-serving conduct require strict enforcement.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_383b9bdae6#51",
+    "doc_id": "vneconomy_en_20261102_383b9bdae6",
+    "sent_idx": 51,
+    "text": "Losses arising from weak capabilities, such as inadequate due diligence, require management accountability.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_383b9bdae6#52",
+    "doc_id": "vneconomy_en_20261102_383b9bdae6",
+    "sent_idx": 52,
+    "text": "Development risks occur when decisions are properly authorized, professionally prepared, and free from self-interest but fail because of unforeseeable changes.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_383b9bdae6#53",
+    "doc_id": "vneconomy_en_20261102_383b9bdae6",
+    "sent_idx": 53,
+    "text": "This distinction does not excuse failure.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_383b9bdae6#54",
+    "doc_id": "vneconomy_en_20261102_383b9bdae6",
+    "sent_idx": 54,
+    "text": "Rather, it prevents responsible risk-taking from being treated like misconduct.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_383b9bdae6#55",
+    "doc_id": "vneconomy_en_20261102_383b9bdae6",
+    "sent_idx": 55,
+    "text": "If good-faith decisions and deliberate violations carry the same consequences, managers will avoid difficult decisions and innovation.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_383b9bdae6#56",
+    "doc_id": "vneconomy_en_20261102_383b9bdae6",
+    "sent_idx": 56,
+    "text": "Protection for those willing to act decisively must depend on verifiable conditions: decisions align with the mission and authority, proposals are carefully prepared, risks and conflicts of interest are disclosed, and decision-makers remain accountable.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_383b9bdae6#57",
+    "doc_id": "vneconomy_en_20261102_383b9bdae6",
+    "sent_idx": 57,
+    "text": "Integrity must be protected without excusing weak management.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_383b9bdae6#58",
+    "doc_id": "vneconomy_en_20261102_383b9bdae6",
+    "sent_idx": 58,
+    "text": "Leadership selection and compensation should also reflect the ability to manage capital, technology, markets, and risks.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_383b9bdae6#59",
+    "doc_id": "vneconomy_en_20261102_383b9bdae6",
+    "sent_idx": 59,
+    "text": "Performance assessments should consider multi-year results, with mechanisms to replace leaders who fail to fulfill their missions.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_383b9bdae6#60",
+    "doc_id": "vneconomy_en_20261102_383b9bdae6",
+    "sent_idx": 60,
+    "text": "Managers cannot reasonably be held accountable for decisions they lack the authority to make.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_383b9bdae6#61",
+    "doc_id": "vneconomy_en_20261102_383b9bdae6",
+    "sent_idx": 61,
+    "text": "Science, technology, and ecosystem partnerships must enable SOEs to create value beyond their own operations.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_383b9bdae6#62",
+    "doc_id": "vneconomy_en_20261102_383b9bdae6",
+    "sent_idx": 62,
+    "text": "Leading does not mean owning every stage of a value chain.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_383b9bdae6#63",
+    "doc_id": "vneconomy_en_20261102_383b9bdae6",
+    "sent_idx": 63,
+    "text": "It means identifying strategic links, investing in platforms with broad impact, sharing infrastructure, setting standards, and enabling private enterprises, research institutes, and universities to participate.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_383b9bdae6#64",
+    "doc_id": "vneconomy_en_20261102_383b9bdae6",
+    "sent_idx": 64,
+    "text": "State capital should complement rather than replace private investment, helping mobilize resources, reduce initial risks, and build new capabilities.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_383b9bdae6#65",
+    "doc_id": "vneconomy_en_20261102_383b9bdae6",
+    "sent_idx": 65,
+    "text": "Ultimately, improving public resource conversion efficiency requires a better balance between State ownership and enterprise autonomy, decision-making authority and accountability, and innovation and risk control.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_383b9bdae6#66",
+    "doc_id": "vneconomy_en_20261102_383b9bdae6",
+    "sent_idx": 66,
+    "text": "Clear missions without sufficient authority prevent action; broad authority without accountability risks resource misuse; and enterprise growth that fails to strengthen the wider ecosystem creates only localized benefits.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_383b9bdae6#67",
+    "doc_id": "vneconomy_en_20261102_383b9bdae6",
+    "sent_idx": 67,
+    "text": "Reforming SOEs means ensuring public resources translate into national development through greater productivity, stronger infrastructure, technological advancement, and improved autonomy and resilience.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_383b9bdae6#68",
+    "doc_id": "vneconomy_en_20261102_383b9bdae6",
+    "sent_idx": 68,
+    "text": "Profitability is essential to enterprise strength, while public value and strategic capabilities justify the State's presence.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_383b9bdae6#69",
+    "doc_id": "vneconomy_en_20261102_383b9bdae6",
+    "sent_idx": 69,
+    "text": "Both require clear missions, measurable outcomes, and accountability.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_383b9bdae6#70",
+    "doc_id": "vneconomy_en_20261102_383b9bdae6",
+    "sent_idx": 70,
+    "text": "Ultimately, Vietnam needs not merely larger SOEs, but enterprises capable of creating strategic capabilities and lasting value that markets alone cannot deliver at comparable scale, speed, and reach.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_383b9bdae6#71",
+    "doc_id": "vneconomy_en_20261102_383b9bdae6",
+    "sent_idx": 71,
+    "text": "(*) Associate Professor Tran Trung Tin is a Senior Lecturer at the Ho Chi Minh City University of Technology and Engineering",
+    "lang": "en",
+    "is_title": false
+  }
+]

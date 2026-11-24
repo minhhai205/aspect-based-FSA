@@ -1,0 +1,130 @@
+[
+  {
+    "sent_id": "vietnamnews_20261028_fd79973476#0",
+    "doc_id": "vietnamnews_20261028_fd79973476",
+    "sent_idx": 0,
+    "text": "IUCN, Coca-Cola Foundation promote ecosystem restoration as business opportunity at AEF",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261028_fd79973476#1",
+    "doc_id": "vietnamnews_20261028_fd79973476",
+    "sent_idx": 1,
+    "text": "HCM CITY - How nature-based solutions (NbS) can be integrated into production landscapes to address environmental challenges while creating economic opportunities for local communities and businesses was the focus of a session at the Autumn Economic Forum (AEF) 2026 in HCM City.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_fd79973476#2",
+    "doc_id": "vietnamnews_20261028_fd79973476",
+    "sent_idx": 2,
+    "text": "Organised by the International Union for Conservation of Nature (IUCN) and The Coca-Cola Foundation (TCCF), the session, entitled \"Turning ecosystem restoration into scalable business opportunities\", took place at the Rising Star Arena - Technology and Innovation Showcase on Tuesday.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_fd79973476#3",
+    "doc_id": "vietnamnews_20261028_fd79973476",
+    "sent_idx": 3,
+    "text": "Nguyễn Thanh Phong, representative of the IUCN, said the Mekong Delta faces interconnected challenges, including coastal erosion, mangrove loss, disrupted seasonal flood connectivity, unsustainable groundwater extraction and land subsidence.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_fd79973476#4",
+    "doc_id": "vietnamnews_20261028_fd79973476",
+    "sent_idx": 4,
+    "text": "These pressures threaten not only ecosystems but also agricultural productivity and local livelihoods.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_fd79973476#5",
+    "doc_id": "vietnamnews_20261028_fd79973476",
+    "sent_idx": 5,
+    "text": "Since 2017, with financial support from TCCF, the global philanthropic arm of The Coca-Cola Company, IUCN has implemented initiatives linking ecosystem restoration with production and market incentives to strengthen the resilience of coastal communities.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_fd79973476#6",
+    "doc_id": "vietnamnews_20261028_fd79973476",
+    "sent_idx": 6,
+    "text": "The initiatives have received total funding of more than US$1.8 million.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_fd79973476#7",
+    "doc_id": "vietnamnews_20261028_fd79973476",
+    "sent_idx": 7,
+    "text": "One approach is flood-based agriculture, which includes lotus-fish farming, aquaculture and tourism models as alternatives to a third rice crop.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_fd79973476#8",
+    "doc_id": "vietnamnews_20261028_fd79973476",
+    "sent_idx": 8,
+    "text": "By reconnecting farming systems with seasonal floods, the models can generate additional income through lotus-based products, including food, fibre, textiles and artwork, as well as aquaculture and tourism.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_fd79973476#9",
+    "doc_id": "vietnamnews_20261028_fd79973476",
+    "sent_idx": 9,
+    "text": "Another approach combines mangrove restoration with integrated multi-trophic aquaculture and recirculating aquaculture systems (IMTA-RAS).",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_fd79973476#10",
+    "doc_id": "vietnamnews_20261028_fd79973476",
+    "sent_idx": 10,
+    "text": "By integrating ecosystem restoration with aquaculture technology, the model aims to maintain production, improve water-use efficiency and quality, and strengthen coastal resilience.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_fd79973476#11",
+    "doc_id": "vietnamnews_20261028_fd79973476",
+    "sent_idx": 11,
+    "text": "However, ecological benefits alone are not enough to attract investment.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_fd79973476#12",
+    "doc_id": "vietnamnews_20261028_fd79973476",
+    "sent_idx": 12,
+    "text": "Scaling up NbS requires viable business models, measurable outcomes, strong partnerships and blended financing, which recognises both economic and ecosystem values and by making these transitions more affordable accelerates their uptake.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_fd79973476#13",
+    "doc_id": "vietnamnews_20261028_fd79973476",
+    "sent_idx": 13,
+    "text": "Blended finance can help bridge the gap between ecosystem restoration and investment-ready business models, making the transition more affordable and encouraging wider adoption.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_fd79973476#14",
+    "doc_id": "vietnamnews_20261028_fd79973476",
+    "sent_idx": 14,
+    "text": "Public funding can support project preparation, technical assistance, implementation and monitoring, while commercial financing can provide capital for investment and expansion.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_fd79973476#15",
+    "doc_id": "vietnamnews_20261028_fd79973476",
+    "sent_idx": 15,
+    "text": "Through the session, IUCN and TCCF sought to promote dialogue among stakeholders on how ecosystem restoration can contribute to sustainable economic development while helping mobilise additional resources for a more resilient and sustainable Mekong Delta. - VNS",
+    "lang": "en",
+    "is_title": false
+  }
+]

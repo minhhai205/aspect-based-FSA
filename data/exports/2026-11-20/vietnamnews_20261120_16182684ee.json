@@ -1,0 +1,210 @@
+[
+  {
+    "sent_id": "vietnamnews_20261120_16182684ee#0",
+    "doc_id": "vietnamnews_20261120_16182684ee",
+    "sent_idx": 0,
+    "text": "Banks face rising bad debt pressure following rapid growth cycle",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261120_16182684ee#1",
+    "doc_id": "vietnamnews_20261120_16182684ee",
+    "sent_idx": 1,
+    "text": "HÀ NỘI - Following a period of robust credit growth, the banking system is facing challenges in improving asset quality as both loans needing attention and non-performing loans (NPLs) have risen for three consecutive quarters, while the NPL coverage ratio has fallen to a 10-year low.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261120_16182684ee#2",
+    "doc_id": "vietnamnews_20261120_16182684ee",
+    "sent_idx": 2,
+    "text": "In a recent report, SGI Capital analysts said that this pressure stems from a weakening real estate market, rising costs of capital and challenges regarding the liquidity of collateral assets.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261120_16182684ee#3",
+    "doc_id": "vietnamnews_20261120_16182684ee",
+    "sent_idx": 3,
+    "text": "Provisioning costs may emerge as a key factor influencing the financial performance of the banking sector from the fourth quarter of 2026 through 2027, the analysts noted.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261120_16182684ee#4",
+    "doc_id": "vietnamnews_20261120_16182684ee",
+    "sent_idx": 4,
+    "text": "According to SGI Capital, data from banks' third quarter 2026 reports reflected unfavourable trends in asset quality.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261120_16182684ee#5",
+    "doc_id": "vietnamnews_20261120_16182684ee",
+    "sent_idx": 5,
+    "text": "Both loans needing attention and NPLs increased for three consecutive quarters, approaching the highs recorded at the end of 2022.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261120_16182684ee#6",
+    "doc_id": "vietnamnews_20261120_16182684ee",
+    "sent_idx": 6,
+    "text": "Meanwhile, the average collection period has extended to 2.12 months, the longest in five years.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261120_16182684ee#7",
+    "doc_id": "vietnamnews_20261120_16182684ee",
+    "sent_idx": 7,
+    "text": "This trend has emerged even as banks significantly ramped up their provisioning in the third quarter, with their loan loss reserve (LLR) dropping to the lowest level in a decade.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261120_16182684ee#8",
+    "doc_id": "vietnamnews_20261120_16182684ee",
+    "sent_idx": 8,
+    "text": "The LLR ratio reflects the level of provisions a bank has set aside relative to its existing volume of NPLs.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261120_16182684ee#9",
+    "doc_id": "vietnamnews_20261120_16182684ee",
+    "sent_idx": 9,
+    "text": "A decline in this ratio indicates a thinning financial buffer for addressing problematic loans, which may compel banks to allocate additional resources toward provisioning in the near future, a move that would directly impact profitability.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261120_16182684ee#10",
+    "doc_id": "vietnamnews_20261120_16182684ee",
+    "sent_idx": 10,
+    "text": "This pressure should be viewed in the context of the credit growth cycle.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261120_16182684ee#11",
+    "doc_id": "vietnamnews_20261120_16182684ee",
+    "sent_idx": 11,
+    "text": "Bank credit remains the primary source of capital for the economy, with sustained high demand for funding in areas such as investment, real estate development and large-scale projects.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261120_16182684ee#12",
+    "doc_id": "vietnamnews_20261120_16182684ee",
+    "sent_idx": 12,
+    "text": "However, credit growth rates vary across different segments.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261120_16182684ee#13",
+    "doc_id": "vietnamnews_20261120_16182684ee",
+    "sent_idx": 13,
+    "text": "As of the end of the third quarter, credit allocated to real estate investment and business activities, primarily for project development, surged by over 25 per cent, more than double the overall credit growth rate.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261120_16182684ee#14",
+    "doc_id": "vietnamnews_20261120_16182684ee",
+    "sent_idx": 14,
+    "text": "Meanwhile, demand for residential mortgage loans has remained largely stagnant.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261120_16182684ee#15",
+    "doc_id": "vietnamnews_20261120_16182684ee",
+    "sent_idx": 15,
+    "text": "This divergence suggests that bank capital flowing into the real estate sector is increasingly concentrated on project developers, while the purchasing power for housing has yet to see a corresponding recovery.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261120_16182684ee#16",
+    "doc_id": "vietnamnews_20261120_16182684ee",
+    "sent_idx": 16,
+    "text": "With market transactions continuing to decline and new supply projected to rise between 2027 and 2028, the ability of these projects to sell their products will become a critical factor in determining the cash flow available for developers to service their debt.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261120_16182684ee#17",
+    "doc_id": "vietnamnews_20261120_16182684ee",
+    "sent_idx": 17,
+    "text": "Risks stemming from the real estate market pose a significant challenge to the banking system, given the substantial volume of credit extended to this sector.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261120_16182684ee#18",
+    "doc_id": "vietnamnews_20261120_16182684ee",
+    "sent_idx": 18,
+    "text": "According to data from SGI Capital, outstanding real estate credit has exceeded 25 per cent of total credit, a figure equivalent to nearly 40 per cent of the nation's GDP.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261120_16182684ee#19",
+    "doc_id": "vietnamnews_20261120_16182684ee",
+    "sent_idx": 19,
+    "text": "Real estate also serves as one of the primary forms of collateral for bank loans.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261120_16182684ee#20",
+    "doc_id": "vietnamnews_20261120_16182684ee",
+    "sent_idx": 20,
+    "text": "This means that market fluctuations directly impact both a borrower's ability to repay their debts and a financial institution's ability to recover capital should a loan become distressed.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261120_16182684ee#21",
+    "doc_id": "vietnamnews_20261120_16182684ee",
+    "sent_idx": 21,
+    "text": "During favourable market conditions, real estate developers can recoup capital through property sales to settle their obligations to banks, while homebuyers can rely on their income or the value of their assets to maintain debt repayment.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261120_16182684ee#22",
+    "doc_id": "vietnamnews_20261120_16182684ee",
+    "sent_idx": 22,
+    "text": "When market activity slows, this cycle of capital circulation becomes increasingly difficult.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261120_16182684ee#23",
+    "doc_id": "vietnamnews_20261120_16182684ee",
+    "sent_idx": 23,
+    "text": "SGI Capital said that a prolonged decline in real estate liquidity and property prices could impair debt recovery, slow capital turnover and constrain the banking system's capacity to extend credit.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261120_16182684ee#24",
+    "doc_id": "vietnamnews_20261120_16182684ee",
+    "sent_idx": 24,
+    "text": "It said that following a period of credit expansion, the primary challenge for banks is shifting toward risk control and capital recovery.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261120_16182684ee#25",
+    "doc_id": "vietnamnews_20261120_16182684ee",
+    "sent_idx": 25,
+    "text": "This will serve as a critical test of asset quality, management capabilities and the resilience of the banking system through 2027. - BIZHUB/VNS",
+    "lang": "en",
+    "is_title": false
+  }
+]

@@ -1,0 +1,378 @@
+[
+  {
+    "sent_id": "vietnamnews_20261026_1a60a1145b#0",
+    "doc_id": "vietnamnews_20261026_1a60a1145b",
+    "sent_idx": 0,
+    "text": "Coffee harvest season begins as selling prices face uncertainty",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261026_1a60a1145b#1",
+    "doc_id": "vietnamnews_20261026_1a60a1145b",
+    "sent_idx": 1,
+    "text": "HÀ NỘI - Việt Nam's coffee harvest season is getting underway, with prices still facing mixed pressures from supply, weather conditions and buying demand.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261026_1a60a1145b#2",
+    "doc_id": "vietnamnews_20261026_1a60a1145b",
+    "sent_idx": 2,
+    "text": "Export volumes are rising, but export earnings are falling, underscoring the need to stabilise supply and improve product quality.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261026_1a60a1145b#3",
+    "doc_id": "vietnamnews_20261026_1a60a1145b",
+    "sent_idx": 3,
+    "text": "The Thời báo Ngân hàng (Banking Times) newspaper quoted Lê Văn Vương, director of Vuong Thanh Cong Manufacturing and Trading Company Limited, as saying that coffee cherries in the surrounding areas had begun to ripen in Đắk Lắk Province.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261026_1a60a1145b#4",
+    "doc_id": "vietnamnews_20261026_1a60a1145b",
+    "sent_idx": 4,
+    "text": "The main harvest is expected to peak between late October and early November, although output in the area could edge down slightly due to the recent spell of hot, dry weather.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261026_1a60a1145b#5",
+    "doc_id": "vietnamnews_20261026_1a60a1145b",
+    "sent_idx": 5,
+    "text": "Looking back at market developments in September, a representative of the Vietnam Coffee-Cocoa Association (Vicofa) said: \"Rising inventories, coupled with positive signals from growing regions, have pushed prices down.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261026_1a60a1145b#6",
+    "doc_id": "vietnamnews_20261026_1a60a1145b",
+    "sent_idx": 6,
+    "text": "Trading in the domestic market remained subdued early this month.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261026_1a60a1145b#7",
+    "doc_id": "vietnamnews_20261026_1a60a1145b",
+    "sent_idx": 7,
+    "text": "According to the association's representative, prices are influenced by the harvest cycle, speculative activity, financial factors and inventory levels.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261026_1a60a1145b#8",
+    "doc_id": "vietnamnews_20261026_1a60a1145b",
+    "sent_idx": 8,
+    "text": "Domestic prices also depend on exchange rates, demand from exporters, remaining stocks, coffee quality and the pace of harvesting.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261026_1a60a1145b#9",
+    "doc_id": "vietnamnews_20261026_1a60a1145b",
+    "sent_idx": 9,
+    "text": "As the new crop approaches, farmers are therefore weighing whether to sell early or hold on to their stocks in anticipation of higher prices.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261026_1a60a1145b#10",
+    "doc_id": "vietnamnews_20261026_1a60a1145b",
+    "sent_idx": 10,
+    "text": "Trịnh Đức Minh, chairman of the Buon Ma Thuot Coffee Association in Đắk Lắk Province, also highlighted the downward pressure on prices that typically builds as harvesting gets underway.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261026_1a60a1145b#11",
+    "doc_id": "vietnamnews_20261026_1a60a1145b",
+    "sent_idx": 11,
+    "text": "He forecast that prices for the new crop could fall to VNĐ85,000-90,000 per kilogramme, but said this would still represent a favourable level for farmers compared with production costs of around VNĐ60,000 per kilogramme.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261026_1a60a1145b#12",
+    "doc_id": "vietnamnews_20261026_1a60a1145b",
+    "sent_idx": 12,
+    "text": "International coffee prices rebounded early this month.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261026_1a60a1145b#13",
+    "doc_id": "vietnamnews_20261026_1a60a1145b",
+    "sent_idx": 13,
+    "text": "A stronger Brazilian real reduced farmers' incentive to sell coffee on international markets.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261026_1a60a1145b#14",
+    "doc_id": "vietnamnews_20261026_1a60a1145b",
+    "sent_idx": 14,
+    "text": "At the same time, high temperatures in Brazil's growing regions raised concerns among traders, despite widespread rainfall.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261026_1a60a1145b#15",
+    "doc_id": "vietnamnews_20261026_1a60a1145b",
+    "sent_idx": 15,
+    "text": "Coffee prices have fallen by 25 per cent over the past seven months amid rising global supply, according to an industry report presented at a recent workshop on ecological and sustainable development in Sơn La Province.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261026_1a60a1145b#16",
+    "doc_id": "vietnamnews_20261026_1a60a1145b",
+    "sent_idx": 16,
+    "text": "Despite the early-October rebound, supply prospects remain a key factor shaping price movements ahead of the new crop season.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261026_1a60a1145b#17",
+    "doc_id": "vietnamnews_20261026_1a60a1145b",
+    "sent_idx": 17,
+    "text": "In Việt Nam's Central Highlands, harvesting progress remains dependent on weather conditions towards the end of the rainy season.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261026_1a60a1145b#18",
+    "doc_id": "vietnamnews_20261026_1a60a1145b",
+    "sent_idx": 18,
+    "text": "Prolonged rainfall could disrupt harvesting, drying and transportation.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261026_1a60a1145b#19",
+    "doc_id": "vietnamnews_20261026_1a60a1145b",
+    "sent_idx": 19,
+    "text": "Conversely, a faster influx of coffee from the new harvest onto the market could put further downward pressure on purchasing prices.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261026_1a60a1145b#20",
+    "doc_id": "vietnamnews_20261026_1a60a1145b",
+    "sent_idx": 20,
+    "text": "Given these uncertainties, Đỗ Hà Nam, vice chairman of Vicofa, said it was still too early to forecast the 2026/2027 crop year.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261026_1a60a1145b#21",
+    "doc_id": "vietnamnews_20261026_1a60a1145b",
+    "sent_idx": 21,
+    "text": "More than 85 per cent of Việt Nam's coffee output is destined for export, leaving domestic prices highly sensitive to developments in the global market.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261026_1a60a1145b#22",
+    "doc_id": "vietnamnews_20261026_1a60a1145b",
+    "sent_idx": 22,
+    "text": "Việt Nam's coffee output is forecast to reach a record 32.5 million 60-kilogram bags in the 2026/2027 crop year, up 800,000 bags from the previous season, according to the industry report.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261026_1a60a1145b#23",
+    "doc_id": "vietnamnews_20261026_1a60a1145b",
+    "sent_idx": 23,
+    "text": "The projected increase could put further downward pressure on prices as the new harvest gathers pace, although actual price movements will also depend on weather conditions, export demand and global market dynamics.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261026_1a60a1145b#24",
+    "doc_id": "vietnamnews_20261026_1a60a1145b",
+    "sent_idx": 24,
+    "text": "Securing supply and moving up the value chain",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261026_1a60a1145b#25",
+    "doc_id": "vietnamnews_20261026_1a60a1145b",
+    "sent_idx": 25,
+    "text": "Pressure on selling prices is already evident in export performance.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261026_1a60a1145b#26",
+    "doc_id": "vietnamnews_20261026_1a60a1145b",
+    "sent_idx": 26,
+    "text": "According to the Ministry of Agriculture and Environment, Việt Nam's coffee exports reached US$6.54 billion in the first nine months of this year.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261026_1a60a1145b#27",
+    "doc_id": "vietnamnews_20261026_1a60a1145b",
+    "sent_idx": 27,
+    "text": "Export volume increased 15.4 per cent year on year, while export value fell 7.3 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261026_1a60a1145b#28",
+    "doc_id": "vietnamnews_20261026_1a60a1145b",
+    "sent_idx": 28,
+    "text": "The average export price was estimated at $4,537.3 per tonne, down nearly 20 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261026_1a60a1145b#29",
+    "doc_id": "vietnamnews_20261026_1a60a1145b",
+    "sent_idx": 29,
+    "text": "The Agency of Foreign Trade under the Ministry of Industry and Trade attributed the decline in global coffee prices in September to improving supply, particularly in Brazil.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261026_1a60a1145b#30",
+    "doc_id": "vietnamnews_20261026_1a60a1145b",
+    "sent_idx": 30,
+    "text": "From early October, harvesting began in several Vietnamese growing areas, while expectations of increased supply prompted purchasing companies to adopt a more cautious approach.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261026_1a60a1145b#31",
+    "doc_id": "vietnamnews_20261026_1a60a1145b",
+    "sent_idx": 31,
+    "text": "Nevertheless, demand for coffee to fulfil existing delivery commitments persisted during the transition between crop seasons.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261026_1a60a1145b#32",
+    "doc_id": "vietnamnews_20261026_1a60a1145b",
+    "sent_idx": 32,
+    "text": "Information released in early September indicated that supplies from the old crop were nearing exhaustion, prompting exporters to purchase coffee to meet existing contractual obligations.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261026_1a60a1145b#33",
+    "doc_id": "vietnamnews_20261026_1a60a1145b",
+    "sent_idx": 33,
+    "text": "This demand helped support domestic prices.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261026_1a60a1145b#34",
+    "doc_id": "vietnamnews_20261026_1a60a1145b",
+    "sent_idx": 34,
+    "text": "In addition to securing supplies, greater investment in coffee processing is seen as a way to increase export value.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261026_1a60a1145b#35",
+    "doc_id": "vietnamnews_20261026_1a60a1145b",
+    "sent_idx": 35,
+    "text": "Demand for instant coffee, roasted and ground coffee, and coffee blends is growing in many markets.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261026_1a60a1145b#36",
+    "doc_id": "vietnamnews_20261026_1a60a1145b",
+    "sent_idx": 36,
+    "text": "To increase the share of processed products, businesses need to invest in technology, develop raw-material supply areas and build their brands.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261026_1a60a1145b#37",
+    "doc_id": "vietnamnews_20261026_1a60a1145b",
+    "sent_idx": 37,
+    "text": "However, the Agency of Foreign Trade said growth in processed coffee exports remained below the sector's potential because of high costs and increasingly stringent import requirements.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261026_1a60a1145b#38",
+    "doc_id": "vietnamnews_20261026_1a60a1145b",
+    "sent_idx": 38,
+    "text": "Processed coffee generated $1.2 billion in export revenue in the first eight months of the year, up 1.7 per cent year on year and accounting for 19.9 per cent of total coffee export value.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261026_1a60a1145b#39",
+    "doc_id": "vietnamnews_20261026_1a60a1145b",
+    "sent_idx": 39,
+    "text": "Orders for processed coffee products are showing encouraging signs.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261026_1a60a1145b#40",
+    "doc_id": "vietnamnews_20261026_1a60a1145b",
+    "sent_idx": 40,
+    "text": "Nguyễn Nam Hải, chairman of Vicofa, said many companies had secured orders from China through December this year.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261026_1a60a1145b#41",
+    "doc_id": "vietnamnews_20261026_1a60a1145b",
+    "sent_idx": 41,
+    "text": "Some businesses, however, were struggling to source enough coffee to meet orders.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261026_1a60a1145b#42",
+    "doc_id": "vietnamnews_20261026_1a60a1145b",
+    "sent_idx": 42,
+    "text": "Companies are investing in factories and expanding production capacity.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261026_1a60a1145b#43",
+    "doc_id": "vietnamnews_20261026_1a60a1145b",
+    "sent_idx": 43,
+    "text": "Lê Đức Huy, chairman of the members' council of Simexco Đaklak Ltd., said developments in Brazil's harvest, changes in Indonesia's output and rising demand for Robusta coffee \"could create additional opportunities for Vietnamese coffee as the industry prepares to enter the 2026/2027 crop year\".",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261026_1a60a1145b#44",
+    "doc_id": "vietnamnews_20261026_1a60a1145b",
+    "sent_idx": 44,
+    "text": "Sustainable coffee development requires the participation of the entire value chain, from growers to downstream buyers.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261026_1a60a1145b#45",
+    "doc_id": "vietnamnews_20261026_1a60a1145b",
+    "sent_idx": 45,
+    "text": "To stabilise supply in the near term, he called for stronger links between producers and export businesses.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261026_1a60a1145b#46",
+    "doc_id": "vietnamnews_20261026_1a60a1145b",
+    "sent_idx": 46,
+    "text": "In the longer term, he said the industry needed to shift its focus away from increasing output and productivity towards improving quality, promoting greater accountability across the supply chain and building brands. - VNS",
+    "lang": "en",
+    "is_title": false
+  }
+]

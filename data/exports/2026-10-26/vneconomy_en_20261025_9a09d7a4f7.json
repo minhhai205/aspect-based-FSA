@@ -1,0 +1,522 @@
+[
+  {
+    "sent_id": "vneconomy_en_20261025_9a09d7a4f7#0",
+    "doc_id": "vneconomy_en_20261025_9a09d7a4f7",
+    "sent_idx": 0,
+    "text": "Taking convenience a step further",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vneconomy_en_20261025_9a09d7a4f7#1",
+    "doc_id": "vneconomy_en_20261025_9a09d7a4f7",
+    "sent_idx": 1,
+    "text": "I n the early stages, the number of countries connected through cross-border payments was an easy-to-understand and necessary indicator.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261025_9a09d7a4f7#2",
+    "doc_id": "vneconomy_en_20261025_9a09d7a4f7",
+    "sent_idx": 2,
+    "text": "But as the network expands, we need additional measures of quality and effectiveness, including the number of participating banks and payment institutions, coverage of payment acceptance points, transaction volumes and values, success rates, costs and transparency for customers, and rates of inquiries, complaints, and fraud.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261025_9a09d7a4f7#3",
+    "doc_id": "vneconomy_en_20261025_9a09d7a4f7",
+    "sent_idx": 3,
+    "text": "Where data allows, we also need to assess how payment connectivity supports economic activities such as tourism, retail, and trade.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261025_9a09d7a4f7#4",
+    "doc_id": "vneconomy_en_20261025_9a09d7a4f7",
+    "sent_idx": 4,
+    "text": "This requires close coordination between the banking sector and relevant ministries and agencies, particularly tourism authorities and the Ministry of Industry and Trade, to develop a common set of indicators for assessing the impact and effectiveness of cross-border payments.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261025_9a09d7a4f7#5",
+    "doc_id": "vneconomy_en_20261025_9a09d7a4f7",
+    "sent_idx": 5,
+    "text": "The management question should shift from \"How many new connections have we established?\" to \"What value is each connection creating, where are the bottlenecks, and what policies are needed to maximize its effectiveness?",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261025_9a09d7a4f7#6",
+    "doc_id": "vneconomy_en_20261025_9a09d7a4f7",
+    "sent_idx": 6,
+    "text": "This marks a shift from building infrastructure to unlocking its value. cro",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261025_9a09d7a4f7#7",
+    "doc_id": "vneconomy_en_20261025_9a09d7a4f7",
+    "sent_idx": 7,
+    "text": "Looking ahead, I would frame the direction around three shifts.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261025_9a09d7a4f7#8",
+    "doc_id": "vneconomy_en_20261025_9a09d7a4f7",
+    "sent_idx": 8,
+    "text": "First, from \"being connected\" to \"being usable\": technical connectivity must be matched by an experience that is convenient, transparent, and secure enough for customers to actually use it.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261025_9a09d7a4f7#9",
+    "doc_id": "vneconomy_en_20261025_9a09d7a4f7",
+    "sent_idx": 9,
+    "text": "Second, from \"expanding the network\" to \"building an ecosystem\": banks and payment infrastructure cannot do this alone; tourism, retail, aviation, transportation, e-commerce, digital platforms, businesses, and household enterprises all need to participate.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261025_9a09d7a4f7#10",
+    "doc_id": "vneconomy_en_20261025_9a09d7a4f7",
+    "sent_idx": 10,
+    "text": "Third, from \"connecting payments\" to \"connecting economies\": the goal is not simply a successful QR scan but a more convenient, secure, and reasonably-priced economic transaction that creates additional opportunities for consumers and businesses.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261025_9a09d7a4f7#11",
+    "doc_id": "vneconomy_en_20261025_9a09d7a4f7",
+    "sent_idx": 11,
+    "text": "N APAS supports the State Bank of Vietnam (SBV)'s direction that cross-border payment connectivity may begin with infrastructure but ultimately must be tied to economic activity.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261025_9a09d7a4f7#12",
+    "doc_id": "vneconomy_en_20261025_9a09d7a4f7",
+    "sent_idx": 12,
+    "text": "Around 75-80 per cent of visitors from the Asia-Pacific region are already familiar with QR payments, creating significant potential as tourists expect to use the payment applications they know from home when visiting Vietnam.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261025_9a09d7a4f7#13",
+    "doc_id": "vneconomy_en_20261025_9a09d7a4f7",
+    "sent_idx": 13,
+    "text": "QR payments based on P2P transfers have become popular, but retail chains and large merchants require more.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261025_9a09d7a4f7#14",
+    "doc_id": "vneconomy_en_20261025_9a09d7a4f7",
+    "sent_idx": 14,
+    "text": "Merchants need to manage large transaction volumes and identify and reconcile individual payments, while consumers need mechanisms for transaction reversals, inquiries, complaints, and refunds.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261025_9a09d7a4f7#15",
+    "doc_id": "vneconomy_en_20261025_9a09d7a4f7",
+    "sent_idx": 15,
+    "text": "These requirements show that QR payments based on NAPAS 247 transfers through VietQR do not fully meet the needs of retail payments.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261025_9a09d7a4f7#16",
+    "doc_id": "vneconomy_en_20261025_9a09d7a4f7",
+    "sent_idx": 16,
+    "text": "NAPAS has therefore developed VietQR Pay under the SBV's direction, moving from P2P - transfers between individuals - to P2M, or payments from buyers to merchants.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261025_9a09d7a4f7#17",
+    "doc_id": "vneconomy_en_20261025_9a09d7a4f7",
+    "sent_idx": 17,
+    "text": "Cross-border payments also face limitations when using transfers, including anti-money laundering requirements, safety and security standards, and the need to identify the origin and purpose of funds.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261025_9a09d7a4f7#18",
+    "doc_id": "vneconomy_en_20261025_9a09d7a4f7",
+    "sent_idx": 18,
+    "text": "NAPAS has therefore developed VietQR Global to expand cross-border QR payment connectivity.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261025_9a09d7a4f7#19",
+    "doc_id": "vneconomy_en_20261025_9a09d7a4f7",
+    "sent_idx": 19,
+    "text": "Since 2021, it has established connections with six countries - China, Thailand, South Korea, Singapore, Cambodia, and Laos - and plans to expand to other Asia-Pacific markets through intergovernmental cooperation programs.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261025_9a09d7a4f7#20",
+    "doc_id": "vneconomy_en_20261025_9a09d7a4f7",
+    "sent_idx": 20,
+    "text": "While infrastructure and connectivity remain fundamental, NAPAS is now focusing on two priorities: expanding payment acceptance points and increasing actual usage.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261025_9a09d7a4f7#21",
+    "doc_id": "vneconomy_en_20261025_9a09d7a4f7",
+    "sent_idx": 21,
+    "text": "Working with banks, payment intermediaries, and overseas partners, it aims to encourage both international visitors to Vietnam and Vietnamese traveling abroad to use cross-border QR payments more frequently.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261025_9a09d7a4f7#22",
+    "doc_id": "vneconomy_en_20261025_9a09d7a4f7",
+    "sent_idx": 22,
+    "text": "The goal is to increase both the coverage of acceptance points and the number and value of transactions across different connectivity routes.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261025_9a09d7a4f7#23",
+    "doc_id": "vneconomy_en_20261025_9a09d7a4f7",
+    "sent_idx": 23,
+    "text": "A ny payment method, and cross-border QR payments in particular, must meet three basic requirements: convenience for consumers, easy identification and selection of the appropriate payment method, and reasonable transaction costs.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261025_9a09d7a4f7#24",
+    "doc_id": "vneconomy_en_20261025_9a09d7a4f7",
+    "sent_idx": 24,
+    "text": "Only when these conditions are met can a payment method effectively serve its target customers.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261025_9a09d7a4f7#25",
+    "doc_id": "vneconomy_en_20261025_9a09d7a4f7",
+    "sent_idx": 25,
+    "text": "With the approval and direction of the State Bank of Vietnam, VietinBank has worked with NAPAS to deploy VietQR Global in various markets.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261025_9a09d7a4f7#26",
+    "doc_id": "vneconomy_en_20261025_9a09d7a4f7",
+    "sent_idx": 26,
+    "text": "The bank has accelerated development across retail chains and major tourism centers such as Hanoi, Da Nang, and Ho Chi Minh City, while preparing the infrastructure needed to integrate cross-border QR connections.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261025_9a09d7a4f7#27",
+    "doc_id": "vneconomy_en_20261025_9a09d7a4f7",
+    "sent_idx": 27,
+    "text": "Most recently, on the outbound side, VietinBank worked with NAPAS and Thai partners to enable Vietnamese travelers to use their familiar payment applications at participating merchants in Thailand.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261025_9a09d7a4f7#28",
+    "doc_id": "vneconomy_en_20261025_9a09d7a4f7",
+    "sent_idx": 28,
+    "text": "VietinBank plans to leverage its existing partner and customer ecosystem to expand acceptance points, with the broader goal of making payments part of the flow of the economy.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261025_9a09d7a4f7#29",
+    "doc_id": "vneconomy_en_20261025_9a09d7a4f7",
+    "sent_idx": 29,
+    "text": "Once the infrastructure and cost structure are in place, the focus must shift to generating actual transactions, with the bank's branches directly supporting merchants, expanding the network, and ensuring a convenient customer experience.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261025_9a09d7a4f7#30",
+    "doc_id": "vneconomy_en_20261025_9a09d7a4f7",
+    "sent_idx": 30,
+    "text": "B IDV is among the pioneering banks working with the State Bank of Vietnam and NAPAS to expand cross-border QR payment connectivity.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261025_9a09d7a4f7#31",
+    "doc_id": "vneconomy_en_20261025_9a09d7a4f7",
+    "sent_idx": 31,
+    "text": "Beyond expanding the acceptance network, the bank is focusing on enabling international visitors to use QR payments throughout their journey in Vietnam.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261025_9a09d7a4f7#32",
+    "doc_id": "vneconomy_en_20261025_9a09d7a4f7",
+    "sent_idx": 32,
+    "text": "We are developing the network across three layers.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261025_9a09d7a4f7#33",
+    "doc_id": "vneconomy_en_20261025_9a09d7a4f7",
+    "sent_idx": 33,
+    "text": "The first is international connectivity, working with NAPAS to expand connections to major source markets and allow visitors to use familiar payment applications with an experience similar to that in their home country.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261025_9a09d7a4f7#34",
+    "doc_id": "vneconomy_en_20261025_9a09d7a4f7",
+    "sent_idx": 34,
+    "text": "The second is expanding acceptance points along the tourist journey - from airports and transportation to accommodation, sightseeing, shopping, dining, and other services.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261025_9a09d7a4f7#35",
+    "doc_id": "vneconomy_en_20261025_9a09d7a4f7",
+    "sent_idx": 35,
+    "text": "BIDV is prioritizing major destinations with large numbers of international visitors, including Da Nang, Nha Trang, Phu Quoc, Hanoi, and Ho Chi Minh City.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261025_9a09d7a4f7#36",
+    "doc_id": "vneconomy_en_20261025_9a09d7a4f7",
+    "sent_idx": 36,
+    "text": "The third layer is turning acceptance points into locations where actual transactions take place.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261025_9a09d7a4f7#37",
+    "doc_id": "vneconomy_en_20261025_9a09d7a4f7",
+    "sent_idx": 37,
+    "text": "Expanding the number of merchants is only a necessary condition; the network must generate transactions to deliver real value.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261025_9a09d7a4f7#38",
+    "doc_id": "vneconomy_en_20261025_9a09d7a4f7",
+    "sent_idx": 38,
+    "text": "Because relying solely on the traditional banking model would limit the pace and coverage, BIDV is working with tourism and accommodation platforms and payment intermediaries to expand the network.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261025_9a09d7a4f7#39",
+    "doc_id": "vneconomy_en_20261025_9a09d7a4f7",
+    "sent_idx": 39,
+    "text": "Communication is equally important.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261025_9a09d7a4f7#40",
+    "doc_id": "vneconomy_en_20261025_9a09d7a4f7",
+    "sent_idx": 40,
+    "text": "International visitors should be informed in their home markets that their familiar payment applications can be used in Vietnam, while domestic merchants need to understand that joining VietQR Global gives them access to international tourists, creates opportunities to increase revenue and payment volumes, and improves the customer experience.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261025_9a09d7a4f7#41",
+    "doc_id": "vneconomy_en_20261025_9a09d7a4f7",
+    "sent_idx": 41,
+    "text": "This requires coordination between NAPAS, banks, payment intermediaries, and other partners.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261025_9a09d7a4f7#42",
+    "doc_id": "vneconomy_en_20261025_9a09d7a4f7",
+    "sent_idx": 42,
+    "text": "A gribank has actively developed cashless payment methods, with QR scanning through the Agribank Mobile application becoming a familiar way for customers to make transfers, pay bills and purchase services, and meet daily spending needs.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261025_9a09d7a4f7#43",
+    "doc_id": "vneconomy_en_20261025_9a09d7a4f7",
+    "sent_idx": 43,
+    "text": "The bank plans to launch VietQR Global in October, taking that convenience a step further so customers traveling abroad do not have to start their payment experience from scratch.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261025_9a09d7a4f7#44",
+    "doc_id": "vneconomy_en_20261025_9a09d7a4f7",
+    "sent_idx": 44,
+    "text": "For Agribank, cross-border QR payments mean more than another payment method.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261025_9a09d7a4f7#45",
+    "doc_id": "vneconomy_en_20261025_9a09d7a4f7",
+    "sent_idx": 45,
+    "text": "The value of a modern financial service lies not only in how far the technology can reach but in how close it can come to people.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261025_9a09d7a4f7#46",
+    "doc_id": "vneconomy_en_20261025_9a09d7a4f7",
+    "sent_idx": 46,
+    "text": "Effectiveness should therefore be measured not only by the number of connected countries but also by the number of people who can actually access and use the service.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261025_9a09d7a4f7#47",
+    "doc_id": "vneconomy_en_20261025_9a09d7a4f7",
+    "sent_idx": 47,
+    "text": "This is particularly important for Agribank, which serves a large customer base in agriculture and rural areas.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261025_9a09d7a4f7#48",
+    "doc_id": "vneconomy_en_20261025_9a09d7a4f7",
+    "sent_idx": 48,
+    "text": "The goal is to create new opportunities for household businesses, production facilities, farmers, and customers in remote areas to access digital commerce and cross-border payment services through familiar applications.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261025_9a09d7a4f7#49",
+    "doc_id": "vneconomy_en_20261025_9a09d7a4f7",
+    "sent_idx": 49,
+    "text": "When QR payments reach small businesses, production facilities, craft villages, and rural tourism destinations, local payment acceptance points can become bridges between local economies and global markets.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261025_9a09d7a4f7#50",
+    "doc_id": "vneconomy_en_20261025_9a09d7a4f7",
+    "sent_idx": 50,
+    "text": "Agribank's broader objective is to bring local people closer to international markets while bringing international customers closer to local products and services.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261025_9a09d7a4f7#51",
+    "doc_id": "vneconomy_en_20261025_9a09d7a4f7",
+    "sent_idx": 51,
+    "text": "Cross-border payments can support the consumption of agricultural and local products while promoting tourism and economic activity in rural areas, supporting the bank's commitment to \"tam nong\" - agriculture, farmers and rural areas - in the digital era.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261025_9a09d7a4f7#52",
+    "doc_id": "vneconomy_en_20261025_9a09d7a4f7",
+    "sent_idx": 52,
+    "text": "F rom KiotViet's perspective, payment is the final step in completing a transaction.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261025_9a09d7a4f7#53",
+    "doc_id": "vneconomy_en_20261025_9a09d7a4f7",
+    "sent_idx": 53,
+    "text": "When a tourist has selected a product and decided to buy it, the sale may still fail if there is no convenient payment method.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261025_9a09d7a4f7#54",
+    "doc_id": "vneconomy_en_20261025_9a09d7a4f7",
+    "sent_idx": 54,
+    "text": "The key question, therefore, is not simply whether the market has another QR code or payment solution, but whether it helps merchants complete sales, receive the correct payment, and properly manage the transaction.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261025_9a09d7a4f7#55",
+    "doc_id": "vneconomy_en_20261025_9a09d7a4f7",
+    "sent_idx": 55,
+    "text": "This is particularly important for traditional businesses.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261025_9a09d7a4f7#56",
+    "doc_id": "vneconomy_en_20261025_9a09d7a4f7",
+    "sent_idx": 56,
+    "text": "Cards and payment gateways are generally easier to deploy at large businesses, retail chains, and e-commerce platforms, while household businesses, local specialty shops, and street food merchants can face barriers related to payment equipment, implementation costs, and operating systems.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261025_9a09d7a4f7#57",
+    "doc_id": "vneconomy_en_20261025_9a09d7a4f7",
+    "sent_idx": 57,
+    "text": "With the share of domestic payment acceptance points supporting cross-border QR payments still relatively low, small household businesses remain one of the segments facing the greatest barriers.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261025_9a09d7a4f7#58",
+    "doc_id": "vneconomy_en_20261025_9a09d7a4f7",
+    "sent_idx": 58,
+    "text": "VietQR Global offers a more familiar and convenient alternative.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261025_9a09d7a4f7#59",
+    "doc_id": "vneconomy_en_20261025_9a09d7a4f7",
+    "sent_idx": 59,
+    "text": "International tourists can scan a QR code and pay through their familiar banking applications or e-wallets, while merchants can receive payments directly at the counter without investing in complex infrastructure.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261025_9a09d7a4f7#60",
+    "doc_id": "vneconomy_en_20261025_9a09d7a4f7",
+    "sent_idx": 60,
+    "text": "To fully capture this sales opportunity, however, payment needs to be integrated with sales management.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261025_9a09d7a4f7#61",
+    "doc_id": "vneconomy_en_20261025_9a09d7a4f7",
+    "sent_idx": 61,
+    "text": "Each payment can then be linked to a specific order, eliminating manual entry and visual transaction checks, while the sales system automatically updates payment status and simplifies reconciliation.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261025_9a09d7a4f7#62",
+    "doc_id": "vneconomy_en_20261025_9a09d7a4f7",
+    "sent_idx": 62,
+    "text": "Based on KiotViet's customer base across retail, restaurants, food services, and accommodation, VietQR Global can deliver three key benefits: helping merchants capture business from international customers, reducing lost sales caused by customers lacking cash or a convenient payment method, and synchronizing sales and payment systems to simplify transaction recording, order management, and reconciliation.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261025_9a09d7a4f7#63",
+    "doc_id": "vneconomy_en_20261025_9a09d7a4f7",
+    "sent_idx": 63,
+    "text": "Ultimately, a new payment method should create additional business opportunities from international tourists.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261025_9a09d7a4f7#64",
+    "doc_id": "vneconomy_en_20261025_9a09d7a4f7",
+    "sent_idx": 64,
+    "text": "As more merchants participate, the network can develop into a broad community of payment acceptance points - the value KiotViet believes VietQR Global can deliver in the time ahead.",
+    "lang": "en",
+    "is_title": false
+  }
+]

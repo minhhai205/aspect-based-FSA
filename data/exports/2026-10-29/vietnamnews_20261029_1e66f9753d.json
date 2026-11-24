@@ -1,0 +1,154 @@
+[
+  {
+    "sent_id": "vietnamnews_20261029_1e66f9753d#0",
+    "doc_id": "vietnamnews_20261029_1e66f9753d",
+    "sent_idx": 0,
+    "text": "First electric barge powered by renewable energy launched in Việt Nam",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261029_1e66f9753d#1",
+    "doc_id": "vietnamnews_20261029_1e66f9753d",
+    "sent_idx": 1,
+    "text": "HCM CITY - CMA CGM, Nike and Gemadept have launched a fully electric barge service in Việt Nam to reduce emissions from inland transport.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261029_1e66f9753d#2",
+    "doc_id": "vietnamnews_20261029_1e66f9753d",
+    "sent_idx": 2,
+    "text": "The barge connects Nike's inland drop-off location in HCM City (former Bình Dương Province), with Gemalink's deep-sea terminal in Cái Mép, covering a 180km round trip.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261029_1e66f9753d#3",
+    "doc_id": "vietnamnews_20261029_1e66f9753d",
+    "sent_idx": 3,
+    "text": "Powered by batteries and recharged with certified renewable electricity, the barge is expected to avoid about 778 tonnes of CO₂ emissions a year.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261029_1e66f9753d#4",
+    "doc_id": "vietnamnews_20261029_1e66f9753d",
+    "sent_idx": 4,
+    "text": "It is designed to transport more than 50,000 TEUs annually, offering a lower-carbon alternative to road transport.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261029_1e66f9753d#5",
+    "doc_id": "vietnamnews_20261029_1e66f9753d",
+    "sent_idx": 5,
+    "text": "The integrated system combines the electric barge, dedicated charging infrastructure and renewable energy from a solar farm at Gemalink.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261029_1e66f9753d#6",
+    "doc_id": "vietnamnews_20261029_1e66f9753d",
+    "sent_idx": 6,
+    "text": "Developed by CMA CGM's New Build and R&D teams, the barge uses battery technology from CATL and takes about four hours to recharge.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261029_1e66f9753d#7",
+    "doc_id": "vietnamnews_20261029_1e66f9753d",
+    "sent_idx": 7,
+    "text": "Its dedicated charging infrastructure at Gemalink is supplied by a solar farm developed at the terminal, creating an integrated solution that combines low-emission transportation with renewable energy production.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261029_1e66f9753d#8",
+    "doc_id": "vietnamnews_20261029_1e66f9753d",
+    "sent_idx": 8,
+    "text": "Christine Cabau, executive vice-president of assets and operations at CMA CGM, said the project showed how shipping companies, customers and terminal operators could work together to develop practical, lower-carbon transport solutions.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261029_1e66f9753d#9",
+    "doc_id": "vietnamnews_20261029_1e66f9753d",
+    "sent_idx": 9,
+    "text": "\"Decarbonising global supply chains requires moving beyond ambition to deliver concrete, scalable solutions.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261029_1e66f9753d#10",
+    "doc_id": "vietnamnews_20261029_1e66f9753d",
+    "sent_idx": 10,
+    "text": "This fully electric barge is a powerful example of what can be achieved when shipping companies, customers and terminal operators combine their expertise and commitment.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261029_1e66f9753d#11",
+    "doc_id": "vietnamnews_20261029_1e66f9753d",
+    "sent_idx": 11,
+    "text": "Together with Nike and Gemadept, we are demonstrating that innovative, lower-carbon inland transportation solutions are already within reach.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261029_1e66f9753d#12",
+    "doc_id": "vietnamnews_20261029_1e66f9753d",
+    "sent_idx": 12,
+    "text": "Now, CMA CGM aims to build on this success to accelerate their deployment across other markets and supply chains,\" Cabau said.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261029_1e66f9753d#13",
+    "doc_id": "vietnamnews_20261029_1e66f9753d",
+    "sent_idx": 13,
+    "text": "The project highlights the potential of inland waterways to provide more sustainable ways to transport goods and improve supply chains' environmental performance.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261029_1e66f9753d#14",
+    "doc_id": "vietnamnews_20261029_1e66f9753d",
+    "sent_idx": 14,
+    "text": "The partners said the model could be replicated in other locations and adapted to different customer supply chains.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261029_1e66f9753d#15",
+    "doc_id": "vietnamnews_20261029_1e66f9753d",
+    "sent_idx": 15,
+    "text": "Đỗ Công Khanh, deputy chief executive officer of Gemadept Corporation and chairman of Gemalink Deep-Sea Port, said the project brought together electric transport, charging infrastructure and renewable energy.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261029_1e66f9753d#16",
+    "doc_id": "vietnamnews_20261029_1e66f9753d",
+    "sent_idx": 16,
+    "text": "He said the model could be expanded to support the transition towards low-carbon logistics in Việt Nam.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261029_1e66f9753d#17",
+    "doc_id": "vietnamnews_20261029_1e66f9753d",
+    "sent_idx": 17,
+    "text": "MA CGM has operated in Việt Nam since 2006.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261029_1e66f9753d#18",
+    "doc_id": "vietnamnews_20261029_1e66f9753d",
+    "sent_idx": 18,
+    "text": "It has five offices in HCM City, Hà Nội, Hải Phòng, Đà Nẵng and Quy Nhơn, and more than 220 employees. - VNS",
+    "lang": "en",
+    "is_title": false
+  }
+]

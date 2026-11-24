@@ -1,0 +1,98 @@
+[
+  {
+    "sent_id": "vietnamnews_20261031_35ab01e6d8#0",
+    "doc_id": "vietnamnews_20261031_35ab01e6d8",
+    "sent_idx": 0,
+    "text": "Average retail electricity price cut by 2 per cent from November 1",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261031_35ab01e6d8#1",
+    "doc_id": "vietnamnews_20261031_35ab01e6d8",
+    "sent_idx": 1,
+    "text": "HÀ NỘI - Việt Nam is cutting its average retail electricity price by 2 per cent to VNĐ2,159.90 per kWh (excluding value added tax) from November 1, in a move aimed at easing energy costs for households and businesses and supporting economic growth, Vietnam Electricity (EVN) said on Saturday.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261031_35ab01e6d8#2",
+    "doc_id": "vietnamnews_20261031_35ab01e6d8",
+    "sent_idx": 2,
+    "text": "This marks the first time the average electricity price has been adjusted downward in 20 years (excluding the five instances where electricity charges or prices were reduced to support individuals and businesses affected by the devastating COVID-19 pandemic).",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261031_35ab01e6d8#3",
+    "doc_id": "vietnamnews_20261031_35ab01e6d8",
+    "sent_idx": 3,
+    "text": "The Ministry of Industry and Trade has also issued Decision No. 2892/QĐ-BCT on the same day, setting retail electricity tariffs for different consumer groups and electricity retailers, which will also be effective from November 1.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261031_35ab01e6d8#4",
+    "doc_id": "vietnamnews_20261031_35ab01e6d8",
+    "sent_idx": 4,
+    "text": "EVN said it had reviewed its costs and stepped up cost-saving measures to cut electricity prices in line with the Government's requests to lower costs for production and business and support economic growth and safeguard social welfare.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261031_35ab01e6d8#5",
+    "doc_id": "vietnamnews_20261031_35ab01e6d8",
+    "sent_idx": 5,
+    "text": "The move follows a meeting chaired by Deputy Prime Minister Nguyễn Văn Thắng on October on scenarios for managing petrol and electricity prices.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261031_35ab01e6d8#6",
+    "doc_id": "vietnamnews_20261031_35ab01e6d8",
+    "sent_idx": 6,
+    "text": "Between 2020 and 2021, EVN implemented five rounds of electricity bill reductions and support measures to help customers cope with difficulties during the COVID-19 pandemic, providing total support of nearly VNĐ17 trillion.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261031_35ab01e6d8#7",
+    "doc_id": "vietnamnews_20261031_35ab01e6d8",
+    "sent_idx": 7,
+    "text": "Since May 2023, average retail electricity prices have risen four times.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261031_35ab01e6d8#8",
+    "doc_id": "vietnamnews_20261031_35ab01e6d8",
+    "sent_idx": 8,
+    "text": "The first increase was 3 per cent in May 2023, taking the price to VNĐ1,920.37 per kWh, followed by a 4.5 per cent increase to VNĐ2,006.79 per kWh in November of the same year.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261031_35ab01e6d8#9",
+    "doc_id": "vietnamnews_20261031_35ab01e6d8",
+    "sent_idx": 9,
+    "text": "Prices rose a further 4.8 per cent to VNĐ2,103.12 per kWh in October 2024 and another 4.8 per cent to VNĐ2,204.07 per kWh in May 2025.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261031_35ab01e6d8#10",
+    "doc_id": "vietnamnews_20261031_35ab01e6d8",
+    "sent_idx": 10,
+    "text": "EVN recently reported that its total electricity production and business costs in 2025 reached VNĐ601.68 trillion, equivalent to an average production cost of VNĐ2,092.70 per kWh, VNĐ111.37 per kWh lower than the average retail price before today's cut.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261031_35ab01e6d8#11",
+    "doc_id": "vietnamnews_20261031_35ab01e6d8",
+    "sent_idx": 11,
+    "text": "However, EVN said more than VNĐ17.5 trillion in accumulated costs had yet to be included in electricity production and business costs by the end of 2025, mainly due to exchange-rate differences. - VNS",
+    "lang": "en",
+    "is_title": false
+  }
+]

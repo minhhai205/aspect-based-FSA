@@ -1,0 +1,162 @@
+[
+  {
+    "sent_id": "vneconomy_en_20261030_0841963d88#0",
+    "doc_id": "vneconomy_en_20261030_0841963d88",
+    "sent_idx": 0,
+    "text": "HCMC urged to align 100-year vision with population trends and housing needs",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vneconomy_en_20261030_0841963d88#1",
+    "doc_id": "vneconomy_en_20261030_0841963d88",
+    "sent_idx": 1,
+    "text": "At a recent appraisal session for the draft resolution approving Ho Chi Minh City's Master Plan for the 2025-2050 period with a 100-year vision, the HCM City Real Estate Association (HoREA) urged municipal authorities to align the long-term blueprint with demographic shifts and corresponding housing supply",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261030_0841963d88#2",
+    "doc_id": "vneconomy_en_20261030_0841963d88",
+    "sent_idx": 2,
+    "text": "According to HoREA, population forecasting is one of the most important foundations for determining housing demand and planning urban space.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261030_0841963d88#3",
+    "doc_id": "vneconomy_en_20261030_0841963d88",
+    "sent_idx": 3,
+    "text": "For the city, declining birth rates, population aging, and changes in migration patterns require a reassessment of long-term population growth scenarios.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261030_0841963d88#4",
+    "doc_id": "vneconomy_en_20261030_0841963d88",
+    "sent_idx": 4,
+    "text": "Specifically, HoREA called for a more cautious calculation of the city's future population size and recommended adding targets for the development of social housing and rental housing to meet the needs of different population groups.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261030_0841963d88#5",
+    "doc_id": "vneconomy_en_20261030_0841963d88",
+    "sent_idx": 5,
+    "text": "Under the draft master plan, the city's population after administrative consolidation is estimated at around 14 million people and is projected to increase to 15.5-16 million by 2030, 17-18 million by 2035, 20-21 million by 2045, and 22-23 million by 2050.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261030_0841963d88#6",
+    "doc_id": "vneconomy_en_20261030_0841963d88",
+    "sent_idx": 6,
+    "text": "HoREA Chairman Le Hoang Chau said that these figures should be reviewed based on changes in both natural population growth and migration.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261030_0841963d88#7",
+    "doc_id": "vneconomy_en_20261030_0841963d88",
+    "sent_idx": 7,
+    "text": "Declining fertility rates, an aging population, and a slowdown in migrant inflows could result in actual population figures differing from current projections.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261030_0841963d88#8",
+    "doc_id": "vneconomy_en_20261030_0841963d88",
+    "sent_idx": 8,
+    "text": "The association suggested considering both a scenario in which the city's population reaches 22-23 million by 2050 and a more moderate scenario where growth levels off at around 21-22 million.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261030_0841963d88#9",
+    "doc_id": "vneconomy_en_20261030_0841963d88",
+    "sent_idx": 9,
+    "text": "The number of elderly residents is expected to exceed 3 million by 2038 and reach approximately 4.6 million by 2048, accounting for about 18% of the city's population.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261030_0841963d88#10",
+    "doc_id": "vneconomy_en_20261030_0841963d88",
+    "sent_idx": 10,
+    "text": "According to HoREA, HCM City officially entered the population-aging phase in 2017, and this trend is unlikely to be reversed in the foreseeable future.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261030_0841963d88#11",
+    "doc_id": "vneconomy_en_20261030_0841963d88",
+    "sent_idx": 11,
+    "text": "In addition to natural population growth, migration trends also need to be reassessed.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261030_0841963d88#12",
+    "doc_id": "vneconomy_en_20261030_0841963d88",
+    "sent_idx": 12,
+    "text": "Over the past two decades, the former HCM City (excluding Binh Duong and Ba Ria-Vung Tau, which have been merged with HCMC since July 2025) attracted an average of about 200,000 migrants annually, most of whom were low-skilled workers.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261030_0841963d88#13",
+    "doc_id": "vneconomy_en_20261030_0841963d88",
+    "sent_idx": 13,
+    "text": "However, industrialization in neighboring provinces has created new growth centers and employment opportunities, helping retain workers in their home localities.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261030_0841963d88#14",
+    "doc_id": "vneconomy_en_20261030_0841963d88",
+    "sent_idx": 14,
+    "text": "This shift could reduce the city's rate of population growth through migration while gradually changing the profile of migrants toward more highly skilled and qualified workers.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261030_0841963d88#15",
+    "doc_id": "vneconomy_en_20261030_0841963d88",
+    "sent_idx": 15,
+    "text": "As a result, relying on a single population growth scenario may not adequately reflect future changes in the size and structure of the city's population over the coming decades.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261030_0841963d88#16",
+    "doc_id": "vneconomy_en_20261030_0841963d88",
+    "sent_idx": 16,
+    "text": "Based on the need for more realistic population forecasts, HoREA proposed adding housing security for all social groups as an objective within the city's overall development strategy and socio-cultural development goals.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261030_0841963d88#17",
+    "doc_id": "vneconomy_en_20261030_0841963d88",
+    "sent_idx": 17,
+    "text": "The association also emphasized that urban planning should account for diverse housing needs, ranging from homes for high-income residents, foreign experts, and overseas investors to social housing and rental accommodation.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261030_0841963d88#18",
+    "doc_id": "vneconomy_en_20261030_0841963d88",
+    "sent_idx": 18,
+    "text": "In particular, social housing and rental housing should be linked to broader social welfare policies, public services, and housing accessibility across different development zones.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261030_0841963d88#19",
+    "doc_id": "vneconomy_en_20261030_0841963d88",
+    "sent_idx": 19,
+    "text": "In addition, HoREA noted that the city's planning framework should also take into consideration the projected growth in international tourist arrivals.",
+    "lang": "en",
+    "is_title": false
+  }
+]

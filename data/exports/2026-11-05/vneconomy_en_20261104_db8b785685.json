@@ -1,0 +1,122 @@
+[
+  {
+    "sent_id": "vneconomy_en_20261104_db8b785685#0",
+    "doc_id": "vneconomy_en_20261104_db8b785685",
+    "sent_idx": 0,
+    "text": "Regional minimum wage officially set to rise from January 1, 2027",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vneconomy_en_20261104_db8b785685#1",
+    "doc_id": "vneconomy_en_20261104_db8b785685",
+    "sent_idx": 1,
+    "text": "Under the Government's Decree No. 399/2026/ND-CP, which will take Effect on January 1, 2027, regional minimum wages for employees will officially increase by VND310,000 to VND390,000 ($12-15) per month.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261104_db8b785685#2",
+    "doc_id": "vneconomy_en_20261104_db8b785685",
+    "sent_idx": 2,
+    "text": "Notably, the Government has tightened regulations to safeguard workers' rights, strictly prohibiting enterprises from cutting existing welfare benefits and allowance.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261104_db8b785685#3",
+    "doc_id": "vneconomy_en_20261104_db8b785685",
+    "sent_idx": 3,
+    "text": "Accordingly, the monthly regional minimum wages across four tiers starting January 1, 2027, are set as follows: VND5,700,000 ($221.5) for Region I; VND5,080,000 (nearly $198) for Region II; VND4,450,000 ($173) for Region III; and VND4,040,000 ($157) for Region IV.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261104_db8b785685#4",
+    "doc_id": "vneconomy_en_20261104_db8b785685",
+    "sent_idx": 4,
+    "text": "Meanwhile, minimum hourly wages will also be raised from VND25,500 to VND27,400 for Region I; from VND22,700 to VND24,400 for Region II; from VND20,000 to VND21,400 for Region III; and from VND17,800 to VND19,400 for Region IV.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261104_db8b785685#5",
+    "doc_id": "vneconomy_en_20261104_db8b785685",
+    "sent_idx": 5,
+    "text": "The application of regional tiers is determined by the employer's operating location.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261104_db8b785685#6",
+    "doc_id": "vneconomy_en_20261104_db8b785685",
+    "sent_idx": 6,
+    "text": "Accordingly, employers operating in a specific regional tier must apply the minimum wage rate mandated for that area.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261104_db8b785685#7",
+    "doc_id": "vneconomy_en_20261104_db8b785685",
+    "sent_idx": 7,
+    "text": "For employers with units or branches operating in different localities with varying wage levels, each respective branch or unit must apply the specific minimum wage rate designated for its operational territory.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261104_db8b785685#8",
+    "doc_id": "vneconomy_en_20261104_db8b785685",
+    "sent_idx": 8,
+    "text": "For employers situated inside industrial parks, export processing zones, high-tech parks, concentrated digital technology parks, special economic zones, free trade zones, or high-tech agricultural zones spanning areas with differing minimum wage levels, the highest applicable regional minimum wage rate must be enforced.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261104_db8b785685#9",
+    "doc_id": "vneconomy_en_20261104_db8b785685",
+    "sent_idx": 9,
+    "text": "In administrative areas undergoing renaming or boundary redrawing/separation, employers will temporarily adopt the minimum wage prescribed prior to the administrative restructuring until new governmental regulations are issued.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261104_db8b785685#10",
+    "doc_id": "vneconomy_en_20261104_db8b785685",
+    "sent_idx": 10,
+    "text": "If an operational territory is consolidated or newly formed from territories with varying wage levels, employers must implement the highest applicable regional minimum wage rate until new governmental guidelines take effect.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261104_db8b785685#11",
+    "doc_id": "vneconomy_en_20261104_db8b785685",
+    "sent_idx": 11,
+    "text": "Decree No 399 clarifies that the monthly minimum wage serves as the statutory lowest wage floor for negotiating and paying monthly salaried employees.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261104_db8b785685#12",
+    "doc_id": "vneconomy_en_20261104_db8b785685",
+    "sent_idx": 12,
+    "text": "Employers are held responsible for reviewing terms across employment contracts, collective bargaining agreements (CBAs), and internal corporate rules to implement appropriate adjustments and supplements.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261104_db8b785685#13",
+    "doc_id": "vneconomy_en_20261104_db8b785685",
+    "sent_idx": 13,
+    "text": "Crucially, employers are strictly forbidden from eliminating or reducing statutory wage supplements for overtime, night work, in-kind allowances, and other benefits prescribed under Vietnamese labor law.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261104_db8b785685#14",
+    "doc_id": "vneconomy_en_20261104_db8b785685",
+    "sent_idx": 14,
+    "text": "Existing clauses and commitments in labor contracts, collective agreements, or other lawful arrangements offering more favorable terms to workers will continue to be honored, unless mutually agreed otherwise by both parties.",
+    "lang": "en",
+    "is_title": false
+  }
+]

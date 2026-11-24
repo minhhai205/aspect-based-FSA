@@ -1,0 +1,122 @@
+[
+  {
+    "sent_id": "vneconomy_en_20261110_8f49b709cc#0",
+    "doc_id": "vneconomy_en_20261110_8f49b709cc",
+    "sent_idx": 0,
+    "text": "Ministry approves solar power generation price framework for 2026",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_8f49b709cc#1",
+    "doc_id": "vneconomy_en_20261110_8f49b709cc",
+    "sent_idx": 1,
+    "text": "The Ministry of Industry and Trade (MOIT) has approved the 2026 electricity generation price framework for solar power plants, establishing maximum tariffs based on geographic region, plant type, and the use of battery energy storage systems, according to the Government's online newspaper (chinhphu.vn).",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_8f49b709cc#2",
+    "doc_id": "vneconomy_en_20261110_8f49b709cc",
+    "sent_idx": 2,
+    "text": "Under Decision No. 2946/QD-BCT of the Minister of Industry and Trade, the framework applies to solar power plants specified in Circular No. 09/2025/TT-BCT of the Ministry and divides the country into three pricing regions: Northern, Central, and Southern Vietnam.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_8f49b709cc#3",
+    "doc_id": "vneconomy_en_20261110_8f49b709cc",
+    "sent_idx": 3,
+    "text": "For solar power plants without battery energy storage, the highest ceiling tariff is set for floating solar projects in the North at VND1,939.74 ($0.07) per kWh, while the lowest applies to ground-mounted solar projects in the South at VND1,104.32 ($0.04) per kWh.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_8f49b709cc#4",
+    "doc_id": "vneconomy_en_20261110_8f49b709cc",
+    "sent_idx": 4,
+    "text": "In Northern Vietnam, the maximum tariff is VND1,591.02 ($0.06) per kWh for ground-mounted solar power plants and VND1,939.74/kWh for floating solar facilities.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_8f49b709cc#5",
+    "doc_id": "vneconomy_en_20261110_8f49b709cc",
+    "sent_idx": 5,
+    "text": "The corresponding tariffs in Central Vietnam are VND1,293.17/kWh and VND1,560.63/kWh, respectively.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_8f49b709cc#6",
+    "doc_id": "vneconomy_en_20261110_8f49b709cc",
+    "sent_idx": 6,
+    "text": "In Southern Vietnam, the ceilings are VND1,104.32/kWh for ground-mounted projects and VND1,340.21/kWh for floating solar plants.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_8f49b709cc#7",
+    "doc_id": "vneconomy_en_20261110_8f49b709cc",
+    "sent_idx": 7,
+    "text": "Projects equipped with battery energy storage systems (BESS) are entitled to higher price ceilings.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_8f49b709cc#8",
+    "doc_id": "vneconomy_en_20261110_8f49b709cc",
+    "sent_idx": 8,
+    "text": "For such projects, the maximum tariff in the North is set at VND1,813.48/kWh for ground-mounted facilities and VND2,120.31/kWh for floating solar plants.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_8f49b709cc#9",
+    "doc_id": "vneconomy_en_20261110_8f49b709cc",
+    "sent_idx": 9,
+    "text": "In Central Vietnam, the respective ceilings are VND1,469.90/kWh and VND1,703.21/kWh, while in the South they are VND1,254.97/kWh and VND1,461.39/kWh.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_8f49b709cc#10",
+    "doc_id": "vneconomy_en_20261110_8f49b709cc",
+    "sent_idx": 10,
+    "text": "All tariffs are exclusive of value-added tax (VAT).",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_8f49b709cc#11",
+    "doc_id": "vneconomy_en_20261110_8f49b709cc",
+    "sent_idx": 11,
+    "text": "According to the ministry, the highest tariff approved under the new framework is VND2,120.31/kWh for floating solar projects integrated with battery storage in Northern Vietnam.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_8f49b709cc#12",
+    "doc_id": "vneconomy_en_20261110_8f49b709cc",
+    "sent_idx": 12,
+    "text": "The lowest is VND1,104.32/kWh for ground-mounted solar projects without storage in the South.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_8f49b709cc#13",
+    "doc_id": "vneconomy_en_20261110_8f49b709cc",
+    "sent_idx": 13,
+    "text": "The ministry has also issued a list of provinces and cities assigned to each of the three pricing regions for the purpose of implementing the solar power pricing framework.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_8f49b709cc#14",
+    "doc_id": "vneconomy_en_20261110_8f49b709cc",
+    "sent_idx": 14,
+    "text": "The decision took effect on November 5, 2026.",
+    "lang": "en",
+    "is_title": false
+  }
+]

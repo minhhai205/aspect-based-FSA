@@ -1,0 +1,114 @@
+[
+  {
+    "sent_id": "vietnamnews_20261103_512bfb0712#0",
+    "doc_id": "vietnamnews_20261103_512bfb0712",
+    "sent_idx": 0,
+    "text": "Industrial production grows 12.4 per cent in 10 months, fastest since 2019",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261103_512bfb0712#1",
+    "doc_id": "vietnamnews_20261103_512bfb0712",
+    "sent_idx": 1,
+    "text": "HÀ NỘI - Industrial production expanded 12.4 per cent in the first 10 months of 2026 from a year earlier, marking the fastest growth for the same period since 2019, supported by robust manufacturing and electricity output supported industrial activity, the National Statistics Office (NSO) said.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261103_512bfb0712#2",
+    "doc_id": "vietnamnews_20261103_512bfb0712",
+    "sent_idx": 2,
+    "text": "The industrial production index (IIP) rose 2.3 per cent in October from the previous month and 15 per cent year-on-year, the NSO said in its socio-economic report released on November 3.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261103_512bfb0712#3",
+    "doc_id": "vietnamnews_20261103_512bfb0712",
+    "sent_idx": 3,
+    "text": "Manufacturing and processing, as well as electricity production and distribution, both recorded annual growth of 15.7 per cent in October.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261103_512bfb0712#4",
+    "doc_id": "vietnamnews_20261103_512bfb0712",
+    "sent_idx": 4,
+    "text": "For the January-October period, manufacturing and processing grew 13 per cent, accelerating from 10.4 per cent in the same period last year and contributing 10.2 percentage points to overall industrial growth.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261103_512bfb0712#5",
+    "doc_id": "vietnamnews_20261103_512bfb0712",
+    "sent_idx": 5,
+    "text": "Electricity production and distribution rose 10.6 per cent, up from 6.6 per cent, adding one percentage point.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261103_512bfb0712#6",
+    "doc_id": "vietnamnews_20261103_512bfb0712",
+    "sent_idx": 6,
+    "text": "Water supply and waste and wastewater management grew 9.2 per cent, compared with 8.5 per cent a year earlier.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261103_512bfb0712#7",
+    "doc_id": "vietnamnews_20261103_512bfb0712",
+    "sent_idx": 7,
+    "text": "Metal production recorded the strongest growth in the first 10 months with a 25.6 per cent increase, followed by beverages at 17.5 per cent and electronics, computers and optical products at 15.2 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261103_512bfb0712#8",
+    "doc_id": "vietnamnews_20261103_512bfb0712",
+    "sent_idx": 8,
+    "text": "Motor vehicle manufacturing rose 14.6 per cent, rubber and plastic products increased 13.6 per cent, and food processing expanded 12.9 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261103_512bfb0712#9",
+    "doc_id": "vietnamnews_20261103_512bfb0712",
+    "sent_idx": 9,
+    "text": "By contrast, leather and related products manufacturing grew by a more modest 4.3 per cent, while hard coal and lignite mining declined 0.6 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261103_512bfb0712#10",
+    "doc_id": "vietnamnews_20261103_512bfb0712",
+    "sent_idx": 10,
+    "text": "Industrial production increased in 33 provinces and cities during the January-October period, while Sơn La was the only locality reporting a decline, at 5 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261103_512bfb0712#11",
+    "doc_id": "vietnamnews_20261103_512bfb0712",
+    "sent_idx": 11,
+    "text": "The NSO attributed stronger performance in several localities mainly to manufacturing growth and higher electricity production and distribution.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261103_512bfb0712#12",
+    "doc_id": "vietnamnews_20261103_512bfb0712",
+    "sent_idx": 12,
+    "text": "Areas recording slower growth or declines were affected by weaker manufacturing, mining or electricity output.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261103_512bfb0712#13",
+    "doc_id": "vietnamnews_20261103_512bfb0712",
+    "sent_idx": 13,
+    "text": "Hà Tĩnh recorded the fastest growth of 42.1 per cent, followed by Ninh Bình 25.7 per cent and Thái Nguyên 23 per cent. - BIZHUB/VNS",
+    "lang": "en",
+    "is_title": false
+  }
+]

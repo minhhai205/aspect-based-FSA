@@ -1,0 +1,34 @@
+[
+  {
+    "sent_id": "vneconomy_en_20261101_b66618b9dc#0",
+    "doc_id": "vneconomy_en_20261101_b66618b9dc",
+    "sent_idx": 0,
+    "text": "Vietnam cuts average retail electricity price by 2% from November 1",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vneconomy_en_20261101_b66618b9dc#1",
+    "doc_id": "vneconomy_en_20261101_b66618b9dc",
+    "sent_idx": 1,
+    "text": "Vietnam's average retail electricity price officially fell by 2 per cent from November 1, 2026, to over VND2,159.9 ($8.2 cent) per kWh, excluding value-added tax (VAT), according to the Vietnam Electricity (EVN).",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261101_b66618b9dc#2",
+    "doc_id": "vneconomy_en_20261101_b66618b9dc",
+    "sent_idx": 2,
+    "text": "The reduction marks the first time the average electricity price has been lowered in 20 years, excluding five rounds of electricity bill and price reductions introduced to support households and businesses affected by the Covid-19 pandemic.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261101_b66618b9dc#3",
+    "doc_id": "vneconomy_en_20261101_b66618b9dc",
+    "sent_idx": 3,
+    "text": "EVN said the reduction reflected its willingness to contribute to the broader goal of maintaining macroeconomic stability while supporting social welfare for households and businesses.",
+    "lang": "en",
+    "is_title": false
+  }
+]

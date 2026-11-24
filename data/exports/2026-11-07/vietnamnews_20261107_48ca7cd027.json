@@ -1,0 +1,274 @@
+[
+  {
+    "sent_id": "vietnamnews_20261107_48ca7cd027#0",
+    "doc_id": "vietnamnews_20261107_48ca7cd027",
+    "sent_idx": 0,
+    "text": "Government pushes coal-fired power to meet rising electricity demand",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261107_48ca7cd027#1",
+    "doc_id": "vietnamnews_20261107_48ca7cd027",
+    "sent_idx": 1,
+    "text": "HÀ NỘI - Việt Nam is looking to step up coal-fired power generation in an effort to ensure a reliable electricity supply, as rising demand and delays to major power projects are putting significant pressure on the system amid efforts to achieve double-digit economic growth.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_48ca7cd027#2",
+    "doc_id": "vietnamnews_20261107_48ca7cd027",
+    "sent_idx": 2,
+    "text": "The country spent more than US$7.3 billion to import more than 60 million tonnes of coal as of October 15, up 36.2 per cent and 11.2 per cent, respectively, in value and volume from a year earlier, customs data show.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_48ca7cd027#3",
+    "doc_id": "vietnamnews_20261107_48ca7cd027",
+    "sent_idx": 3,
+    "text": "The average import price climbed 22.5 per cent to $122.30 per tonne from $99.80 a year earlier, adding to costs for a power sector that relies heavily on coal-fired generation.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_48ca7cd027#4",
+    "doc_id": "vietnamnews_20261107_48ca7cd027",
+    "sent_idx": 4,
+    "text": "Coal-fired power generated about 132.6 billion kWh in the first nine months of 2026, accounting for around 49 per cent of the country's total electricity supply, including imports, of 265.7 billion kWh, up 9.3 per cent year on year, according to statistics from the National Power System and Market Operator Co Ltd (NSMO).",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_48ca7cd027#5",
+    "doc_id": "vietnamnews_20261107_48ca7cd027",
+    "sent_idx": 5,
+    "text": "NSMO Deputy Director Nguyễn Quốc Trung said efforts were being stepped up to secure coal supplies for power generation ahead of the 2027 dry season, when lower hydropower output could increase the need for thermal power.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_48ca7cd027#6",
+    "doc_id": "vietnamnews_20261107_48ca7cd027",
+    "sent_idx": 6,
+    "text": "Coal demand at power plants under State utility Vietnam Electricity (EVN) is expected to reach about 9.7 million tonnes in the fourth quarter of this year, all of which the Vietnam National Coal and Mineral Industries Group and Đông Bắc Corporation have pledged to supply.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_48ca7cd027#7",
+    "doc_id": "vietnamnews_20261107_48ca7cd027",
+    "sent_idx": 7,
+    "text": "At a recent meeting on coal supplies for power generation, EVN Deputy General Director Ngô Sơn Hải urged thermal power plants to work with the two suppliers to build coal inventories to their maximum levels by early March 2027.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_48ca7cd027#8",
+    "doc_id": "vietnamnews_20261107_48ca7cd027",
+    "sent_idx": 8,
+    "text": "The plants were asked to complete negotiations and sign all anthracite coal supply contracts for next year by the end of October.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_48ca7cd027#9",
+    "doc_id": "vietnamnews_20261107_48ca7cd027",
+    "sent_idx": 9,
+    "text": "NSMO has developed four operating scenarios for the national power system in 2027.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_48ca7cd027#10",
+    "doc_id": "vietnamnews_20261107_48ca7cd027",
+    "sent_idx": 10,
+    "text": "The operator must balance electricity generation against the need to preserve water in hydropower reservoirs ahead of the dry season, meaning coal-fired plants are likely to remain heavily utilised.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_48ca7cd027#11",
+    "doc_id": "vietnamnews_20261107_48ca7cd027",
+    "sent_idx": 11,
+    "text": "The Ministry of Industry and Trade has proposed retaining until the end of 2027 a mechanism allowing coal mines to exceed their licensed production capacity by up to 15 per cent, aiming to increase domestic coal supply and reduce pressure on imports.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_48ca7cd027#12",
+    "doc_id": "vietnamnews_20261107_48ca7cd027",
+    "sent_idx": 12,
+    "text": "The push to secure coal-fired power comes as Việt Nam faces mounting risks of electricity shortages, particularly in the industrialised north, where demand is rising and major generation and transmission projects have fallen behind schedule.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_48ca7cd027#13",
+    "doc_id": "vietnamnews_20261107_48ca7cd027",
+    "sent_idx": 13,
+    "text": "According to the ministry, the national power system could face a capacity shortfall of 4,256MW and an electricity shortage of 2.9 billion kWh in 2027 if planned projects continue to lag behind schedule.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_48ca7cd027#14",
+    "doc_id": "vietnamnews_20261107_48ca7cd027",
+    "sent_idx": 14,
+    "text": "The ministry's report shows that only about 5 per cent of planned power generation projects have entered operation.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_48ca7cd027#15",
+    "doc_id": "vietnamnews_20261107_48ca7cd027",
+    "sent_idx": 15,
+    "text": "Projects that have started construction but are not yet operating account for about 9 per cent of the total, while projects with investors selected but construction not yet started represent 28 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_48ca7cd027#16",
+    "doc_id": "vietnamnews_20261107_48ca7cd027",
+    "sent_idx": 16,
+    "text": "About 45 per cent remain at the investor selection stage.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_48ca7cd027#17",
+    "doc_id": "vietnamnews_20261107_48ca7cd027",
+    "sent_idx": 17,
+    "text": "Delays are particularly pronounced in liquefied natural gas (LNG), hydropower, solar and wind power projects, particularly offshore wind.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_48ca7cd027#18",
+    "doc_id": "vietnamnews_20261107_48ca7cd027",
+    "sent_idx": 18,
+    "text": "The Ministry of Industry and Trade has proposed adding 5,300MW of new coal-fired capacity to the eighth national power development plan (PDP8), with plants proposed near major electricity demand centres in Quảng Ninh, Hưng Yên, Quảng Trị and Cần Thơ by 2030.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_48ca7cd027#19",
+    "doc_id": "vietnamnews_20261107_48ca7cd027",
+    "sent_idx": 19,
+    "text": "The ministry has also proposed a phased approach to equipping new coal-fired projects with carbon capture and storage technology.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_48ca7cd027#20",
+    "doc_id": "vietnamnews_20261107_48ca7cd027",
+    "sent_idx": 20,
+    "text": "The proposal would also allow certain coal-fired power plants in northern Việt Nam to receive temporary exemptions until 2030 from regulations governing the temperature of cooling water discharged into the environment during emergency power system operations.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_48ca7cd027#21",
+    "doc_id": "vietnamnews_20261107_48ca7cd027",
+    "sent_idx": 21,
+    "text": "The proposal marks a shift from the current PDP8, which envisages total coal-fired capacity of 31,055MW by 2030 and the continuation of five coal projects under construction with a combined capacity of 4,360MW, without adding any new plants.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_48ca7cd027#22",
+    "doc_id": "vietnamnews_20261107_48ca7cd027",
+    "sent_idx": 22,
+    "text": "Ngô Tuấn Kiệt, former director of the Institute of Energy Science, said reconsidering coal's role was necessary given rising electricity demand and delays in LNG power projects.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_48ca7cd027#23",
+    "doc_id": "vietnamnews_20261107_48ca7cd027",
+    "sent_idx": 23,
+    "text": "Kiệt called for an objective assessment of different power sources based on technology, economic efficiency and their ability to ensure a reliable supply.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_48ca7cd027#24",
+    "doc_id": "vietnamnews_20261107_48ca7cd027",
+    "sent_idx": 24,
+    "text": "Modern coal-fired plants use advanced technologies, including supercritical systems, and have improved pollution control equipment, according to Kiệt.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_48ca7cd027#25",
+    "doc_id": "vietnamnews_20261107_48ca7cd027",
+    "sent_idx": 25,
+    "text": "LNG projects, meanwhile, can face reliance on equipment from a limited number of major global manufacturers.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_48ca7cd027#26",
+    "doc_id": "vietnamnews_20261107_48ca7cd027",
+    "sent_idx": 26,
+    "text": "He estimated that electricity generated from LNG could cost nearly twice as much as coal-fired power.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_48ca7cd027#27",
+    "doc_id": "vietnamnews_20261107_48ca7cd027",
+    "sent_idx": 27,
+    "text": "Developing coal-fired power was more feasible than some LNG projects at present, Kiệt said, adding that the biggest problem was securing financing.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_48ca7cd027#28",
+    "doc_id": "vietnamnews_20261107_48ca7cd027",
+    "sent_idx": 28,
+    "text": "According to Kiệt, Việt Nam should not rely solely on foreign financing for essential power infrastructure, but should establish mechanisms to mobilise funding from major domestic corporations and banks.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_48ca7cd027#29",
+    "doc_id": "vietnamnews_20261107_48ca7cd027",
+    "sent_idx": 29,
+    "text": "However, experts said that while expanding coal-fired capacity could help Việt Nam meet near-term electricity demand, it could also create tension with long-term decarbonisation goals, as the country has committed to reaching net zero greenhouse gas emissions by 2050.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_48ca7cd027#30",
+    "doc_id": "vietnamnews_20261107_48ca7cd027",
+    "sent_idx": 30,
+    "text": "The Government is also seeking to accelerate solar power, battery energy storage and transmission projects to diversify electricity supply.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_48ca7cd027#31",
+    "doc_id": "vietnamnews_20261107_48ca7cd027",
+    "sent_idx": 31,
+    "text": "The ministry has proposed installing about 2,800MW of rooftop solar capacity at public offices, hospitals and schools by June 2027, and encouraging industrial parks to develop rooftop solar systems combined with battery storage, targeting 3,000-5,000MW before the 2027-28 dry season.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_48ca7cd027#32",
+    "doc_id": "vietnamnews_20261107_48ca7cd027",
+    "sent_idx": 32,
+    "text": "Utility-scale solar projects totalling about 1,000MW are targeted to become operational in 2027, followed by 3,000MW in 2028.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_48ca7cd027#33",
+    "doc_id": "vietnamnews_20261107_48ca7cd027",
+    "sent_idx": 33,
+    "text": "A further 2,000MW of onshore and nearshore wind capacity is targeted for 2028. - VNS",
+    "lang": "en",
+    "is_title": false
+  }
+]

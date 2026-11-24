@@ -1,0 +1,178 @@
+[
+  {
+    "sent_id": "vietnamnews_20261027_c5ccbe543c#0",
+    "doc_id": "vietnamnews_20261027_c5ccbe543c",
+    "sent_idx": 0,
+    "text": "VN-Index down slightly due to lingering selling pressure",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261027_c5ccbe543c#1",
+    "doc_id": "vietnamnews_20261027_c5ccbe543c",
+    "sent_idx": 1,
+    "text": "HÀ NỘI - Indices traded differently on Tuesday following the previous session's correction, as selling pressure across several banking stocks offset gains in selected large-cap and steel shares.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_c5ccbe543c#2",
+    "doc_id": "vietnamnews_20261027_c5ccbe543c",
+    "sent_idx": 2,
+    "text": "On the Hochiminh Stock Exchange (HoSE), the VN-Index closed down slightly 1.68 points to 1,761.87 points, while the HNX-Index on the Hanoi Stock Exchange (HNX) edged up 0.18 points to 259.50 points.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_c5ccbe543c#3",
+    "doc_id": "vietnamnews_20261027_c5ccbe543c",
+    "sent_idx": 3,
+    "text": "Trading value on the HoSE remained at a low level, reaching over VNĐ13.9 trillion (US$540 million), up 2.91 per cent from the previous session.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_c5ccbe543c#4",
+    "doc_id": "vietnamnews_20261027_c5ccbe543c",
+    "sent_idx": 4,
+    "text": "The improvement in liquidity was not accompanied by a clear expansion in market breadth, with declining stocks continuing to outnumber gainers.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_c5ccbe543c#5",
+    "doc_id": "vietnamnews_20261027_c5ccbe543c",
+    "sent_idx": 5,
+    "text": "The VN30-Index, tracking the 30 biggest stocks on the HoSE, also fell slightly by 1.13 points to 1,888.4 points.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_c5ccbe543c#6",
+    "doc_id": "vietnamnews_20261027_c5ccbe543c",
+    "sent_idx": 6,
+    "text": "Within the VN30 basket, 15 stocks declined, while ten increased and five stayed flat.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_c5ccbe543c#7",
+    "doc_id": "vietnamnews_20261027_c5ccbe543c",
+    "sent_idx": 7,
+    "text": "Vingroup (VIC) was a key support for the benchmark, rising by 1.35 per cent and contributing 5.26 points to the VN-Index.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_c5ccbe543c#8",
+    "doc_id": "vietnamnews_20261027_c5ccbe543c",
+    "sent_idx": 8,
+    "text": "Its gain helped limit the index's decline amid selling pressure on other heavyweight stocks.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_c5ccbe543c#9",
+    "doc_id": "vietnamnews_20261027_c5ccbe543c",
+    "sent_idx": 9,
+    "text": "Banking shares continued to show divergent movements, reflecting uneven capital flows across the sector.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_c5ccbe543c#10",
+    "doc_id": "vietnamnews_20261027_c5ccbe543c",
+    "sent_idx": 10,
+    "text": "VPBank (VPB) fell by 1.69 per cent, HDBank (HDB) declined by 0.9 per cent, Techcombank (TCB) lost 0.74 per cent, SeABank (SSB) slipped by 0.63 per cent and VietinBank (CTG) fell by 0.82 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_c5ccbe543c#11",
+    "doc_id": "vietnamnews_20261027_c5ccbe543c",
+    "sent_idx": 11,
+    "text": "In contrast, Maritime Bank (MSB) gained 1.61 per cent, Nam A Bank (NAB) rose by 1.2 per cent, VIB advanced 1.08 per cent, Sahabank (SHB) increased by 0.93 per cent and MBBank (MBB) added 0.51 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_c5ccbe543c#12",
+    "doc_id": "vietnamnews_20261027_c5ccbe543c",
+    "sent_idx": 12,
+    "text": "Gains in some stocks failed to offset declines in others, limiting the sector's contribution to the benchmark.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_c5ccbe543c#13",
+    "doc_id": "vietnamnews_20261027_c5ccbe543c",
+    "sent_idx": 13,
+    "text": "Steel stocks performed more consistently, with gains across several major names.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_c5ccbe543c#14",
+    "doc_id": "vietnamnews_20261027_c5ccbe543c",
+    "sent_idx": 14,
+    "text": "Hoa Phat Group (HPG) rose by 0.48 per cent, Hoa Sen Group (HSG) gained 0.91 per cent, Nam Kim Steel (NKG) advanced 2.12 per cent, and HHP Global JSC (HHP) climbed by 3.51 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_c5ccbe543c#15",
+    "doc_id": "vietnamnews_20261027_c5ccbe543c",
+    "sent_idx": 15,
+    "text": "Other materials stocks also attracted buying interest, with Masan High-Tech Materials (MSR) surging 5.48 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_c5ccbe543c#16",
+    "doc_id": "vietnamnews_20261027_c5ccbe543c",
+    "sent_idx": 16,
+    "text": "Foreign investors continued their net selling trend, offloading VNĐ891.7 billion on HoSE and VNĐ11.5 billion on HNX.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_c5ccbe543c#17",
+    "doc_id": "vietnamnews_20261027_c5ccbe543c",
+    "sent_idx": 17,
+    "text": "Previously, several securities companies had warned that the VN-Index could face a correction after four consecutive gaining sessions as it approached the resistance level around 1,780 points.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_c5ccbe543c#18",
+    "doc_id": "vietnamnews_20261027_c5ccbe543c",
+    "sent_idx": 18,
+    "text": "Vietcombank Securities (VCBS) recommended that investors consider taking partial profits in stocks facing substantial correction pressure.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_c5ccbe543c#19",
+    "doc_id": "vietnamnews_20261027_c5ccbe543c",
+    "sent_idx": 19,
+    "text": "It also advised against rushing into new positions and suggested waiting for signs that the market was stabilising.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_c5ccbe543c#20",
+    "doc_id": "vietnamnews_20261027_c5ccbe543c",
+    "sent_idx": 20,
+    "text": "Kafi Securities similarly warned that the index could test supply and demand around 1,770 points.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_c5ccbe543c#21",
+    "doc_id": "vietnamnews_20261027_c5ccbe543c",
+    "sent_idx": 21,
+    "text": "The securities firm recommended limiting purchases at rising prices and proactively taking partial profits if the market continued to weaken. - BIZHUB/VNS",
+    "lang": "en",
+    "is_title": false
+  }
+]

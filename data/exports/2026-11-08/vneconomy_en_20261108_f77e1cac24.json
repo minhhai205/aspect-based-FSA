@@ -1,0 +1,50 @@
+[
+  {
+    "sent_id": "vneconomy_en_20261108_f77e1cac24#0",
+    "doc_id": "vneconomy_en_20261108_f77e1cac24",
+    "sent_idx": 0,
+    "text": "Top leader and spouse depart for official visit to Japan",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vneconomy_en_20261108_f77e1cac24#1",
+    "doc_id": "vneconomy_en_20261108_f77e1cac24",
+    "sent_idx": 1,
+    "text": "General Secretary of the Communist Party of Vietnam Central Committee and President To Lam, his spouse Ngo Phuong Ly and a high-ranking Vietnamese delegation left Hanoi on November 8 for a four-day official visit to Japan at the invitation of the Japanese State, according to the Vietnam News Agency.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261108_f77e1cac24#2",
+    "doc_id": "vneconomy_en_20261108_f77e1cac24",
+    "sent_idx": 2,
+    "text": "The official delegation includes Politburo Members and Party Central Committee Secretaries Nguyen Duy Ngoc, Chairman of the Party Central Committee's Commission for Organization, and Le Minh Tri, Chairman of the Party Central Committee's Commission for Internal Affairs.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261108_f77e1cac24#3",
+    "doc_id": "vneconomy_en_20261108_f77e1cac24",
+    "sent_idx": 3,
+    "text": "Other Politburo Members are General Phan Van Giang, Deputy Prime Minister and Minister of National Defense; General Luong Tam Quang, Minister of Public Security; Le Hoai Trung, Minister of Foreign Affairs; Tran Duc Thang, Secretary of the Hanoi Party Committee; and Tran Luu Quang, Secretary of the Ho Chi Minh City Party Committee.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261108_f77e1cac24#4",
+    "doc_id": "vneconomy_en_20261108_f77e1cac24",
+    "sent_idx": 4,
+    "text": "The delegation also comprises Party Central Committee Members Nguyen Hai Ninh, Chief of the Party Central Committee Office; Ngo Van Tuan, Minister of Finance; Le Manh Hung, Minister of Industry and Trade; Vu Hai Quan, Minister of Science and Technology; and Trinh Viet Hung, Minister of Agriculture and Environment.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261108_f77e1cac24#5",
+    "doc_id": "vneconomy_en_20261108_f77e1cac24",
+    "sent_idx": 5,
+    "text": "To An Xo, Assistant to the Party General Secretary and President, and Head of the Party General Secretary's Office; and Pham Quang Hieu, Vietnamese Ambassador to Japan also join the delegation.",
+    "lang": "en",
+    "is_title": false
+  }
+]

@@ -1,0 +1,354 @@
+[
+  {
+    "sent_id": "vneconomy_en_20261112_e938372b02#0",
+    "doc_id": "vneconomy_en_20261112_e938372b02",
+    "sent_idx": 0,
+    "text": "Vietnam establishes separate power price framework for standalone battery energy storage systems",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_e938372b02#1",
+    "doc_id": "vneconomy_en_20261112_e938372b02",
+    "sent_idx": 1,
+    "text": "Previously viewed as a supplementary technical component, battery energy storage systems (BESS) are now being redefined as an energy service with its own pricing methodology and power purchase agreement framework under a new mechanism.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_e938372b02#2",
+    "doc_id": "vneconomy_en_20261112_e938372b02",
+    "sent_idx": 2,
+    "text": "The Ministry of Industry and Trade has issued Decision No. 2987/QD-BCT, approving the power generation price framework for standalone Battery Energy Storage Systems (BESS) for 2026.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_e938372b02#3",
+    "doc_id": "vneconomy_en_20261112_e938372b02",
+    "sent_idx": 3,
+    "text": "Accordingly, the maximum price (excluding Value Added Tax) is VND3,209.98 (around $0.12) per kWh, effective from November 11, 2026.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_e938372b02#4",
+    "doc_id": "vneconomy_en_20261112_e938372b02",
+    "sent_idx": 4,
+    "text": "The electricity price framework under Decision 2987 is specifically for independent energy storage systems not connected to any generation source.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_e938372b02#5",
+    "doc_id": "vneconomy_en_20261112_e938372b02",
+    "sent_idx": 5,
+    "text": "This maximum price provides a legal basis for developing large-scale electricity storage projects to serve the national power system.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_e938372b02#6",
+    "doc_id": "vneconomy_en_20261112_e938372b02",
+    "sent_idx": 6,
+    "text": "This marks the first time a specific electricity price framework has been established for BESS.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_e938372b02#7",
+    "doc_id": "vneconomy_en_20261112_e938372b02",
+    "sent_idx": 7,
+    "text": "Decision 2987 follows the Ministry's Decision 2946/QD-BCT, issued on November 5, 2026, which approved the solar power price framework for 2026, distinguishing prices for projects with and without storage systems.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_e938372b02#8",
+    "doc_id": "vneconomy_en_20261112_e938372b02",
+    "sent_idx": 8,
+    "text": "The issuance of these two decisions for different power sources within the same period indicates a national energy policy expanding in two parallel directions: encouraging BESS integration into solar power projects while creating a separate pricing basis for standalone storage systems.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_e938372b02#9",
+    "doc_id": "vneconomy_en_20261112_e938372b02",
+    "sent_idx": 9,
+    "text": "The VND3,209.98/kWh rate is the maximum price applicable to standalone BESS.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_e938372b02#10",
+    "doc_id": "vneconomy_en_20261112_e938372b02",
+    "sent_idx": 10,
+    "text": "For solar power combined with BESS, the maximum prices vary by region: VND1,813.48/kWh for the North, VND1,469.90/kWh for the Central region, and VND1,254.97/kWh for the South.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_e938372b02#11",
+    "doc_id": "vneconomy_en_20261112_e938372b02",
+    "sent_idx": 11,
+    "text": "For floating solar power combined with BESS, the corresponding rates are VND2,120.31/kWh, VND1,703.21/kWh, and VND1,461.39/kWh.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_e938372b02#12",
+    "doc_id": "vneconomy_en_20261112_e938372b02",
+    "sent_idx": 12,
+    "text": "These are ceiling prices, not fixed rates.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_e938372b02#13",
+    "doc_id": "vneconomy_en_20261112_e938372b02",
+    "sent_idx": 13,
+    "text": "The actual power generation service price for each project will be determined by the method specified in Circular 62/2025/TT-BCT, based on investment, operation, and maintenance costs over the project's entire lifecycle, with an internal rate of return (IRR) not exceeding 12%.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_e938372b02#14",
+    "doc_id": "vneconomy_en_20261112_e938372b02",
+    "sent_idx": 14,
+    "text": "Circular 62 also specifies the applicable entities: BESS connected to the national grid at 110 kV or higher voltage levels, with a capacity of 10 MW or more, serving national grid needs and aligning with the National Power Development Plan.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_e938372b02#15",
+    "doc_id": "vneconomy_en_20261112_e938372b02",
+    "sent_idx": 15,
+    "text": "Power Plan 8 (Decision 768/QD-TTg) sets a target of 10,000-16,300 MW of BESS by 2030.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_e938372b02#16",
+    "doc_id": "vneconomy_en_20261112_e938372b02",
+    "sent_idx": 16,
+    "text": "For solar power combined with BESS, Decision 2946 stipulates that the battery storage system used for price framework calculation must have a minimum capacity of 10% of the solar power plant's capacity, with a two-hour storage and discharge duration.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_e938372b02#17",
+    "doc_id": "vneconomy_en_20261112_e938372b02",
+    "sent_idx": 17,
+    "text": "Encouraging Industrial-Scale BESS Investment and Deployment",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_e938372b02#18",
+    "doc_id": "vneconomy_en_20261112_e938372b02",
+    "sent_idx": 18,
+    "text": "According to experts, the newly issued power generation price framework for energy storage systems will impact the BESS investor, production, and consumption chain.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_e938372b02#19",
+    "doc_id": "vneconomy_en_20261112_e938372b02",
+    "sent_idx": 19,
+    "text": "The first and most directly affected group comprises independent BESS developers.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_e938372b02#20",
+    "doc_id": "vneconomy_en_20261112_e938372b02",
+    "sent_idx": 20,
+    "text": "Before Decision 2987, investors developing electricity storage projects had to link them to a generation source for pricing, a structure that increased capital scale and complicated legal procedures.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_e938372b02#21",
+    "doc_id": "vneconomy_en_20261112_e938372b02",
+    "sent_idx": 21,
+    "text": "The new framework allows for the separation of these two project types, providing a basis for investors to develop financial plans and negotiate power purchase agreements.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_e938372b02#22",
+    "doc_id": "vneconomy_en_20261112_e938372b02",
+    "sent_idx": 22,
+    "text": "This is a significant signal for infrastructure investment funds, energy companies, and international investors monitoring Vietnam's electricity storage market.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_e938372b02#23",
+    "doc_id": "vneconomy_en_20261112_e938372b02",
+    "sent_idx": 23,
+    "text": "However, the 3,209.98 VND/kWh rate is a ceiling, not a guaranteed revenue for all projects.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_e938372b02#24",
+    "doc_id": "vneconomy_en_20261112_e938372b02",
+    "sent_idx": 24,
+    "text": "Actual prices will depend on investment costs and specific contract conditions.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_e938372b02#25",
+    "doc_id": "vneconomy_en_20261112_e938372b02",
+    "sent_idx": 25,
+    "text": "The IRR constraint of 12% or less (stipulating that the internal rate of return of an investment project must not exceed a ceiling of 12% per annum), in the context of current capital costs, is a factor investors need to carefully consider before making decisions.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_e938372b02#26",
+    "doc_id": "vneconomy_en_20261112_e938372b02",
+    "sent_idx": 26,
+    "text": "The second group includes solar power developers currently or soon to implement projects.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_e938372b02#27",
+    "doc_id": "vneconomy_en_20261112_e938372b02",
+    "sent_idx": 27,
+    "text": "The 2026 price framework clearly distinguishes prices for projects with and without storage systems.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_e938372b02#28",
+    "doc_id": "vneconomy_en_20261112_e938372b02",
+    "sent_idx": 28,
+    "text": "This difference may incentivize investors to consider integrating BESS from the design phase, rather than solely focusing on expanding generation capacity.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_e938372b02#29",
+    "doc_id": "vneconomy_en_20261112_e938372b02",
+    "sent_idx": 29,
+    "text": "For operational solar power plants, the new mechanism also opens prospects for researching upgrade and BESS addition options.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_e938372b02#30",
+    "doc_id": "vneconomy_en_20261112_e938372b02",
+    "sent_idx": 30,
+    "text": "The third group consists of businesses in the energy equipment and service supply chain.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_e938372b02#31",
+    "doc_id": "vneconomy_en_20261112_e938372b02",
+    "sent_idx": 31,
+    "text": "Increased BESS investment demand creates more opportunities for battery manufacturers, power converter system (PCS) suppliers, battery management system (BMS) providers, energy management system (EMS) providers, EPC contractors, and operation and maintenance service units.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_e938372b02#32",
+    "doc_id": "vneconomy_en_20261112_e938372b02",
+    "sent_idx": 32,
+    "text": "As Vietnam promotes the development of supporting industries in the energy sector, this is an opportunity for domestic enterprises to participate more deeply in the electricity storage value chain.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_e938372b02#33",
+    "doc_id": "vneconomy_en_20261112_e938372b02",
+    "sent_idx": 33,
+    "text": "The fourth group, indirectly affected, includes industrial parks and manufacturing enterprises with high electricity consumption needs.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_e938372b02#34",
+    "doc_id": "vneconomy_en_20261112_e938372b02",
+    "sent_idx": 34,
+    "text": "Multinational corporations are increasingly focusing on the carbon footprint of their supply chains; access to clean, stable, and verifiable electricity sources is becoming a criterion in investment location decisions.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_e938372b02#35",
+    "doc_id": "vneconomy_en_20261112_e938372b02",
+    "sent_idx": 35,
+    "text": "For industrial park developers, combining rooftop solar power with storage systems can contribute to forming a green industrial infrastructure model, optimizing electricity costs, and enhancing competitiveness to attract tenants.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_e938372b02#36",
+    "doc_id": "vneconomy_en_20261112_e938372b02",
+    "sent_idx": 36,
+    "text": "At the individual enterprise level, BESS can be used for load management, peak power limitation, backup power support, and optimizing the use of self-generated solar power.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_e938372b02#37",
+    "doc_id": "vneconomy_en_20261112_e938372b02",
+    "sent_idx": 37,
+    "text": "However, it is important to distinguish that the pricing mechanism for large-scale standalone BESS under Decision 2987 differs from behind-the-meter storage models at factories or industrial parks.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_e938372b02#38",
+    "doc_id": "vneconomy_en_20261112_e938372b02",
+    "sent_idx": 38,
+    "text": "Not all battery storage systems fall under the scope of this power generation price framework.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_e938372b02#39",
+    "doc_id": "vneconomy_en_20261112_e938372b02",
+    "sent_idx": 39,
+    "text": "For manufacturing enterprises, the effectiveness of BESS investment should first be evaluated based on actual load demand, electricity tariff structure, the ability to combine with on-site power sources, and specific investment costs, not solely on the ceiling price in the power generation price framework.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_e938372b02#40",
+    "doc_id": "vneconomy_en_20261112_e938372b02",
+    "sent_idx": 40,
+    "text": "Nevertheless, the establishment of a pricing mechanism for standalone BESS by regulatory agencies, while encouraging storage integration in solar power projects, is seen as a positive signal for the entire clean energy ecosystem.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_e938372b02#41",
+    "doc_id": "vneconomy_en_20261112_e938372b02",
+    "sent_idx": 41,
+    "text": "The first standalone BESS projects implemented under this framework will serve as a real-world test, revealing the gap between the legal framework and the market, and what adjustments may be needed in subsequent documents.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_e938372b02#42",
+    "doc_id": "vneconomy_en_20261112_e938372b02",
+    "sent_idx": 42,
+    "text": "In the long term, the development of the BESS market is linked to Vietnam's goals of emission reduction, improved energy efficiency, and a net-zero emission commitment by 2050.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_e938372b02#43",
+    "doc_id": "vneconomy_en_20261112_e938372b02",
+    "sent_idx": 43,
+    "text": "These objectives require not only a price framework but also an ancillary services market, financial mechanisms, and deep enough equipment supply capabilities.",
+    "lang": "en",
+    "is_title": false
+  }
+]

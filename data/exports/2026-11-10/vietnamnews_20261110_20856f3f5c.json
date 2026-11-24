@@ -1,0 +1,122 @@
+[
+  {
+    "sent_id": "vietnamnews_20261110_20856f3f5c#0",
+    "doc_id": "vietnamnews_20261110_20856f3f5c",
+    "sent_idx": 0,
+    "text": "Ministry approves 2026 solar power generation price framework",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261110_20856f3f5c#1",
+    "doc_id": "vietnamnews_20261110_20856f3f5c",
+    "sent_idx": 1,
+    "text": "HÀ NỘI - The Ministry of Industry and Trade (MoIT) has issued the Decision No 2946/QĐ-BCT, approving the 2026 price framework for solar power generation, setting maximum prices based on geographical region, plant type and whether energy storage systems are used.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261110_20856f3f5c#2",
+    "doc_id": "vietnamnews_20261110_20856f3f5c",
+    "sent_idx": 2,
+    "text": "Under the decision, the maximum prices are set for three regions - northern, central and southern Việt Nam - and vary between ground-mounted and floating solar power plants, with separate rates for projects with and without battery energy storage systems.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261110_20856f3f5c#3",
+    "doc_id": "vietnamnews_20261110_20856f3f5c",
+    "sent_idx": 3,
+    "text": "For solar power plants without energy storage systems, the maximum price in the northern region is VNĐ1,591 per (6.2 US cents) kWh for ground-mounted projects and VNĐ1,939 per kWh for floating solar projects.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261110_20856f3f5c#4",
+    "doc_id": "vietnamnews_20261110_20856f3f5c",
+    "sent_idx": 4,
+    "text": "In the central region, the respective rates are VNĐ1,293 and VNĐ1,560 per kWh, while in the southern region, they are VNĐ1,104 and VNĐ1,340 per kWh.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261110_20856f3f5c#5",
+    "doc_id": "vietnamnews_20261110_20856f3f5c",
+    "sent_idx": 5,
+    "text": "For solar power plants combined with battery energy storage systems, the maximum prices are higher.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261110_20856f3f5c#6",
+    "doc_id": "vietnamnews_20261110_20856f3f5c",
+    "sent_idx": 6,
+    "text": "In the northern region, the maximum prices are VNĐ1,813.48 per kWh for ground-mounted solar and VNĐ2,120.31 per kWh for floating solar.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261110_20856f3f5c#7",
+    "doc_id": "vietnamnews_20261110_20856f3f5c",
+    "sent_idx": 7,
+    "text": "The corresponding rates in the central region are VNĐ1,469.90 and VNĐ1,703.21 per kWh, while those in the southern region are VNĐ1,254.97 and VNĐ1,461.39 per kWh.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261110_20856f3f5c#8",
+    "doc_id": "vietnamnews_20261110_20856f3f5c",
+    "sent_idx": 8,
+    "text": "All prices are exclusive of value-added tax (VAT).",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261110_20856f3f5c#9",
+    "doc_id": "vietnamnews_20261110_20856f3f5c",
+    "sent_idx": 9,
+    "text": "Under the approved framework, floating solar projects with battery storage in the northern region have the highest maximum price, at VNĐ2,120.31 per kWh.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261110_20856f3f5c#10",
+    "doc_id": "vietnamnews_20261110_20856f3f5c",
+    "sent_idx": 10,
+    "text": "Ground-mounted solar projects without storage in the southern region have the lowest, at VNĐ1,104.32 per kWh.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261110_20856f3f5c#11",
+    "doc_id": "vietnamnews_20261110_20856f3f5c",
+    "sent_idx": 11,
+    "text": "The decision also specifies the technical requirements for battery energy storage systems used in calculating the maximum prices.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261110_20856f3f5c#12",
+    "doc_id": "vietnamnews_20261110_20856f3f5c",
+    "sent_idx": 12,
+    "text": "Their capacity must be equivalent to at least 10 per cent of the solar plant's installed capacity, with a storage and discharge duration of two hours.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261110_20856f3f5c#13",
+    "doc_id": "vietnamnews_20261110_20856f3f5c",
+    "sent_idx": 13,
+    "text": "The ministry has also issued a list of provinces and cities assigned to the three regions for the application of the solar power price framework.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261110_20856f3f5c#14",
+    "doc_id": "vietnamnews_20261110_20856f3f5c",
+    "sent_idx": 14,
+    "text": "The decision took effect on November 5, 2026. - VNS",
+    "lang": "en",
+    "is_title": false
+  }
+]

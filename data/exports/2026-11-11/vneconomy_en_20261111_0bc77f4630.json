@@ -1,0 +1,82 @@
+[
+  {
+    "sent_id": "vneconomy_en_20261111_0bc77f4630#0",
+    "doc_id": "vneconomy_en_20261111_0bc77f4630",
+    "sent_idx": 0,
+    "text": "Vietnam and Japan fund 11 joint semiconductor research projects",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vneconomy_en_20261111_0bc77f4630#1",
+    "doc_id": "vneconomy_en_20261111_0bc77f4630",
+    "sent_idx": 1,
+    "text": "Vietnam and Japan have announced funding for 11 joint research projects in semiconductor technology under the NEXUS program, strengthening bilateral cooperation in science, technology and innovation.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261111_0bc77f4630#2",
+    "doc_id": "vneconomy_en_20261111_0bc77f4630",
+    "sent_idx": 2,
+    "text": "Vietnam's Ministry of Science and Technology and Japan's Ministry of Education, Culture, Sports, Science and Technology (MEXT) exchanged funding documents for the projects during the Vietnam-Japan Public-Private Forum on Economic, Science and Technology Cooperation, which was held in Tokyo on November 9, as part of the official visit to Japan by General Secretary of the Communist Party of Vietnam Central Committee and President To Lam.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261111_0bc77f4630#3",
+    "doc_id": "vneconomy_en_20261111_0bc77f4630",
+    "sent_idx": 3,
+    "text": "For the 2025-2026 period, the Vietnam National Foundation for Science and Technology Development (NAFOSTED) and the Japan Science and Technology Agency (JST) selected 11 research projects for joint funding under the program.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261111_0bc77f4630#4",
+    "doc_id": "vneconomy_en_20261111_0bc77f4630",
+    "sent_idx": 4,
+    "text": "Total funding amounts to ¥2.6 billion (approximately VND430 billion or more than $16.3 million) from Japan and VND67 billion ($2.54 million) from Vietnam.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261111_0bc77f4630#5",
+    "doc_id": "vneconomy_en_20261111_0bc77f4630",
+    "sent_idx": 5,
+    "text": "The projects focus on several advanced research areas, including low-power AI chips, next-generation electronic components, semiconductor technologies, compound semiconductor materials and manufacturing processes.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261111_0bc77f4630#6",
+    "doc_id": "vneconomy_en_20261111_0bc77f4630",
+    "sent_idx": 6,
+    "text": "Other research topics include sensors for detecting DNA mutations, two-dimensional semiconductor materials and micro-electromechanical systems (MEMS) devices for smart sensing and sustainable energy applications.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261111_0bc77f4630#7",
+    "doc_id": "vneconomy_en_20261111_0bc77f4630",
+    "sent_idx": 7,
+    "text": "Looking ahead, NAFOSTED and JST have agreed to launch a joint call for research proposals in semiconductors and artificial intelligence in 2027.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261111_0bc77f4630#8",
+    "doc_id": "vneconomy_en_20261111_0bc77f4630",
+    "sent_idx": 8,
+    "text": "The two agencies will also implement a training program aimed at developing Vietnamese 100 PhD graduates specialising in AI, contributing to the development of highly skilled researchers and strengthening Vietnam's technological capabilities.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261111_0bc77f4630#9",
+    "doc_id": "vneconomy_en_20261111_0bc77f4630",
+    "sent_idx": 9,
+    "text": "The initiatives are expected to deepen scientific collaboration between the two countries while supporting Vietnam's ambition to develop its semiconductor industry and strengthen its position in the global technology supply chain.",
+    "lang": "en",
+    "is_title": false
+  }
+]

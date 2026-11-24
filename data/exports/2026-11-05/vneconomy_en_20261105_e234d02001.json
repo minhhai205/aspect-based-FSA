@@ -1,0 +1,466 @@
+[
+  {
+    "sent_id": "vneconomy_en_20261105_e234d02001#0",
+    "doc_id": "vneconomy_en_20261105_e234d02001",
+    "sent_idx": 0,
+    "text": "Connectivity key",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_e234d02001#1",
+    "doc_id": "vneconomy_en_20261105_e234d02001",
+    "sent_idx": 1,
+    "text": "Hanoi and Ho Chi Minh City's apartment markets slowed in both new supply and transactions in the third quarter of 2026 after a period of solid growth.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_e234d02001#2",
+    "doc_id": "vneconomy_en_20261105_e234d02001",
+    "sent_idx": 2,
+    "text": "Buyers have become more cautious amid elevated prices and borrowing costs, while developers adjusted launch schedules and strengthened sales incentives to match actual demand.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_e234d02001#3",
+    "doc_id": "vneconomy_en_20261105_e234d02001",
+    "sent_idx": 3,
+    "text": "Over the medium and long term, housing demand in major urban centers is expected to remain strong.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_e234d02001#4",
+    "doc_id": "vneconomy_en_20261105_e234d02001",
+    "sent_idx": 4,
+    "text": "As transport infrastructure improves and urban spaces are reconfigured, the market could gain new growth drivers, creating opportunities for projects integrated with public transport networks.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_e234d02001#5",
+    "doc_id": "vneconomy_en_20261105_e234d02001",
+    "sent_idx": 5,
+    "text": "According to One Mount Group's Market Research and Customer Insights Center, Hanoi recorded 2,200 newly-launched apartments in the third quarter of 2026, down 71 per cent quarter-on-quarter and 70 per cent year-on-year.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_e234d02001#6",
+    "doc_id": "vneconomy_en_20261105_e234d02001",
+    "sent_idx": 6,
+    "text": "Ho Chi Minh City, meanwhile, recorded 2,500 new launches, down 77 per cent quarter-on-quarter and 54 per cent year-on-year.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_e234d02001#7",
+    "doc_id": "vneconomy_en_20261105_e234d02001",
+    "sent_idx": 7,
+    "text": "Developers adjusted launch schedules to reflect market demand following a recovery in the first half.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_e234d02001#8",
+    "doc_id": "vneconomy_en_20261105_e234d02001",
+    "sent_idx": 8,
+    "text": "Some released selected apartment units to gauge customer interest, while others postponed launches as reservations fell short of expectations.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_e234d02001#9",
+    "doc_id": "vneconomy_en_20261105_e234d02001",
+    "sent_idx": 9,
+    "text": "Supply also shifted toward the inner-city areas of both.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_e234d02001#10",
+    "doc_id": "vneconomy_en_20261105_e234d02001",
+    "sent_idx": 10,
+    "text": "Transaction volumes fell even more sharply.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_e234d02001#11",
+    "doc_id": "vneconomy_en_20261105_e234d02001",
+    "sent_idx": 11,
+    "text": "Hanoi posted 1,700 primary market apartment transactions in the third quarter, down 76 per cent quarter-on-quarter and 83 per cent year-on-year, and Ho Chi Minh City approximately 1,600, down 83 per cent quarter-on-quarter and 72 per cent year-on-year.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_e234d02001#12",
+    "doc_id": "vneconomy_en_20261105_e234d02001",
+    "sent_idx": 12,
+    "text": "For the first nine months, absorption rates based on total available primary supply, including new launches and unsold inventory carried over from previous quarters, reached just 67 per cent in Hanoi and 43 per cent in Ho Chi Minh City.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_e234d02001#13",
+    "doc_id": "vneconomy_en_20261105_e234d02001",
+    "sent_idx": 13,
+    "text": "One Mount Group attributed the slowdown to buyers' caution after prices rose sharply in 2024-2025 and borrowing costs remained high.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_e234d02001#14",
+    "doc_id": "vneconomy_en_20261105_e234d02001",
+    "sent_idx": 14,
+    "text": "It considers Hanoi's slowdown a temporary correction following rapid market expansion from 2023 to 2025.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_e234d02001#15",
+    "doc_id": "vneconomy_en_20261105_e234d02001",
+    "sent_idx": 15,
+    "text": "As short-term speculators exit, owner-occupiers and long-term investors with stronger financial resources could support more stable growth.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_e234d02001#16",
+    "doc_id": "vneconomy_en_20261105_e234d02001",
+    "sent_idx": 16,
+    "text": "In central Ho Chi Minh City, investment demand is also expected to weaken further in the fourth quarter of 2026, while owner-occupier demand is expected to hold up and shift toward more affordable markets.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_e234d02001#17",
+    "doc_id": "vneconomy_en_20261105_e234d02001",
+    "sent_idx": 17,
+    "text": "Despite falling transactions, primary market asking prices showed no corresponding adjustment in the third quarter.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_e234d02001#18",
+    "doc_id": "vneconomy_en_20261105_e234d02001",
+    "sent_idx": 18,
+    "text": "Average prices in central Hanoi reached VND127 million ($4,885) per sq m, up 6 per cent quarter-on-quarter and 41 per cent year-on-year.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_e234d02001#19",
+    "doc_id": "vneconomy_en_20261105_e234d02001",
+    "sent_idx": 19,
+    "text": "In Ho Chi Minh City, prices reached VND104 million ($4,000) per sq m, up 1 per cent quarter-on-quarter and 10 per cent year-on-year.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_e234d02001#20",
+    "doc_id": "vneconomy_en_20261105_e234d02001",
+    "sent_idx": 20,
+    "text": "Rather than cutting listed prices, developers have strengthened their competitive position through discounts and financial incentives.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_e234d02001#21",
+    "doc_id": "vneconomy_en_20261105_e234d02001",
+    "sent_idx": 21,
+    "text": "These include shell-condition handovers, larger discounts and gifts, extended interest rate support, and longer payment schedules to ease buyers' financial burden before handover.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_e234d02001#22",
+    "doc_id": "vneconomy_en_20261105_e234d02001",
+    "sent_idx": 22,
+    "text": "Such measures give buyers greater flexibility in the effective prices they pay.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_e234d02001#23",
+    "doc_id": "vneconomy_en_20261105_e234d02001",
+    "sent_idx": 23,
+    "text": "However, substantial price reductions remain unlikely as development costs continue to rise, particularly for land, construction, and labor.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_e234d02001#24",
+    "doc_id": "vneconomy_en_20261105_e234d02001",
+    "sent_idx": 24,
+    "text": "The Vietnam Association of Realtors (VARS) has identified six main cost components: construction (45-60 per cent); land (30-35 per cent); investment procedures (10-15 per cent); financing (8-15 per cent); infrastructure (5-7 per cent); and management (2-5 per cent).",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_e234d02001#25",
+    "doc_id": "vneconomy_en_20261105_e234d02001",
+    "sent_idx": 25,
+    "text": "Land and construction represent the largest cost burdens, yet developers have limited room to reduce either.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_e234d02001#26",
+    "doc_id": "vneconomy_en_20261105_e234d02001",
+    "sent_idx": 26,
+    "text": "Most localities impose high land-use fees, while construction expenses continue to rise across labor, materials, machinery, and equipment.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_e234d02001#27",
+    "doc_id": "vneconomy_en_20261105_e234d02001",
+    "sent_idx": 27,
+    "text": "Addressing these pressures therefore requires macro-economic policy intervention rather than measures taken by individual developers alone.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_e234d02001#28",
+    "doc_id": "vneconomy_en_20261105_e234d02001",
+    "sent_idx": 28,
+    "text": "Developers can shorten construction processes, adopt new technologies, and implement cost-saving measures, but these offer limited reductions in overall project costs.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_e234d02001#29",
+    "doc_id": "vneconomy_en_20261105_e234d02001",
+    "sent_idx": 29,
+    "text": "Financing is another critical factor, shaped by capital allocation policies, interest rate decisions by the State Bank of Vietnam (SBV), and lending rates at commercial banks.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_e234d02001#30",
+    "doc_id": "vneconomy_en_20261105_e234d02001",
+    "sent_idx": 30,
+    "text": "Capital is currently being directed primarily toward production to support economic growth.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_e234d02001#31",
+    "doc_id": "vneconomy_en_20261105_e234d02001",
+    "sent_idx": 31,
+    "text": "The SBV has recently removed several real estate categories, including tourism-related properties, social housing, schools, and hospitals, from credit restrictions.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_e234d02001#32",
+    "doc_id": "vneconomy_en_20261105_e234d02001",
+    "sent_idx": 32,
+    "text": "However, these adjustments have not resolved financing pressures across the broader housing market.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_e234d02001#33",
+    "doc_id": "vneconomy_en_20261105_e234d02001",
+    "sent_idx": 33,
+    "text": "VARS also noted that selling prices reflect developers' profit margins and can be pushed higher by short-term investors, creating speculative valuations that diverge from underlying property values.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_e234d02001#34",
+    "doc_id": "vneconomy_en_20261105_e234d02001",
+    "sent_idx": 34,
+    "text": "More recently, speculation has eased and purchasing demand has weakened, contributing to some moderation in prices.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_e234d02001#35",
+    "doc_id": "vneconomy_en_20261105_e234d02001",
+    "sent_idx": 35,
+    "text": "Supply and absorption will remain key indicators as the market adjusts.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_e234d02001#36",
+    "doc_id": "vneconomy_en_20261105_e234d02001",
+    "sent_idx": 36,
+    "text": "Forecasts for 2026-2027 point to a period of recalibration followed by a potential recovery.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_e234d02001#37",
+    "doc_id": "vneconomy_en_20261105_e234d02001",
+    "sent_idx": 37,
+    "text": "Mr. Tran Minh Tien, Director of One Mount Group's Market Research and Customer Insights Center, said 2026 would see supply adjust after the sharp increase in 2025, while 2027 was expected to bring a more pronounced recovery.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_e234d02001#38",
+    "doc_id": "vneconomy_en_20261105_e234d02001",
+    "sent_idx": 38,
+    "text": "Developers are likely to take a more selective approach to launches, considering legal progress, infrastructure development, and actual market absorption.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_e234d02001#39",
+    "doc_id": "vneconomy_en_20261105_e234d02001",
+    "sent_idx": 39,
+    "text": "Annual apartment launches in 2026-2027 are projected at 23,000-30,000 units in Hanoi and 22,000-25,000 units in Ho Chi Minh City.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_e234d02001#40",
+    "doc_id": "vneconomy_en_20261105_e234d02001",
+    "sent_idx": 40,
+    "text": "Mr. Tien expects housing demand in both cities to remain strong over the medium and long term.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_e234d02001#41",
+    "doc_id": "vneconomy_en_20261105_e234d02001",
+    "sent_idx": 41,
+    "text": "Urban planning adjustments under a 100-year vision, combined with greater private investment in infrastructure and Transit-Oriented Development (TOD) along metro lines, could expand development opportunities for capable developers.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_e234d02001#42",
+    "doc_id": "vneconomy_en_20261105_e234d02001",
+    "sent_idx": 42,
+    "text": "In southern Vietnam, Ms. Le Hoang Lan Nhu Ngoc, Senior Director, Strategic Consulting at Cushman & Wakefield Vietnam, said projects along Ho Chi Minh City's Metro Line 1 had benefited noticeably since the line began operations.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_e234d02001#43",
+    "doc_id": "vneconomy_en_20261105_e234d02001",
+    "sent_idx": 43,
+    "text": "Property prices rose rapidly and transaction liquidity improved, reshaping how investors assess development locations.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_e234d02001#44",
+    "doc_id": "vneconomy_en_20261105_e234d02001",
+    "sent_idx": 44,
+    "text": "\"Previously, investment decisions were based primarily on geographic location.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_e234d02001#45",
+    "doc_id": "vneconomy_en_20261105_e234d02001",
+    "sent_idx": 45,
+    "text": "Today, connectivity and travel time are increasingly important,\" she said.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_e234d02001#46",
+    "doc_id": "vneconomy_en_20261105_e234d02001",
+    "sent_idx": 46,
+    "text": "TOD's benefits extend beyond housing to other real estate segments.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_e234d02001#47",
+    "doc_id": "vneconomy_en_20261105_e234d02001",
+    "sent_idx": 47,
+    "text": "As Ho Chi Minh City expands its metro network, retail properties are among the first to gain from increased foot traffic, particularly around interchange stations, central stations, and terminal stations.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_e234d02001#48",
+    "doc_id": "vneconomy_en_20261105_e234d02001",
+    "sent_idx": 48,
+    "text": "Higher passenger volumes can boost shopping activity, attract retail brands, and improve occupancy in nearby developments.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_e234d02001#49",
+    "doc_id": "vneconomy_en_20261105_e234d02001",
+    "sent_idx": 49,
+    "text": "Office properties can also benefit from better connectivity, although a metro station alone is insufficient to establish a new office district without an existing business cluster, supporting services, and an adequate labor pool.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_e234d02001#50",
+    "doc_id": "vneconomy_en_20261105_e234d02001",
+    "sent_idx": 50,
+    "text": "Offices are therefore likely to benefit most at major interchanges with established economic activity or in TOD areas planned as new employment centers.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_e234d02001#51",
+    "doc_id": "vneconomy_en_20261105_e234d02001",
+    "sent_idx": 51,
+    "text": "Hotels can also attract more guests as improved transport links make accommodation easier to reach while keeping central destinations accessible.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_e234d02001#52",
+    "doc_id": "vneconomy_en_20261105_e234d02001",
+    "sent_idx": 52,
+    "text": "Over the longer term, mixed-use developments combining housing, offices, retail, services and public amenities within walking distance of metro stations are expected to benefit the most.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_e234d02001#53",
+    "doc_id": "vneconomy_en_20261105_e234d02001",
+    "sent_idx": 53,
+    "text": "By sustaining pedestrian activity throughout the day, these developments can improve land-use efficiency and create more vibrant urban environments.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_e234d02001#54",
+    "doc_id": "vneconomy_en_20261105_e234d02001",
+    "sent_idx": 54,
+    "text": "Ms. Do Thu Hang, Senior Director, Advisory Services at Savills Hanoi, said improved connectivity could encourage buyers to consider locations farther from city centers.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_e234d02001#55",
+    "doc_id": "vneconomy_en_20261105_e234d02001",
+    "sent_idx": 55,
+    "text": "Projects near metro stations or developed under the TOD model are expected to attract greater interest over the long term because of their convenient transport links.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_e234d02001#56",
+    "doc_id": "vneconomy_en_20261105_e234d02001",
+    "sent_idx": 56,
+    "text": "Successful TOD requires high-capacity public transportation, including metro lines, urban railways, or Bus Rapid Transit (BRT), with effective connections across the city.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_e234d02001#57",
+    "doc_id": "vneconomy_en_20261105_e234d02001",
+    "sent_idx": 57,
+    "text": "Areas surrounding stations should feature higher-density, mixed-use development, supported by integrated sidewalks, cycling infrastructure, transit interchanges, and public spaces that make stations accessible through sustainable transport options.",
+    "lang": "en",
+    "is_title": false
+  }
+]

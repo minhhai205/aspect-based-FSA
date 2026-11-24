@@ -1,0 +1,226 @@
+[
+  {
+    "sent_id": "vietnamnews_20261027_9ce9f0f318#0",
+    "doc_id": "vietnamnews_20261027_9ce9f0f318",
+    "sent_idx": 0,
+    "text": "Top ten securities firms hold $10.6 billion in margin loans",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261027_9ce9f0f318#1",
+    "doc_id": "vietnamnews_20261027_9ce9f0f318",
+    "sent_idx": 1,
+    "text": "HÀ NỘI - The ten largest securities companies held a combined VNĐ274.7 trillion (US$10.6 billion) in margin loans at the end of September, accounting for more than 62 per cent of the estimated VNĐ440 trillion market-wide balance, as lending to stock investors remained a major business segment for the industry.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_9ce9f0f318#2",
+    "doc_id": "vietnamnews_20261027_9ce9f0f318",
+    "sent_idx": 2,
+    "text": "Based on third-quarter 2026 financial statements and company disclosures, the figure represents principal outstanding from margin lending and excludes advances against proceeds from securities sales.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_9ce9f0f318#3",
+    "doc_id": "vietnamnews_20261027_9ce9f0f318",
+    "sent_idx": 3,
+    "text": "Although securities firms do not take deposits like commercial banks, their expanding margin loan portfolios have reached tens of trillions of đồng , comparable to or exceeding the customer lending balances of some smaller banks.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_9ce9f0f318#4",
+    "doc_id": "vietnamnews_20261027_9ce9f0f318",
+    "sent_idx": 4,
+    "text": "Techcom Securities (TCBS) led the market, with margin loans of nearly VNĐ54.4 trillion at the end of the third quarter, up around 26 per cent from the beginning of the year.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_9ce9f0f318#5",
+    "doc_id": "vietnamnews_20261027_9ce9f0f318",
+    "sent_idx": 5,
+    "text": "The scale of TCBS's lending portfolio was nearly 2.5 times Saigonbank's customer loans of VNĐ22 trillion at June 30, according to the bank's first-half 2026 financial statements.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_9ce9f0f318#6",
+    "doc_id": "vietnamnews_20261027_9ce9f0f318",
+    "sent_idx": 6,
+    "text": "TCBS's margin balance also exceeded that of PGBank, whose customer loans stood at over VNĐ48.3 trillion at the end of June, by VNĐ6 trillion.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_9ce9f0f318#7",
+    "doc_id": "vietnamnews_20261027_9ce9f0f318",
+    "sent_idx": 7,
+    "text": "VPBank Securities (VPBankS) ranked second, with margin loans of around VNĐ39.7 trillion at September 30, an increase of nearly VNĐ5.8 trillion from the start of the year.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_9ce9f0f318#8",
+    "doc_id": "vietnamnews_20261027_9ce9f0f318",
+    "sent_idx": 8,
+    "text": "Its balance was equivalent to about 1.8 times Saigonbank's customer lending portfolio at the end of June.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_9ce9f0f318#9",
+    "doc_id": "vietnamnews_20261027_9ce9f0f318",
+    "sent_idx": 9,
+    "text": "VPBankS overtook SSI Securities Corporation to claim second place.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_9ce9f0f318#10",
+    "doc_id": "vietnamnews_20261027_9ce9f0f318",
+    "sent_idx": 10,
+    "text": "SSI ranked third, with margin loans of VNĐ38.1 trillion, around VNĐ1.6 trillion below VPBankS.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_9ce9f0f318#11",
+    "doc_id": "vietnamnews_20261027_9ce9f0f318",
+    "sent_idx": 11,
+    "text": "Unlike the two leading firms, SSI recorded a slight contraction, with its margin balance falling by about VNĐ494 billion compared with the end of 2025.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_9ce9f0f318#12",
+    "doc_id": "vietnamnews_20261027_9ce9f0f318",
+    "sent_idx": 12,
+    "text": "Ho Chi Minh City Securities Corporation (HSC) and VPS Securities followed, with margin loan balances of nearly VNĐ29.2 trillion and VNĐ25.4 trillion, respectively.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_9ce9f0f318#13",
+    "doc_id": "vietnamnews_20261027_9ce9f0f318",
+    "sent_idx": 13,
+    "text": "All five leading firms had margin portfolios exceeding VNĐ25 trillion, while the top three each held more than VNĐ38 trillion.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_9ce9f0f318#14",
+    "doc_id": "vietnamnews_20261027_9ce9f0f318",
+    "sent_idx": 14,
+    "text": "Margin lending has also become an important source of income rather than merely a complement to securities brokerage.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_9ce9f0f318#15",
+    "doc_id": "vietnamnews_20261027_9ce9f0f318",
+    "sent_idx": 15,
+    "text": "At TCBS, net income from margin lending and advances against securities sale proceeds reached more than VNĐ1.5 trillion in the third quarter, up 55 per cent year-on-year and accounting for around 44 per cent of the company's total net operating income.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_9ce9f0f318#16",
+    "doc_id": "vietnamnews_20261027_9ce9f0f318",
+    "sent_idx": 16,
+    "text": "Asia Commercial Bank Securities Company (ACBS) ranked sixth, with principal margin loans of about VNĐ22.6 trillion, up approximately VNĐ5.4 trillion, or more than 31 per cent, from the beginning of the year.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_9ce9f0f318#17",
+    "doc_id": "vietnamnews_20261027_9ce9f0f318",
+    "sent_idx": 17,
+    "text": "Mirae Asset Vietnam Securities ranked seventh, with around VNĐ17.3 trillion, followed closely by Vietcap Securities at approximately VNĐ17.2 trillion.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_9ce9f0f318#18",
+    "doc_id": "vietnamnews_20261027_9ce9f0f318",
+    "sent_idx": 18,
+    "text": "MB Securities (MBS) ranked ninth, with margin loans of over VNĐ16.5 trillion, while Vietcombank Securities (VCBS) completed the top ten with approximately VNĐ14.4 trillion.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_9ce9f0f318#19",
+    "doc_id": "vietnamnews_20261027_9ce9f0f318",
+    "sent_idx": 19,
+    "text": "VCBS recorded particularly rapid expansion, with its margin balance rising around 61 per cent from the beginning of the year.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_9ce9f0f318#20",
+    "doc_id": "vietnamnews_20261027_9ce9f0f318",
+    "sent_idx": 20,
+    "text": "The large lending balances persisted through a volatile third quarter for Việt Nam's stock market.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_9ce9f0f318#21",
+    "doc_id": "vietnamnews_20261027_9ce9f0f318",
+    "sent_idx": 21,
+    "text": "The VN-Index briefly exceeded 1,870 points in June before entering a sharp correction in July, when it fell to around 1,660 points.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_9ce9f0f318#22",
+    "doc_id": "vietnamnews_20261027_9ce9f0f318",
+    "sent_idx": 22,
+    "text": "The benchmark subsequently recovered in August and approached 1,850 points in early September.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_9ce9f0f318#23",
+    "doc_id": "vietnamnews_20261027_9ce9f0f318",
+    "sent_idx": 23,
+    "text": "However, the recovery proved short-lived.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_9ce9f0f318#24",
+    "doc_id": "vietnamnews_20261027_9ce9f0f318",
+    "sent_idx": 24,
+    "text": "Despite Việt Nam's official upgrade by FTSE Russell to secondary emerging-market status from September 21, selling pressure intensified in the final sessions of the month, pushing the VN-Index below key support levels.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_9ce9f0f318#25",
+    "doc_id": "vietnamnews_20261027_9ce9f0f318",
+    "sent_idx": 25,
+    "text": "The index closed September 30 at 1,768.62 points, down 4.91 per cent from the end of the second quarter.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_9ce9f0f318#26",
+    "doc_id": "vietnamnews_20261027_9ce9f0f318",
+    "sent_idx": 26,
+    "text": "According to Saigon-Hanoi Securities (SHS), trading value on the Hochiminh Stock Exchange (HoSE) fell 22.3 per cent quarter-on-quarter in the third quarter.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_9ce9f0f318#27",
+    "doc_id": "vietnamnews_20261027_9ce9f0f318",
+    "sent_idx": 27,
+    "text": "In September only, the VN-Index declined around 3.5 per cent, while market liquidity fell for a fourth consecutive month. - BIZHUB/VNS",
+    "lang": "en",
+    "is_title": false
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "sent_id": "vietnamnews_20261109_c0a30edd4a#0",
+    "doc_id": "vietnamnews_20261109_c0a30edd4a",
+    "sent_idx": 0,
+    "text": "Vietsovpetro brings BK-26 oil platform on stream 36 days ahead of schedule",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261109_c0a30edd4a#1",
+    "doc_id": "vietnamnews_20261109_c0a30edd4a",
+    "sent_idx": 1,
+    "text": "HCM CITY - The Việt - Nga (Vietsovpetro) joint venture has brought its BK-26 wellhead platform at the Bạch Hổ (White Tiger) oilfield into commercial production on November 9, 36 days ahead of schedule.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261109_c0a30edd4a#2",
+    "doc_id": "vietnamnews_20261109_c0a30edd4a",
+    "sent_idx": 2,
+    "text": "The first oil flowed at 7.15am, providing additional output to support the joint venture's production targets for 2026 and maintain stable production in the following years, Vietsovpetro said.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261109_c0a30edd4a#3",
+    "doc_id": "vietnamnews_20261109_c0a30edd4a",
+    "sent_idx": 3,
+    "text": "The BK-26 project comprises a new wellhead platform, a connecting bridge to the existing MSP-8 platform, modifications to MSP-8 to receive and process output from BK-26 and the relocation of an underground power cable between MSP-8 and MSP-4.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261109_c0a30edd4a#4",
+    "doc_id": "vietnamnews_20261109_c0a30edd4a",
+    "sent_idx": 4,
+    "text": "Engineering and equipment procurement began in January 2025, while construction officially started on December 29, 2025.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261109_c0a30edd4a#5",
+    "doc_id": "vietnamnews_20261109_c0a30edd4a",
+    "sent_idx": 5,
+    "text": "The platform's jacket was installed offshore in May, followed by the topside and connecting bridge in September.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261109_c0a30edd4a#6",
+    "doc_id": "vietnamnews_20261109_c0a30edd4a",
+    "sent_idx": 6,
+    "text": "The project was inspected and accepted on November 3, with approval granted for operation from November 5. Vietsovpetro said the project met high quality standards and was completed with no safety incidents.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261109_c0a30edd4a#7",
+    "doc_id": "vietnamnews_20261109_c0a30edd4a",
+    "sent_idx": 7,
+    "text": "The early start is expected to help Vietsovpetro meet and potentially exceed its 2026 business and production targets, while contributing to State budget revenue.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261109_c0a30edd4a#8",
+    "doc_id": "vietnamnews_20261109_c0a30edd4a",
+    "sent_idx": 8,
+    "text": "The project also demonstrates the joint venture's capabilities in developing small and marginal oilfields through integrated engineering, procurement, construction and installation services, the firm said. - BIZHUB/VNS",
+    "lang": "en",
+    "is_title": false
+  }
+]

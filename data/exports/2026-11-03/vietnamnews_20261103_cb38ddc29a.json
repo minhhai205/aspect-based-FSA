@@ -1,0 +1,226 @@
+[
+  {
+    "sent_id": "vietnamnews_20261103_cb38ddc29a#0",
+    "doc_id": "vietnamnews_20261103_cb38ddc29a",
+    "sent_idx": 0,
+    "text": "Digital platform leaders differ in popularity across generations",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261103_cb38ddc29a#1",
+    "doc_id": "vietnamnews_20261103_cb38ddc29a",
+    "sent_idx": 1,
+    "text": "HCM CITY - Leading digital platforms may have similar usage rates, but consumer preferences vary significantly across generations, with younger users showing different choices in ride-hailing, food delivery, messaging and AI tools.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261103_cb38ddc29a#2",
+    "doc_id": "vietnamnews_20261103_cb38ddc29a",
+    "sent_idx": 2,
+    "text": "According to Decision Lab's The Connected Consumer - Digital Platforms H1 2026 report, based on a survey of 1,477 online consumers, Grab and Xanh SM have comparable usage rates, at 66 and 64 per cent respectively.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261103_cb38ddc29a#3",
+    "doc_id": "vietnamnews_20261103_cb38ddc29a",
+    "sent_idx": 3,
+    "text": "However, preferences differ by service and age group.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261103_cb38ddc29a#4",
+    "doc_id": "vietnamnews_20261103_cb38ddc29a",
+    "sent_idx": 4,
+    "text": "For motorbike rides, GrabBike leads with 45 per cent of users, compared with 38 per cent for Green SM Bike.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261103_cb38ddc29a#5",
+    "doc_id": "vietnamnews_20261103_cb38ddc29a",
+    "sent_idx": 5,
+    "text": "For car rides, Green SM Taxi is preferred by 42 per cent, against 37 per cent for GrabCar.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261103_cb38ddc29a#6",
+    "doc_id": "vietnamnews_20261103_cb38ddc29a",
+    "sent_idx": 6,
+    "text": "Generation X is the only group that prefers GrabCar over Xanh SM Taxi (39 per cent versus 37 per cent), while Generation Z favours XanhSM Taxi (45 per cent versus 33 per cent).",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261103_cb38ddc29a#7",
+    "doc_id": "vietnamnews_20261103_cb38ddc29a",
+    "sent_idx": 7,
+    "text": "GrabBike remains the leading motorbike service across all generations, although its advantage over Green SM Bike narrows among younger users.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261103_cb38ddc29a#8",
+    "doc_id": "vietnamnews_20261103_cb38ddc29a",
+    "sent_idx": 8,
+    "text": "A similar generational divide is evident in food delivery.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261103_cb38ddc29a#9",
+    "doc_id": "vietnamnews_20261103_cb38ddc29a",
+    "sent_idx": 9,
+    "text": "GrabFood and ShopeeFood have identical usage rates of 53 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261103_cb38ddc29a#10",
+    "doc_id": "vietnamnews_20261103_cb38ddc29a",
+    "sent_idx": 10,
+    "text": "However, 42 per cent of Generation X and Y users order most often through GrabFood, compared with 32 per cent through ShopeeFood.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261103_cb38ddc29a#11",
+    "doc_id": "vietnamnews_20261103_cb38ddc29a",
+    "sent_idx": 11,
+    "text": "Generation Z shows the opposite preference, with ShopeeFood leading at 46 per cent, against 33 per cent for GrabFood.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261103_cb38ddc29a#12",
+    "doc_id": "vietnamnews_20261103_cb38ddc29a",
+    "sent_idx": 12,
+    "text": "In online shopping, Shopee remains dominant, used by 82 per cent of respondents and serving as the main shopping platform for 61 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261103_cb38ddc29a#13",
+    "doc_id": "vietnamnews_20261103_cb38ddc29a",
+    "sent_idx": 13,
+    "text": "It leads across all three generations, with the highest preference among Generation Z at 67 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261103_cb38ddc29a#14",
+    "doc_id": "vietnamnews_20261103_cb38ddc29a",
+    "sent_idx": 14,
+    "text": "TikTok Shop is used by 60 per cent of respondents, but only 22 per cent consider it their main shopping platform.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261103_cb38ddc29a#15",
+    "doc_id": "vietnamnews_20261103_cb38ddc29a",
+    "sent_idx": 15,
+    "text": "Its appeal as a primary shopping channel is relatively stronger among younger consumers.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261103_cb38ddc29a#16",
+    "doc_id": "vietnamnews_20261103_cb38ddc29a",
+    "sent_idx": 16,
+    "text": "Messaging preferences also vary by age.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261103_cb38ddc29a#17",
+    "doc_id": "vietnamnews_20261103_cb38ddc29a",
+    "sent_idx": 17,
+    "text": "Zalo is used by 81 per cent of respondents to communicate with friends and family and is the most frequently used platform for 54 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261103_cb38ddc29a#18",
+    "doc_id": "vietnamnews_20261103_cb38ddc29a",
+    "sent_idx": 18,
+    "text": "However, its share as the top messaging choice falls from 71 per cent among Generation X to 55 per cent among Generation Y and 34 per cent among Generation Z. Among younger users, Messenger (29 per cent) and Facebook (23 per cent) are close competitors.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261103_cb38ddc29a#19",
+    "doc_id": "vietnamnews_20261103_cb38ddc29a",
+    "sent_idx": 19,
+    "text": "Google remains the leading search engine, with usage rates of 92 per cent on computers.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261103_cb38ddc29a#20",
+    "doc_id": "vietnamnews_20261103_cb38ddc29a",
+    "sent_idx": 20,
+    "text": "Local search engine Coc Coc ranks second, with 41 per cent usage on computers and 31 per cent on mobile devices.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261103_cb38ddc29a#21",
+    "doc_id": "vietnamnews_20261103_cb38ddc29a",
+    "sent_idx": 21,
+    "text": "Its popularity among younger users is particularly notable: computer usage rises from 32 per cent among Generation X to 48 per cent among Generation Z.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261103_cb38ddc29a#22",
+    "doc_id": "vietnamnews_20261103_cb38ddc29a",
+    "sent_idx": 22,
+    "text": "Thue Quist Thomasen, CEO of Decision Lab, said broad reach was no longer enough to distinguish leading platforms as their usage rates became increasingly similar.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261103_cb38ddc29a#23",
+    "doc_id": "vietnamnews_20261103_cb38ddc29a",
+    "sent_idx": 23,
+    "text": "\"The advantage belongs to the one people return to most often, and our data shows that this differs by generation,\" he said, adding that platforms needed to establish a clear role in each generation's daily routine to turn usage into loyalty.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261103_cb38ddc29a#24",
+    "doc_id": "vietnamnews_20261103_cb38ddc29a",
+    "sent_idx": 24,
+    "text": "The report is part of Decision Lab's ongoing The Connected Consumer research series, which has tracked digital platform use in Việt Nam since 2019.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261103_cb38ddc29a#25",
+    "doc_id": "vietnamnews_20261103_cb38ddc29a",
+    "sent_idx": 25,
+    "text": "The H1 2026 survey was conducted online from April to June among 1,477 consumers across six regions, covering Generation Z (18-29), Generation Y (30-45) and Generation X (46-66).",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261103_cb38ddc29a#26",
+    "doc_id": "vietnamnews_20261103_cb38ddc29a",
+    "sent_idx": 26,
+    "text": "The report distinguishes between platform usage and preference, defined as the platform respondents use most often.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261103_cb38ddc29a#27",
+    "doc_id": "vietnamnews_20261103_cb38ddc29a",
+    "sent_idx": 27,
+    "text": "Its findings reflect the consumers surveyed and should not be interpreted as market share figures. - VNS",
+    "lang": "en",
+    "is_title": false
+  }
+]

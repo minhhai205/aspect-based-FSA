@@ -1,0 +1,234 @@
+[
+  {
+    "sent_id": "sggp_en_20261111_1fb494d434#0",
+    "doc_id": "sggp_en_20261111_1fb494d434",
+    "sent_idx": 0,
+    "text": "SBV begins spot dollar purchases to inject dong liquidity into banking system",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "sggp_en_20261111_1fb494d434#1",
+    "doc_id": "sggp_en_20261111_1fb494d434",
+    "sent_idx": 1,
+    "text": "The State Bank of Vietnam (SBV) began buying US dollars from credit institutions at VND25,500 per dollar on November 11 to inject dong liquidity into the banking system.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "sggp_en_20261111_1fb494d434#2",
+    "doc_id": "sggp_en_20261111_1fb494d434",
+    "sent_idx": 2,
+    "text": "Under the SBV's announced arrangement, spot dollar purchases will take place every Monday and Wednesday.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "sggp_en_20261111_1fb494d434#3",
+    "doc_id": "sggp_en_20261111_1fb494d434",
+    "sent_idx": 3,
+    "text": "Eligible participants include credit institutions and foreign bank branches with positive foreign currency positions.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "sggp_en_20261111_1fb494d434#4",
+    "doc_id": "sggp_en_20261111_1fb494d434",
+    "sent_idx": 4,
+    "text": "The maximum amount purchased from each institution will be sufficient to bring its foreign currency position back to balance, based on figures recorded at the close of the preceding business day.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "sggp_en_20261111_1fb494d434#5",
+    "doc_id": "sggp_en_20261111_1fb494d434",
+    "sent_idx": 5,
+    "text": "If a scheduled trading session falls on a public holiday, it will be moved to the next working day.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "sggp_en_20261111_1fb494d434#6",
+    "doc_id": "sggp_en_20261111_1fb494d434",
+    "sent_idx": 6,
+    "text": "In return for selling US dollars to the central bank, credit institutions receive the equivalent amount in Vietnamese dong.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "sggp_en_20261111_1fb494d434#7",
+    "doc_id": "sggp_en_20261111_1fb494d434",
+    "sent_idx": 7,
+    "text": "At the exchange rate of VND25,500 per dollar, every US$1 billion purchased by the SBV would inject approximately VND25.5 trillion into the banking system.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "sggp_en_20261111_1fb494d434#8",
+    "doc_id": "sggp_en_20261111_1fb494d434",
+    "sent_idx": 8,
+    "text": "However, the central bank has not announced an overall purchase limit for each session.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "sggp_en_20261111_1fb494d434#9",
+    "doc_id": "sggp_en_20261111_1fb494d434",
+    "sent_idx": 9,
+    "text": "The actual amount of Vietnamese dong liquidity supplied will therefore depend on the volume of transactions conducted.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "sggp_en_20261111_1fb494d434#10",
+    "doc_id": "sggp_en_20261111_1fb494d434",
+    "sent_idx": 10,
+    "text": "Unlike foreign exchange swaps, the spot purchase facility does not require participating institutions to repurchase the dollars after a specified period.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "sggp_en_20261111_1fb494d434#11",
+    "doc_id": "sggp_en_20261111_1fb494d434",
+    "sent_idx": 11,
+    "text": "Consequently, the Vietnamese dong injected through these transactions will not be automatically withdrawn at a predetermined maturity date.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "sggp_en_20261111_1fb494d434#12",
+    "doc_id": "sggp_en_20261111_1fb494d434",
+    "sent_idx": 12,
+    "text": "Earlier, on November 6, the SBV announced a USD/VND foreign exchange swap facility with a maximum value of US$2 billion and a 182-day tenor.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "sggp_en_20261111_1fb494d434#13",
+    "doc_id": "sggp_en_20261111_1fb494d434",
+    "sent_idx": 13,
+    "text": "Under the arrangement, the central bank would purchase dollars from credit institutions at VND24,399 per dollar and commit to selling the equivalent amount back after 182 days at VND24,704 per dollar.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "sggp_en_20261111_1fb494d434#14",
+    "doc_id": "sggp_en_20261111_1fb494d434",
+    "sent_idx": 14,
+    "text": "The settlement date was November 9.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "sggp_en_20261111_1fb494d434#15",
+    "doc_id": "sggp_en_20261111_1fb494d434",
+    "sent_idx": 15,
+    "text": "If the entire US$2 billion allocation were utilized, the swap facility could initially inject nearly VND48.8 trillion into the banking system.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "sggp_en_20261111_1fb494d434#16",
+    "doc_id": "sggp_en_20261111_1fb494d434",
+    "sent_idx": 16,
+    "text": "The Vietnamese dong liquidity would be withdrawn when the transactions mature, and participating institutions repurchase the dollars under the agreed terms.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "sggp_en_20261111_1fb494d434#17",
+    "doc_id": "sggp_en_20261111_1fb494d434",
+    "sent_idx": 17,
+    "text": "Another measure to ease funding constraints is Circular No.50/2026/TT-NHNN, which will take effect on December 1, 2026.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "sggp_en_20261111_1fb494d434#18",
+    "doc_id": "sggp_en_20261111_1fb494d434",
+    "sent_idx": 18,
+    "text": "Under the new regulation, banks' foreign borrowings, including bonds issued in international markets, will be included in total deposits when calculating the loan-to-deposit ratio (LDR).",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "sggp_en_20261111_1fb494d434#19",
+    "doc_id": "sggp_en_20261111_1fb494d434",
+    "sent_idx": 19,
+    "text": "The circular maintains a maximum LDR of 95 percent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "sggp_en_20261111_1fb494d434#20",
+    "doc_id": "sggp_en_20261111_1fb494d434",
+    "sent_idx": 20,
+    "text": "The three measures support banking system liquidity through different mechanisms: outright spot dollar purchases inject Vietnamese dong without a fixed repayment date; foreign exchange swaps provide dong funding for 182 days; and the revised LDR rules broaden the funding base used to calculate banks' lending-to-deposit ratios.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "sggp_en_20261111_1fb494d434#21",
+    "doc_id": "sggp_en_20261111_1fb494d434",
+    "sent_idx": 21,
+    "text": "Together, the measures are expected to ease liquidity pressures, help stabilize interest rates and sustain credit availability for the economy.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "sggp_en_20261111_1fb494d434#22",
+    "doc_id": "sggp_en_20261111_1fb494d434",
+    "sent_idx": 22,
+    "text": "At the Government's regular October press briefing, SBV Deputy Governor Pham Thanh Ha said demand for capital to support economic growth remained high, while complicated global economic developments were putting upward pressure on domestic interest rates.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "sggp_en_20261111_1fb494d434#23",
+    "doc_id": "sggp_en_20261111_1fb494d434",
+    "sent_idx": 23,
+    "text": "To support liquidity and funding at credit institutions, the central bank has been conducting daily open-market operations, refinancing transactions and short-term foreign exchange swaps to convert dollars into dong.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "sggp_en_20261111_1fb494d434#24",
+    "doc_id": "sggp_en_20261111_1fb494d434",
+    "sent_idx": 24,
+    "text": "It has also introduced a six-month foreign exchange swap facility to provide the banking system with longer-term funding support.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "sggp_en_20261111_1fb494d434#25",
+    "doc_id": "sggp_en_20261111_1fb494d434",
+    "sent_idx": 25,
+    "text": "The SBV set its central exchange rate at VND25,611 per dollar, up VND11 from the previous day, on the morning of November 11.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "sggp_en_20261111_1fb494d434#26",
+    "doc_id": "sggp_en_20261111_1fb494d434",
+    "sent_idx": 26,
+    "text": "With the trading band set at plus or minus 5 percent, commercial banks were permitted to quote dollar exchange rates between VND24,330 and VND26,892.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "sggp_en_20261111_1fb494d434#27",
+    "doc_id": "sggp_en_20261111_1fb494d434",
+    "sent_idx": 27,
+    "text": "Vietcombank quoted the dollar at VND25,410 for buying and VND25,820 for selling, up VND20 in both directions at around 10 a.m.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "sggp_en_20261111_1fb494d434#28",
+    "doc_id": "sggp_en_20261111_1fb494d434",
+    "sent_idx": 28,
+    "text": "BIDV raised its dollar buying and selling rates by VND30 each, to VND25,450 and VND25,830, respectively.",
+    "lang": "en",
+    "is_title": false
+  }
+]

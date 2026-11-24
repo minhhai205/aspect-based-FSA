@@ -1,0 +1,82 @@
+[
+  {
+    "sent_id": "vneconomy_en_20261028_79d5250044#0",
+    "doc_id": "vneconomy_en_20261028_79d5250044",
+    "sent_idx": 0,
+    "text": "New regulations on issuing accounts for greenhouse gas emission quotas and carbon credits",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vneconomy_en_20261028_79d5250044#1",
+    "doc_id": "vneconomy_en_20261028_79d5250044",
+    "sent_idx": 1,
+    "text": "The government has recently promulgated Decree No. 396/2026/ND-CP (Decree 396), amending and supplementing certain articles of Decree No. 06/2022/ND-CP (Decree 06), which regulates the reduction of greenhouse gas emissions and the protection of the ozone layer.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261028_79d5250044#2",
+    "doc_id": "vneconomy_en_20261028_79d5250044",
+    "sent_idx": 2,
+    "text": "The new decree will take effect on December 12, 2026.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261028_79d5250044#3",
+    "doc_id": "vneconomy_en_20261028_79d5250044",
+    "sent_idx": 3,
+    "text": "Decree 396 revises and supplements Clause 2, Article 18 of Decree 06, regarding the registration of accounts on the National Registration System for greenhouse gas emission quotas and carbon credits, specifying the authorities responsible for issuing accounts on the national registration system for each group of subjects.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261028_79d5250044#4",
+    "doc_id": "vneconomy_en_20261028_79d5250044",
+    "sent_idx": 4,
+    "text": "Specifically, Decree 396 stipulates that for facilities allocated greenhouse gas emission quotas, agencies, and organizations participating in programs and projects registered under the mechanisms of this decree, and agencies and organizations involved in forest carbon projects with forest areas spanning two or more provincial administrative units, the Ministry of Agriculture and Environment will issue accounts on the national registration system and provide information to the facilities, agencies, and organizations.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261028_79d5250044#5",
+    "doc_id": "vneconomy_en_20261028_79d5250044",
+    "sent_idx": 5,
+    "text": "For agencies and organizations participating in projects registered under the carbon credit exchange and offset mechanism, a chairperson of the People's Committee at provincial level where project registration dossiers are received will issue accounts on the national registration system and provide information to these agencies and organization after approving the project registration.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261028_79d5250044#6",
+    "doc_id": "vneconomy_en_20261028_79d5250044",
+    "sent_idx": 6,
+    "text": "For agencies and organizations participating in programs and projects registered under the mechanisms of this decree, they must submit account registration dossiers either directly or via postal services to the Provincial Public Administration Service Center if the project is registered within one provincial administrative unit, or to the Provincial Public Administration Service Center of one of the localities implementing the project if the project is registered in two or more provincial administrative units, or online via the National Public Service Portal or the National Identification Application.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261028_79d5250044#7",
+    "doc_id": "vneconomy_en_20261028_79d5250044",
+    "sent_idx": 7,
+    "text": "Within five working days from the date of receiving the registration dossier, the Chairperson of the Provincial People's Committee where the dossier is received will issue accounts on the national registration system and provide information to the agency or organization; in case of refusal to issue an account, the reasons must be clearly stated.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261028_79d5250044#8",
+    "doc_id": "vneconomy_en_20261028_79d5250044",
+    "sent_idx": 8,
+    "text": "The identification and authentication of organizations and individuals when accessing and using the national registration system are carried out in accordance with the law on electronic identification and authentication.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261028_79d5250044#9",
+    "doc_id": "vneconomy_en_20261028_79d5250044",
+    "sent_idx": 9,
+    "text": "Additionally, Decree 396 supplements the procedures for registering, adjusting, and canceling forest carbon project registrations; issuing forest carbon credits under the mechanism, and exchanging and offsetting domestic carbon credits as stipulated in Decree No. 180/2026/ND-CP dated May 21, 2026, of the Government, which regulates forest carbon absorption and storage services.",
+    "lang": "en",
+    "is_title": false
+  }
+]

@@ -1,0 +1,442 @@
+[
+  {
+    "sent_id": "vietnamnews_20261109_0d06529e2f#0",
+    "doc_id": "vietnamnews_20261109_0d06529e2f",
+    "sent_idx": 0,
+    "text": "Việt Nam seeks new growth drivers to achieve double-digit expansion in 2027",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261109_0d06529e2f#1",
+    "doc_id": "vietnamnews_20261109_0d06529e2f",
+    "sent_idx": 1,
+    "text": "Việt Nam is targeting GDP growth of at least 10 per cent in 2027, setting an ambitious challenge for policymakers to identify new sources of growth, strengthen domestic production capacity and make more efficient use of available resources.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261109_0d06529e2f#2",
+    "doc_id": "vietnamnews_20261109_0d06529e2f",
+    "sent_idx": 2,
+    "text": "The target, approved by the National Assembly (NA) on November 7, comes amid encouraging economic performance in the first 10 months of 2026.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261109_0d06529e2f#3",
+    "doc_id": "vietnamnews_20261109_0d06529e2f",
+    "sent_idx": 3,
+    "text": "However, sustaining high growth will require more than increased investment and credit.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261109_0d06529e2f#4",
+    "doc_id": "vietnamnews_20261109_0d06529e2f",
+    "sent_idx": 4,
+    "text": "Improving productivity, strengthening the private sector, promoting industrial development and accelerating science and technology adoption will be crucial to turning the ambitious target into reality.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261109_0d06529e2f#5",
+    "doc_id": "vietnamnews_20261109_0d06529e2f",
+    "sent_idx": 5,
+    "text": "Under the NAs resolution on the 2027 socio-economic development plan, GDP per capita is expected to reach approximately US$6,100, while industrial production is targeted to grow by 11.5-12.5 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261109_0d06529e2f#6",
+    "doc_id": "vietnamnews_20261109_0d06529e2f",
+    "sent_idx": 6,
+    "text": "Inflation is to be kept at around 4.5 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261109_0d06529e2f#7",
+    "doc_id": "vietnamnews_20261109_0d06529e2f",
+    "sent_idx": 7,
+    "text": "The resolution also sets growth targets for individual localities, with 30 of them expected to achieve double-digit expansion.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261109_0d06529e2f#8",
+    "doc_id": "vietnamnews_20261109_0d06529e2f",
+    "sent_idx": 8,
+    "text": "Hải Phòng has been assigned the highest target at 13 per cent, followed by Quảng Ninh at 12 per cent and Hà Nội at 11.1 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261109_0d06529e2f#9",
+    "doc_id": "vietnamnews_20261109_0d06529e2f",
+    "sent_idx": 9,
+    "text": "Đồng Nai, Đà Nẵng, Lâm Đồng, Phú Thọ and Thanh Hóa have each been tasked with achieving 11 per cent growth, while Cần Thơ, Bắc Ninh and HCM City have targets of 10.6 per cent, 10.5 per cent and 10.4 per cent, respectively.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261109_0d06529e2f#10",
+    "doc_id": "vietnamnews_20261109_0d06529e2f",
+    "sent_idx": 10,
+    "text": "Four localities - Sơn La, Quảng Trị, Quảng Ngãi and Đồng Tháp - have been assigned growth targets below 10 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261109_0d06529e2f#11",
+    "doc_id": "vietnamnews_20261109_0d06529e2f",
+    "sent_idx": 11,
+    "text": "The economic performance of the first 10 months of 2026 provides a relatively strong foundation for the next growth phase.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261109_0d06529e2f#12",
+    "doc_id": "vietnamnews_20261109_0d06529e2f",
+    "sent_idx": 12,
+    "text": "Industrial production continued to expand, with the Industrial Production Index (IIP) estimated to have increased 15 per cent year-on-year in October and 12.4 per cent in the first 10 months.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261109_0d06529e2f#13",
+    "doc_id": "vietnamnews_20261109_0d06529e2f",
+    "sent_idx": 13,
+    "text": "Manufacturing and processing grew by 13 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261109_0d06529e2f#14",
+    "doc_id": "vietnamnews_20261109_0d06529e2f",
+    "sent_idx": 14,
+    "text": "As many as 33 of the country's 34 localities recorded increases in industrial production, with 11 posting growth of at least 15 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261109_0d06529e2f#15",
+    "doc_id": "vietnamnews_20261109_0d06529e2f",
+    "sent_idx": 15,
+    "text": "The manufacturing sector also maintained positive momentum, with the Purchasing Managers' Index (PMI) rising to 52.3 points in October from 51.9 points in September, remaining above the 50-point threshold for the 16th consecutive month.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261109_0d06529e2f#16",
+    "doc_id": "vietnamnews_20261109_0d06529e2f",
+    "sent_idx": 16,
+    "text": "Domestic consumption continued to recover, with retail sales and consumer service revenue rising by 14.7 per cent year-on-year in October and 13.5 per cent in the first 10 months.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261109_0d06529e2f#17",
+    "doc_id": "vietnamnews_20261109_0d06529e2f",
+    "sent_idx": 17,
+    "text": "Foreign investment was another bright spot.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261109_0d06529e2f#18",
+    "doc_id": "vietnamnews_20261109_0d06529e2f",
+    "sent_idx": 18,
+    "text": "Total registered foreign direct investment reached $54.85 billion, up 74 per cent year-on-year, while disbursed capital rose by 13.1 per cent to $24.08 billion.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261109_0d06529e2f#19",
+    "doc_id": "vietnamnews_20261109_0d06529e2f",
+    "sent_idx": 19,
+    "text": "Meanwhile, total trade turnover surpassed $1 trillion for the first time, reaching $1.01 trillion, up 32.3 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261109_0d06529e2f#20",
+    "doc_id": "vietnamnews_20261109_0d06529e2f",
+    "sent_idx": 20,
+    "text": "Exports alone amounted to $499.24 billion, an increase of 27.5 per cent, already exceeding the annual export growth target.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261109_0d06529e2f#21",
+    "doc_id": "vietnamnews_20261109_0d06529e2f",
+    "sent_idx": 21,
+    "text": "These results reflect the resilience of domestic production and businesses, as well as efforts to expand export markets and attract investment amid persistent global uncertainties.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261109_0d06529e2f#22",
+    "doc_id": "vietnamnews_20261109_0d06529e2f",
+    "sent_idx": 22,
+    "text": "Macroeconomic conditions remained broadly stable, major economic balances were maintained, and supplies of electricity and petroleum were secured.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261109_0d06529e2f#23",
+    "doc_id": "vietnamnews_20261109_0d06529e2f",
+    "sent_idx": 23,
+    "text": "The International Monetary Fund's upward revision of its 2026 growth forecast for Việt Nam, from 7.1 per cent to 8.4 per cent, has also provided a positive signal for the country's economic outlook.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261109_0d06529e2f#24",
+    "doc_id": "vietnamnews_20261109_0d06529e2f",
+    "sent_idx": 24,
+    "text": "However, strong performance in the first 10 months does not automatically guarantee double-digit growth in 2027.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261109_0d06529e2f#25",
+    "doc_id": "vietnamnews_20261109_0d06529e2f",
+    "sent_idx": 25,
+    "text": "The challenge is to convert the current momentum into sustainable productive capacity rather than relying excessively on capital expansion, credit growth and existing competitive advantages.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261109_0d06529e2f#26",
+    "doc_id": "vietnamnews_20261109_0d06529e2f",
+    "sent_idx": 26,
+    "text": "The Government has identified institutional reform, resource mobilisation and a restructuring of the economy alongside a renewed growth model as key priorities.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261109_0d06529e2f#27",
+    "doc_id": "vietnamnews_20261109_0d06529e2f",
+    "sent_idx": 27,
+    "text": "In his report explaining and incorporating feedback from NA deputies, Minister of Finance Ngô Văn Tuấn said the Government would focus on removing bottlenecks, unlocking resources, promoting traditional growth drivers and creating breakthroughs through new ones.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261109_0d06529e2f#28",
+    "doc_id": "vietnamnews_20261109_0d06529e2f",
+    "sent_idx": 28,
+    "text": "Economic restructuring will be increasingly linked to science and technology, innovation, digital transformation and improvements in labour productivity.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261109_0d06529e2f#29",
+    "doc_id": "vietnamnews_20261109_0d06529e2f",
+    "sent_idx": 29,
+    "text": "These factors are essential to raising the quality of growth, strengthening competitiveness and improving businesses' resilience to external shocks.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261109_0d06529e2f#30",
+    "doc_id": "vietnamnews_20261109_0d06529e2f",
+    "sent_idx": 30,
+    "text": "The private sector is also expected to play a greater role in generating employment, expanding production and contributing to economic growth.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261109_0d06529e2f#31",
+    "doc_id": "vietnamnews_20261109_0d06529e2f",
+    "sent_idx": 31,
+    "text": "Strengthening the domestic business community and improving the economy's self-reliance will require a more favourable business environment, institutional reforms and more efficient capital allocation.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261109_0d06529e2f#32",
+    "doc_id": "vietnamnews_20261109_0d06529e2f",
+    "sent_idx": 32,
+    "text": "At a nationwide conference on implementing the resolutions of the 14th Party Central Committee on October 16, Party General Secretary and State President Tô Lâm stressed that growth of at least 10 per cent must increasingly be driven by productivity, science and technology, innovation and business competitiveness.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261109_0d06529e2f#33",
+    "doc_id": "vietnamnews_20261109_0d06529e2f",
+    "sent_idx": 33,
+    "text": "He called on ministries and localities to prepare concrete growth plans based on available resources and implementation capacity, identifying where growth would come from, what additional production capacity would be created, which obstacles needed to be removed and which agencies would be responsible.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261109_0d06529e2f#34",
+    "doc_id": "vietnamnews_20261109_0d06529e2f",
+    "sent_idx": 34,
+    "text": "This approach highlights the need to move beyond headline growth figures towards measurable improvements in productive capacity and economic efficiency.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261109_0d06529e2f#35",
+    "doc_id": "vietnamnews_20261109_0d06529e2f",
+    "sent_idx": 35,
+    "text": "Balancing growth with macroeconomic stability",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261109_0d06529e2f#36",
+    "doc_id": "vietnamnews_20261109_0d06529e2f",
+    "sent_idx": 36,
+    "text": "Achieving double-digit growth will also put considerable pressure on economic management, particularly as the global outlook remains uncertain and energy, raw material and transport costs could rise.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261109_0d06529e2f#37",
+    "doc_id": "vietnamnews_20261109_0d06529e2f",
+    "sent_idx": 37,
+    "text": "At the Government's regular meeting for October on November 4, Prime Minister Lê Minh Hưng reaffirmed the determination to pursue double-digit growth while maintaining macroeconomic stability, identifying inflation and price stability as top priorities.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261109_0d06529e2f#38",
+    "doc_id": "vietnamnews_20261109_0d06529e2f",
+    "sent_idx": 38,
+    "text": "High growth without effective inflation control and stable prices would make it difficult for the benefits of economic expansion to reach businesses and households, he said.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261109_0d06529e2f#39",
+    "doc_id": "vietnamnews_20261109_0d06529e2f",
+    "sent_idx": 39,
+    "text": "The challenge is significant because faster growth generally requires greater volumes of capital, energy, materials, labour and infrastructure.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261109_0d06529e2f#40",
+    "doc_id": "vietnamnews_20261109_0d06529e2f",
+    "sent_idx": 40,
+    "text": "If these resources are mobilised and allocated inefficiently, pressure on prices, interest rates, exchange rates and other macroeconomic balances could intensify.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261109_0d06529e2f#41",
+    "doc_id": "vietnamnews_20261109_0d06529e2f",
+    "sent_idx": 41,
+    "text": "With consumer price inflation targeted at around 4.5 per cent in 2027, the Government will need to maintain a careful balance between stimulating economic activity and controlling price pressures.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261109_0d06529e2f#42",
+    "doc_id": "vietnamnews_20261109_0d06529e2f",
+    "sent_idx": 42,
+    "text": "Fiscal policy will be adjusted flexibly through tax and fee instruments, alongside continued assessments of business support measures.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261109_0d06529e2f#43",
+    "doc_id": "vietnamnews_20261109_0d06529e2f",
+    "sent_idx": 43,
+    "text": "Monetary policy will focus on managing interest rates and exchange rates in line with market developments, keeping credit growth at appropriate levels and directing lending towards production, business activities and priority sectors.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261109_0d06529e2f#44",
+    "doc_id": "vietnamnews_20261109_0d06529e2f",
+    "sent_idx": 44,
+    "text": "The Government will also strengthen price monitoring, develop scenarios for price management and ensure adequate supplies of essential goods.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261109_0d06529e2f#45",
+    "doc_id": "vietnamnews_20261109_0d06529e2f",
+    "sent_idx": 45,
+    "text": "For the Ministry of Industry and Trade, priorities include securing electricity and petroleum supplies, balancing supply and demand for essential goods, promoting exports, controlling the trade balance and diversifying export markets through the effective use of free trade agreements.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261109_0d06529e2f#46",
+    "doc_id": "vietnamnews_20261109_0d06529e2f",
+    "sent_idx": 46,
+    "text": "The PM has also called for an early report on adjustments to the eighth National Power Development Plan and the completion of a decree on petroleum trading, with a view to reducing intermediaries and distribution costs.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261109_0d06529e2f#47",
+    "doc_id": "vietnamnews_20261109_0d06529e2f",
+    "sent_idx": 47,
+    "text": "These measures are expected to help ease production costs and improve the competitiveness of businesses.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261109_0d06529e2f#48",
+    "doc_id": "vietnamnews_20261109_0d06529e2f",
+    "sent_idx": 48,
+    "text": "The scale of the 2027 growth ambition requires clear accountability and coordinated action across ministries, sectors and localities.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261109_0d06529e2f#49",
+    "doc_id": "vietnamnews_20261109_0d06529e2f",
+    "sent_idx": 49,
+    "text": "The National Assembly's resolution sets out 45 key targets and 11 groups of major tasks and solutions.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261109_0d06529e2f#50",
+    "doc_id": "vietnamnews_20261109_0d06529e2f",
+    "sent_idx": 50,
+    "text": "The Government has pledged to assign specific responsibilities to ministries, agencies and local authorities, linking implementation with clear timelines and measurable results.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261109_0d06529e2f#51",
+    "doc_id": "vietnamnews_20261109_0d06529e2f",
+    "sent_idx": 51,
+    "text": "For localities tasked with double-digit growth, the challenge will be to identify viable investment projects, strengthen industrial and service capacity and make better use of their comparative advantages.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261109_0d06529e2f#52",
+    "doc_id": "vietnamnews_20261109_0d06529e2f",
+    "sent_idx": 52,
+    "text": "For the national economy, the priority is to ensure that additional investment translates into higher productivity, stronger domestic businesses and greater value added.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261109_0d06529e2f#53",
+    "doc_id": "vietnamnews_20261109_0d06529e2f",
+    "sent_idx": 53,
+    "text": "The 2026 economic recovery has created favourable conditions for Việt Nam to pursue a higher growth trajectory in 2027.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261109_0d06529e2f#54",
+    "doc_id": "vietnamnews_20261109_0d06529e2f",
+    "sent_idx": 54,
+    "text": "But the success of that ambition will ultimately depend not only on how much capital can be mobilised, but also on how effectively resources are converted into productive capacity, competitiveness and sustainable improvements in living standards.",
+    "lang": "en",
+    "is_title": false
+  }
+]

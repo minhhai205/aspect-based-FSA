@@ -1,0 +1,386 @@
+[
+  {
+    "sent_id": "vneconomy_en_20261103_82de3fbea2#0",
+    "doc_id": "vneconomy_en_20261103_82de3fbea2",
+    "sent_idx": 0,
+    "text": "Integrating AI use with core skills",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_82de3fbea2#1",
+    "doc_id": "vneconomy_en_20261103_82de3fbea2",
+    "sent_idx": 1,
+    "text": "Vietnam is categorized as a \"High-Velocity Strategist\" - a market cluster that treats AI as a core strategic priority alongside aggressive investment - according to the AI Readiness Report, released on October 6 and conducted by Pearson and Amazon Web Services (AWS) through a global survey spanning six markets: Brazil, Malaysia, Saudi Arabia, the UK, the US, and Vietnam.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_82de3fbea2#2",
+    "doc_id": "vneconomy_en_20261103_82de3fbea2",
+    "sent_idx": 2,
+    "text": "Notably, 96 per cent of surveyed higher education (HE) leaders reported that their institutions are investing in AI, with 84 per cent confirming active engagement with industry partners to align with market demands.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_82de3fbea2#3",
+    "doc_id": "vneconomy_en_20261103_82de3fbea2",
+    "sent_idx": 3,
+    "text": "\"This investment encompasses clear priorities and objectives, such as the development of faculty, technical capabilities, and training programs,\" said Mr. Brett Blumenthal, Regional Teacher Development Manager at Pearson.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_82de3fbea2#4",
+    "doc_id": "vneconomy_en_20261103_82de3fbea2",
+    "sent_idx": 4,
+    "text": "\"These figures also indicate that leaders are clearly aware of the pace of change driven by AI.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_82de3fbea2#5",
+    "doc_id": "vneconomy_en_20261103_82de3fbea2",
+    "sent_idx": 5,
+    "text": "According to the Report, 90 per cent of university leaders in Vietnam took part in the associated survey and perceived the pace of AI-driven change in the workplace to be \"extremely fast\" or \"very fast\" - 23 percentage points higher than the global average of 67 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_82de3fbea2#6",
+    "doc_id": "vneconomy_en_20261103_82de3fbea2",
+    "sent_idx": 6,
+    "text": "In particular, 100 per cent of surveyed academic leaders believe this rate of change will accelerate further over the next two years.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_82de3fbea2#7",
+    "doc_id": "vneconomy_en_20261103_82de3fbea2",
+    "sent_idx": 7,
+    "text": "On the student side, over 52 per cent of respondents rated their readiness to work in AI-integrated environments at a high level (8 to 10 out of 10) - the highest level of confidence recorded across all six surveyed markets.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_82de3fbea2#8",
+    "doc_id": "vneconomy_en_20261103_82de3fbea2",
+    "sent_idx": 8,
+    "text": "This strong foundation of student readiness and confidence opens up significant opportunities to drive the practical application of AI skills in real-world business operations.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_82de3fbea2#9",
+    "doc_id": "vneconomy_en_20261103_82de3fbea2",
+    "sent_idx": 9,
+    "text": "However, the gap between student confidence and practical workplace expectations remains significant.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_82de3fbea2#10",
+    "doc_id": "vneconomy_en_20261103_82de3fbea2",
+    "sent_idx": 10,
+    "text": "The survey reveals that, averaged across eight competencies, only 15 per cent of employers in Vietnam rate recent graduates as \"excellent\" in the key competencies for AI-integrated workplaces.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_82de3fbea2#11",
+    "doc_id": "vneconomy_en_20261103_82de3fbea2",
+    "sent_idx": 11,
+    "text": "In other words, while Vietnamese students demonstrate high confidence and higher education institutions are actively investing in AI, employers still perceive a clear gap in the ability to apply AI to real-world work.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_82de3fbea2#12",
+    "doc_id": "vneconomy_en_20261103_82de3fbea2",
+    "sent_idx": 12,
+    "text": "\"Vietnam is moving rapidly in the AI wave, but speed alone cannot close the skills gap,\" said Mr. Eklavya Bhave, Head of Higher Education, APAC & Japan, at Pearson.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_82de3fbea2#13",
+    "doc_id": "vneconomy_en_20261103_82de3fbea2",
+    "sent_idx": 13,
+    "text": "\"The Report shows strong momentum: students are confident and universities are investing heavily.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_82de3fbea2#14",
+    "doc_id": "vneconomy_en_20261103_82de3fbea2",
+    "sent_idx": 14,
+    "text": "However, employers are still looking for talent with practical application skills and the ability to critically verify AI outputs.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_82de3fbea2#15",
+    "doc_id": "vneconomy_en_20261103_82de3fbea2",
+    "sent_idx": 15,
+    "text": "This local reality reflects a broader global challenge.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_82de3fbea2#16",
+    "doc_id": "vneconomy_en_20261103_82de3fbea2",
+    "sent_idx": 16,
+    "text": "According to the survey, 53 per cent of international employers report struggling to find recent graduates with AI competencies that meet job requirements.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_82de3fbea2#17",
+    "doc_id": "vneconomy_en_20261103_82de3fbea2",
+    "sent_idx": 17,
+    "text": "This misalignment stems from differing perspectives: while universities focus on instructing students to operate off-the-shelf AI tools, employers set higher expectations for advanced AI capabilities - where technical proficiency must be paired with critical thinking, data-driven reasoning, and collaborative communication to resolve real business challenges.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_82de3fbea2#18",
+    "doc_id": "vneconomy_en_20261103_82de3fbea2",
+    "sent_idx": 18,
+    "text": "The Report also emphasized that the biggest challenge facing today's young talent is not a lack of \"AI access\" but the ability to effectively integrate technical AI skills with core human strengths such as critical thinking, data-driven reasoning, and teamwork.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_82de3fbea2#19",
+    "doc_id": "vneconomy_en_20261103_82de3fbea2",
+    "sent_idx": 19,
+    "text": "This synergy is essential to ensuring that people remain in the lead as primary decision-makers in the adoption and application of AI.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_82de3fbea2#20",
+    "doc_id": "vneconomy_en_20261103_82de3fbea2",
+    "sent_idx": 20,
+    "text": "In addition, Mr. Blumenthal pointed out that 43 per cent of employers in Vietnam believe that students' habits regarding AI usage are suboptimal.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_82de3fbea2#21",
+    "doc_id": "vneconomy_en_20261103_82de3fbea2",
+    "sent_idx": 21,
+    "text": "Specifically, they tend to place excessive trust in AI outputs and lack proficiency in verifying and cross-checking information.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_82de3fbea2#22",
+    "doc_id": "vneconomy_en_20261103_82de3fbea2",
+    "sent_idx": 22,
+    "text": "Thirty-seven per cent cite a lack of practical experience, while 35 per cent observe an over-reliance on AI tools.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_82de3fbea2#23",
+    "doc_id": "vneconomy_en_20261103_82de3fbea2",
+    "sent_idx": 23,
+    "text": "Notably, only 8 per cent of employers rate graduates as excellent in terms of critical evaluation skills.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_82de3fbea2#24",
+    "doc_id": "vneconomy_en_20261103_82de3fbea2",
+    "sent_idx": 24,
+    "text": "\"These findings indicate that AI training must be linked to practical application and the assessment of skills such as verification, identifying limitations, refining results, and explaining decisions,\" said Mr. Blumenthal.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_82de3fbea2#25",
+    "doc_id": "vneconomy_en_20261103_82de3fbea2",
+    "sent_idx": 25,
+    "text": "\"The goal is to transform effective AI usage into a competency that can be observed and evaluated through judgment, practical application, and the ability to explain outcomes.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_82de3fbea2#26",
+    "doc_id": "vneconomy_en_20261103_82de3fbea2",
+    "sent_idx": 26,
+    "text": "AI readiness depends on strong alignment between training programs and workplace realities.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_82de3fbea2#27",
+    "doc_id": "vneconomy_en_20261103_82de3fbea2",
+    "sent_idx": 27,
+    "text": "The Report emphasized that becoming familiar with AI tools is not enough; rather, learning and applying AI in the \"flow of work\" for employees and the \"flow of learning\" for students is essential.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_82de3fbea2#28",
+    "doc_id": "vneconomy_en_20261103_82de3fbea2",
+    "sent_idx": 28,
+    "text": "Therefore, directly integrating AI into core curricula for both faculty and students will build a more practical foundation for application.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_82de3fbea2#29",
+    "doc_id": "vneconomy_en_20261103_82de3fbea2",
+    "sent_idx": 29,
+    "text": "To overcome operational misalignments, the Report offers two primary supports.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_82de3fbea2#30",
+    "doc_id": "vneconomy_en_20261103_82de3fbea2",
+    "sent_idx": 30,
+    "text": "The AI Readiness Friction Framework serves as a diagnostic tool to help higher education institutions and employers identify where they are challenged most across six core dimensions: pace, connection, capability, governance, experience, and skills.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_82de3fbea2#31",
+    "doc_id": "vneconomy_en_20261103_82de3fbea2",
+    "sent_idx": 31,
+    "text": "Meanwhile, the four key capabilities framework - spanning functional AI proficiency, responsible and ethical AI stewardship, strategic intelligence, and critical human skills - establishes the core competencies that educators and industry should build together for the future-ready workforce.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_82de3fbea2#32",
+    "doc_id": "vneconomy_en_20261103_82de3fbea2",
+    "sent_idx": 32,
+    "text": "Building on these frameworks, the Report recommends specific solutions for each stakeholder.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_82de3fbea2#33",
+    "doc_id": "vneconomy_en_20261103_82de3fbea2",
+    "sent_idx": 33,
+    "text": "Higher education institutions should shorten curriculum review cycles through agile learning models and stackable credentials, shift faculty development toward applied pedagogy, and establish credit-bearing opportunities for real-world AI practice.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_82de3fbea2#34",
+    "doc_id": "vneconomy_en_20261103_82de3fbea2",
+    "sent_idx": 34,
+    "text": "Employers are encouraged to actively engage in academic advisory boards, provide faculty with immersion in live business environments, and sponsor live challenges along with high-quality internships.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_82de3fbea2#35",
+    "doc_id": "vneconomy_en_20261103_82de3fbea2",
+    "sent_idx": 35,
+    "text": "Meanwhile, regulatory authorities play a vital role in enhancing policy frameworks to facilitate the integration of international digital skill certifications into higher education curricula.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_82de3fbea2#36",
+    "doc_id": "vneconomy_en_20261103_82de3fbea2",
+    "sent_idx": 36,
+    "text": "The Report provides a clear roadmap to bridge the gap between workforce AI capabilities and practical employer demand.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_82de3fbea2#37",
+    "doc_id": "vneconomy_en_20261103_82de3fbea2",
+    "sent_idx": 37,
+    "text": "For human resources (HR) leaders, the findings highlight the need for closer partnerships between employers and education providers, particularly as companies rethink entry-level roles, workforce planning, and capability-building strategies.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_82de3fbea2#38",
+    "doc_id": "vneconomy_en_20261103_82de3fbea2",
+    "sent_idx": 38,
+    "text": "For schools and training institutions, the focus should be on three key areas: collaborating with enterprises to design learning outcomes and assessment methods; developing learning, assessment, and practical activities based on real-world work; and building faculty capacity in teaching and assessing the application of AI.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_82de3fbea2#39",
+    "doc_id": "vneconomy_en_20261103_82de3fbea2",
+    "sent_idx": 39,
+    "text": "\"As AI adoption accelerates across industries, organizations that actively collaborate to bridge the gap between higher education and the workplace will be better positioned to build a future-ready workforce,\" the Report noted.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_82de3fbea2#40",
+    "doc_id": "vneconomy_en_20261103_82de3fbea2",
+    "sent_idx": 40,
+    "text": "\"This ensures future graduates are not merely AI-literate, but fully empowered with core human capabilities - such as critical thinking, adaptability, and collaboration - to work effectively and thrive alongside technology.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_82de3fbea2#41",
+    "doc_id": "vneconomy_en_20261103_82de3fbea2",
+    "sent_idx": 41,
+    "text": "Mr. Blumenthal also affirmed that Vietnam holds a particular advantage, as 84 per cent of higher education leaders surveyed report that their institutions regularly interact with employers, thereby gaining insight into labor market demands.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_82de3fbea2#42",
+    "doc_id": "vneconomy_en_20261103_82de3fbea2",
+    "sent_idx": 42,
+    "text": "However, this engagement needs to extend to collaborating with businesses on the design of curricula and assessment methods.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_82de3fbea2#43",
+    "doc_id": "vneconomy_en_20261103_82de3fbea2",
+    "sent_idx": 43,
+    "text": "Learning tasks can be structured to mirror real-world work, requiring students to utilize AI, verify information and evaluate the limitations of the output, and subsequently justify their decisions or recommendations.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_82de3fbea2#44",
+    "doc_id": "vneconomy_en_20261103_82de3fbea2",
+    "sent_idx": 44,
+    "text": "Through this process, educational institutions and businesses can jointly identify key competencies such as critical judgment, communication, and responsible AI usage that need to be demonstrated.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_82de3fbea2#45",
+    "doc_id": "vneconomy_en_20261103_82de3fbea2",
+    "sent_idx": 45,
+    "text": "Highlighting the critical role of practical training and technology partnerships, Ms. Yashinta Bahana, Head of APJ Market Expansion & Strategic Partnerships, Training & Certification, at AWS, said that Vietnam's ambition in AI is clear, and its students are eager to lead the way.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_82de3fbea2#46",
+    "doc_id": "vneconomy_en_20261103_82de3fbea2",
+    "sent_idx": 46,
+    "text": "\"But this research tells us that access to AI tools is only the starting point,\" she added.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_82de3fbea2#47",
+    "doc_id": "vneconomy_en_20261103_82de3fbea2",
+    "sent_idx": 47,
+    "text": "\"What employers and graduates need is help learning how to apply AI to solve real-world problems.\"",
+    "lang": "en",
+    "is_title": false
+  }
+]

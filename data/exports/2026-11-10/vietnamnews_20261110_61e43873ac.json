@@ -1,0 +1,178 @@
+[
+  {
+    "sent_id": "vietnamnews_20261110_61e43873ac#0",
+    "doc_id": "vietnamnews_20261110_61e43873ac",
+    "sent_idx": 0,
+    "text": "VPBank secures US$730 million offshore syndicated loan",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261110_61e43873ac#1",
+    "doc_id": "vietnamnews_20261110_61e43873ac",
+    "sent_idx": 1,
+    "text": "HÀ NỘI - VPBank has secured a nearly VNĐ19 trillion (US$730 million) offshore syndicated loan arranged by the International Finance Corporation (IFC) and Sumitomo Mitsui Banking Corporation (SMBC), strengthening its medium- and long-term funding base and expanding its capacity to lend to small- and medium-sized enterprises (SMEs), particularly women-owned and women-led businesses and agricultural firms.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261110_61e43873ac#2",
+    "doc_id": "vietnamnews_20261110_61e43873ac",
+    "sent_idx": 2,
+    "text": "VPBank held a ceremony on November 10 to mark the completion of the $730 million facility, with the participation of international financial institutions and the bank's senior executives.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261110_61e43873ac#3",
+    "doc_id": "vietnamnews_20261110_61e43873ac",
+    "sent_idx": 3,
+    "text": "The facility comprises three-, five- and seven-year tranches and was disbursed through multiple drawdowns during 2026.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261110_61e43873ac#4",
+    "doc_id": "vietnamnews_20261110_61e43873ac",
+    "sent_idx": 4,
+    "text": "It will provide additional funding for VPBank to expand financial services for SMEs, including women-owned and women-led SMEs (WSMEs) and agricultural businesses, helping them meet working capital needs, expand production and support business growth.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261110_61e43873ac#5",
+    "doc_id": "vietnamnews_20261110_61e43873ac",
+    "sent_idx": 5,
+    "text": "The diversified maturity structure will also strengthen the bank's capital management flexibility and provide resources for implementing its 2026-30 development strategy, which combines business expansion with financial inclusion and support for enterprises.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261110_61e43873ac#6",
+    "doc_id": "vietnamnews_20261110_61e43873ac",
+    "sent_idx": 6,
+    "text": "IFC and SMBC jointly coordinated and arranged the transaction, which attracted participation from development finance institutions (DFIs), export credit agencies and international commercial banks.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261110_61e43873ac#7",
+    "doc_id": "vietnamnews_20261110_61e43873ac",
+    "sent_idx": 7,
+    "text": "Participating DFIs included IFC, German Investment Corporation (DEG), Proparco, the development finance institution of the French Development Agency (AFD), and Norfund, the Norwegian Investment Fund for Developing Countries.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261110_61e43873ac#8",
+    "doc_id": "vietnamnews_20261110_61e43873ac",
+    "sent_idx": 8,
+    "text": "The export credit agencies included China Eximbank and the Export-Import Bank of Korea (KEXIM).",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261110_61e43873ac#9",
+    "doc_id": "vietnamnews_20261110_61e43873ac",
+    "sent_idx": 9,
+    "text": "Other participating financial institutions included SMBC, Punjab National Bank, Commercial Bank of Ceylon, Industrial and Commercial Bank of China (ICBC), Shinhan Bank, Woori Bank and KEXIM Asia Limited.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261110_61e43873ac#10",
+    "doc_id": "vietnamnews_20261110_61e43873ac",
+    "sent_idx": 10,
+    "text": "The involvement of financial institutions from markets including the US, Germany, France, Norway, China, South Korea, Japan, India and Sri Lanka highlights VPBank's ability to mobilise international capital and broaden its network of global partners.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261110_61e43873ac#11",
+    "doc_id": "vietnamnews_20261110_61e43873ac",
+    "sent_idx": 11,
+    "text": "Speaking at the ceremony, Nguyễn Đức Vinh, VPBank's Chief Executive Officer, said: \"The $730 million facility further affirms the international financial community's confidence in VPBank's capabilities and development strategy.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261110_61e43873ac#12",
+    "doc_id": "vietnamnews_20261110_61e43873ac",
+    "sent_idx": 12,
+    "text": "This funding allows us to strengthen our support for SME customers, WSMEs, and agricultural SMEs, turning our commitment to growth and sustainable development into tangible outcomes while creating long-term value for shareholders, customers and society.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261110_61e43873ac#13",
+    "doc_id": "vietnamnews_20261110_61e43873ac",
+    "sent_idx": 13,
+    "text": "Allen Forlemu, IFC Regional Director for Financial Institutions Group, Asia and the Pacific said: \"The financing needs of Vietnamese SMEs are far greater than what any single institution can provide.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261110_61e43873ac#14",
+    "doc_id": "vietnamnews_20261110_61e43873ac",
+    "sent_idx": 14,
+    "text": "Our long-standing partnership with VPBank and confidence in the bank's strategy and performance have enabled us to provide our first seven-year loan to a Vietnamese bank, helping strengthen VPBank's funding structure and expand its lending to SMEs.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261110_61e43873ac#15",
+    "doc_id": "vietnamnews_20261110_61e43873ac",
+    "sent_idx": 15,
+    "text": "\"By mobilising private capital alongside our own investment, we can scale the resources available to businesses well beyond our own balance sheet, significantly expanding access to finance for companies that drive jobs and economic growth across Viet Nam.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261110_61e43873ac#16",
+    "doc_id": "vietnamnews_20261110_61e43873ac",
+    "sent_idx": 16,
+    "text": "Reiko Mori, Executive Officer, Deputy Head of Asia Pacific Division, SMBC said: \" As VPBank's strategic shareholder and long-standing partner, we are pleased to have worked alongside IFC to bring development finance institutions, export credit agencies and commercial banks together on a single platform.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261110_61e43873ac#17",
+    "doc_id": "vietnamnews_20261110_61e43873ac",
+    "sent_idx": 17,
+    "text": "This transaction demonstrates how partnership with purpose can mobilise capital at scale and advance financial inclusion across Asia.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261110_61e43873ac#18",
+    "doc_id": "vietnamnews_20261110_61e43873ac",
+    "sent_idx": 18,
+    "text": "The latest facility follows a series of major international financing transactions by the bank in 2025-26.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261110_61e43873ac#19",
+    "doc_id": "vietnamnews_20261110_61e43873ac",
+    "sent_idx": 19,
+    "text": "In June 2026, VPBank and 15 international financial institutions signed a $1.44 billion sustainability-linked loan, the bank's first facility of this kind.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261110_61e43873ac#20",
+    "doc_id": "vietnamnews_20261110_61e43873ac",
+    "sent_idx": 20,
+    "text": "In 2025, it raised a total of $2.36 billion, including a $1.56 billion international syndicated loan and a $300 million international sustainable bond.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261110_61e43873ac#21",
+    "doc_id": "vietnamnews_20261110_61e43873ac",
+    "sent_idx": 21,
+    "text": "The transactions have diversified the bank's international funding sources and maturities, supporting its long-term growth strategy and lending capacity while connecting global capital with the financing needs of Vietnamese businesses. - VNS",
+    "lang": "en",
+    "is_title": false
+  }
+]

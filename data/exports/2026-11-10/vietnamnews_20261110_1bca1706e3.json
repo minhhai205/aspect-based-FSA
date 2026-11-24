@@ -1,0 +1,298 @@
+[
+  {
+    "sent_id": "vietnamnews_20261110_1bca1706e3#0",
+    "doc_id": "vietnamnews_20261110_1bca1706e3",
+    "sent_idx": 0,
+    "text": "Việt Nam seeks stronger energy autonomy amid rising demand, global uncertainty",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261110_1bca1706e3#1",
+    "doc_id": "vietnamnews_20261110_1bca1706e3",
+    "sent_idx": 1,
+    "text": "HÀ NỘI - Energy autonomy is becoming a key condition for Việt Nam to sustain annual economic growth of at least 10 per cent, requiring massive investment in power generation, transmission infrastructure and domestic fuel supplies amid growing demand and continued volatility in global energy markets.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261110_1bca1706e3#2",
+    "doc_id": "vietnamnews_20261110_1bca1706e3",
+    "sent_idx": 2,
+    "text": "Deputy Minister of Industry and Trade Nguyễn Việt Sơn said at the first annual National Energy Security Forum 2026 organised by the ministry in Hà Nội on November 10 that the target of double-digit growth in the next five-year period required energy infrastructure and supply capacity to be developed ahead of demand.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261110_1bca1706e3#3",
+    "doc_id": "vietnamnews_20261110_1bca1706e3",
+    "sent_idx": 3,
+    "text": "\"Energy autonomy is the foundation of economic autonomy,\" he said, calling for stronger domestic supply capacity, more diversified energy sources and improved resilience against external shocks.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261110_1bca1706e3#4",
+    "doc_id": "vietnamnews_20261110_1bca1706e3",
+    "sent_idx": 4,
+    "text": "The country is estimated to need US$77 billion in energy investment between 2026 and 2030, with total requirements rising to around US$400 billion through 2050, economist Cấn Văn Lực cited the ministry's estimates.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261110_1bca1706e3#5",
+    "doc_id": "vietnamnews_20261110_1bca1706e3",
+    "sent_idx": 5,
+    "text": "Mobilising such a huge amount of capital would require stronger participation from private investors and international financial institutions, as well as more effective use of green finance, Lực said.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261110_1bca1706e3#6",
+    "doc_id": "vietnamnews_20261110_1bca1706e3",
+    "sent_idx": 6,
+    "text": "This underlined the pressure to establish investment mechanisms capable of attracting private, international and green financing while ensuring that projects can be implemented on schedule, he added.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261110_1bca1706e3#7",
+    "doc_id": "vietnamnews_20261110_1bca1706e3",
+    "sent_idx": 7,
+    "text": "Still, access to funding remained constrained by mismatches between the long payback periods of energy projects and the shorter maturities of bank loans, as well as regulatory uncertainties surrounding direct power purchase agreements, electricity pricing and offshore wind development, Lực said.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261110_1bca1706e3#8",
+    "doc_id": "vietnamnews_20261110_1bca1706e3",
+    "sent_idx": 8,
+    "text": "The 2026 National Energy Security Report released at the forum found that Việt Nam maintained stable electricity and fuel supplies in 2026 despite major disruptions to global energy markets, placing it among just 13 countries out of 177 surveyed that preserved energy stability.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261110_1bca1706e3#9",
+    "doc_id": "vietnamnews_20261110_1bca1706e3",
+    "sent_idx": 9,
+    "text": "However, the report warned that rising electricity demand, import dependence and delays in new baseload power projects as well as the possible continuation of El Niño until June could constrain supply, particularly hydropower generation during the dry season.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261110_1bca1706e3#10",
+    "doc_id": "vietnamnews_20261110_1bca1706e3",
+    "sent_idx": 10,
+    "text": "In northern Việt Nam, peak electricity demand is projected to reach between 32,693 MW and 34,865 MW in 2027, up by 2,445-4,617 MW from the record 30,248 MW recorded in 2026.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261110_1bca1706e3#11",
+    "doc_id": "vietnamnews_20261110_1bca1706e3",
+    "sent_idx": 11,
+    "text": "Vietnam Electricity (EVN) said that energy storage and rooftop solar were expected to play a greater role in easing peak demand.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261110_1bca1706e3#12",
+    "doc_id": "vietnamnews_20261110_1bca1706e3",
+    "sent_idx": 12,
+    "text": "The ministry has set a target of reducing peak electricity demand in the north by at least 3,000 MW in 2027 through demand management and additional capacity from battery energy storage systems (BESS) and rooftop solar.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261110_1bca1706e3#13",
+    "doc_id": "vietnamnews_20261110_1bca1706e3",
+    "sent_idx": 13,
+    "text": "To ensure power supply, EVN plans to invest about VNĐ830 trillion in the 2026-30 period, the largest investment programme in the utility's history.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261110_1bca1706e3#14",
+    "doc_id": "vietnamnews_20261110_1bca1706e3",
+    "sent_idx": 14,
+    "text": "EVN called for a more comprehensive legal and policy framework tailored to energy projects, stronger oversight of power projects under the revised Power Development Plan VIII, and the replacement of investors responsible for prolonged delays.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261110_1bca1706e3#15",
+    "doc_id": "vietnamnews_20261110_1bca1706e3",
+    "sent_idx": 15,
+    "text": "The utility proposed easing credit constraints and expanding access to green loans, bonds and international financing for major energy projects while calling for a reasonable electricity transmission tariff to encourage private investment in the grid.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261110_1bca1706e3#16",
+    "doc_id": "vietnamnews_20261110_1bca1706e3",
+    "sent_idx": 16,
+    "text": "Beyond electricity generation, strengthening autonomy over fuel supplies is central to protecting the economy from external shocks.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261110_1bca1706e3#17",
+    "doc_id": "vietnamnews_20261110_1bca1706e3",
+    "sent_idx": 17,
+    "text": "The 2026 report showed that Việt Nam's net energy imports accounted for 43.9 per cent of primary energy supply in 2025, while petroleum reserves remained equivalent to only around 60 days of net imports, below the 90-day target.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261110_1bca1706e3#18",
+    "doc_id": "vietnamnews_20261110_1bca1706e3",
+    "sent_idx": 18,
+    "text": "The country also lacked a national crude oil reserve.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261110_1bca1706e3#19",
+    "doc_id": "vietnamnews_20261110_1bca1706e3",
+    "sent_idx": 19,
+    "text": "The disruption of shipping through the Strait of Hormuz in 2026, which sent Brent crude prices to as high as $118.35 per barrel, exposed the need to build stronger buffers against future supply interruptions.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261110_1bca1706e3#20",
+    "doc_id": "vietnamnews_20261110_1bca1706e3",
+    "sent_idx": 20,
+    "text": "Under Resolution 70-NQ/TW, Việt Nam aims to raise primary energy supply to 150-170 million tonnes of oil equivalent by 2030.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261110_1bca1706e3#21",
+    "doc_id": "vietnamnews_20261110_1bca1706e3",
+    "sent_idx": 21,
+    "text": "Total installed power capacity is targeted at 183-236 GW, or higher depending on demand, with electricity output reaching 560-624 billion kWh.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261110_1bca1706e3#22",
+    "doc_id": "vietnamnews_20261110_1bca1706e3",
+    "sent_idx": 22,
+    "text": "Domestic refineries are expected to meet at least 70 per cent of petroleum demand, while oil product reserves are to reach the equivalent of 90 days of net imports.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261110_1bca1706e3#23",
+    "doc_id": "vietnamnews_20261110_1bca1706e3",
+    "sent_idx": 23,
+    "text": "Phạm Gia Minh, from Vietnam National Industry-Energy Group (PetroVietnam), said strengthening national energy autonomy required greater reliance on domestic resources, particularly through the oil and gas industry and its wider energy value chain.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261110_1bca1706e3#24",
+    "doc_id": "vietnamnews_20261110_1bca1706e3",
+    "sent_idx": 24,
+    "text": "He said increasing reserves and domestic production, while developing the capacity to source technology, equipment and skilled workers, would help reduce dependence on imported energy and limit exposure to risks in global markets.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261110_1bca1706e3#25",
+    "doc_id": "vietnamnews_20261110_1bca1706e3",
+    "sent_idx": 25,
+    "text": "Việt Nam is also looking to offshore wind and other renewable sources to diversify its energy mix and build a stronger domestic energy industry.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261110_1bca1706e3#26",
+    "doc_id": "vietnamnews_20261110_1bca1706e3",
+    "sent_idx": 26,
+    "text": "The country has an estimated offshore wind technical potential of around 600,000 MW.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261110_1bca1706e3#27",
+    "doc_id": "vietnamnews_20261110_1bca1706e3",
+    "sent_idx": 27,
+    "text": "Under the adjusted Power Development Plan VIII, offshore wind capacity for domestic electricity demand is expected to reach 6,000-17,000 MW by 2030-2035, with a longer-term orientation of 113,000-139,000 MW by 2050.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261110_1bca1706e3#28",
+    "doc_id": "vietnamnews_20261110_1bca1706e3",
+    "sent_idx": 28,
+    "text": "However, turning the potential into operating projects will require a clearer and more predictable regulatory framework as well as consistent and effective implementation, according to Trần Hoài Trang, deputy director of the Electricity Authority of Vietnam.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261110_1bca1706e3#29",
+    "doc_id": "vietnamnews_20261110_1bca1706e3",
+    "sent_idx": 29,
+    "text": "He stressed the need to create a transparent and predictable investment environment through clearer electricity pricing, power purchase agreements and grid-connection mechanisms.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261110_1bca1706e3#30",
+    "doc_id": "vietnamnews_20261110_1bca1706e3",
+    "sent_idx": 30,
+    "text": "He also called for faster project surveys and preparation, closer coordination between power generation and transmission infrastructure, more diversified financing and stronger domestic supply chains.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261110_1bca1706e3#31",
+    "doc_id": "vietnamnews_20261110_1bca1706e3",
+    "sent_idx": 31,
+    "text": "The goal should go beyond attracting investment in offshore wind farms to building a domestic energy industry, creating jobs and enabling Vietnamese companies to participate more deeply in regional and global supply chains, he said.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261110_1bca1706e3#32",
+    "doc_id": "vietnamnews_20261110_1bca1706e3",
+    "sent_idx": 32,
+    "text": "According to Lực, international experience showed that energy financing and the transition to cleaner energy required targeted public investment to lead the way, consistent policies and transparent green standards to encourage sustainable finance.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261110_1bca1706e3#33",
+    "doc_id": "vietnamnews_20261110_1bca1706e3",
+    "sent_idx": 33,
+    "text": "He said risks should be shared appropriately between the State and private investors, alongside transparent and competitive market mechanisms.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261110_1bca1706e3#34",
+    "doc_id": "vietnamnews_20261110_1bca1706e3",
+    "sent_idx": 34,
+    "text": "Lực proposed setting reasonable and competitive electricity prices, prioritising investment in transmission and energy storage infrastructure, and clearly identifying financing needs to develop specific projects capable of attracting international and private capital.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261110_1bca1706e3#35",
+    "doc_id": "vietnamnews_20261110_1bca1706e3",
+    "sent_idx": 35,
+    "text": "He also called for a more balanced development of financial markets, the establishment of a commodity exchange trading energy products, and measures to help businesses and financial institutions access international energy funding.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261110_1bca1706e3#36",
+    "doc_id": "vietnamnews_20261110_1bca1706e3",
+    "sent_idx": 36,
+    "text": "Việt Nam should also consider a dedicated law on renewable energy, he said. - VNS",
+    "lang": "en",
+    "is_title": false
+  }
+]

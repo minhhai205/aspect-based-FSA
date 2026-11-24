@@ -1,0 +1,274 @@
+[
+  {
+    "sent_id": "vietnamnews_20261117_d630b82f1a#0",
+    "doc_id": "vietnamnews_20261117_d630b82f1a",
+    "sent_idx": 0,
+    "text": "Vietnamese firms face fines of up to 5% of revenue for personal data violations",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261117_d630b82f1a#1",
+    "doc_id": "vietnamnews_20261117_d630b82f1a",
+    "sent_idx": 1,
+    "text": "HÀ NỘI - Vietnamese businesses could face fines of up to 5 per cent of their previous year's revenue for violations involving cross-border transfers of personal data, a conference heard on November 17.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_d630b82f1a#2",
+    "doc_id": "vietnamnews_20261117_d630b82f1a",
+    "sent_idx": 2,
+    "text": "Speaking at a seminar on data management risks and the legal requirements facing businesses held by the Vietnam Chamber of Commerce and Industry (VCCI), Trần Thị Thanh Tâm, director of VCCI's Centre for Supporting Small- and Medium-sized Enterprises, said micro, small and medium-sized enterprises account for about 98 per cent of the more than one million businesses currently operating in Việt Nam.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_d630b82f1a#3",
+    "doc_id": "vietnamnews_20261117_d630b82f1a",
+    "sent_idx": 3,
+    "text": "These enterprises play an important role in job creation, local economic development and participation in supply chains.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_d630b82f1a#4",
+    "doc_id": "vietnamnews_20261117_d630b82f1a",
+    "sent_idx": 4,
+    "text": "However, limited financial resources, staffing and technological expertise leave them particularly vulnerable to cybersecurity threats.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_d630b82f1a#5",
+    "doc_id": "vietnamnews_20261117_d630b82f1a",
+    "sent_idx": 5,
+    "text": "Citing figures from the Việt Nam National Cybersecurity Association, Tâm said Việt Nam recorded about 552,200 cyberattacks in 2025.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_d630b82f1a#6",
+    "doc_id": "vietnamnews_20261117_d630b82f1a",
+    "sent_idx": 6,
+    "text": "Some 52.3 per cent of surveyed businesses reported having suffered losses, while around 25.5 million accounts were exposed.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_d630b82f1a#7",
+    "doc_id": "vietnamnews_20261117_d630b82f1a",
+    "sent_idx": 7,
+    "text": "Digital platforms allow smaller businesses to promote products, conduct transactions and serve customers across multiple markets at lower costs, Tâm said.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_d630b82f1a#8",
+    "doc_id": "vietnamnews_20261117_d630b82f1a",
+    "sent_idx": 8,
+    "text": "However, business data, operational systems and commercial trust are also increasingly exposed to threats.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_d630b82f1a#9",
+    "doc_id": "vietnamnews_20261117_d630b82f1a",
+    "sent_idx": 9,
+    "text": "A fraudulent email impersonating a business partner, for example, could prompt an accountant to transfer money to the wrong bank account, while an outage affecting a sales system could disrupt transactions, delay deliveries and directly affect cash flow.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_d630b82f1a#10",
+    "doc_id": "vietnamnews_20261117_d630b82f1a",
+    "sent_idx": 10,
+    "text": "Ngô Việt Khôi, a security expert at Vietnam Data Security Joint Stock Company (VNDS), identified six common weaknesses in digital risk management among SMEs.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_d630b82f1a#11",
+    "doc_id": "vietnamnews_20261117_d630b82f1a",
+    "sent_idx": 11,
+    "text": "They include a lack of dedicated personnel, insufficient budgets, over-reliance on individuals in operational procedures, the mixing of personal and business assets, dependence on third parties, and the absence of incident response plans.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_d630b82f1a#12",
+    "doc_id": "vietnamnews_20261117_d630b82f1a",
+    "sent_idx": 12,
+    "text": "Common practices such as sharing passwords, sending login credentials through Zalo, storing customer data in personal Gmail accounts or failing to revoke administrative access when employees leave can all result in data losses.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_d630b82f1a#13",
+    "doc_id": "vietnamnews_20261117_d630b82f1a",
+    "sent_idx": 13,
+    "text": "\"SMEs are targeted because they are easy targets,\" Khôi warned.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_d630b82f1a#14",
+    "doc_id": "vietnamnews_20261117_d630b82f1a",
+    "sent_idx": 14,
+    "text": "Data is not only stolen by hackers but can also leave a company through employees using poorly controlled methods, he said.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_d630b82f1a#15",
+    "doc_id": "vietnamnews_20261117_d630b82f1a",
+    "sent_idx": 15,
+    "text": "The consequences may include lost customers, legal liabilities and reputational damage.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_d630b82f1a#16",
+    "doc_id": "vietnamnews_20261117_d630b82f1a",
+    "sent_idx": 16,
+    "text": "Legal compliance must be built into business operations",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_d630b82f1a#17",
+    "doc_id": "vietnamnews_20261117_d630b82f1a",
+    "sent_idx": 17,
+    "text": "At the seminar, Major Nguyễn Tiến Đức, an officer at the General Advisory Division of the Ministry of Public Security's Department of Cybersecurity, said the Cybersecurity Law that takes effect on July 1, 2026, together with its implementing regulations, establishes requirements for information system protection, data storage, service provision and activities in cyberspace.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_d630b82f1a#18",
+    "doc_id": "vietnamnews_20261117_d630b82f1a",
+    "sent_idx": 18,
+    "text": "Under the law, organisations violating personal data protection requirements could face maximum fines of VNĐ3 billion (US$116,450).",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_d630b82f1a#19",
+    "doc_id": "vietnamnews_20261117_d630b82f1a",
+    "sent_idx": 19,
+    "text": "Violations involving cross-border transfers of personal data could attract fines of up to 5 per cent of the previous year's revenue, while the illegal purchase or sale of personal data could be penalised by fines of up to 10 times the proceeds obtained from the violations.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_d630b82f1a#20",
+    "doc_id": "vietnamnews_20261117_d630b82f1a",
+    "sent_idx": 20,
+    "text": "In addition to financial penalties, businesses could face suspension of operations for between one and 24 months, revocation of licences and orders to remedy the consequences of violations.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_d630b82f1a#21",
+    "doc_id": "vietnamnews_20261117_d630b82f1a",
+    "sent_idx": 21,
+    "text": "A key requirement is that businesses must determine the protection level of their information systems, ranging from Level 1 to Level 5, based on system functions, the data processed, users and system scale.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_d630b82f1a#22",
+    "doc_id": "vietnamnews_20261117_d630b82f1a",
+    "sent_idx": 22,
+    "text": "Businesses are prohibited from splitting systems to obtain a lower protection classification.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_d630b82f1a#23",
+    "doc_id": "vietnamnews_20261117_d630b82f1a",
+    "sent_idx": 23,
+    "text": "SME information systems are generally classified as Level 2 or Level 3, he said.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_d630b82f1a#24",
+    "doc_id": "vietnamnews_20261117_d630b82f1a",
+    "sent_idx": 24,
+    "text": "A system may be classified as Level 3 if it processes basic personal data belonging to at least 100,000 individuals, or sensitive personal data belonging to at least 10,000 individuals.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_d630b82f1a#25",
+    "doc_id": "vietnamnews_20261117_d630b82f1a",
+    "sent_idx": 25,
+    "text": "Lawyer Lưu Xuân Vinh of Asia Legal Law Firm said a small sized company does not exempt it from legal obligations.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_d630b82f1a#26",
+    "doc_id": "vietnamnews_20261117_d630b82f1a",
+    "sent_idx": 26,
+    "text": "Businesses need to identify the types of data they collect, where the data is stored, who has access to it, how long it is retained and the legal basis for processing it for each purpose.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_d630b82f1a#27",
+    "doc_id": "vietnamnews_20261117_d630b82f1a",
+    "sent_idx": 27,
+    "text": "Vinh also noted that cross-border transfers of personal data are not limited to sending data files overseas.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_d630b82f1a#28",
+    "doc_id": "vietnamnews_20261117_d630b82f1a",
+    "sent_idx": 28,
+    "text": "Data stored on cloud platforms in Việt Nam but accessed and processed by foreign businesses may also fall within the scope of these regulations.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_d630b82f1a#29",
+    "doc_id": "vietnamnews_20261117_d630b82f1a",
+    "sent_idx": 29,
+    "text": "Digital risk management is not only meeting legal requirements but is also directly linked to businesses' ability to access international markets.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_d630b82f1a#30",
+    "doc_id": "vietnamnews_20261117_d630b82f1a",
+    "sent_idx": 30,
+    "text": "To turn connecting opportunities into substantive partnerships, businesses need to closely control the data they share, clarify its intended purpose and recipients, and define the responsibilities of each party in the event of an incident, the experts said.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_d630b82f1a#31",
+    "doc_id": "vietnamnews_20261117_d630b82f1a",
+    "sent_idx": 31,
+    "text": "Compliance with regulations and information protection can help minimise risks while building trust with international partners.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_d630b82f1a#32",
+    "doc_id": "vietnamnews_20261117_d630b82f1a",
+    "sent_idx": 32,
+    "text": "Tâm said legal compliance and digital risk management should be viewed as investments in business development rather than merely compliance costs.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_d630b82f1a#33",
+    "doc_id": "vietnamnews_20261117_d630b82f1a",
+    "sent_idx": 33,
+    "text": "For SMEs, measures ranging from data controls and access management to proactive incident response all contribute to protecting their reputation and competitiveness. - VNS",
+    "lang": "en",
+    "is_title": false
+  }
+]

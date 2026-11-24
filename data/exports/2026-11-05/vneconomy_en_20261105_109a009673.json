@@ -1,0 +1,282 @@
+[
+  {
+    "sent_id": "vneconomy_en_20261105_109a009673#0",
+    "doc_id": "vneconomy_en_20261105_109a009673",
+    "sent_idx": 0,
+    "text": "Airbus promotes AI application in aviation, expands technological cooperation in Vietnam",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_109a009673#1",
+    "doc_id": "vneconomy_en_20261105_109a009673",
+    "sent_idx": 1,
+    "text": "At a recent press conference in Hanoi marking 40 years of Airbus in Vietnam, Mr. Wouter van Wersch, President of Airbus International, noted that AI offers great opportunities but also comes with risks that need to be controlled.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_109a009673#2",
+    "doc_id": "vneconomy_en_20261105_109a009673",
+    "sent_idx": 2,
+    "text": "Airbus has been applying this technology in its production and business activities for many years and continues to optimize AI usage to improve work processes and develop more efficient products.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_109a009673#3",
+    "doc_id": "vneconomy_en_20261105_109a009673",
+    "sent_idx": 3,
+    "text": "On the occasion of its 40th anniversary in Vietnam, Airbus announced plans to further expand cooperation in digital technology, artificial intelligence (AI), human resource training, and the aviation industry.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_109a009673#4",
+    "doc_id": "vneconomy_en_20261105_109a009673",
+    "sent_idx": 4,
+    "text": "AI is being applied in air traffic management, maintenance forecasting, and operational optimization, with safety remaining the top priority.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_109a009673#5",
+    "doc_id": "vneconomy_en_20261105_109a009673",
+    "sent_idx": 5,
+    "text": "However, according to Mr. Wouter van Wersch, as an aircraft manufacturer, Airbus must prioritize safety in all activities, including AI applications.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_109a009673#6",
+    "doc_id": "vneconomy_en_20261105_109a009673",
+    "sent_idx": 6,
+    "text": "According to him, Airbus's top priority is to use AI for good, such as optimizing work processes and creating more efficient products.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_109a009673#7",
+    "doc_id": "vneconomy_en_20261105_109a009673",
+    "sent_idx": 7,
+    "text": "But it must also be very cautious about safety and maintain a complete focus on safety, as Airbus products are related to human safety.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_109a009673#8",
+    "doc_id": "vneconomy_en_20261105_109a009673",
+    "sent_idx": 8,
+    "text": "In Vietnam, AI has been applied in several aviation operations and management activities.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_109a009673#9",
+    "doc_id": "vneconomy_en_20261105_109a009673",
+    "sent_idx": 9,
+    "text": "Ms. Hoang Tri Mai, General Director of Airbus Vietnam, Cambodia, and Laos, cited a collaborative project between Airbus and the Vietnam Air Traffic Management Corporation (VATM) in air traffic management.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_109a009673#10",
+    "doc_id": "vneconomy_en_20261105_109a009673",
+    "sent_idx": 10,
+    "text": "According to her, as the number of aircraft operating in the sky increases, optimizing air traffic flow becomes important.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_109a009673#11",
+    "doc_id": "vneconomy_en_20261105_109a009673",
+    "sent_idx": 11,
+    "text": "AI can assist in data processing, optimize coordination activities, thereby contributing to improved airspace management and exploitation efficiency.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_109a009673#12",
+    "doc_id": "vneconomy_en_20261105_109a009673",
+    "sent_idx": 12,
+    "text": "Another application direction is maintenance forecasting.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_109a009673#13",
+    "doc_id": "vneconomy_en_20261105_109a009673",
+    "sent_idx": 13,
+    "text": "According to Ms. Mai, based on data accumulated from millions of flight hours of aircraft worldwide, Airbus is collaborating with airlines such as Vietnam Airlines and Vietjet to build forecasts on the technical condition of aircraft and engines.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_109a009673#14",
+    "doc_id": "vneconomy_en_20261105_109a009673",
+    "sent_idx": 14,
+    "text": "These data and forecasts help airlines proactively arrange maintenance plans, limit technical incidents, and reduce the risk of flight delays, Ms. Mai said, adding that these are AI applications that have directly participated in aviation operations in Vietnam, rather than just stopping at research and technology development.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_109a009673#15",
+    "doc_id": "vneconomy_en_20261105_109a009673",
+    "sent_idx": 15,
+    "text": "Assessing Vietnam's potential in the AI field, Mr. Wouter van Wersch believes that Vietnam has many advantages due to its young, dynamic population and increasingly broad access to digital technology.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_109a009673#16",
+    "doc_id": "vneconomy_en_20261105_109a009673",
+    "sent_idx": 16,
+    "text": "According to him, Vietnam plays a significant role in the development of AI in general, not just in the aviation industry.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_109a009673#17",
+    "doc_id": "vneconomy_en_20261105_109a009673",
+    "sent_idx": 17,
+    "text": "Regarding technology control responsibility, he stated that Airbus participates in Eurotech, a group of eight leading European technology companies.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_109a009673#18",
+    "doc_id": "vneconomy_en_20261105_109a009673",
+    "sent_idx": 18,
+    "text": "Members regularly exchange and promote AI applications positively and control the development process to limit risks to the aviation industry and other societal fields.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_109a009673#19",
+    "doc_id": "vneconomy_en_20261105_109a009673",
+    "sent_idx": 19,
+    "text": "Besides AI, digital transformation and developing domestic industrial capacity are also priorities set by Airbus in the next cooperation phase.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_109a009673#20",
+    "doc_id": "vneconomy_en_20261105_109a009673",
+    "sent_idx": 20,
+    "text": "Mr. Wouter van Wersch stated that Airbus has identified five main directions in Vietnam, including fulfilling product delivery commitments; expanding industrial cooperation; promoting digital transformation; developing human resources; and enhancing cooperation on sustainable development.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_109a009673#21",
+    "doc_id": "vneconomy_en_20261105_109a009673",
+    "sent_idx": 21,
+    "text": "According to him, in the field of digital transformation, Airbus aims to leverage Vietnam's technological capabilities to develop solutions for the aviation industry.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_109a009673#22",
+    "doc_id": "vneconomy_en_20261105_109a009673",
+    "sent_idx": 22,
+    "text": "Regarding human resources, Airbus has implemented several aviation training programs with universities in Vietnam and plans to continue expanding cooperation with other training institutions.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_109a009673#23",
+    "doc_id": "vneconomy_en_20261105_109a009673",
+    "sent_idx": 23,
+    "text": "In addition to aircraft technology innovation, sustainable aviation fuel (SAF) is considered an important factor in the industry's emission reduction roadmap.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_109a009673#24",
+    "doc_id": "vneconomy_en_20261105_109a009673",
+    "sent_idx": 24,
+    "text": "Airbus aircraft are currently certified to use a fuel blend containing 50% SAF, with the goal of achieving 100% usage in the coming years.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_109a009673#25",
+    "doc_id": "vneconomy_en_20261105_109a009673",
+    "sent_idx": 25,
+    "text": "Mr. Wouter van Wersch believes that ensuring SAF supply and reducing costs will determine the ability to expand the application of this fuel type, contributing to achieving the net-zero emission target by 2050.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_109a009673#26",
+    "doc_id": "vneconomy_en_20261105_109a009673",
+    "sent_idx": 26,
+    "text": "Airbus assesses that Vietnam has the potential to become an important market in this field.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_109a009673#27",
+    "doc_id": "vneconomy_en_20261105_109a009673",
+    "sent_idx": 27,
+    "text": "Airbus began its cooperation with Vietnam in 1986, with a Puma helicopter operated by the Vietnam Helicopter Corporation for offshore oil exploration.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_109a009673#28",
+    "doc_id": "vneconomy_en_20261105_109a009673",
+    "sent_idx": 28,
+    "text": "After four decades, the cooperative relationship has expanded to commercial aviation, defense, industry, and space.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_109a009673#29",
+    "doc_id": "vneconomy_en_20261105_109a009673",
+    "sent_idx": 29,
+    "text": "Currently, about 230 Airbus aircraft are being operated by Vietnamese airlines, and more than 220 additional aircraft have been ordered.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_109a009673#30",
+    "doc_id": "vneconomy_en_20261105_109a009673",
+    "sent_idx": 30,
+    "text": "In the space sector, Airbus has collaborated with the Vietnam Academy of Science and Technology (VAST) to launch Vietnam's first Earth observation satellite, VNREDSat-1; the two sides are currently developing VNREDSat-2.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_109a009673#31",
+    "doc_id": "vneconomy_en_20261105_109a009673",
+    "sent_idx": 31,
+    "text": "The group has also delivered C295 military transport aircraft to Vietnam.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_109a009673#32",
+    "doc_id": "vneconomy_en_20261105_109a009673",
+    "sent_idx": 32,
+    "text": "In 2026, cooperation will continue to expand as Vietravel Airlines signs a Letter of Intent to purchase 50 A321neo and A220 aircraft; Vietnam Airlines signs a Memorandum of Understanding to purchase additional A350 aircraft; and the Vietnam Helicopter Corporation orders three more H225 helicopters.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_109a009673#33",
+    "doc_id": "vneconomy_en_20261105_109a009673",
+    "sent_idx": 33,
+    "text": "According to Airbus's forecast, air passenger traffic in Vietnam could increase by an average of 7.7% per year over the next 20 years, double the global average.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_109a009673#34",
+    "doc_id": "vneconomy_en_20261105_109a009673",
+    "sent_idx": 34,
+    "text": "To meet this demand, the Vietnamese market may need about 1,000 new aircraft in the next two decades.",
+    "lang": "en",
+    "is_title": false
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "sent_id": "vneconomy_en_20261027_5d6e0e4310#0",
+    "doc_id": "vneconomy_en_20261027_5d6e0e4310",
+    "sent_idx": 0,
+    "text": "Over $172 mln electromechanical contract awarded for Bac Ai hydropower project",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vneconomy_en_20261027_5d6e0e4310#1",
+    "doc_id": "vneconomy_en_20261027_5d6e0e4310",
+    "sent_idx": 1,
+    "text": "Vietnam Electricity (EVN) and the Voith Hydro Shanghai and Powerchina Zhongnan Consortium (comprising two members: Voith Hydro Shanghai Ltd. and Powerchina Zhongnan Engineering Corporation Limited) on October 26 held in Hanoi a signing ceremony for Package No. 01TB-BA: Provision of Electromechanical Equipment for the Bac Ai Pumped-Storage Hydropower Project in Vietnam's south central Khanh Hoa Province.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261027_5d6e0e4310#2",
+    "doc_id": "vneconomy_en_20261027_5d6e0e4310",
+    "sent_idx": 2,
+    "text": "Package No. 01TB-BA is the main equipment and materials procurement package of the project, conducted through an open international competitive bidding process.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261027_5d6e0e4310#3",
+    "doc_id": "vneconomy_en_20261027_5d6e0e4310",
+    "sent_idx": 3,
+    "text": "The contractor selection was carried out in strict compliance with state bidding regulations and aligned with the requirements of international lending institutions.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261027_5d6e0e4310#4",
+    "doc_id": "vneconomy_en_20261027_5d6e0e4310",
+    "sent_idx": 4,
+    "text": "The qualified and experienced consortium awarded the contract is the Voith Hydro Shanghai and Powerchina Zhongnan Consortium, with a contract value of over VND4.462 trillion (nearly $173 million) and an execution period of 51 months, ensuring adherence to the project's overall timeline.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261027_5d6e0e4310#5",
+    "doc_id": "vneconomy_en_20261027_5d6e0e4310",
+    "sent_idx": 5,
+    "text": "The Bac Ai Pumped-Storage Hydropower Project in Khanh Hoa Province is Vietnam's first pumped-storage hydropower development, incorporated into the National Power Development Plan for the 2021-2030 period with a vision to 2050.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261027_5d6e0e4310#6",
+    "doc_id": "vneconomy_en_20261027_5d6e0e4310",
+    "sent_idx": 6,
+    "text": "EVN's Board of Directors approved the investment project with a capacity of 1,200 MW across four generating units.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261027_5d6e0e4310#7",
+    "doc_id": "vneconomy_en_20261027_5d6e0e4310",
+    "sent_idx": 7,
+    "text": "Financing for the project is sourced from EVN's equity and arranged loans from the German Reconstruction Credit Bank (KfW) and the European Investment Bank (EIB).",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261027_5d6e0e4310#8",
+    "doc_id": "vneconomy_en_20261027_5d6e0e4310",
+    "sent_idx": 8,
+    "text": "Once operational, the project will serve as a peaking power source on the national power system's load curve.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261027_5d6e0e4310#9",
+    "doc_id": "vneconomy_en_20261027_5d6e0e4310",
+    "sent_idx": 9,
+    "text": "It will help flatten peak-to-trough demand fluctuations by pumping water to store energy during off-peak hours, generating power during peak demand periods, and providing frequency regulation and reactive power compensation for the grid.",
+    "lang": "en",
+    "is_title": false
+  }
+]

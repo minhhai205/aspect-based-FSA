@@ -1,0 +1,322 @@
+[
+  {
+    "sent_id": "vneconomy_en_20261111_5905528349#0",
+    "doc_id": "vneconomy_en_20261111_5905528349",
+    "sent_idx": 0,
+    "text": "How bespoke vision can flip the global playbook",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vneconomy_en_20261111_5905528349#1",
+    "doc_id": "vneconomy_en_20261111_5905528349",
+    "sent_idx": 1,
+    "text": "High-end real estate across fast-growing markets like Vietnam has long followed a fairly predictable script.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261111_5905528349#2",
+    "doc_id": "vneconomy_en_20261111_5905528349",
+    "sent_idx": 2,
+    "text": "Massive corporate design conglomerates fly in to dream up the \"big vision\" and sketch the poetic concepts, while smaller, agile studios are handed the hard hats and told to stay in the engine room doing technical drawings.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261111_5905528349#3",
+    "doc_id": "vneconomy_en_20261111_5905528349",
+    "sent_idx": 3,
+    "text": "It's an industry habit built on a polite little myth: that big ideas require massive payrolls, and boutique practices are best kept on the sidelines.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261111_5905528349#4",
+    "doc_id": "vneconomy_en_20261111_5905528349",
+    "sent_idx": 4,
+    "text": "Thankfully, good architecture has never cared much for corporate etiquette.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261111_5905528349#5",
+    "doc_id": "vneconomy_en_20261111_5905528349",
+    "sent_idx": 5,
+    "text": "Look at two recently-completed landmarks in southern Vietnam: the VNG Data Center in Ho Chi Minh City's Tan Thuan Export Processing Zone and Charm Resort Long Hai in Ba Ria - Vung Tau.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261111_5905528349#6",
+    "doc_id": "vneconomy_en_20261111_5905528349",
+    "sent_idx": 6,
+    "text": "Both are up, running, and about as far apart on the real estate spectrum as you can get.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261111_5905528349#7",
+    "doc_id": "vneconomy_en_20261111_5905528349",
+    "sent_idx": 7,
+    "text": "Yet in both cases, the entire spatial philosophy and concept design came from Finko Architect - a borderless, independent studio operating with global standards and sharp on-the-ground intuition.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261111_5905528349#8",
+    "doc_id": "vneconomy_en_20261111_5905528349",
+    "sent_idx": 8,
+    "text": "When it came time for the heavy-duty execution - technical drafting and construction documentation - the investors hired major international consulting firms in Vietnam to build directly off Finko's blueprints.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261111_5905528349#9",
+    "doc_id": "vneconomy_en_20261111_5905528349",
+    "sent_idx": 9,
+    "text": "In short, the usual roles were completely flipped.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261111_5905528349#10",
+    "doc_id": "vneconomy_en_20261111_5905528349",
+    "sent_idx": 10,
+    "text": "The lean, bespoke studio drew the map; the global corporate giants paved the road.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261111_5905528349#11",
+    "doc_id": "vneconomy_en_20261111_5905528349",
+    "sent_idx": 11,
+    "text": "For any developer, the contrast between these two projects is worth a closer look.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261111_5905528349#12",
+    "doc_id": "vneconomy_en_20261111_5905528349",
+    "sent_idx": 12,
+    "text": "The VNG Data Center is essentially a high-security digital fortress, where every square meter answers to strict algorithms, cooling loads, and Uptime Tier III standards.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261111_5905528349#13",
+    "doc_id": "vneconomy_en_20261111_5905528349",
+    "sent_idx": 13,
+    "text": "Charm Resort Long Hai is the exact opposite - a coastal retreat built around sea breezes, quiet emotion, and slowing down.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261111_5905528349#14",
+    "doc_id": "vneconomy_en_20261111_5905528349",
+    "sent_idx": 14,
+    "text": "Designing both well is a bit like writing mission-critical spacecraft code in the morning and composing a symphony by afternoon.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261111_5905528349#15",
+    "doc_id": "vneconomy_en_20261111_5905528349",
+    "sent_idx": 15,
+    "text": "This role reversal wasn't a happy accident or a budget shortcut.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261111_5905528349#16",
+    "doc_id": "vneconomy_en_20261111_5905528349",
+    "sent_idx": 16,
+    "text": "In large-scale development, pretty sketches don't survive construction unless they make engineering sense.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261111_5905528349#17",
+    "doc_id": "vneconomy_en_20261111_5905528349",
+    "sent_idx": 17,
+    "text": "The fact that seasoned international consultants stepped in to document Finko's designs - and preserved the original intent down to the millimeter - says something important.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261111_5905528349#18",
+    "doc_id": "vneconomy_en_20261111_5905528349",
+    "sent_idx": 18,
+    "text": "Behind the poetry of Finko's work sits a crisp structural logic that engineers anywhere in the world immediately recognize and trust.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261111_5905528349#19",
+    "doc_id": "vneconomy_en_20261111_5905528349",
+    "sent_idx": 19,
+    "text": "That kind of fluency doesn't happen overnight.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261111_5905528349#20",
+    "doc_id": "vneconomy_en_20261111_5905528349",
+    "sent_idx": 20,
+    "text": "Before founding Finko, its principal The Phuong Nguyen spent years steering massive commercial developments across borders as Director of DA Group and General Director of Aedas Vietnam.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261111_5905528349#21",
+    "doc_id": "vneconomy_en_20261111_5905528349",
+    "sent_idx": 21,
+    "text": "He knows how global corporate machinery runs, how investor risk is managed, and how complex buildings actually get across the finish line.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261111_5905528349#22",
+    "doc_id": "vneconomy_en_20261111_5905528349",
+    "sent_idx": 22,
+    "text": "Yet when he started Finko, he deliberately walked away from the \"bigger is better\" playbook.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261111_5905528349#23",
+    "doc_id": "vneconomy_en_20261111_5905528349",
+    "sent_idx": 23,
+    "text": "Instead, the studio was modeled closer to Pritzker laureate Peter Zumthor - lean, partner-led, and allergic to bloat.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261111_5905528349#24",
+    "doc_id": "vneconomy_en_20261111_5905528349",
+    "sent_idx": 24,
+    "text": "Mr. Zumthor's career proved a vital economic point for the design world: real value isn't created by filling hundreds of desks, but by the clarity of thought behind every line.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261111_5905528349#25",
+    "doc_id": "vneconomy_en_20261111_5905528349",
+    "sent_idx": 25,
+    "text": "At Finko, corporate discipline isn't there to build bureaucracy; it's just the quiet scaffolding that keeps creative ideas buildable and commercially sound.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261111_5905528349#26",
+    "doc_id": "vneconomy_en_20261111_5905528349",
+    "sent_idx": 26,
+    "text": "That international fluency was sharpened even further during a one-year research residency for the Universal Home project at the Red Dot Design Zentrum in Europe.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261111_5905528349#27",
+    "doc_id": "vneconomy_en_20261111_5905528349",
+    "sent_idx": 27,
+    "text": "Working alongside nine architects from different continents - and industrial heavyweights like Duravit, Knoll, Dorma, Miele, and Poggenpohl - taught the studio how to speak two languages at once: high-concept artistry and ruthless technical precision.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261111_5905528349#28",
+    "doc_id": "vneconomy_en_20261111_5905528349",
+    "sent_idx": 28,
+    "text": "That is why a Finko concept can be handed off to an international engineering team without getting lost in translation or triggering costly redesigns.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261111_5905528349#29",
+    "doc_id": "vneconomy_en_20261111_5905528349",
+    "sent_idx": 29,
+    "text": "Just as importantly, that global perspective is paired with deep local sensitivity.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261111_5905528349#30",
+    "doc_id": "vneconomy_en_20261111_5905528349",
+    "sent_idx": 30,
+    "text": "Tight budgets, stubborn zoning codes, and awkward site footprints aren't treated as excuses to compromise; they are treated as raw material.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261111_5905528349#31",
+    "doc_id": "vneconomy_en_20261111_5905528349",
+    "sent_idx": 31,
+    "text": "Whether decoding the humming arteries of a data center or the quiet rhythm of a beachfront villa, Finko designs architecture that responds instinctively to local climate, terrain, and culture while meeting international investment standards.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261111_5905528349#32",
+    "doc_id": "vneconomy_en_20261111_5905528349",
+    "sent_idx": 32,
+    "text": "Perhaps what keeps the firm steadier than most is its view on technology.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261111_5905528349#33",
+    "doc_id": "vneconomy_en_20261111_5905528349",
+    "sent_idx": 33,
+    "text": "Having worked through the era of hand-drafting boards, early CAD software, and now AI, Finko has never fallen for the hype that new software automatically creates better real estate.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261111_5905528349#34",
+    "doc_id": "vneconomy_en_20261111_5905528349",
+    "sent_idx": 34,
+    "text": "Tools come and go; good space stays honest.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261111_5905528349#35",
+    "doc_id": "vneconomy_en_20261111_5905528349",
+    "sent_idx": 35,
+    "text": "Scale, human proportion, natural light, and dignity obey the exact same rules whether a wall was chiseled by hand 2,000 years ago or generated by an algorithm tomorrow morning.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261111_5905528349#36",
+    "doc_id": "vneconomy_en_20261111_5905528349",
+    "sent_idx": 36,
+    "text": "AI can speed up a drawing, sure, but it still can't tell an investor how a space will make a customer feel.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261111_5905528349#37",
+    "doc_id": "vneconomy_en_20261111_5905528349",
+    "sent_idx": 37,
+    "text": "Today, as enterprise data hums through the VNG Data Center and travelers unwind along the coast at Charm Resort Long Hai, the verdict is already cast in concrete, steel, and glass.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261111_5905528349#38",
+    "doc_id": "vneconomy_en_20261111_5905528349",
+    "sent_idx": 38,
+    "text": "World-class architectural leadership is no longer reserved for firms with the biggest global headcounts.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261111_5905528349#39",
+    "doc_id": "vneconomy_en_20261111_5905528349",
+    "sent_idx": 39,
+    "text": "Sometimes, the sharpest competitive edge comes from a focused studio with a global mindset, local fluency, and the nerve to flip the script.",
+    "lang": "en",
+    "is_title": false
+  }
+]

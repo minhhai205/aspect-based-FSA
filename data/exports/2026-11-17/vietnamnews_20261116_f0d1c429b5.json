@@ -1,0 +1,210 @@
+[
+  {
+    "sent_id": "vietnamnews_20261116_f0d1c429b5#0",
+    "doc_id": "vietnamnews_20261116_f0d1c429b5",
+    "sent_idx": 0,
+    "text": "VN-Index rallies for second day on several large-cap stocks",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261116_f0d1c429b5#1",
+    "doc_id": "vietnamnews_20261116_f0d1c429b5",
+    "sent_idx": 1,
+    "text": "HÀ NỘI - Benchmark indices were mixed on Monday, with the VN-Index gaining for the second day in a row despite lower liquidity and persistent selling pressure.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261116_f0d1c429b5#2",
+    "doc_id": "vietnamnews_20261116_f0d1c429b5",
+    "sent_idx": 2,
+    "text": "On the Hochiminh Stock Exchange (HoSE), the VN-Index rose 1.96 points to 1,736.89 points.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261116_f0d1c429b5#3",
+    "doc_id": "vietnamnews_20261116_f0d1c429b5",
+    "sent_idx": 3,
+    "text": "The index briefly climbed to an intraday high of 1,753.01 points before losing momentum and retreating towards its opening level of 1,733.71 points.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261116_f0d1c429b5#4",
+    "doc_id": "vietnamnews_20261116_f0d1c429b5",
+    "sent_idx": 4,
+    "text": "Market breadth was negative, as the number of decliners surpassed that of gainers by 220 to 101.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261116_f0d1c429b5#5",
+    "doc_id": "vietnamnews_20261116_f0d1c429b5",
+    "sent_idx": 5,
+    "text": "Market liquidity also weakened, with trading value decreasing to nearly VNĐ12 trillion (US$466 million).",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261116_f0d1c429b5#6",
+    "doc_id": "vietnamnews_20261116_f0d1c429b5",
+    "sent_idx": 6,
+    "text": "Large-cap stocks showed pronounced divergence during the session.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261116_f0d1c429b5#7",
+    "doc_id": "vietnamnews_20261116_f0d1c429b5",
+    "sent_idx": 7,
+    "text": "Shares linked to Vingroup advanced, providing support for the benchmark, while losses among several major banks limited the market's gains.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261116_f0d1c429b5#8",
+    "doc_id": "vietnamnews_20261116_f0d1c429b5",
+    "sent_idx": 8,
+    "text": "VIC of Vingroup rose 2.06 per cent, making it the biggest positive contributor to the VN-Index, adding 8.23 points.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261116_f0d1c429b5#9",
+    "doc_id": "vietnamnews_20261116_f0d1c429b5",
+    "sent_idx": 9,
+    "text": "Its contribution was significantly larger than that of other stocks in the market.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261116_f0d1c429b5#10",
+    "doc_id": "vietnamnews_20261116_f0d1c429b5",
+    "sent_idx": 10,
+    "text": "Vinhomes (VHM) also gained 0.48 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261116_f0d1c429b5#11",
+    "doc_id": "vietnamnews_20261116_f0d1c429b5",
+    "sent_idx": 11,
+    "text": "Some stocks in other sectors recorded gains, including Masan Consumer (MCH), which gained 5.26 per cent, BAF Viet Nam Agriculture (BAF), which advanced 1.29 per cent, Dabaco (DBC), up 2.18 per cent, and Sacombank (SBT), which rose 0.47 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261116_f0d1c429b5#12",
+    "doc_id": "vietnamnews_20261116_f0d1c429b5",
+    "sent_idx": 12,
+    "text": "Property stocks did not move uniformly.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261116_f0d1c429b5#13",
+    "doc_id": "vietnamnews_20261116_f0d1c429b5",
+    "sent_idx": 13,
+    "text": "Khang Dien House (KDH) fell 3.82 per cent, while Hoang Huy Investment Financial Services (TCH) lost 3.33 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261116_f0d1c429b5#14",
+    "doc_id": "vietnamnews_20261116_f0d1c429b5",
+    "sent_idx": 14,
+    "text": "Dat Xanh Group (DXG) declined 1.35 per cent, CEO Group (CEO) dropped 2.5 per cent, Phat Dat Real Estate Development Corporation (PDR) slipped 1.3 per cent, and Novaland (NVL) edged down 0.48 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261116_f0d1c429b5#15",
+    "doc_id": "vietnamnews_20261116_f0d1c429b5",
+    "sent_idx": 15,
+    "text": "Banking stocks posted the strongest downward pressure on the benchmark.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261116_f0d1c429b5#16",
+    "doc_id": "vietnamnews_20261116_f0d1c429b5",
+    "sent_idx": 16,
+    "text": "Vietcombank (VCB) fell 1.12 per cent, VPB of VPBank declined 1.81 per cent, and Techcombank (TCB) lost 2.52 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261116_f0d1c429b5#17",
+    "doc_id": "vietnamnews_20261116_f0d1c429b5",
+    "sent_idx": 17,
+    "text": "Other major lenders also closed lower, with VietinBank (TCG) down 0.95 per cent, BIDV (BID) falling 0.63 per cent, MBBank (MBB) declining 0.78 per cent, and HDBank (HDB) losing 1.33 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261116_f0d1c429b5#18",
+    "doc_id": "vietnamnews_20261116_f0d1c429b5",
+    "sent_idx": 18,
+    "text": "Securities stocks remained under pressure.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261116_f0d1c429b5#19",
+    "doc_id": "vietnamnews_20261116_f0d1c429b5",
+    "sent_idx": 19,
+    "text": "SSI Securities Corporation (SSI) fell 1.73 per cent, VIX Securities (VIX) declined 1.92 per cent, Vietcap Securities (VCI) lost 2.04 per cent, Saigon - Hanoi Securities (SHS) dropped 1.52 per cent, and VNDirect Securities (VND) slipped 1.38 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261116_f0d1c429b5#20",
+    "doc_id": "vietnamnews_20261116_f0d1c429b5",
+    "sent_idx": 20,
+    "text": "On the Hanoi Stock Exchange (HNX), the HN-Index finished slightly lower at 254.91 points.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261116_f0d1c429b5#21",
+    "doc_id": "vietnamnews_20261116_f0d1c429b5",
+    "sent_idx": 21,
+    "text": "Providing support to the market, foreign investors were net buyers on HoSE, purchasing a net value of VNĐ21 billion.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261116_f0d1c429b5#22",
+    "doc_id": "vietnamnews_20261116_f0d1c429b5",
+    "sent_idx": 22,
+    "text": "Asean Securities (ASEANSC) said the VN-Index was showing signs of a short-term recovery.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261116_f0d1c429b5#23",
+    "doc_id": "vietnamnews_20261116_f0d1c429b5",
+    "sent_idx": 23,
+    "text": "Under its neutral scenario, the firm expected the index to fluctuate within a narrow range at the beginning of the session before stock performance becomes more differentiated towards the close.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261116_f0d1c429b5#24",
+    "doc_id": "vietnamnews_20261116_f0d1c429b5",
+    "sent_idx": 24,
+    "text": "ASEANSC advised short-term investors to maintain a moderate portfolio allocation and avoid chasing prices during market rebounds.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261116_f0d1c429b5#25",
+    "doc_id": "vietnamnews_20261116_f0d1c429b5",
+    "sent_idx": 25,
+    "text": "It identified support at 1,730-1,740 points and resistance at 1,750-1,760 points, with the market likely to trade within this range. - BIZHUB/VNS",
+    "lang": "en",
+    "is_title": false
+  }
+]

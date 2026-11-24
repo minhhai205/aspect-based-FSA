@@ -1,0 +1,202 @@
+[
+  {
+    "sent_id": "vietnamnews_20261112_5797ad7378#0",
+    "doc_id": "vietnamnews_20261112_5797ad7378",
+    "sent_idx": 0,
+    "text": "Explainer: Why Việt Nam is buying US dollars and how the move affects the market?",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261112_5797ad7378#1",
+    "doc_id": "vietnamnews_20261112_5797ad7378",
+    "sent_idx": 1,
+    "text": "HÀ NỘI - The State Bank of Vietnam (SBV) has introduced two foreign exchange operations to inject more Vietnamese đồng liquidity into the banking system, ease funding pressures and support lower interest rates, while also strengthening foreign exchange reserves.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261112_5797ad7378#2",
+    "doc_id": "vietnamnews_20261112_5797ad7378",
+    "sent_idx": 2,
+    "text": "The measures, including a six-month currency swap and outright US dollar purchases, come amid strong credit growth and rising seasonal demand for funding towards the end of the year.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261112_5797ad7378#3",
+    "doc_id": "vietnamnews_20261112_5797ad7378",
+    "sent_idx": 3,
+    "text": "On November 6, the SBV announced a US$2 billion foreign exchange swap programme with a maturity of 182 days.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261112_5797ad7378#4",
+    "doc_id": "vietnamnews_20261112_5797ad7378",
+    "sent_idx": 4,
+    "text": "Under the arrangement, the SBV buys US dollars from commercial banks at VNĐ24,399 per dollar and commits to selling them back after six months at VNĐ24,704.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261112_5797ad7378#5",
+    "doc_id": "vietnamnews_20261112_5797ad7378",
+    "sent_idx": 5,
+    "text": "The programme supplied nearly VNĐ50 trillion to the banking system on November 9, according to Nguyễn Linh Phương, deputy director of the SBV's Monetary Policy Department.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261112_5797ad7378#6",
+    "doc_id": "vietnamnews_20261112_5797ad7378",
+    "sent_idx": 6,
+    "text": "The six-month maturity means banks can access Vietnamese đồng funding until May 2027, covering both year-end settlement and the Tết (Lunar New Year) period.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261112_5797ad7378#7",
+    "doc_id": "vietnamnews_20261112_5797ad7378",
+    "sent_idx": 7,
+    "text": "The SBV introduced a second mechanism from November 11, purchasing US dollars outright at VNĐ25,500 per dollar.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261112_5797ad7378#8",
+    "doc_id": "vietnamnews_20261112_5797ad7378",
+    "sent_idx": 8,
+    "text": "Transactions take place every Monday and Wednesday, with eligible sellers being credit institutions and foreign bank branches holding positive foreign exchange positions.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261112_5797ad7378#9",
+    "doc_id": "vietnamnews_20261112_5797ad7378",
+    "sent_idx": 9,
+    "text": "The maximum purchase from each institution is determined by the amount needed to bring its foreign currency position back to balance.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261112_5797ad7378#10",
+    "doc_id": "vietnamnews_20261112_5797ad7378",
+    "sent_idx": 10,
+    "text": "The key difference is that the swap involves an agreement to return the dollars after 182 days, whereas outright purchases carry no commitment to sell the foreign currency back.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261112_5797ad7378#11",
+    "doc_id": "vietnamnews_20261112_5797ad7378",
+    "sent_idx": 11,
+    "text": "Consequently, every US$1 billion purchased outright at VNĐ25,500 supplies approximately VNĐ25.5 trillion to the banking system.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261112_5797ad7378#12",
+    "doc_id": "vietnamnews_20261112_5797ad7378",
+    "sent_idx": 12,
+    "text": "Why is the SBV injecting more Vietnamese đồng ?",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261112_5797ad7378#13",
+    "doc_id": "vietnamnews_20261112_5797ad7378",
+    "sent_idx": 13,
+    "text": "Liquidity pressures have increased amid strong credit demand and seasonal funding requirements.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261112_5797ad7378#14",
+    "doc_id": "vietnamnews_20261112_5797ad7378",
+    "sent_idx": 14,
+    "text": "According to the Vietnam Banks Association, the SBV injected a net VNĐ28.13 trillion through open market operations (OMO) in the final week of October.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261112_5797ad7378#15",
+    "doc_id": "vietnamnews_20261112_5797ad7378",
+    "sent_idx": 15,
+    "text": "Interbank overnight interest rates reached 5.79 per cent on October 30, while the three-month rate climbed to 7.47 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261112_5797ad7378#16",
+    "doc_id": "vietnamnews_20261112_5797ad7378",
+    "sent_idx": 16,
+    "text": "Meanwhile, outstanding credit reached approximately VNĐ20.9 quadrillion as of November 4, up 12.55 per cent from the end of 2025.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261112_5797ad7378#17",
+    "doc_id": "vietnamnews_20261112_5797ad7378",
+    "sent_idx": 17,
+    "text": "Additional Vietnamese đồng liquidity could help banks manage funding costs, reduce reliance on more expensive borrowing and support the Government's efforts to lower lending rates.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261112_5797ad7378#18",
+    "doc_id": "vietnamnews_20261112_5797ad7378",
+    "sent_idx": 18,
+    "text": "The measures also give the SBV greater flexibility to adjust OMO operations as liquidity conditions change.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261112_5797ad7378#19",
+    "doc_id": "vietnamnews_20261112_5797ad7378",
+    "sent_idx": 19,
+    "text": "The additional Vietnamese đồng funding could ease pressure on banks' balance sheets and create room for lower deposit and lending rates.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261112_5797ad7378#20",
+    "doc_id": "vietnamnews_20261112_5797ad7378",
+    "sent_idx": 20,
+    "text": "According to the Vietnam Banks Association, all 46 commercial banks had reduced listed deposit rates for maturities of six months or longer by at least 0.5 percentage points as of November 4. Around 22 banks had also lowered lending rates.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261112_5797ad7378#21",
+    "doc_id": "vietnamnews_20261112_5797ad7378",
+    "sent_idx": 21,
+    "text": "However, additional liquidity does not automatically translate into cheaper loans.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261112_5797ad7378#22",
+    "doc_id": "vietnamnews_20261112_5797ad7378",
+    "sent_idx": 22,
+    "text": "The impact will depend on banks' funding costs, credit demand and willingness to pass on savings to borrowers.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261112_5797ad7378#23",
+    "doc_id": "vietnamnews_20261112_5797ad7378",
+    "sent_idx": 23,
+    "text": "Outright dollar purchases could also help rebuild foreign exchange reserves which is estimated at $87.6 billion as of June 18, 2026, below the peak of nearly $112 billion in early 2022.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261112_5797ad7378#24",
+    "doc_id": "vietnamnews_20261112_5797ad7378",
+    "sent_idx": 24,
+    "text": "The SBV's purchase rate of VNĐ25,500 could provide support when the Vietnamese đồng strengthens, while allowing the central bank to accumulate foreign currency. - BIZHUB/VNS",
+    "lang": "en",
+    "is_title": false
+  }
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "sent_id": "vietnamnews_20261117_b12122bb92#0",
+    "doc_id": "vietnamnews_20261117_b12122bb92",
+    "sent_idx": 0,
+    "text": "VNR500 2026: Việt Nam's leading enterprises revealed.",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261117_b12122bb92#1",
+    "doc_id": "vietnamnews_20261117_b12122bb92",
+    "sent_idx": 1,
+    "text": "HÀ NỘI - Vietnam Report, in collaboration with VietNamNet newspaper, officially announced the VNR500 - Top 500 Largest Enterprises in Vietnam 2026 on Tuesday, highlighting the performance and growth of the country's leading businesses.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_b12122bb92#2",
+    "doc_id": "vietnamnews_20261117_b12122bb92",
+    "sent_idx": 2,
+    "text": "According to VNR500 2026 statistics, all three major sectors - industry and construction, services, and agriculture, forestry and fisheries - recorded an increase in enterprise representation compared with last year.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_b12122bb92#3",
+    "doc_id": "vietnamnews_20261117_b12122bb92",
+    "sent_idx": 3,
+    "text": "Industry and construction maintained its leading position, while services continued to expand and agriculture, forestry and fisheries retained a modest share.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_b12122bb92#4",
+    "doc_id": "vietnamnews_20261117_b12122bb92",
+    "sent_idx": 4,
+    "text": "In terms of revenue, finance, electricity, and minerals and petroleum led the ranking, generating approximately VNĐ2,085 trillion (US$81 billion), VNĐ1,918 trillion and VNĐ1,760 trillion, respectively.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_b12122bb92#5",
+    "doc_id": "vietnamnews_20261117_b12122bb92",
+    "sent_idx": 5,
+    "text": "Most sectors maintained positive growth, with electricity recording an impressive 86.6 per cent increase year-on-year, although food and beverage and retail experienced declines.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_b12122bb92#6",
+    "doc_id": "vietnamnews_20261117_b12122bb92",
+    "sent_idx": 6,
+    "text": "Business profitability also improved this year.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_b12122bb92#7",
+    "doc_id": "vietnamnews_20261117_b12122bb92",
+    "sent_idx": 7,
+    "text": "Average return on assets (ROA) increased from 6.1 per cent last year to 6.7 per cent, return on sales (ROS) rose from 7.3 per cent to 8.3 per cent, and return on equity (ROE) rebounded significantly from 13.3 per cent to 18.8 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_b12122bb92#8",
+    "doc_id": "vietnamnews_20261117_b12122bb92",
+    "sent_idx": 8,
+    "text": "FDI enterprises continued to lead in ROA and ROS, state-owned enterprises recorded a strong recovery in ROE, while private enterprises improved across all three indicators.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_b12122bb92#9",
+    "doc_id": "vietnamnews_20261117_b12122bb92",
+    "sent_idx": 9,
+    "text": "The 2026 edition marks the 20th anniversary of VNR500, a journey that began in 2007 and has accompanied Việt Nam's economic transformation through major milestones, including WTO accession, global economic crises, digital transformation and the emergence of artificial intelligence (AI).",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_b12122bb92#10",
+    "doc_id": "vietnamnews_20261117_b12122bb92",
+    "sent_idx": 10,
+    "text": "Over two decades, VNR500 has featured 2,725 enterprises, with 73 maintaining their presence across all 20 editions.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_b12122bb92#11",
+    "doc_id": "vietnamnews_20261117_b12122bb92",
+    "sent_idx": 11,
+    "text": "These figures reflect both the continuity of the ranking and the resilience of enterprises that have sustained their leading positions through different stages of economic development.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_b12122bb92#12",
+    "doc_id": "vietnamnews_20261117_b12122bb92",
+    "sent_idx": 12,
+    "text": "The combined revenue of VNR500 enterprises has grown nearly ninefold, from VNĐ1.2 quadrillion in 2007 to VNĐ10.4 quadrillion this year, surpassing the 7.6-fold increase in Việt Nam's nominal GDP over the same period.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_b12122bb92#13",
+    "doc_id": "vietnamnews_20261117_b12122bb92",
+    "sent_idx": 13,
+    "text": "Meanwhile, the country's total import-export turnover expanded from $111 billion to more than $1 trillion in the first ten months of this year. - VNS",
+    "lang": "en",
+    "is_title": false
+  }
+]

@@ -1,0 +1,226 @@
+[
+  {
+    "sent_id": "vneconomy_en_20261103_07052162c1#0",
+    "doc_id": "vneconomy_en_20261103_07052162c1",
+    "sent_idx": 0,
+    "text": "Post-Quantum Security: Navigating Three Data Protection Turning Points and Cost Optimization",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_07052162c1#1",
+    "doc_id": "vneconomy_en_20261103_07052162c1",
+    "sent_idx": 1,
+    "text": "In November 3, 2026, in Hanoi, Tap chi Kinh te Viet Nam / Vietnam Economic Times (VnEconomy), in collaboration with Quantropi, a Canadian pioneer in post-quantum security technology and companion partner VNet, hosted a Senior Executive Roundtable themed: \"Post-Quantum Cybersecurity: Data Governance & Implementation Roadmap for Enterprises and Organizations in Vietnam.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_07052162c1#2",
+    "doc_id": "vneconomy_en_20261103_07052162c1",
+    "sent_idx": 2,
+    "text": "The event drew high-level participation from diplomatic missions, government regulatory agencies, key industry associations, major technology conglomerates, and leading banking institutions.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_07052162c1#3",
+    "doc_id": "vneconomy_en_20261103_07052162c1",
+    "sent_idx": 3,
+    "text": "In his opening remarks, Mr. Dao Quang Binh, General Secretary of the Vietnam Economic Association, Vice President of the Editorial Board, and General Managing Editor of Tap chi Kinh te Viet Nam /Vietnam Economic Times / VnEconomy, emphasized that data governance and security have transcended purely technical domains to become top strategic priorities on the agendas of Boards of Directors and Executive Management across organizations.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_07052162c1#4",
+    "doc_id": "vneconomy_en_20261103_07052162c1",
+    "sent_idx": 4,
+    "text": "\"Throughout the digital transformation journey of recent years, we have consistently affirmed that data and trade secrets are vital assets for every organization.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_07052162c1#5",
+    "doc_id": "vneconomy_en_20261103_07052162c1",
+    "sent_idx": 5,
+    "text": "Data dictates competitive capability, customer experience, and ultimately the survival of an enterprise or a bank,\" Mr. Binh stated.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_07052162c1#6",
+    "doc_id": "vneconomy_en_20261103_07052162c1",
+    "sent_idx": 6,
+    "text": "However, entering 2026, the governance landscape for digital assets faces unprecedented pressure driven by three major structural turning points.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_07052162c1#7",
+    "doc_id": "vneconomy_en_20261103_07052162c1",
+    "sent_idx": 7,
+    "text": "The first turning point stems from an increasingly stringent legal framework, as 2026 marks Vietnam's official enforcement of both the Personal Data Protection Law and the Law on Cybersecurity.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_07052162c1#8",
+    "doc_id": "vneconomy_en_20261103_07052162c1",
+    "sent_idx": 8,
+    "text": "Crucially, on July 6, 2026, Deputy Prime Minister Phan Van Giang signed Prime Ministerial Decision No. 125/QD-TTg approving the Scheme on \"Development of Quantum-Resistant Cryptographic Systems for the 2026-2035 Period\", aiming to enhance national cyber defense capabilities, safeguard digital sovereignty, and meet the demands of a booming digital economy.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_07052162c1#9",
+    "doc_id": "vneconomy_en_20261103_07052162c1",
+    "sent_idx": 9,
+    "text": "For businesses, data protection is no longer merely a supporting IT task, but a mandatory legal obligation and a core strategic focus for Boards of Directors, Executive Management, Chief Information Officers (CIOs), and Chief Information Security Officers (CISOs).",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_07052162c1#10",
+    "doc_id": "vneconomy_en_20261103_07052162c1",
+    "sent_idx": 10,
+    "text": "Any data leakage or operational interruption threatens to inflict heavy financial damages while directly impacting corporate brand equity and legal compliance.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_07052162c1#11",
+    "doc_id": "vneconomy_en_20261103_07052162c1",
+    "sent_idx": 11,
+    "text": "The second turning point is the surge of Artificial Intelligence (AI) weaponized by threat actors, completely altering the cybersecurity landscape.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_07052162c1#12",
+    "doc_id": "vneconomy_en_20261103_07052162c1",
+    "sent_idx": 12,
+    "text": "\"If attacks previously required substantial time and effort, AI now enables adversaries to automate vulnerability scanning, drastically shortening the window from flaw discovery to system compromise.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_07052162c1#13",
+    "doc_id": "vneconomy_en_20261103_07052162c1",
+    "sent_idx": 13,
+    "text": "Attack speeds are now measured in seconds, whereas human response capacity remains inherently limited,\" noted Mr. Binh.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_07052162c1#14",
+    "doc_id": "vneconomy_en_20261103_07052162c1",
+    "sent_idx": 14,
+    "text": "He cited the historic exploit targeting the Binance exchange on October 29, 2026, which resulted in the theft of $6.3 billion, a record loss in global cryptocurrency history.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_07052162c1#15",
+    "doc_id": "vneconomy_en_20261103_07052162c1",
+    "sent_idx": 15,
+    "text": "Furthermore, in October, two critical vulnerabilities named \"PHP2Shell\" were disclosed in technology powering nearly 70% of websites worldwide, allowing hackers to execute unauthorized code on unpatched servers to seize administrative control and exfiltrate sensitive data.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_07052162c1#16",
+    "doc_id": "vneconomy_en_20261103_07052162c1",
+    "sent_idx": 16,
+    "text": "The third turning point posing an existential threat to all existing security infrastructure is the risk posed by quantum computing technology.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_07052162c1#17",
+    "doc_id": "vneconomy_en_20261103_07052162c1",
+    "sent_idx": 17,
+    "text": "The greatest hazard of quantum technology is not a distant concern 5 or 10 years away, but an active threat known as \"Harvest Now, Decrypt Later.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_07052162c1#18",
+    "doc_id": "vneconomy_en_20261103_07052162c1",
+    "sent_idx": 18,
+    "text": "\"Threat actors can stealthily intercept and duplicate sensitive data batches, banking transactions, proprietary technologies, or customer records today, storing them until quantum computers become powerful enough to decrypt them entirely,\" Mr. Binh shared.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_07052162c1#19",
+    "doc_id": "vneconomy_en_20261103_07052162c1",
+    "sent_idx": 19,
+    "text": "Faced with this challenging backdrop, the concept of Post-Quantum Cryptography (PQC) has emerged as an essential shield to safeguard digital assets for the next 10 to 30 years.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_07052162c1#20",
+    "doc_id": "vneconomy_en_20261103_07052162c1",
+    "sent_idx": 20,
+    "text": "However, from an economic management and corporate governance perspective, VnEconomy's leadership expressed deep empathy with executives' core concerns.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_07052162c1#21",
+    "doc_id": "vneconomy_en_20261103_07052162c1",
+    "sent_idx": 21,
+    "text": "The fundamental question facing Boards of Directors and Chief Financial Officers (CFOs) today is not how advanced a technology is, but rather: How do we protect systems against emerging threats without disrupting existing operations?",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_07052162c1#22",
+    "doc_id": "vneconomy_en_20261103_07052162c1",
+    "sent_idx": 22,
+    "text": "How can we upgrade security without replacing expensive hardware infrastructure wholesale?",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_07052162c1#23",
+    "doc_id": "vneconomy_en_20261103_07052162c1",
+    "sent_idx": 23,
+    "text": "And how do we structure the investment roadmap so costs remain strictly under control?",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_07052162c1#24",
+    "doc_id": "vneconomy_en_20261103_07052162c1",
+    "sent_idx": 24,
+    "text": "According to Mr. Binh, enterprises cannot simply discard millions of edge devices or tear down core systems such as legacy network architecture or Core Banking engines.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_07052162c1#25",
+    "doc_id": "vneconomy_en_20261103_07052162c1",
+    "sent_idx": 25,
+    "text": "Instead, the market urgently demands flexible, software-defined solutions that upgrade security much like deploying a new software layer on top of existing platforms to maximize ROI on every capital expenditure dollar.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_07052162c1#26",
+    "doc_id": "vneconomy_en_20261103_07052162c1",
+    "sent_idx": 26,
+    "text": "This imperative drove Tap chi Kinh te Viet Nam / Vietnam Economic Times / VnEconomy to partner with Quantropi, a Canadian pioneer in post-quantum security technology and VNet Vietnam for the November 3 roundtable.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_07052162c1#27",
+    "doc_id": "vneconomy_en_20261103_07052162c1",
+    "sent_idx": 27,
+    "text": "Under the core action principle of \"Assess first, test boundaries, measure efficiency, then deploy , \" the forum offered an open, candid, and pragmatic dialogue platform for executive leaders, paving the way for actionable data security solutions for the Vietnamese business community in 2026.",
+    "lang": "en",
+    "is_title": false
+  }
+]

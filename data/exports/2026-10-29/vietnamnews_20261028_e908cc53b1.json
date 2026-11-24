@@ -1,0 +1,178 @@
+[
+  {
+    "sent_id": "vietnamnews_20261028_e908cc53b1#0",
+    "doc_id": "vietnamnews_20261028_e908cc53b1",
+    "sent_idx": 0,
+    "text": "Lawmakers seek clearer rules for stock exchange restructuring",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261028_e908cc53b1#1",
+    "doc_id": "vietnamnews_20261028_e908cc53b1",
+    "sent_idx": 1,
+    "text": "HÀ NỘI - Lawmakers have called for clearer rules governing the restructuring of stock exchanges and measures to facilitate foreign investment as the National Assembly (NA) considers amendments to the Law on Securities.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_e908cc53b1#2",
+    "doc_id": "vietnamnews_20261028_e908cc53b1",
+    "sent_idx": 2,
+    "text": "The proposals were raised during a plenary discussion on October 28 at the ongoing second session of the 16th National Assembly, chaired by NA President Trần Thanh Mẫn and conducted by Vice President Nguyễn Thị Hồng.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_e908cc53b1#3",
+    "doc_id": "vietnamnews_20261028_e908cc53b1",
+    "sent_idx": 3,
+    "text": "Lawmakers said Việt Nam's stock market had made significant contributions to the economy over the past 30 years, becoming an important channel for businesses to raise capital.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_e908cc53b1#4",
+    "doc_id": "vietnamnews_20261028_e908cc53b1",
+    "sent_idx": 4,
+    "text": "The market was officially upgraded by FTSE Russell in 2026, while bank credit currently accounts for around 145 per cent of gross domestic product (GDP).",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_e908cc53b1#5",
+    "doc_id": "vietnamnews_20261028_e908cc53b1",
+    "sent_idx": 5,
+    "text": "Trần Anh Tuấn, an NA deputy from HCM City, supported the proposal to avoid permanently fixing the stock exchange structure as a single exchange with subsidiaries, instead allowing the Prime Minister to decide on the specific model.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_e908cc53b1#6",
+    "doc_id": "vietnamnews_20261028_e908cc53b1",
+    "sent_idx": 6,
+    "text": "However, drawing on international experience in Singapore, the Republic of Korea and Japan, Tuấn proposed adding four guiding principles to Article 43 of the draft law.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_e908cc53b1#7",
+    "doc_id": "vietnamnews_20261028_e908cc53b1",
+    "sent_idx": 7,
+    "text": "These include ensuring unified and continuous trading infrastructure; organising market surveillance independently from the exchange's commercial activities; ensuring restructuring does not disrupt trading or undermine the rights of market participants and investors; and requiring a detailed proposal and impact assessment before adopting a new model.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_e908cc53b1#8",
+    "doc_id": "vietnamnews_20261028_e908cc53b1",
+    "sent_idx": 8,
+    "text": "Tuấn also questioned the requirement for the Prime Minister to issue a decision on the exchange model within one year after the law takes effect.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_e908cc53b1#9",
+    "doc_id": "vietnamnews_20261028_e908cc53b1",
+    "sent_idx": 9,
+    "text": "If the current structure continues to operate effectively, he said, there should be no automatic requirement to change it.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_e908cc53b1#10",
+    "doc_id": "vietnamnews_20261028_e908cc53b1",
+    "sent_idx": 10,
+    "text": "He also highlighted foreign ownership limits, commonly known as foreign room, as a major obstacle to attracting overseas investment in Vietnamese equities.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_e908cc53b1#11",
+    "doc_id": "vietnamnews_20261028_e908cc53b1",
+    "sent_idx": 11,
+    "text": "Tuấn noted that an international index provider had not included Việt Nam on its watchlist for a potential market upgrade during its six-month assessment this year, while restrictions on foreign ownership in some stocks remained a significant barrier.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_e908cc53b1#12",
+    "doc_id": "vietnamnews_20261028_e908cc53b1",
+    "sent_idx": 12,
+    "text": "Drawing on Thailand's experience, Tuấn proposed exploring non-voting depositary receipts as a way to facilitate foreign investment in companies that have reached their foreign ownership limits.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_e908cc53b1#13",
+    "doc_id": "vietnamnews_20261028_e908cc53b1",
+    "sent_idx": 13,
+    "text": "Under this approach, foreign investors could receive dividends and other financial benefits associated with the underlying shares without obtaining voting rights.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_e908cc53b1#14",
+    "doc_id": "vietnamnews_20261028_e908cc53b1",
+    "sent_idx": 14,
+    "text": "This could enable companies to attract additional foreign capital without changing their governance structures or voting control.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_e908cc53b1#15",
+    "doc_id": "vietnamnews_20261028_e908cc53b1",
+    "sent_idx": 15,
+    "text": "\"The instrument is already provided for under the Law on Enterprises and Decree 153/2020/ND-CP, which assigns issuance to an exchange subsidiary, but it has yet to be carried out in practice,\" Tuấn said.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_e908cc53b1#16",
+    "doc_id": "vietnamnews_20261028_e908cc53b1",
+    "sent_idx": 16,
+    "text": "He called for the authorities to clarify which entity would issue these instruments under the new exchange structure and for the Government to issue detailed implementation guidance, allowing foreign investors to access stocks that have reached their ownership limits.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_e908cc53b1#17",
+    "doc_id": "vietnamnews_20261028_e908cc53b1",
+    "sent_idx": 17,
+    "text": "Trần Đình Gia, a deputy from Hà Tĩnh Province, supported the proposal to give the PM authority to determine the exchanges' organisational model, ownership structure, functions, rights and obligations based on recommendations from the Minister of Finance.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_e908cc53b1#18",
+    "doc_id": "vietnamnews_20261028_e908cc53b1",
+    "sent_idx": 18,
+    "text": "However, Gia called for clearer transitional arrangements in the event of restructuring.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_e908cc53b1#19",
+    "doc_id": "vietnamnews_20261028_e908cc53b1",
+    "sent_idx": 19,
+    "text": "He said the law should establish appropriate mechanisms for managing State capital, assets, personnel, contracts and related obligations during the transition.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_e908cc53b1#20",
+    "doc_id": "vietnamnews_20261028_e908cc53b1",
+    "sent_idx": 20,
+    "text": "These arrangements should ensure the stability and continuity of market operations, preventing disruption to trading and essential services.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_e908cc53b1#21",
+    "doc_id": "vietnamnews_20261028_e908cc53b1",
+    "sent_idx": 21,
+    "text": "Under the draft law, the Vietnam Stock Exchange and its existing subsidiaries would continue operating under the current Law on Securities until the PM's decision on the new model takes effect. - BIZHUB/VNS",
+    "lang": "en",
+    "is_title": false
+  }
+]

@@ -1,0 +1,170 @@
+[
+  {
+    "sent_id": "vietnamnews_20261117_5e2f1feef4#0",
+    "doc_id": "vietnamnews_20261117_5e2f1feef4",
+    "sent_idx": 0,
+    "text": "Banks with sufficient funding base to benefit from new safety ratio policy",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261117_5e2f1feef4#1",
+    "doc_id": "vietnamnews_20261117_5e2f1feef4",
+    "sent_idx": 1,
+    "text": "HÀ NỘI - To benefit from a new State Bank of Vietnam (SBV) regulation on expanding lending headroom, banks must ensure they have a sufficient funding base to support credit demand without incurring excessive liquidity risk, experts have said.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_5e2f1feef4#2",
+    "doc_id": "vietnamnews_20261117_5e2f1feef4",
+    "sent_idx": 2,
+    "text": "The SBV recently issued Circular 50/2026/TT-NHNN on safety limits and prudential ratios for banking operations.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_5e2f1feef4#3",
+    "doc_id": "vietnamnews_20261117_5e2f1feef4",
+    "sent_idx": 3,
+    "text": "The new policy, which will take effect early next month, raises the loan-to-deposit ratio (LDR) cap to 95 per cent from the current 85 per cent, while starting a phased transition towards Basel III liquidity standards, including by introducing a liquidity coverage ratio (LCR) and net stable funding ratio (NSFR).",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_5e2f1feef4#4",
+    "doc_id": "vietnamnews_20261117_5e2f1feef4",
+    "sent_idx": 4,
+    "text": "According to analysts, raising the LDR cap does not mean that every bank can immediately expand its lending.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_5e2f1feef4#5",
+    "doc_id": "vietnamnews_20261117_5e2f1feef4",
+    "sent_idx": 5,
+    "text": "The actual impact of this policy will depend on each bank's specific funding structure, its LDR as determined by the new calculation method and its ability to meet the newly introduced liquidity requirements.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_5e2f1feef4#6",
+    "doc_id": "vietnamnews_20261117_5e2f1feef4",
+    "sent_idx": 6,
+    "text": "Banks that have a sufficient funding base to support credit demand without incurring excessive liquidity risk might take advantage of the expanded lending headroom under the new regulation.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_5e2f1feef4#7",
+    "doc_id": "vietnamnews_20261117_5e2f1feef4",
+    "sent_idx": 7,
+    "text": "In contrast, some banks may find themselves hitting the LDR cap due to a contraction in their funding base when the new regulations come into effect.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_5e2f1feef4#8",
+    "doc_id": "vietnamnews_20261117_5e2f1feef4",
+    "sent_idx": 8,
+    "text": "According to ACB Securities Company (ACBS) estimates based on data as of June 30, the new formula could cause the LDR of the surveyed banks to rise by anywhere from three to 13 percentage points.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_5e2f1feef4#9",
+    "doc_id": "vietnamnews_20261117_5e2f1feef4",
+    "sent_idx": 9,
+    "text": "ACBS said that under the new formula, VPBank's LDR stood at approximately 96.4 per cent, exceeding the 95 per cent threshold.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_5e2f1feef4#10",
+    "doc_id": "vietnamnews_20261117_5e2f1feef4",
+    "sent_idx": 10,
+    "text": "VIB's LDR was estimated at 93 per cent, while VietinBank's LDR was around 92.8 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_5e2f1feef4#11",
+    "doc_id": "vietnamnews_20261117_5e2f1feef4",
+    "sent_idx": 11,
+    "text": "In a simulation run by the securities company, VPBank surpassed its limit, and VIB and VietinBank only had about 2 and 2.2 percentage points of headroom remaining, respectively, before hitting the new LDR cap.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_5e2f1feef4#12",
+    "doc_id": "vietnamnews_20261117_5e2f1feef4",
+    "sent_idx": 12,
+    "text": "The firm also observed that the LDR increased most significantly at banks where deposits held at other credit institutions exceed their borrowings from such institutions, or where the scale of both interbank lending and borrowing is substantial.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_5e2f1feef4#13",
+    "doc_id": "vietnamnews_20261117_5e2f1feef4",
+    "sent_idx": 13,
+    "text": "Specifically, the LDR rose by 13.3 percentage points for VIB, 10.1 percentage points for VietinBank and 7.7 percentage points for VPBank.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_5e2f1feef4#14",
+    "doc_id": "vietnamnews_20261117_5e2f1feef4",
+    "sent_idx": 14,
+    "text": "However, even when there is still regulatory headroom, banks face another challenge of raising the funds for additional lending as raising the LDR cap does not, in itself, generate new capital.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_5e2f1feef4#15",
+    "doc_id": "vietnamnews_20261117_5e2f1feef4",
+    "sent_idx": 15,
+    "text": "According to Nguyễn Khánh, founder of economic training institution Hedge Academy, since the implementation of the LCR and the NSFR, banks have been required to keep their LDR at or below 95 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_5e2f1feef4#16",
+    "doc_id": "vietnamnews_20261117_5e2f1feef4",
+    "sent_idx": 16,
+    "text": "Only by simultaneously meeting the 100 per cent threshold for both the LCR and NSFR can a bank be exempted from this LDR limit.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_5e2f1feef4#17",
+    "doc_id": "vietnamnews_20261117_5e2f1feef4",
+    "sent_idx": 17,
+    "text": "Khánh said that this creates a scenario in which banks must work to grow their loan portfolios, deposits, high-quality liquid assets, stable funding sources and LDR, all while their ability to expand total deposits through new fundraising is limited.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_5e2f1feef4#18",
+    "doc_id": "vietnamnews_20261117_5e2f1feef4",
+    "sent_idx": 18,
+    "text": "At the same time, the pressure on banks to mobilise capital will not automatically vanish the moment the circular takes effect on December 1, Khánh said.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_5e2f1feef4#19",
+    "doc_id": "vietnamnews_20261117_5e2f1feef4",
+    "sent_idx": 19,
+    "text": "If banks cannot expand their deposit base quickly enough, the pressure will continue to manifest in maturity mismatches, rising costs of capital and higher deposit interest rates.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_5e2f1feef4#20",
+    "doc_id": "vietnamnews_20261117_5e2f1feef4",
+    "sent_idx": 20,
+    "text": "A high level of deposit rates, along with a persistent gap between the growth rates of assets and funding, is likely to continue throughout the transition period, he noted. - BIZHUB/VNS",
+    "lang": "en",
+    "is_title": false
+  }
+]

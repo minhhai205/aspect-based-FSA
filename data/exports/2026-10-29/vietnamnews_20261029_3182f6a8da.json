@@ -1,0 +1,122 @@
+[
+  {
+    "sent_id": "vietnamnews_20261029_3182f6a8da#0",
+    "doc_id": "vietnamnews_20261029_3182f6a8da",
+    "sent_idx": 0,
+    "text": "Ministry proposes expanding English disclosure rules for securities sector",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261029_3182f6a8da#1",
+    "doc_id": "vietnamnews_20261029_3182f6a8da",
+    "sent_idx": 1,
+    "text": "HÀ NỘI - The Ministry of Finance has proposed expanding the obligation to disclose securities-related information in English and incorporate requirements for sustainability (ESG) reporting for listed companies.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261029_3182f6a8da#2",
+    "doc_id": "vietnamnews_20261029_3182f6a8da",
+    "sent_idx": 2,
+    "text": "The proposal was under a draft circular that will replace Circular No. 96/2020/TT-BTC on governing information disclosure in the securities market.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261029_3182f6a8da#3",
+    "doc_id": "vietnamnews_20261029_3182f6a8da",
+    "sent_idx": 3,
+    "text": "According to the ministry, after more than five years of implementation of Circular No 96/2020/TT-BTC, the market has evolved in terms of scale, operational methods, and regulatory requirements.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261029_3182f6a8da#4",
+    "doc_id": "vietnamnews_20261029_3182f6a8da",
+    "sent_idx": 4,
+    "text": "The introduction of a central counterparty clearing house (CCP) mechanism, a centralised information disclosure system, an increase in English-language disclosures, and the promotion of sustainability reporting necessitate further refinement of the existing regulations.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261029_3182f6a8da#5",
+    "doc_id": "vietnamnews_20261029_3182f6a8da",
+    "sent_idx": 5,
+    "text": "Besides, the draft circular also aims to incorporate specific provisions from the Law on Securities and related legal documents, aligning with the objective as outlined in the Securities Market Development Strategy to 2030 of enhancing the quality of information disclosure, increasing transparency, and moving toward international standards.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261029_3182f6a8da#6",
+    "doc_id": "vietnamnews_20261029_3182f6a8da",
+    "sent_idx": 6,
+    "text": "Under the proposed plan, all affected entities must fully comply with the English-language disclosure requirement no later than January 1, 2028.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261029_3182f6a8da#7",
+    "doc_id": "vietnamnews_20261029_3182f6a8da",
+    "sent_idx": 7,
+    "text": "In the event of any discrepancy between the Vietnamese and English versions of the disclosed information, the Vietnamese version shall prevail, and the disclosing entity is responsible for promptly issuing a correction and re-disclosing the information.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261029_3182f6a8da#8",
+    "doc_id": "vietnamnews_20261029_3182f6a8da",
+    "sent_idx": 8,
+    "text": "In addition to the English-language disclosure requirement, the draft introduces specific provisions and a dedicated appendix regarding sustainability reporting, encompassing environmental, social, and governance (ESG) factors.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261029_3182f6a8da#9",
+    "doc_id": "vietnamnews_20261029_3182f6a8da",
+    "sent_idx": 9,
+    "text": "Under the proposal, if a company fails to disclose one or more required indicators, it must provide the reasons and causes for such omission, along with a plan and roadmap for implementation in the next reporting period unless the company is already subject to specific reporting requirements under specialised laws.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261029_3182f6a8da#10",
+    "doc_id": "vietnamnews_20261029_3182f6a8da",
+    "sent_idx": 10,
+    "text": "The draft also proposes setting deadlines for the disclosure of annual reports by public companies at 120 days following the end of the fiscal year and reports on corporate governance at 30 days following the end of the fiscal year.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261029_3182f6a8da#11",
+    "doc_id": "vietnamnews_20261029_3182f6a8da",
+    "sent_idx": 11,
+    "text": "Furthermore, the drafting authority proposes refining disclosure obligations regarding the use of capital raised through bond offerings and the explanation of fluctuations in business performance.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261029_3182f6a8da#12",
+    "doc_id": "vietnamnews_20261029_3182f6a8da",
+    "sent_idx": 12,
+    "text": "It also seeks to adjust the thresholds and procedures for disclosing transactions involving insiders, related parties, and major shareholders.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261029_3182f6a8da#13",
+    "doc_id": "vietnamnews_20261029_3182f6a8da",
+    "sent_idx": 13,
+    "text": "To support the CCP, the draft introduces additional disclosure obligations for the Vietnam Securities Clearing Corporation and intermediary entities participating in clearing and settlement activities.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261029_3182f6a8da#14",
+    "doc_id": "vietnamnews_20261029_3182f6a8da",
+    "sent_idx": 14,
+    "text": "The information to be disclosed would include operational status, IT incidents, solvency, and any other issues that could impact clearing and settlement operations in the market. - BIZHUB/VNS",
+    "lang": "en",
+    "is_title": false
+  }
+]

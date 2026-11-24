@@ -1,0 +1,266 @@
+[
+  {
+    "sent_id": "vietnamnews_20261030_13a9776771#0",
+    "doc_id": "vietnamnews_20261030_13a9776771",
+    "sent_idx": 0,
+    "text": "Việt Nam's financial centre seeks interim banking fix ahead of November launch",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261030_13a9776771#1",
+    "doc_id": "vietnamnews_20261030_13a9776771",
+    "sent_idx": 1,
+    "text": "HCM CITY - Việt Nam's central bank is considering allowing investors at the country's new international financial centre in HCM City to conduct certain capital transactions through existing banks while the centre works to admit its first member bank, in a bid to clear obstacles to its planned November launch.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261030_13a9776771#2",
+    "doc_id": "vietnamnews_20261030_13a9776771",
+    "sent_idx": 2,
+    "text": "Phạm Thanh Hà, deputy governor of the State Bank of Việt Nam, said the central bank was studying a transitional mechanism to help businesses carry out transactions before the Việt Nam International Financial Centre in HCM City (VIFC-HCMC) has its own member bank.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261030_13a9776771#3",
+    "doc_id": "vietnamnews_20261030_13a9776771",
+    "sent_idx": 3,
+    "text": "The proposal would allow certain transactions to be conducted through accounts at banks, credit institutions and foreign bank branches already operating in Việt Nam.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261030_13a9776771#4",
+    "doc_id": "vietnamnews_20261030_13a9776771",
+    "sent_idx": 4,
+    "text": "The mechanism remains under consideration and would require safeguards to ensure that transactions could be clearly identified and capital flows properly monitored, according to the State Bank.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261030_13a9776771#5",
+    "doc_id": "vietnamnews_20261030_13a9776771",
+    "sent_idx": 5,
+    "text": "The issue was raised at a recent meeting between Deputy Prime Minister Nguyễn Văn Thắng and centre members and potential investors, held on the sidelines of the Autumn Economic Forum 2026 from October 26-29.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261030_13a9776771#6",
+    "doc_id": "vietnamnews_20261030_13a9776771",
+    "sent_idx": 6,
+    "text": "Businesses and financial institutions said the absence of a member bank was complicating their ability to open accounts, receive and transfer funds, and settle payments.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261030_13a9776771#7",
+    "doc_id": "vietnamnews_20261030_13a9776771",
+    "sent_idx": 7,
+    "text": "One business proposed allowing investors to use direct investment capital accounts at banks outside the centre during the transition period to complete transactions in the fourth quarter of 2026.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261030_13a9776771#8",
+    "doc_id": "vietnamnews_20261030_13a9776771",
+    "sent_idx": 8,
+    "text": "Thắng called on the centre to move beyond establishing its organisational structure and attracting members to developing markets and executing actual transactions.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261030_13a9776771#9",
+    "doc_id": "vietnamnews_20261030_13a9776771",
+    "sent_idx": 9,
+    "text": "He asked its executive body to work with members to identify feasible deals for implementation in November, with clear investment partners, financing plans and legal requirements.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261030_13a9776771#10",
+    "doc_id": "vietnamnews_20261030_13a9776771",
+    "sent_idx": 10,
+    "text": "He also called for licensing procedures to be accelerated so the centre could admit its first member bank in November.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261030_13a9776771#11",
+    "doc_id": "vietnamnews_20261030_13a9776771",
+    "sent_idx": 11,
+    "text": "Financial institutions also called for regulatory changes to facilitate banking and investment services at the centre.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261030_13a9776771#12",
+    "doc_id": "vietnamnews_20261030_13a9776771",
+    "sent_idx": 12,
+    "text": "United Overseas Bank (Vietnam) Limited proposed reconsidering credit growth limits for foreign bank branches based on the financial capacity of their parent banks.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261030_13a9776771#13",
+    "doc_id": "vietnamnews_20261030_13a9776771",
+    "sent_idx": 13,
+    "text": "Military Commercial Joint Stock Bank (MB) called for the prompt completion of bank licensing rules and a broader range of investment banking services, including capital-arrangement advice, bond underwriting, custody and asset servicing.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261030_13a9776771#14",
+    "doc_id": "vietnamnews_20261030_13a9776771",
+    "sent_idx": 14,
+    "text": "These services would help businesses raise and manage capital, broadening the centre's role beyond conventional bank lending.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261030_13a9776771#15",
+    "doc_id": "vietnamnews_20261030_13a9776771",
+    "sent_idx": 15,
+    "text": "Sovico Group proposed developing aviation finance to attract aircraft leasing and financing transactions, while Gemadept Holdings Maritime Investment and Development Co called for an integrated data system linking seaports, logistics operators, customs authorities and banks to support maritime finance.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261030_13a9776771#16",
+    "doc_id": "vietnamnews_20261030_13a9776771",
+    "sent_idx": 16,
+    "text": "Investment funds and businesses also raised concerns about regulations governing investment funds, asset transfers and taxation.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261030_13a9776771#17",
+    "doc_id": "vietnamnews_20261030_13a9776771",
+    "sent_idx": 17,
+    "text": "Deputy Minister of Finance Nguyễn Thị Bích Ngọc said financial products should be introduced in stages, taking account of their risk levels and the authorities' ability to supervise them.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261030_13a9776771#18",
+    "doc_id": "vietnamnews_20261030_13a9776771",
+    "sent_idx": 18,
+    "text": "Regulatory and supervisory standards should be aligned with international practices, she said.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261030_13a9776771#19",
+    "doc_id": "vietnamnews_20261030_13a9776771",
+    "sent_idx": 19,
+    "text": "Thắng instructed ministries and agencies to classify proposals according to their legal basis and the authority responsible for resolving them.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261030_13a9776771#20",
+    "doc_id": "vietnamnews_20261030_13a9776771",
+    "sent_idx": 20,
+    "text": "Issues that could be addressed under existing regulations should be handled promptly, while those requiring legal amendments should have clear implementation plans.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261030_13a9776771#21",
+    "doc_id": "vietnamnews_20261030_13a9776771",
+    "sent_idx": 21,
+    "text": "The SBV will lead work on member banks, accounts, foreign exchange, capital transfers and payments.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261030_13a9776771#22",
+    "doc_id": "vietnamnews_20261030_13a9776771",
+    "sent_idx": 22,
+    "text": "The Ministry of Finance will handle issues involving investment funds, asset management, capital markets and taxation.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261030_13a9776771#23",
+    "doc_id": "vietnamnews_20261030_13a9776771",
+    "sent_idx": 23,
+    "text": "The push to resolve operational obstacles comes as VIFC-HCMC seeks to attract international capital and establish itself as a centre for financial services.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261030_13a9776771#24",
+    "doc_id": "vietnamnews_20261030_13a9776771",
+    "sent_idx": 24,
+    "text": "The centre announced its first 10 official members on October 28, with investment commitments totalling US$2.7 billion by 2027 and $3 billion by 2030.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261030_13a9776771#25",
+    "doc_id": "vietnamnews_20261030_13a9776771",
+    "sent_idx": 25,
+    "text": "Their investment plans cover infrastructure, energy, education, maritime services, logistics, financial technology, payment solutions and commodity trading.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261030_13a9776771#26",
+    "doc_id": "vietnamnews_20261030_13a9776771",
+    "sent_idx": 26,
+    "text": "The commitments represent planned investment, rather than capital already disbursed.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261030_13a9776771#27",
+    "doc_id": "vietnamnews_20261030_13a9776771",
+    "sent_idx": 27,
+    "text": "Turning them into actual transactions will depend partly on whether investors can access the banking, payment and regulatory services needed to move money and complete deals.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261030_13a9776771#28",
+    "doc_id": "vietnamnews_20261030_13a9776771",
+    "sent_idx": 28,
+    "text": "Thắng called for the centre to focus initially on areas with clear market demand, including capital markets, investment funds, asset management, project finance, green finance, infrastructure and logistics.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261030_13a9776771#29",
+    "doc_id": "vietnamnews_20261030_13a9776771",
+    "sent_idx": 29,
+    "text": "He also urged the financial centres in HCM City and Đà Nẵng to develop complementary roles and avoid fragmenting resources.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261030_13a9776771#30",
+    "doc_id": "vietnamnews_20261030_13a9776771",
+    "sent_idx": 30,
+    "text": "The Government wants the centre's performance to be assessed by actual transactions, international capital raised and disbursed, service quality and market transparency, rather than simply the number of members or licences issued.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261030_13a9776771#31",
+    "doc_id": "vietnamnews_20261030_13a9776771",
+    "sent_idx": 31,
+    "text": "The proposed interim banking mechanism could help address an immediate obstacle, but it has yet to be approved.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261030_13a9776771#32",
+    "doc_id": "vietnamnews_20261030_13a9776771",
+    "sent_idx": 32,
+    "text": "The November target will test whether VIFC-HCMC can establish workable financial services while maintaining regulatory oversight and investor protection. - VNS",
+    "lang": "en",
+    "is_title": false
+  }
+]

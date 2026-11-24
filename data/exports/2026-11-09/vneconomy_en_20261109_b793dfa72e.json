@@ -1,0 +1,402 @@
+[
+  {
+    "sent_id": "vneconomy_en_20261109_b793dfa72e#0",
+    "doc_id": "vneconomy_en_20261109_b793dfa72e",
+    "sent_idx": 0,
+    "text": "Critical last link in semiconductor value chain",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vneconomy_en_20261109_b793dfa72e#1",
+    "doc_id": "vneconomy_en_20261109_b793dfa72e",
+    "sent_idx": 1,
+    "text": "Vietnam is seeing more domestic companies enter the semiconductor value chain, from research and design to product development.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261109_b793dfa72e#2",
+    "doc_id": "vneconomy_en_20261109_b793dfa72e",
+    "sent_idx": 2,
+    "text": "Yet a key gap remains at the downstream end: how to integrate locally-developed chips into products and manufacture them at sufficient scale.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261109_b793dfa72e#3",
+    "doc_id": "vneconomy_en_20261109_b793dfa72e",
+    "sent_idx": 3,
+    "text": "According to the National Steering Committee for Semiconductor Industry Development, Vietnam now participates in most stages of the global semiconductor value chain, but domestic capabilities remain concentrated in chip design and packaging and testing.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261109_b793dfa72e#4",
+    "doc_id": "vneconomy_en_20261109_b793dfa72e",
+    "sent_idx": 4,
+    "text": "Data from the Ministry of Science and Technology shows that as of early 2026, Vietnam had around 50-70 chip design companies and approximately 7,000 integrated circuit design engineers.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261109_b793dfa72e#5",
+    "doc_id": "vneconomy_en_20261109_b793dfa72e",
+    "sent_idx": 5,
+    "text": "The country had also attracted 241 FDI projects in the semiconductor sector, with total registered capital in excess of $14.2 billion, while the semiconductor market was valued at more than $21 billion.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261109_b793dfa72e#6",
+    "doc_id": "vneconomy_en_20261109_b793dfa72e",
+    "sent_idx": 6,
+    "text": "Vietnam has also developed engineering capabilities across the design process, from concept development and architecture to integrated circuit design and specialized areas such as physical design and design for test (DFT).",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261109_b793dfa72e#7",
+    "doc_id": "vneconomy_en_20261109_b793dfa72e",
+    "sent_idx": 7,
+    "text": "Some domestic companies are targeting advanced chip designs using 3nm and 2nm processes.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261109_b793dfa72e#8",
+    "doc_id": "vneconomy_en_20261109_b793dfa72e",
+    "sent_idx": 8,
+    "text": "In June, the National Center for Pilot Semiconductor Chip Manufacturing Support was launched, to connect domestic design demand with the global manufacturing ecosystem.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261109_b793dfa72e#9",
+    "doc_id": "vneconomy_en_20261109_b793dfa72e",
+    "sent_idx": 9,
+    "text": "The Law on Digital Technology Industry 2025 also introduced incentives and support for training, R&D, pilot production, and investment in chip design equipment.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261109_b793dfa72e#10",
+    "doc_id": "vneconomy_en_20261109_b793dfa72e",
+    "sent_idx": 10,
+    "text": "These policies are helping expand domestic semiconductor design and product development capabilities.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261109_b793dfa72e#11",
+    "doc_id": "vneconomy_en_20261109_b793dfa72e",
+    "sent_idx": 11,
+    "text": "However, as the number of companies and design capabilities grows, another gap is becoming increasingly apparent: the market for chips developed by Vietnamese companies.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261109_b793dfa72e#12",
+    "doc_id": "vneconomy_en_20261109_b793dfa72e",
+    "sent_idx": 12,
+    "text": "This is not simply the final stage of the value chain, but a critical link in building the broader semiconductor ecosystem.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261109_b793dfa72e#13",
+    "doc_id": "vneconomy_en_20261109_b793dfa72e",
+    "sent_idx": 13,
+    "text": "\"Vietnam is not only about chip design, assembly and testing; there is also the question of how chips are applied in different products,\" said Dr. Nguyen Van Truong, Director of Software and AI at VinMotion.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261109_b793dfa72e#14",
+    "doc_id": "vneconomy_en_20261109_b793dfa72e",
+    "sent_idx": 14,
+    "text": "VinMotion is not a chip R&D company, he explained, but approaches the semiconductor sector as a chip user, specifically for humanoid robots targeting the services, household, and security sectors.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261109_b793dfa72e#15",
+    "doc_id": "vneconomy_en_20261109_b793dfa72e",
+    "sent_idx": 15,
+    "text": "He emphasized that alongside manufacturing capabilities, electronics development, and a high-quality workforce, Vietnam needs industries capable of using large volumes of chips, such as automotive, consumer electronics, and robotics.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261109_b793dfa72e#16",
+    "doc_id": "vneconomy_en_20261109_b793dfa72e",
+    "sent_idx": 16,
+    "text": "The country needs to build an end-to-end value chain, from R&D through to finished products for end-users, he believes.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261109_b793dfa72e#17",
+    "doc_id": "vneconomy_en_20261109_b793dfa72e",
+    "sent_idx": 17,
+    "text": "In reality, however, a gap remains between the two ends of the supply chain.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261109_b793dfa72e#18",
+    "doc_id": "vneconomy_en_20261109_b793dfa72e",
+    "sent_idx": 18,
+    "text": "One side focuses on researching and developing chips, while companies using chips tend to choose products that are already available or proven in the market.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261109_b793dfa72e#19",
+    "doc_id": "vneconomy_en_20261109_b793dfa72e",
+    "sent_idx": 19,
+    "text": "The two sides have yet to establish a sufficiently strong link to create a cycle connecting product demand, chip development, application, and product completion.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261109_b793dfa72e#20",
+    "doc_id": "vneconomy_en_20261109_b793dfa72e",
+    "sent_idx": 20,
+    "text": "According to Dr. Truong, closing this gap could significantly strengthen Vietnam's domestic capacity to research, develop, and use chips.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261109_b793dfa72e#21",
+    "doc_id": "vneconomy_en_20261109_b793dfa72e",
+    "sent_idx": 21,
+    "text": "Importantly, the challenge does not lie solely with chip companies.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261109_b793dfa72e#22",
+    "doc_id": "vneconomy_en_20261109_b793dfa72e",
+    "sent_idx": 22,
+    "text": "Manufacturers of end-products also need specific issues and applications that they can address jointly during the development process, rather than simply selecting components already available on the market.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261109_b793dfa72e#23",
+    "doc_id": "vneconomy_en_20261109_b793dfa72e",
+    "sent_idx": 23,
+    "text": "At a recent semiconductor industry event, Associate Professor Nguyen Ai Viet, Director of the Institute of Generative AI Technology and Education (IGNITE), said Vietnam is not yet a strong brand in the global semiconductor supply chain.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261109_b793dfa72e#24",
+    "doc_id": "vneconomy_en_20261109_b793dfa72e",
+    "sent_idx": 24,
+    "text": "Therefore, \"it is not the case that simply producing in Vietnam will automatically attract companies or buyers, even if the price is lower,\" he emphasized.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261109_b793dfa72e#25",
+    "doc_id": "vneconomy_en_20261109_b793dfa72e",
+    "sent_idx": 25,
+    "text": "Mr. Nguyen Phuc, Director of SoC Turnkey Solutions and Sales APAC at Global Semiconductor Microelectronics (GSME), said this is one of the key challenges facing Vietnam's semiconductor supply chain.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261109_b793dfa72e#26",
+    "doc_id": "vneconomy_en_20261109_b793dfa72e",
+    "sent_idx": 26,
+    "text": "Foreign corporations currently have a major presence across the supply chain.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261109_b793dfa72e#27",
+    "doc_id": "vneconomy_en_20261109_b793dfa72e",
+    "sent_idx": 27,
+    "text": "For Vietnamese companies to participate more deeply, however, the solution cannot come only from startups or business leaders.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261109_b793dfa72e#28",
+    "doc_id": "vneconomy_en_20261109_b793dfa72e",
+    "sent_idx": 28,
+    "text": "The broader business support ecosystem must also create opportunities for domestic companies to enter the chain.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261109_b793dfa72e#29",
+    "doc_id": "vneconomy_en_20261109_b793dfa72e",
+    "sent_idx": 29,
+    "text": "The market currently faces a paradox: Vietnamese companies need components, but components from international suppliers are readily available, proven, and competitively-priced.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261109_b793dfa72e#30",
+    "doc_id": "vneconomy_en_20261109_b793dfa72e",
+    "sent_idx": 30,
+    "text": "As a result, switching to products from a new chip supplier is not at all straightforward.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261109_b793dfa72e#31",
+    "doc_id": "vneconomy_en_20261109_b793dfa72e",
+    "sent_idx": 31,
+    "text": "This highlights the difference between having the capability to make chips and having a market for them.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261109_b793dfa72e#32",
+    "doc_id": "vneconomy_en_20261109_b793dfa72e",
+    "sent_idx": 32,
+    "text": "A company may be technically capable of developing a semiconductor product, but integrating that product into an existing device, production line, or operating system requires that it meet additional requirements related to reliability, cost, supply capacity, and integration.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261109_b793dfa72e#33",
+    "doc_id": "vneconomy_en_20261109_b793dfa72e",
+    "sent_idx": 33,
+    "text": "\"Vietnam is currently on the radar of many corporations, but it largely remains an alternative option - a second destination rather than a top priority,\" Mr. Phuc said.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261109_b793dfa72e#34",
+    "doc_id": "vneconomy_en_20261109_b793dfa72e",
+    "sent_idx": 34,
+    "text": "\"To strengthen its position, Vietnam needs to focus on improving supply chain quality, technological capabilities, and the quality of its workforce.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261109_b793dfa72e#35",
+    "doc_id": "vneconomy_en_20261109_b793dfa72e",
+    "sent_idx": 35,
+    "text": "Once these factors improve, Vietnam can move from a backup option to a more important link in corporations' strategies.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261109_b793dfa72e#36",
+    "doc_id": "vneconomy_en_20261109_b793dfa72e",
+    "sent_idx": 36,
+    "text": "The challenge for Vietnam's semiconductor industry is not simply whether it can make a chip, but where that chip will be used, what problem it will resolve, and at what scale it can be manufactured.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261109_b793dfa72e#37",
+    "doc_id": "vneconomy_en_20261109_b793dfa72e",
+    "sent_idx": 37,
+    "text": "In other words, chip development needs to be closely connected to end-products, creating stronger links between semiconductor companies and industries that need chips.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261109_b793dfa72e#38",
+    "doc_id": "vneconomy_en_20261109_b793dfa72e",
+    "sent_idx": 38,
+    "text": "Associate Professor Viet said Vietnam has introduced a range of important policies in recent years to promote the semiconductor industry, including workforce training, research support, and efforts to strengthen technological autonomy.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261109_b793dfa72e#39",
+    "doc_id": "vneconomy_en_20261109_b793dfa72e",
+    "sent_idx": 39,
+    "text": "However, these policies still tend to reflect a supply-driven mindset.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261109_b793dfa72e#40",
+    "doc_id": "vneconomy_en_20261109_b793dfa72e",
+    "sent_idx": 40,
+    "text": "He considers this a strategic bottleneck.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261109_b793dfa72e#41",
+    "doc_id": "vneconomy_en_20261109_b793dfa72e",
+    "sent_idx": 41,
+    "text": "In a high-tech industry such as semiconductors, creating a new product is merely a necessary condition.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261109_b793dfa72e#42",
+    "doc_id": "vneconomy_en_20261109_b793dfa72e",
+    "sent_idx": 42,
+    "text": "The sufficient condition is a stable market for that product.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261109_b793dfa72e#43",
+    "doc_id": "vneconomy_en_20261109_b793dfa72e",
+    "sent_idx": 43,
+    "text": "Without one, even heavily-funded projects may struggle to remain viable over the long term.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261109_b793dfa72e#44",
+    "doc_id": "vneconomy_en_20261109_b793dfa72e",
+    "sent_idx": 44,
+    "text": "Vietnam therefore needs to shift its development approach from a supply-driven model toward a balance between supply and demand, the Associate Professor said.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261109_b793dfa72e#45",
+    "doc_id": "vneconomy_en_20261109_b793dfa72e",
+    "sent_idx": 45,
+    "text": "Several application areas could serve as catalysts for Vietnam's semiconductor industry.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261109_b793dfa72e#46",
+    "doc_id": "vneconomy_en_20261109_b793dfa72e",
+    "sent_idx": 46,
+    "text": "Internet of Things (IoT) devices and robotics, for example, are estimated to have the potential to create markets worth $5-$12 billion, while agriculture, with its significant demand for environmental sensors, could represent a market of $1-$3 billion.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261109_b793dfa72e#47",
+    "doc_id": "vneconomy_en_20261109_b793dfa72e",
+    "sent_idx": 47,
+    "text": "Mr. Phuc, meanwhile, emphasized that the gap between the research lab and the factory, and between chip developers and chip users, is a critical link that must be narrowed if Vietnam is to build a semiconductor value chain with deeper participation from domestic companies.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261109_b793dfa72e#48",
+    "doc_id": "vneconomy_en_20261109_b793dfa72e",
+    "sent_idx": 48,
+    "text": "To build a genuine semiconductor and electronics supply chain, Vietnam therefore needs domestic companies to participate in more stages of the value chain, rather than allowing most of the value to remain with foreign corporations.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261109_b793dfa72e#49",
+    "doc_id": "vneconomy_en_20261109_b793dfa72e",
+    "sent_idx": 49,
+    "text": "Developing electronics, robotics, automotive, and industrial products capable of using components developed by Vietnamese companies could provide an important source of demand, giving the domestic chip ecosystem the market it needs to grow.",
+    "lang": "en",
+    "is_title": false
+  }
+]

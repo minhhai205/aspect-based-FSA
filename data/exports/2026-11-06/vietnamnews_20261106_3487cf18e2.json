@@ -1,0 +1,162 @@
+[
+  {
+    "sent_id": "vietnamnews_20261106_3487cf18e2#0",
+    "doc_id": "vietnamnews_20261106_3487cf18e2",
+    "sent_idx": 0,
+    "text": "VN-Index falls as profit-taking weighs on large-cap stocks",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261106_3487cf18e2#1",
+    "doc_id": "vietnamnews_20261106_3487cf18e2",
+    "sent_idx": 1,
+    "text": "HÀ NỘI - Việt Nam's benchmark VN-Index fell on Friday as selling pressure intensified near the 1,750-point resistance level, with losses in major property, banking and technology stocks outweighing renewed net buying by foreign investors.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_3487cf18e2#2",
+    "doc_id": "vietnamnews_20261106_3487cf18e2",
+    "sent_idx": 2,
+    "text": "The Hochiminh Stock Exchange's index closed at 1,725.36 points, down 0.88 per cent, reversing gains made over the previous two sessions.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_3487cf18e2#3",
+    "doc_id": "vietnamnews_20261106_3487cf18e2",
+    "sent_idx": 3,
+    "text": "The pullback came after the market opened higher and briefly moved above 1,750 points, extending the recovery from Wednesday's strong rebound.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_3487cf18e2#4",
+    "doc_id": "vietnamnews_20261106_3487cf18e2",
+    "sent_idx": 4,
+    "text": "However, profit-taking emerged as the index approached the resistance area, pushing it into a narrow but volatile trading range around 1,750 points during the morning session.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_3487cf18e2#5",
+    "doc_id": "vietnamnews_20261106_3487cf18e2",
+    "sent_idx": 5,
+    "text": "Selling pressure continued in the afternoon, leaving the VN-Index in negative territory despite some buying returning to the market.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_3487cf18e2#6",
+    "doc_id": "vietnamnews_20261106_3487cf18e2",
+    "sent_idx": 6,
+    "text": "Market breadth weakened, with 440 stocks declining against 281 advancing.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_3487cf18e2#7",
+    "doc_id": "vietnamnews_20261106_3487cf18e2",
+    "sent_idx": 7,
+    "text": "Within the VN30 basket tracking the top 30 shares by market capitalisation and liquidity, 19 stocks fell, 10 rose and one remained unchanged.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_3487cf18e2#8",
+    "doc_id": "vietnamnews_20261106_3487cf18e2",
+    "sent_idx": 8,
+    "text": "Vingroup (VIC) was the biggest drag on the benchmark, subtracting 5.61 points.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_3487cf18e2#9",
+    "doc_id": "vietnamnews_20261106_3487cf18e2",
+    "sent_idx": 9,
+    "text": "Vinhomes (VHM), Vietcombank (VCB) and Masan Consumer (MCH) also weighed heavily, together with VIC taking more than 9.54 points off the index.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_3487cf18e2#10",
+    "doc_id": "vietnamnews_20261106_3487cf18e2",
+    "sent_idx": 10,
+    "text": "This contrasted with Thursday's session, when VIC rose 1.71 per cent and contributed 6.54 points to the VN-Index, helping it close higher despite weakness in several other large-cap stocks.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_3487cf18e2#11",
+    "doc_id": "vietnamnews_20261106_3487cf18e2",
+    "sent_idx": 11,
+    "text": "Information technology was the worst-performing sector, falling 3.66 per cent on average, led by declines in FPT Corp (FPT), CMC Corp (CMG) and Elcom Group (ELC) of 3.97 per cent, 2.22 per cent and 3.65 per cent, respectively.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_3487cf18e2#12",
+    "doc_id": "vietnamnews_20261106_3487cf18e2",
+    "sent_idx": 12,
+    "text": "In contrast, the HNX-Index on the Hanoi Stock Exchange edged up 0.05 per cent, to end at 256.73.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_3487cf18e2#13",
+    "doc_id": "vietnamnews_20261106_3487cf18e2",
+    "sent_idx": 13,
+    "text": "Trading value on the two exchanges slightly declined, totalling nearly VNĐ16.2 trillion, with more than 855 million shares changing hands.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_3487cf18e2#14",
+    "doc_id": "vietnamnews_20261106_3487cf18e2",
+    "sent_idx": 14,
+    "text": "Foreign investors returned to net buying, purchasing shares worth nearly VNĐ394 billion on the Hochiminh Stock Exchange.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_3487cf18e2#15",
+    "doc_id": "vietnamnews_20261106_3487cf18e2",
+    "sent_idx": 15,
+    "text": "They also recorded net purchases of more than VNĐ46 billion on the Hà Nội bourse.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_3487cf18e2#16",
+    "doc_id": "vietnamnews_20261106_3487cf18e2",
+    "sent_idx": 16,
+    "text": "The return of foreign buying provided some support, but failed to offset selling pressure in heavyweight stocks.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_3487cf18e2#17",
+    "doc_id": "vietnamnews_20261106_3487cf18e2",
+    "sent_idx": 17,
+    "text": "Vietcombank Securities (VCBS) expects market volatility to continue as selling pressure increases around the 1,750-point level.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_3487cf18e2#18",
+    "doc_id": "vietnamnews_20261106_3487cf18e2",
+    "sent_idx": 18,
+    "text": "It advised investors to hold stocks that maintain a stable upward trend and avoid chasing shares that have already risen sharply.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_3487cf18e2#19",
+    "doc_id": "vietnamnews_20261106_3487cf18e2",
+    "sent_idx": 19,
+    "text": "Banking, real estate and securities stocks remain among the sectors worth watching, according to the brokerage. - BIZHUB/VNS",
+    "lang": "en",
+    "is_title": false
+  }
+]

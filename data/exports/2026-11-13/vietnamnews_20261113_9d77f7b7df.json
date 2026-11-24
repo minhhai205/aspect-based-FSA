@@ -1,0 +1,162 @@
+[
+  {
+    "sent_id": "vietnamnews_20261113_9d77f7b7df#0",
+    "doc_id": "vietnamnews_20261113_9d77f7b7df",
+    "sent_idx": 0,
+    "text": "Hà Nội brings traditional craft villages into the digital economy",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261113_9d77f7b7df#1",
+    "doc_id": "vietnamnews_20261113_9d77f7b7df",
+    "sent_idx": 1,
+    "text": "HÀ NỘI - From livestreaming handicrafts to selling local specialties on e-commerce platforms, Hà Nội is taking its digital economy drive down to the local level, seeking to help traditional craft villages and household businesses reach wider markets and modernise their operations.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261113_9d77f7b7df#2",
+    "doc_id": "vietnamnews_20261113_9d77f7b7df",
+    "sent_idx": 2,
+    "text": "Under a plan issued by the municipal People's Committee on October 19, Hà Nội will pilot a digital consumption and e-commerce support model for 2026-28, aiming to expand online commerce across the capital and bring more small-scale producers into the digital economy.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261113_9d77f7b7df#3",
+    "doc_id": "vietnamnews_20261113_9d77f7b7df",
+    "sent_idx": 3,
+    "text": "Plan 403/KH-UBND seeks to establish a citywide digital consumption management framework while supporting businesses, cooperatives, household enterprises, producers under the One Commune One Product (OCOP) programme and traditional craft villages in accessing online markets.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261113_9d77f7b7df#4",
+    "doc_id": "vietnamnews_20261113_9d77f7b7df",
+    "sent_idx": 4,
+    "text": "Rather than building a new State-run e-commerce platform, the city will integrate existing initiatives, particularly its Digital Storefronts - Elevating Capital City Traders programme.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261113_9d77f7b7df#5",
+    "doc_id": "vietnamnews_20261113_9d77f7b7df",
+    "sent_idx": 5,
+    "text": "The proposed model will establish coordination mechanisms, data systems, operational criteria and risk alerts for digital consumer activities.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261113_9d77f7b7df#6",
+    "doc_id": "vietnamnews_20261113_9d77f7b7df",
+    "sent_idx": 6,
+    "text": "By 2028, Hà Nội aims to connect 500 business entities and showcase 1,000 products through digital storefronts and affiliated online platforms.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261113_9d77f7b7df#7",
+    "doc_id": "vietnamnews_20261113_9d77f7b7df",
+    "sent_idx": 7,
+    "text": "The plan also provides for practical training in online store management, digital payments, product traceability, logistics, returns and customer complaint handling.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261113_9d77f7b7df#8",
+    "doc_id": "vietnamnews_20261113_9d77f7b7df",
+    "sent_idx": 8,
+    "text": "Technology platforms, banks, e-wallet providers, logistics companies, trade associations and training institutions are encouraged to participate on a voluntary, transparent and non-exclusive basis.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261113_9d77f7b7df#9",
+    "doc_id": "vietnamnews_20261113_9d77f7b7df",
+    "sent_idx": 9,
+    "text": "At Kiều Phú Commune, local authorities are promoting traditional products, including woodwork, bamboo and rattan goods, conical hats, food and beverages.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261113_9d77f7b7df#10",
+    "doc_id": "vietnamnews_20261113_9d77f7b7df",
+    "sent_idx": 10,
+    "text": "The commune has 12 craft and traditional craft villages and 36 OCOP goods, including 13 rated four stars and 23 rated three stars.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261113_9d77f7b7df#11",
+    "doc_id": "vietnamnews_20261113_9d77f7b7df",
+    "sent_idx": 11,
+    "text": "Phạm Hồng Quân, deputy head of the commune's infrastructure, agriculture and environment division, said authorities are organising livestream sessions to promote local products as part of Hà Nội's 100-day digital transformation campaign.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261113_9d77f7b7df#12",
+    "doc_id": "vietnamnews_20261113_9d77f7b7df",
+    "sent_idx": 12,
+    "text": "The commune is also using QR codes to digitise product information and building databases linked to its website, social media pages and other digital platforms, allowing consumers to check product origins and characteristics before purchasing.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261113_9d77f7b7df#13",
+    "doc_id": "vietnamnews_20261113_9d77f7b7df",
+    "sent_idx": 13,
+    "text": "In Phượng Dực Commune, the E-commerce Commune programme focuses on bamboo, rattan and sedge crafts while providing online business training.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261113_9d77f7b7df#14",
+    "doc_id": "vietnamnews_20261113_9d77f7b7df",
+    "sent_idx": 14,
+    "text": "Launched in June, the 90-day initiative trained nearly 70 online sellers.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261113_9d77f7b7df#15",
+    "doc_id": "vietnamnews_20261113_9d77f7b7df",
+    "sent_idx": 15,
+    "text": "One participating business, An Phú Bamboo and Rattan, sold nearly 22,000 sedge handicrafts through e-commerce platforms in three months.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261113_9d77f7b7df#16",
+    "doc_id": "vietnamnews_20261113_9d77f7b7df",
+    "sent_idx": 16,
+    "text": "The commune also held eight digital sales training sessions for about 400 participants and organised 27 livestreams promoting more than 100 products from 40 businesses.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261113_9d77f7b7df#17",
+    "doc_id": "vietnamnews_20261113_9d77f7b7df",
+    "sent_idx": 17,
+    "text": "In Cổ Đô Commune, 12 livestream sessions between August 28 and October 8 showcased 55 product listings, including eight three-star OCOP products.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261113_9d77f7b7df#18",
+    "doc_id": "vietnamnews_20261113_9d77f7b7df",
+    "sent_idx": 18,
+    "text": "The broadcasts attracted more than 7,500 views and nearly 1,900 shares.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261113_9d77f7b7df#19",
+    "doc_id": "vietnamnews_20261113_9d77f7b7df",
+    "sent_idx": 19,
+    "text": "Local authorities are also exploring ways to combine e-commerce with tourism, using Cổ Đô Artists' Village as a focal point and considering a product exhibition area at the Cổ Đô Fine Arts Museum. - VNS",
+    "lang": "en",
+    "is_title": false
+  }
+]

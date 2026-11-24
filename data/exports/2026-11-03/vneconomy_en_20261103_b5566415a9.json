@@ -1,0 +1,442 @@
+[
+  {
+    "sent_id": "vneconomy_en_20261103_b5566415a9#0",
+    "doc_id": "vneconomy_en_20261103_b5566415a9",
+    "sent_idx": 0,
+    "text": "Exerting control of AI applications",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_b5566415a9#1",
+    "doc_id": "vneconomy_en_20261103_b5566415a9",
+    "sent_idx": 1,
+    "text": "Vietnam is gradually establishing the legal and infrastructure foundations for AI development.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_b5566415a9#2",
+    "doc_id": "vneconomy_en_20261103_b5566415a9",
+    "sent_idx": 2,
+    "text": "The Law on AI, adopted on December 10, 2025, and effective from March 1, 2026, provides a framework for AI infrastructure and national AI sovereignty.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_b5566415a9#3",
+    "doc_id": "vneconomy_en_20261103_b5566415a9",
+    "sent_idx": 3,
+    "text": "The framework covers computing capacity, shared datasets, training and testing platforms, and foundational AI models.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_b5566415a9#4",
+    "doc_id": "vneconomy_en_20261103_b5566415a9",
+    "sent_idx": 4,
+    "text": "Decree No. 142/2026/ND-CP, effective from May 1, further details the implementation of the Law on AI.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_b5566415a9#5",
+    "doc_id": "vneconomy_en_20261103_b5566415a9",
+    "sent_idx": 5,
+    "text": "For businesses, however, the immediate questions are more practical: what data can be used, what infrastructure is required, and how can AI be scaled without unnecessary investment or loss of control over sensitive data?",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_b5566415a9#6",
+    "doc_id": "vneconomy_en_20261103_b5566415a9",
+    "sent_idx": 6,
+    "text": "At the CIO Summit 2026, organized by the Vietnam CIO Community on October 1, experts discussed these issues, highlighting data governance, computing capacity, security, and data sovereignty.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_b5566415a9#7",
+    "doc_id": "vneconomy_en_20261103_b5566415a9",
+    "sent_idx": 7,
+    "text": "According to Mr. Ho Duc Thang, Deputy to the 16th National Assembly and Member of the National Assembly's Committee for Culture and Social Affairs, AI adoption is advancing faster than governance policies within many businesses.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_b5566415a9#8",
+    "doc_id": "vneconomy_en_20261103_b5566415a9",
+    "sent_idx": 8,
+    "text": "Employees may already be using AI tools before companies have established clear rules on data, access rights, and responsibility.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_b5566415a9#9",
+    "doc_id": "vneconomy_en_20261103_b5566415a9",
+    "sent_idx": 9,
+    "text": "\"The question is no longer whether businesses will use AI, but whether they have regulations and mechanisms in place to control data when employees begin using AI,\" he said.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_b5566415a9#10",
+    "doc_id": "vneconomy_en_20261103_b5566415a9",
+    "sent_idx": 10,
+    "text": "The first step, therefore, should not necessarily be choosing an AI tool, but identifying what data a business holds and which datasets can be used with AI.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_b5566415a9#11",
+    "doc_id": "vneconomy_en_20261103_b5566415a9",
+    "sent_idx": 11,
+    "text": "\"Businesses need to inventory and classify their data before deciding how to apply AI to their systems,\" he continued.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_b5566415a9#12",
+    "doc_id": "vneconomy_en_20261103_b5566415a9",
+    "sent_idx": 12,
+    "text": "\"Not all data can be fed into AI, and the level of control required should differ depending on the sensitivity of the data.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_b5566415a9#13",
+    "doc_id": "vneconomy_en_20261103_b5566415a9",
+    "sent_idx": 13,
+    "text": "Less sensitive information, such as general procedures or internal documents without critical information, can be used for initial testing.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_b5566415a9#14",
+    "doc_id": "vneconomy_en_20261103_b5566415a9",
+    "sent_idx": 14,
+    "text": "Customer information, personal data, confidential documents, and commercially-valuable data should only be introduced once appropriate processes and controls are in place.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_b5566415a9#15",
+    "doc_id": "vneconomy_en_20261103_b5566415a9",
+    "sent_idx": 15,
+    "text": "The challenge is also whether the data itself is reliable.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_b5566415a9#16",
+    "doc_id": "vneconomy_en_20261103_b5566415a9",
+    "sent_idx": 16,
+    "text": "Large volumes of information do not necessarily translate into useful datasets if they are fragmented, outdated, or poorly structured.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_b5566415a9#17",
+    "doc_id": "vneconomy_en_20261103_b5566415a9",
+    "sent_idx": 17,
+    "text": "Mr. Thang pointed to research indicating that AI-generated content is growing rapidly across the internet, while the relative share of human-generated content is declining.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_b5566415a9#18",
+    "doc_id": "vneconomy_en_20261103_b5566415a9",
+    "sent_idx": 18,
+    "text": "If AI-generated material is subsequently used without adequate controls to train new models, he noted, the quality and reliability of those models could eventually be affected.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_b5566415a9#19",
+    "doc_id": "vneconomy_en_20261103_b5566415a9",
+    "sent_idx": 19,
+    "text": "Historical data can also introduce bias into AI systems.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_b5566415a9#20",
+    "doc_id": "vneconomy_en_20261103_b5566415a9",
+    "sent_idx": 20,
+    "text": "Mr. Thang cited the widely-discussed case of Amazon's experimental recruitment system, which was reported to have disadvantaged female candidates because historical recruitment data was dominated by male applicants.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_b5566415a9#21",
+    "doc_id": "vneconomy_en_20261103_b5566415a9",
+    "sent_idx": 21,
+    "text": "For Vietnam, the issue also extends to language, cultural, and historical data.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_b5566415a9#22",
+    "doc_id": "vneconomy_en_20261103_b5566415a9",
+    "sent_idx": 22,
+    "text": "Data is only the starting point.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_b5566415a9#23",
+    "doc_id": "vneconomy_en_20261103_b5566415a9",
+    "sent_idx": 23,
+    "text": "Once businesses establish what data can be used, they must determine how AI models will be run and what computing resources are required.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_b5566415a9#24",
+    "doc_id": "vneconomy_en_20261103_b5566415a9",
+    "sent_idx": 24,
+    "text": "Mr. Vu Thanh Tung, CEO of GreenNode, said businesses need more than data to deploy AI applications.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_b5566415a9#25",
+    "doc_id": "vneconomy_en_20261103_b5566415a9",
+    "sent_idx": 25,
+    "text": "They also need computing infrastructure and specialized personnel to operate it, while building such capabilities in-house can require significant upfront investment.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_b5566415a9#26",
+    "doc_id": "vneconomy_en_20261103_b5566415a9",
+    "sent_idx": 26,
+    "text": "\"Investment costs are very large,\" he said.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_b5566415a9#27",
+    "doc_id": "vneconomy_en_20261103_b5566415a9",
+    "sent_idx": 27,
+    "text": "\"Before the investment is even completed, businesses may not yet know what the return on investment will be.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_b5566415a9#28",
+    "doc_id": "vneconomy_en_20261103_b5566415a9",
+    "sent_idx": 28,
+    "text": "For companies whose AI workloads are still developing, accessing computing capacity externally can therefore reduce the need to invest in and manage the entire infrastructure themselves.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_b5566415a9#29",
+    "doc_id": "vneconomy_en_20261103_b5566415a9",
+    "sent_idx": 29,
+    "text": "Mr. Tung said businesses typically adopt a multi-cloud strategy, with different providers serving different workloads.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_b5566415a9#30",
+    "doc_id": "vneconomy_en_20261103_b5566415a9",
+    "sent_idx": 30,
+    "text": "While hyperscale cloud providers offer a broad range of services, GreenNode focuses specifically on infrastructure for AI workloads, particularly those requiring GPUs.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_b5566415a9#31",
+    "doc_id": "vneconomy_en_20261103_b5566415a9",
+    "sent_idx": 31,
+    "text": "\"Businesses can use AWS or GreenNode, but the core computing platform for these AI workloads is still NVIDIA GPUs,\" he said.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_b5566415a9#32",
+    "doc_id": "vneconomy_en_20261103_b5566415a9",
+    "sent_idx": 32,
+    "text": "He identified three main differences in GreenNode's approach in Vietnam compared to that of hyperscale cloud providers.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_b5566415a9#33",
+    "doc_id": "vneconomy_en_20261103_b5566415a9",
+    "sent_idx": 33,
+    "text": "First, it focuses on GPU-based AI workloads rather than the broader range of cloud services typically offered by hyperscalers.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_b5566415a9#34",
+    "doc_id": "vneconomy_en_20261103_b5566415a9",
+    "sent_idx": 34,
+    "text": "Second, it deploys GPU infrastructure across multiple availability zones (AZs) in Vietnam, including locations close to customers' on-premises data centers.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_b5566415a9#35",
+    "doc_id": "vneconomy_en_20261103_b5566415a9",
+    "sent_idx": 35,
+    "text": "Third, technical and consulting support is provided by teams based in Vietnam.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_b5566415a9#36",
+    "doc_id": "vneconomy_en_20261103_b5566415a9",
+    "sent_idx": 36,
+    "text": "Together, these features allow businesses to select infrastructure based on their workload, data location, and operational requirements, while configurations can be adapted to the needs of customers in other markets.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_b5566415a9#37",
+    "doc_id": "vneconomy_en_20261103_b5566415a9",
+    "sent_idx": 37,
+    "text": "Mr. Tung also referred to a five-layer infrastructure model for AI applications; a framework outlined by NVIDIA CEO Jensen Huang.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_b5566415a9#38",
+    "doc_id": "vneconomy_en_20261103_b5566415a9",
+    "sent_idx": 38,
+    "text": "The model spans the infrastructure required to run AI, from the physical data center and computing infrastructure to the applications and services built on top.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_b5566415a9#39",
+    "doc_id": "vneconomy_en_20261103_b5566415a9",
+    "sent_idx": 39,
+    "text": "At the bottom is the physical data center, which provides the power, cooling, and environment required to operate GPU servers.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_b5566415a9#40",
+    "doc_id": "vneconomy_en_20261103_b5566415a9",
+    "sent_idx": 40,
+    "text": "GreenNode works with data center and colocation providers for this layer, while focusing on the cloud infrastructure layer above it.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_b5566415a9#41",
+    "doc_id": "vneconomy_en_20261103_b5566415a9",
+    "sent_idx": 41,
+    "text": "For Vietnamese businesses, this model can reduce the need to build and operate every layer of specialized infrastructure in-house, while addressing challenges around upfront investment, uncertain workloads, data location, and access to technical expertise.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_b5566415a9#42",
+    "doc_id": "vneconomy_en_20261103_b5566415a9",
+    "sent_idx": 42,
+    "text": "Governance and infrastructure requirements become more complex as AI moves from an assistive tool to systems capable of taking action.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_b5566415a9#43",
+    "doc_id": "vneconomy_en_20261103_b5566415a9",
+    "sent_idx": 43,
+    "text": "Traditional enterprise systems generally operate within defined access permissions.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_b5566415a9#44",
+    "doc_id": "vneconomy_en_20261103_b5566415a9",
+    "sent_idx": 44,
+    "text": "AI agents, by contrast, can connect to multiple data sources and tools to perform a series of tasks on behalf of users.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_b5566415a9#45",
+    "doc_id": "vneconomy_en_20261103_b5566415a9",
+    "sent_idx": 45,
+    "text": "This increases the potential impact of errors when agents are allowed to modify data or interact directly with operational systems.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_b5566415a9#46",
+    "doc_id": "vneconomy_en_20261103_b5566415a9",
+    "sent_idx": 46,
+    "text": "According to Mr. Thang, this creates new risks if agents are given excessive permissions.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_b5566415a9#47",
+    "doc_id": "vneconomy_en_20261103_b5566415a9",
+    "sent_idx": 47,
+    "text": "\"If an AI agent is allowed to write data or directly operate on a live system, an error by the agent no longer ends with a wrong answer,\" he explained.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_b5566415a9#48",
+    "doc_id": "vneconomy_en_20261103_b5566415a9",
+    "sent_idx": 48,
+    "text": "\"It can become an entire chain of actions being executed.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_b5566415a9#49",
+    "doc_id": "vneconomy_en_20261103_b5566415a9",
+    "sent_idx": 49,
+    "text": "Businesses therefore need different levels of access, separate testing environments from live systems, and clearly defined limits on what actions AI is permitted to perform.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_b5566415a9#50",
+    "doc_id": "vneconomy_en_20261103_b5566415a9",
+    "sent_idx": 50,
+    "text": "This also means AI preparation can no longer be treated as a technology department issue alone.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_b5566415a9#51",
+    "doc_id": "vneconomy_en_20261103_b5566415a9",
+    "sent_idx": 51,
+    "text": "Data, security, legal, finance, and business teams need to determine where AI can be used, what data can be accessed, and what authority can be delegated to AI systems.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_b5566415a9#52",
+    "doc_id": "vneconomy_en_20261103_b5566415a9",
+    "sent_idx": 52,
+    "text": "Vietnam's emerging AI framework is creating a national foundation for shared data, computing capacity, and AI infrastructure.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_b5566415a9#53",
+    "doc_id": "vneconomy_en_20261103_b5566415a9",
+    "sent_idx": 53,
+    "text": "For businesses, however, scaling AI begins with decisions about which data can be used, how it should be governed, what infrastructure should be owned or accessed as a service, and what level of authority should be granted to AI.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_b5566415a9#54",
+    "doc_id": "vneconomy_en_20261103_b5566415a9",
+    "sent_idx": 54,
+    "text": "As AI moves from experimentation into core business operations, these decisions will increasingly shape how companies balance computing costs, data security, operational control, and data sovereignty.",
+    "lang": "en",
+    "is_title": false
+  }
+]

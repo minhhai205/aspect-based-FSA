@@ -1,0 +1,138 @@
+[
+  {
+    "sent_id": "vietnamnews_20261124_e2f026c12b#0",
+    "doc_id": "vietnamnews_20261124_e2f026c12b",
+    "sent_idx": 0,
+    "text": "Average lending rates at seven banks cut in October",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261124_e2f026c12b#1",
+    "doc_id": "vietnamnews_20261124_e2f026c12b",
+    "sent_idx": 1,
+    "text": "HÀ NỘI - Seven banks recorded a decrease in their average lending interest rates in October compared to September.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261124_e2f026c12b#2",
+    "doc_id": "vietnamnews_20261124_e2f026c12b",
+    "sent_idx": 2,
+    "text": "TPBank saw the sharpest decline at 0.65 percentage points.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261124_e2f026c12b#3",
+    "doc_id": "vietnamnews_20261124_e2f026c12b",
+    "sent_idx": 3,
+    "text": "This was followed by Viet A Bank (down 0.33 percentage points), VietinBank (down 0.31 percentage points), MB (down 0.27 percentage points), BVBank (down 0.19 percentage points), ACB (down 0.13 percentage points) and Bac A Bank (down 0.06 percentage points).",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261124_e2f026c12b#4",
+    "doc_id": "vietnamnews_20261124_e2f026c12b",
+    "sent_idx": 4,
+    "text": "The reductions took place after October 18, when the State Bank of Vietnam (SBV) issued a directive requiring credit institutions to implement a 0.5 per cent annual reduction in listed deposit interest rates for terms of six months or longer, and a 1.5-2 per cent annual reduction in lending rates for the production and business sectors, as well as other priority areas.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261124_e2f026c12b#5",
+    "doc_id": "vietnamnews_20261124_e2f026c12b",
+    "sent_idx": 5,
+    "text": "Because this directive was issued mid-month, the average interest rate figures for the entire month of October reflected loans originating both before and after this date.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261124_e2f026c12b#6",
+    "doc_id": "vietnamnews_20261124_e2f026c12b",
+    "sent_idx": 6,
+    "text": "The targeted 1.5-2 per cent annual interest rate reduction is intended for the production, business and priority sectors.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261124_e2f026c12b#7",
+    "doc_id": "vietnamnews_20261124_e2f026c12b",
+    "sent_idx": 7,
+    "text": "It does not mean that every customer or every loan will receive a rate reduction of this magnitude.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261124_e2f026c12b#8",
+    "doc_id": "vietnamnews_20261124_e2f026c12b",
+    "sent_idx": 8,
+    "text": "Conversely, 12 banks reported an increase in their average lending rates in October.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261124_e2f026c12b#9",
+    "doc_id": "vietnamnews_20261124_e2f026c12b",
+    "sent_idx": 9,
+    "text": "Of these, GPBank saw the sharpest rise of 1.11 percentage points.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261124_e2f026c12b#10",
+    "doc_id": "vietnamnews_20261124_e2f026c12b",
+    "sent_idx": 10,
+    "text": "This was followed by Techcombank with a rise of 1.01 percentage points, Vikki Bank with 0.51 percentage points, OCB with 0.25 percentage points and BIDV with 0.13 percentage points.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261124_e2f026c12b#11",
+    "doc_id": "vietnamnews_20261124_e2f026c12b",
+    "sent_idx": 11,
+    "text": "Banks with the lowest average lending interest rates included SCB, VietinBank, MSB, Eximbank, VIB, MBV, VCBNeo and PVComBank.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261124_e2f026c12b#12",
+    "doc_id": "vietnamnews_20261124_e2f026c12b",
+    "sent_idx": 12,
+    "text": "According to Saigon Securities Incorporation analysts, the SBV's liquidity management measures will help stabilise interest rate levels in the next few weeks, but the potential for a broad-based and significant decline in rates will depend on the economy's demand for capital.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261124_e2f026c12b#13",
+    "doc_id": "vietnamnews_20261124_e2f026c12b",
+    "sent_idx": 13,
+    "text": "Credit demand remains high, while the banking system continues to serve as the primary source of capital, as other channels for medium- and long-term financing, such as corporate bonds, have yet to fully realise their potential.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261124_e2f026c12b#14",
+    "doc_id": "vietnamnews_20261124_e2f026c12b",
+    "sent_idx": 14,
+    "text": "Alongside reducing funding costs, banks must continue to optimise operational expenses, improve capital efficiency and maintain a balanced liquidity position.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261124_e2f026c12b#15",
+    "doc_id": "vietnamnews_20261124_e2f026c12b",
+    "sent_idx": 15,
+    "text": "These efforts are essential to sustain the capacity to lower lending rates while ensuring operational safety, as the economy's demand for capital continues to rise.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261124_e2f026c12b#16",
+    "doc_id": "vietnamnews_20261124_e2f026c12b",
+    "sent_idx": 16,
+    "text": "Proactive adjustments to deposit rates by banks, the implementation of preferential credit programmes and ongoing oversight by the SBV will collectively help businesses access capital at more reasonable costs, enabling them to sustain and expand their production and business activities through the final months of the year. - BIZHUB/VNS",
+    "lang": "en",
+    "is_title": false
+  }
+]

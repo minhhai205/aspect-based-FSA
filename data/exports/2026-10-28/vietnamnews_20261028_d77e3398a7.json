@@ -1,0 +1,314 @@
+[
+  {
+    "sent_id": "vietnamnews_20261028_d77e3398a7#0",
+    "doc_id": "vietnamnews_20261028_d77e3398a7",
+    "sent_idx": 0,
+    "text": "Challenges faced powering growth with clean energy",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261028_d77e3398a7#1",
+    "doc_id": "vietnamnews_20261028_d77e3398a7",
+    "sent_idx": 1,
+    "text": "HÀ NỘI - Việt Nam faces the challenge of securing a reliable and affordable energy supply to sustain faster economic growth while cutting emissions and reducing exposure to global market disruptions.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_d77e3398a7#2",
+    "doc_id": "vietnamnews_20261028_d77e3398a7",
+    "sent_idx": 2,
+    "text": "As electricity demand rises and manufacturers face growing pressure to decarbonise, the country needs to look beyond expanding generation capacity, with greater emphasis on energy efficiency, renewable sources and a more flexible power system.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_d77e3398a7#3",
+    "doc_id": "vietnamnews_20261028_d77e3398a7",
+    "sent_idx": 3,
+    "text": "Nguyễn Thị Thu Hiền from the Institute of Energy under the Ministry of Industry and Trade said Việt Nam needed to balance energy security, industrial development and environmental goals as it entered a new stage of growth.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_d77e3398a7#4",
+    "doc_id": "vietnamnews_20261028_d77e3398a7",
+    "sent_idx": 4,
+    "text": "In her presentation at the forum 'Clean Energy for Growth' on Tuesday, she said final energy demand was projected to reach 110-122 million tonnes of oil equivalent by 2030 and 186-207 million tonnes by 2050.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_d77e3398a7#5",
+    "doc_id": "vietnamnews_20261028_d77e3398a7",
+    "sent_idx": 5,
+    "text": "Electricity demand was expected to grow by 10-12 per cent annually through 2030.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_d77e3398a7#6",
+    "doc_id": "vietnamnews_20261028_d77e3398a7",
+    "sent_idx": 6,
+    "text": "Electricity generation increased from 181 billion kWh in 2015 to 325 billion kWh in 2025, reflecting the country's growing need for power.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_d77e3398a7#7",
+    "doc_id": "vietnamnews_20261028_d77e3398a7",
+    "sent_idx": 7,
+    "text": "But future demand will also be shaped by new types of electricity consumers.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_d77e3398a7#8",
+    "doc_id": "vietnamnews_20261028_d77e3398a7",
+    "sent_idx": 8,
+    "text": "Data centres are expected to become a particularly significant source of demand.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_d77e3398a7#9",
+    "doc_id": "vietnamnews_20261028_d77e3398a7",
+    "sent_idx": 9,
+    "text": "Their combined power load in Việt Nam currently stands at just over 100MW, but could rise to around 4,000MW by 2030 - about 40 times the current level, according to Hiền's presentation.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_d77e3398a7#10",
+    "doc_id": "vietnamnews_20261028_d77e3398a7",
+    "sent_idx": 10,
+    "text": "Much of this demand is expected to be concentrated in northern Việt Nam and the Southeast region.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_d77e3398a7#11",
+    "doc_id": "vietnamnews_20261028_d77e3398a7",
+    "sent_idx": 11,
+    "text": "Electricity consumption by transport remains relatively small, she said, but is expected to increase as electric vehicles become more common and urban rail systems expand.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_d77e3398a7#12",
+    "doc_id": "vietnamnews_20261028_d77e3398a7",
+    "sent_idx": 12,
+    "text": "These emerging sources of demand will need to be considered in the adjustment of the national power development plan.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_d77e3398a7#13",
+    "doc_id": "vietnamnews_20261028_d77e3398a7",
+    "sent_idx": 13,
+    "text": "At the same time, Việt Nam faces pressure to reduce emissions from industry as it integrates further into global markets.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_d77e3398a7#14",
+    "doc_id": "vietnamnews_20261028_d77e3398a7",
+    "sent_idx": 14,
+    "text": "The European Union's Carbon Border Adjustment Mechanism entered into force in its full phase in 2026, putting greater pressure on exporters to reduce emissions associated with goods exported to the bloc.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_d77e3398a7#15",
+    "doc_id": "vietnamnews_20261028_d77e3398a7",
+    "sent_idx": 15,
+    "text": "Hiền said Việt Nam needed to prioritise energy supply for socio-economic development, accelerate renewable energy while improving power system flexibility, and reduce industrial emissions through energy efficiency and low-emission technologies.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_d77e3398a7#16",
+    "doc_id": "vietnamnews_20261028_d77e3398a7",
+    "sent_idx": 16,
+    "text": "However, expanding supply will not be straightforward.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_d77e3398a7#17",
+    "doc_id": "vietnamnews_20261028_d77e3398a7",
+    "sent_idx": 17,
+    "text": "Hydropower potential has largely been exhausted, while the country's energy mix such as LNG must also respond to uncertainties in international fuel markets.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_d77e3398a7#18",
+    "doc_id": "vietnamnews_20261028_d77e3398a7",
+    "sent_idx": 18,
+    "text": "Greater use of renewable energy will therefore need to be supported by a power system capable of balancing fluctuations in generation and demand.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_d77e3398a7#19",
+    "doc_id": "vietnamnews_20261028_d77e3398a7",
+    "sent_idx": 19,
+    "text": "\"This is a major challenge for Việt Nam and will require considerable efforts in the coming years,\" she said.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_d77e3398a7#20",
+    "doc_id": "vietnamnews_20261028_d77e3398a7",
+    "sent_idx": 20,
+    "text": "Võ Trí Thành, director of the Institute for Brand and Competitiveness Strategy, said recent disruptions had highlighted the vulnerability of Việt Nam's energy supply.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_d77e3398a7#21",
+    "doc_id": "vietnamnews_20261028_d77e3398a7",
+    "sent_idx": 21,
+    "text": "\"The energy buffer we have is relatively thin and weak,\" he said, referring to the effects of the conflicts in the Middle East and between Russia and Ukraine.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_d77e3398a7#22",
+    "doc_id": "vietnamnews_20261028_d77e3398a7",
+    "sent_idx": 22,
+    "text": "He said energy, capital and data were three key factors shaping the next stage of production and business development.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_d77e3398a7#23",
+    "doc_id": "vietnamnews_20261028_d77e3398a7",
+    "sent_idx": 23,
+    "text": "Việt Nam needed to strengthen its domestic capabilities while maintaining international cooperation, he added.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_d77e3398a7#24",
+    "doc_id": "vietnamnews_20261028_d77e3398a7",
+    "sent_idx": 24,
+    "text": "Mai Duy Thiện, editor-in-chief of Clean Energy Magazine, the forum organiser, said developing clean energy was not simply a matter of adding more renewable power sources.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_d77e3398a7#25",
+    "doc_id": "vietnamnews_20261028_d77e3398a7",
+    "sent_idx": 25,
+    "text": "\"The issue is not only developing more clean energy sources, but also how to use them efficiently, ensure system stability and create practical value for production and business activities,\" he said.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_d77e3398a7#26",
+    "doc_id": "vietnamnews_20261028_d77e3398a7",
+    "sent_idx": 26,
+    "text": "Việt Nam has significant potential in solar power, onshore and offshore wind, biomass and other emerging energy sources.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_d77e3398a7#27",
+    "doc_id": "vietnamnews_20261028_d77e3398a7",
+    "sent_idx": 27,
+    "text": "But that potential can only generate economic value when projects are financially viable, connected effectively to the energy system and able to meet actual demand.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_d77e3398a7#28",
+    "doc_id": "vietnamnews_20261028_d77e3398a7",
+    "sent_idx": 28,
+    "text": "Thiện said energy development required a comprehensive approach covering planning, generation, transmission, distribution, storage, demand management, markets and financing.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_d77e3398a7#29",
+    "doc_id": "vietnamnews_20261028_d77e3398a7",
+    "sent_idx": 29,
+    "text": "Policy improvements and technological innovation would also be important to turn clean energy potential into workable projects.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_d77e3398a7#30",
+    "doc_id": "vietnamnews_20261028_d77e3398a7",
+    "sent_idx": 30,
+    "text": "Clean hydrogen and nuclear power could be another option in efforts to diversify the country's energy supply.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_d77e3398a7#31",
+    "doc_id": "vietnamnews_20261028_d77e3398a7",
+    "sent_idx": 31,
+    "text": "Pilot projects in hydrogen power are under way, but a commercial market has yet to emerge due to obstacles involving regulations, infrastructure for storage, conversion and transportation.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_d77e3398a7#32",
+    "doc_id": "vietnamnews_20261028_d77e3398a7",
+    "sent_idx": 32,
+    "text": "Meanwhile, Việt Nam is planning to resume its Ninh Thuận 1 and Ninh Thuận 2 nuclear power plant projects.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_d77e3398a7#33",
+    "doc_id": "vietnamnews_20261028_d77e3398a7",
+    "sent_idx": 33,
+    "text": "Small modular reactors are also being studied, although their commercial readiness and the need for international partners remain important considerations.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_d77e3398a7#34",
+    "doc_id": "vietnamnews_20261028_d77e3398a7",
+    "sent_idx": 34,
+    "text": "Trần Chí Thành, director of the Vietnam Atomic Energy Institute under the Ministry of Science and Technology, said nuclear power could provide stable, low-carbon electricity over the long term and help strengthen domestic scientific and technological capabilities.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_d77e3398a7#35",
+    "doc_id": "vietnamnews_20261028_d77e3398a7",
+    "sent_idx": 35,
+    "text": "However, he stressed that nuclear power development would require careful attention to safety, regulation, research capacity, skilled personnel and the localisation of equipment.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_d77e3398a7#36",
+    "doc_id": "vietnamnews_20261028_d77e3398a7",
+    "sent_idx": 36,
+    "text": "Its long development timeline also means it cannot be treated as an immediate solution to rising electricity demand.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_d77e3398a7#37",
+    "doc_id": "vietnamnews_20261028_d77e3398a7",
+    "sent_idx": 37,
+    "text": "According to experts, Việt Nam is seeking build an energy system that can support growth while remaining reliable, affordable and cleaner.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_d77e3398a7#38",
+    "doc_id": "vietnamnews_20261028_d77e3398a7",
+    "sent_idx": 38,
+    "text": "However, this will depend not only on developing new sources, but also on improving efficiency, strengthening infrastructure and ensuring that different technologies work together. - VNS",
+    "lang": "en",
+    "is_title": false
+  }
+]

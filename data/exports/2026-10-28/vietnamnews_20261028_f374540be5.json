@@ -1,0 +1,130 @@
+[
+  {
+    "sent_id": "vietnamnews_20261028_f374540be5#0",
+    "doc_id": "vietnamnews_20261028_f374540be5",
+    "sent_idx": 0,
+    "text": "City launches Vibrant Ho Chi Minh City initiative to boost year-end consumption",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261028_f374540be5#1",
+    "doc_id": "vietnamnews_20261028_f374540be5",
+    "sent_idx": 1,
+    "text": "HCM CITY - HCM City on Wednesday launched Vibrant Ho Chi Minh City, an initiative to boost consumption and expand markets in the final months of 2026.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_f374540be5#2",
+    "doc_id": "vietnamnews_20261028_f374540be5",
+    "sent_idx": 2,
+    "text": "Under the slogan \"HCM City - Vibrant in Every Experience\", the initiative was launched at the Autumn Economic Forum 2026 and comes as the city steps up efforts to meet its economic growth targets for the year.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_f374540be5#3",
+    "doc_id": "vietnamnews_20261028_f374540be5",
+    "sent_idx": 3,
+    "text": "The programme follows a \"five-in-one\" model, bringing together shopping, entertainment, tourism, e-commerce and digital payments under a unified plan.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_f374540be5#4",
+    "doc_id": "vietnamnews_20261028_f374540be5",
+    "sent_idx": 4,
+    "text": "It brings together Government agencies, financial institutions, trade and service businesses, and technology platforms to co-ordinate demand-stimulation activities, reach more consumers and create new opportunities for market development.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_f374540be5#5",
+    "doc_id": "vietnamnews_20261028_f374540be5",
+    "sent_idx": 5,
+    "text": "From November 2026 to February 2027, the programme is expected to connect 57 events and activities aimed at stimulating demand.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_f374540be5#6",
+    "doc_id": "vietnamnews_20261028_f374540be5",
+    "sent_idx": 6,
+    "text": "Thirty-three are scheduled for November and December, combining cultural, sports and tourism events with in-person and online shopping.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_f374540be5#7",
+    "doc_id": "vietnamnews_20261028_f374540be5",
+    "sent_idx": 7,
+    "text": "As of October 27, more than 100 brands had joined the programme, which includes about 97 promotions.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_f374540be5#8",
+    "doc_id": "vietnamnews_20261028_f374540be5",
+    "sent_idx": 8,
+    "text": "The initial estimated value of the incentive packages exceeds VNĐ250 billion (US$9.7 million), covering vouchers, direct discounts, interest-rate support, e-gift cards and other offers for residents and visitors.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_f374540be5#9",
+    "doc_id": "vietnamnews_20261028_f374540be5",
+    "sent_idx": 9,
+    "text": "The programme aims to generate more than VNĐ30 trillion ($1.2 billion) in total goods transactions across commerce and payment platforms, including an estimated VNĐ10-11 trillion ($386-425 million) in additional transaction value.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_f374540be5#10",
+    "doc_id": "vietnamnews_20261028_f374540be5",
+    "sent_idx": 10,
+    "text": "It is expected to help boost the city's trade and services sectors and support economic growth.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_f374540be5#11",
+    "doc_id": "vietnamnews_20261028_f374540be5",
+    "sent_idx": 11,
+    "text": "Under the initiative, the city also launched two digital platforms under the programme to bring activities together and make offers more accessible to residents and visitors.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_f374540be5#12",
+    "doc_id": "vietnamnews_20261028_f374540be5",
+    "sent_idx": 12,
+    "text": "Hello, at hello.hochiminhcity.gov.vn, is a tourism and experiences platform that connects destinations, events, services and travel offers.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_f374540be5#13",
+    "doc_id": "vietnamnews_20261028_f374540be5",
+    "sent_idx": 13,
+    "text": "It also incorporates cross-border payment solutions through partnerships with banks and payment providers, allowing international visitors to use familiar payment methods while shopping, accessing services and exploring the city.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_f374540be5#14",
+    "doc_id": "vietnamnews_20261028_f374540be5",
+    "sent_idx": 14,
+    "text": "Sống Động, at songdong.hochiminhcity.gov.vn, is a domestic consumer-stimulation platform that brings together shopping campaigns, promotions, vouchers and business offers.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_f374540be5#15",
+    "doc_id": "vietnamnews_20261028_f374540be5",
+    "sent_idx": 15,
+    "text": "It aims to make deals easier for consumers to access while helping businesses and household enterprises expand their markets. - VNS",
+    "lang": "en",
+    "is_title": false
+  }
+]

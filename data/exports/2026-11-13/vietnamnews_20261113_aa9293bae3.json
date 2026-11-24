@@ -1,0 +1,298 @@
+[
+  {
+    "sent_id": "vietnamnews_20261113_aa9293bae3#0",
+    "doc_id": "vietnamnews_20261113_aa9293bae3",
+    "sent_idx": 0,
+    "text": "Việt Nam, Republic of Korea step up cooperation in semiconductor workforce development",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261113_aa9293bae3#1",
+    "doc_id": "vietnamnews_20261113_aa9293bae3",
+    "sent_idx": 1,
+    "text": "HÀ NỘI - Việt Nam and the Republic of Korea should strengthen cooperation between universities, businesses and Government agencies to develop a skilled semiconductor workforce, helping Việt Nam meet its target of training at least 50,000 semiconductor engineers by 2030, experts have said.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261113_aa9293bae3#2",
+    "doc_id": "vietnamnews_20261113_aa9293bae3",
+    "sent_idx": 2,
+    "text": "The issue was a key focus at a specialised workforce forum held as part of the first Việt Nam-Korea AI and Semiconductor Summit, which opened in Hà Nội on Thursday.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261113_aa9293bae3#3",
+    "doc_id": "vietnamnews_20261113_aa9293bae3",
+    "sent_idx": 3,
+    "text": "Participants proposed expanding academic and industry partnerships, promoting faculty exchanges and joint research, sharing technical infrastructure and aligning training programmes with businesses' recruitment needs.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261113_aa9293bae3#4",
+    "doc_id": "vietnamnews_20261113_aa9293bae3",
+    "sent_idx": 4,
+    "text": "Cooperation could also create more employment opportunities for Vietnamese engineers in the Republic of Korea's semiconductor industry.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261113_aa9293bae3#5",
+    "doc_id": "vietnamnews_20261113_aa9293bae3",
+    "sent_idx": 5,
+    "text": "The summit, themed 'One Vision, New Horizon', was organised by the Department of Digital Technology and Artificial Intelligence under the Ministry of Science and Technology, in collaboration with FPT Corporation, the Korea AI Semiconductor Fabless Industry Association and the Vietnam Software and IT Services Association.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261113_aa9293bae3#6",
+    "doc_id": "vietnamnews_20261113_aa9293bae3",
+    "sent_idx": 6,
+    "text": "Speaking at the opening session, Nguyễn Anh Tuấn, director of the National Centre for Semiconductor Chip Prototyping under the Department of Digital Technology and Artificial Intelligence, said workers are a decisive factor in driving breakthroughs and attracting investment in the semiconductor sector.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261113_aa9293bae3#7",
+    "doc_id": "vietnamnews_20261113_aa9293bae3",
+    "sent_idx": 7,
+    "text": "Chips are \"the heart and brain\" of AI, while AI is a major driver of demand for next-generation chips, he said, stressing that workforce development is essential to strengthening national technological capacity and competitiveness.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261113_aa9293bae3#8",
+    "doc_id": "vietnamnews_20261113_aa9293bae3",
+    "sent_idx": 8,
+    "text": "Citing Politburo Resolution 57 and Decision 1018/QD-TTg on the semiconductor industry development strategy, Tuấn said talent development is one of the sector's four pillars, with a target of training at least 50,000 engineers by 2030.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261113_aa9293bae3#9",
+    "doc_id": "vietnamnews_20261113_aa9293bae3",
+    "sent_idx": 9,
+    "text": "\"The Republic of Korea has advantages in its well-established semiconductor ecosystem and strong research capabilities, while Việt Nam has a young STEM workforce and a rapidly expanding electronics and IT sector.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261113_aa9293bae3#10",
+    "doc_id": "vietnamnews_20261113_aa9293bae3",
+    "sent_idx": 10,
+    "text": "These complementary strengths offer significant potential for bilateral cooperation,\" he said.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261113_aa9293bae3#11",
+    "doc_id": "vietnamnews_20261113_aa9293bae3",
+    "sent_idx": 11,
+    "text": "Tuấn proposed a 'three-party' training model in which the State acts as facilitator, universities take the central role and businesses work alongside them.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261113_aa9293bae3#12",
+    "doc_id": "vietnamnews_20261113_aa9293bae3",
+    "sent_idx": 12,
+    "text": "Cooperation should include exchanges of lecturers and postgraduate researchers, scholarships, joint training programmes and dual-degree courses, alongside the development of common competency standards recognised by businesses in both countries, he said.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261113_aa9293bae3#13",
+    "doc_id": "vietnamnews_20261113_aa9293bae3",
+    "sent_idx": 13,
+    "text": "He also highlighted the high cost of chip prototyping as a major bottleneck for semiconductor training, research and technology development in Việt Nam.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261113_aa9293bae3#14",
+    "doc_id": "vietnamnews_20261113_aa9293bae3",
+    "sent_idx": 14,
+    "text": "The National Centre for Semiconductor Chip Prototyping is ready to provide access to electronic design automation software and design libraries, shared prototyping facilities and testing services to support cooperation among universities, research institutes and businesses in the two countries.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261113_aa9293bae3#15",
+    "doc_id": "vietnamnews_20261113_aa9293bae3",
+    "sent_idx": 15,
+    "text": "Tuấn called on major Korean companies to place more research orders with Vietnamese partners and recruit Vietnamese engineers.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261113_aa9293bae3#16",
+    "doc_id": "vietnamnews_20261113_aa9293bae3",
+    "sent_idx": 16,
+    "text": "Expanding career opportunities in the Republic of Korea",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261113_aa9293bae3#17",
+    "doc_id": "vietnamnews_20261113_aa9293bae3",
+    "sent_idx": 17,
+    "text": "Highlighting a practical model of cooperation linking training with recruitment, Chanho Rim, director of the Human Resources Development Centre (HRD) under the Korea Chamber of Commerce and Industry (KCCI), introduced a programme to connect outstanding Vietnamese engineers with Korean businesses.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261113_aa9293bae3#18",
+    "doc_id": "vietnamnews_20261113_aa9293bae3",
+    "sent_idx": 18,
+    "text": "The HRD Centre in Hà Nội has signed memoranda of understanding with four Vietnamese higher education institutions, including Việt Nam National University, Hà Nội; Hà Nội University of Science and Technology; Hà Nội University of Industry; and the Posts and Telecommunications Institute of Technology.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261113_aa9293bae3#19",
+    "doc_id": "vietnamnews_20261113_aa9293bae3",
+    "sent_idx": 19,
+    "text": "Under the programme, selected trainees will complete 500 hours of training, including 200 hours of Korean language and cultural studies and 300 hours of specialised practical training through real-world projects, he said.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261113_aa9293bae3#20",
+    "doc_id": "vietnamnews_20261113_aa9293bae3",
+    "sent_idx": 20,
+    "text": "Those who pass the final assessment will have opportunities to secure jobs with Korean companies and will be exempt from the one-year work experience requirement when applying for a visa for skilled professionals.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261113_aa9293bae3#21",
+    "doc_id": "vietnamnews_20261113_aa9293bae3",
+    "sent_idx": 21,
+    "text": "To connect trainees with potential employers, KCCI will draw on its network of 73 regional chambers of commerce and industry in the Republic of Korea, and will operate a dedicated recruitment portal for graduates who pass the assessment.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261113_aa9293bae3#22",
+    "doc_id": "vietnamnews_20261113_aa9293bae3",
+    "sent_idx": 22,
+    "text": "However, Rim noted that large-scale recruitment of Vietnamese workers to the Republic of Korea would require a formal agreement between the two governments.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261113_aa9293bae3#23",
+    "doc_id": "vietnamnews_20261113_aa9293bae3",
+    "sent_idx": 23,
+    "text": "The relevant parties are currently working to promote an MoU between Korea's industrial authorities and Việt Nam's Ministry of Home Affairs, he said, calling for further support to facilitate the agreement and expand opportunities for young Vietnamese workers to access the Republic of Korea's high-tech working environment.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261113_aa9293bae3#24",
+    "doc_id": "vietnamnews_20261113_aa9293bae3",
+    "sent_idx": 24,
+    "text": "At the forum, Phan Thế Hùng, a representative of the Department of Higher Education under the Ministry of Education and Training, said semiconductor industry development requires coordinated preparations in technology, infrastructure investment and personnel.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261113_aa9293bae3#25",
+    "doc_id": "vietnamnews_20261113_aa9293bae3",
+    "sent_idx": 25,
+    "text": "Universities need to build training capabilities covering different stages of the semiconductor value chain, while remaining responsive to rapid technological changes and businesses' evolving requirements, he said.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261113_aa9293bae3#26",
+    "doc_id": "vietnamnews_20261113_aa9293bae3",
+    "sent_idx": 26,
+    "text": "Workforce development plans should be closely aligned with technology orientations, investment projects and the development needs of individual localities.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261113_aa9293bae3#27",
+    "doc_id": "vietnamnews_20261113_aa9293bae3",
+    "sent_idx": 27,
+    "text": "Businesses should be involved from the outset in defining competency requirements and developing training curricula, as well as organising practical training and internships and assessing graduate quality.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261113_aa9293bae3#28",
+    "doc_id": "vietnamnews_20261113_aa9293bae3",
+    "sent_idx": 28,
+    "text": "He proposed that Vietnamese and Republic of Korean business associations work together to collect and provide information on workforce demand by job position and qualification level, enabling universities to develop appropriate enrolment plans, specialised training and upskilling programmes.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261113_aa9293bae3#29",
+    "doc_id": "vietnamnews_20261113_aa9293bae3",
+    "sent_idx": 29,
+    "text": "For bilateral cooperation, he outlined five priority areas: supporting learners through scholarships and career-oriented internships; connecting businesses' recruitment needs with training plans; jointly developing curricula and practical training programmes; promoting faculty exchanges and joint research groups; and sharing research and training infrastructure.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261113_aa9293bae3#30",
+    "doc_id": "vietnamnews_20261113_aa9293bae3",
+    "sent_idx": 30,
+    "text": "He stressed that faculty exchanges and joint research programmes between universities and organisations in the two countries would help improve the quality of Việt Nam's teaching workforce and research capabilities while enabling Vietnamese institutions to benefit from Korea's experience in the semiconductor industry.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261113_aa9293bae3#31",
+    "doc_id": "vietnamnews_20261113_aa9293bae3",
+    "sent_idx": 31,
+    "text": "To ensure effective implementation, he called for regular coordination mechanisms and designated focal points at participating universities, businesses and organisations.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261113_aa9293bae3#32",
+    "doc_id": "vietnamnews_20261113_aa9293bae3",
+    "sent_idx": 32,
+    "text": "Cooperation outcomes should be assessed through measurable indicators, including the number of lecturers receiving training, courses introduced, trainees completing practical programmes and the extent to which training meets industry requirements.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261113_aa9293bae3#33",
+    "doc_id": "vietnamnews_20261113_aa9293bae3",
+    "sent_idx": 33,
+    "text": "In terms of Việt Nam's preparations, 19 higher education and training institutions have been prioritised for investment in semiconductor training laboratories, with a plan to establish three national key laboratories, he said.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261113_aa9293bae3#34",
+    "doc_id": "vietnamnews_20261113_aa9293bae3",
+    "sent_idx": 34,
+    "text": "He called for closer coordination among ministries and agencies to accelerate equipment procurement and bring the laboratories into operation, while promoting partnerships among universities, research institutes and businesses at home and abroad.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261113_aa9293bae3#35",
+    "doc_id": "vietnamnews_20261113_aa9293bae3",
+    "sent_idx": 35,
+    "text": "Discussions at the forum highlighted the need to develop a semiconductor workforce ecosystem based on closer links between Government agencies, universities and businesses, with training programmes closely aligned with the industry's practical needs.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261113_aa9293bae3#36",
+    "doc_id": "vietnamnews_20261113_aa9293bae3",
+    "sent_idx": 36,
+    "text": "Combining the Republic of Korea's technological and industrial experience with Việt Nam's young workforce and growing training capacity is expected to help improve engineering skills and strengthen Việt Nam's participation in the global semiconductor value chain. - VNS",
+    "lang": "en",
+    "is_title": false
+  }
+]

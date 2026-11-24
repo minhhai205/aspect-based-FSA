@@ -1,0 +1,58 @@
+[
+  {
+    "sent_id": "vneconomy_en_20261109_0c556b9b7b#0",
+    "doc_id": "vneconomy_en_20261109_0c556b9b7b",
+    "sent_idx": 0,
+    "text": "Hanoi proposes Gia Lam Station as rail hub linking Gia Binh and Noi Bai airports",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vneconomy_en_20261109_0c556b9b7b#1",
+    "doc_id": "vneconomy_en_20261109_0c556b9b7b",
+    "sent_idx": 1,
+    "text": "Hanoi has proposed developing Gia Lam Railway Station as a major interchange connecting Gia Binh International Airport in Hanoi's neighboring city of Bac Ninh with the national and urban railway networks, potentially paving the way for a direct rail link between Gia Binh and Noi Bai international airports.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261109_0c556b9b7b#2",
+    "doc_id": "vneconomy_en_20261109_0c556b9b7b",
+    "sent_idx": 2,
+    "text": "On November 9, Hanoi People's Committee Chairman Vu Dai Thang chaired a meeting with the Ministry of Construction and relevant local authorities to discuss transport connections to Gia Binh International Airport, railway route planning and the locations of urban railway stations.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261109_0c556b9b7b#3",
+    "doc_id": "vneconomy_en_20261109_0c556b9b7b",
+    "sent_idx": 3,
+    "text": "Under the proposal, Gia Lam Station would serve as a key interchange linking national railways, high-speed rail and the urban metro network.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261109_0c556b9b7b#4",
+    "doc_id": "vneconomy_en_20261109_0c556b9b7b",
+    "sent_idx": 4,
+    "text": "Authorities will study a railway connection from the station to Gia Binh Airport to shorten travel distances and improve access to the capital city.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261109_0c556b9b7b#5",
+    "doc_id": "vneconomy_en_20261109_0c556b9b7b",
+    "sent_idx": 5,
+    "text": "Regarding the planned urban railway network, Hanoi proposed retaining the north-south alignment of Metro Line 1 while studying an additional branch connecting the Gia Lam station area with the city centre and extending eastward towards Gia Binh Airport.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261109_0c556b9b7b#6",
+    "doc_id": "vneconomy_en_20261109_0c556b9b7b",
+    "sent_idx": 6,
+    "text": "The approach aims to make use of existing railway plans while minimising major adjustments to projects that have already been approved or are under construction.",
+    "lang": "en",
+    "is_title": false
+  }
+]

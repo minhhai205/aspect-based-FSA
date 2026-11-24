@@ -1,0 +1,130 @@
+[
+  {
+    "sent_id": "vneconomy_en_20261111_b78cc929bd#0",
+    "doc_id": "vneconomy_en_20261111_b78cc929bd",
+    "sent_idx": 0,
+    "text": "HCMC greenlights 147 pilot land sites to boost commercial housing supply",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vneconomy_en_20261111_b78cc929bd#1",
+    "doc_id": "vneconomy_en_20261111_b78cc929bd",
+    "sent_idx": 1,
+    "text": "The Ho Chi Minh City People's Council has approved a list of 147 land sites earmarked for commercial housing development under the pilot mechanism established by National Assembly Resolution No. 171/2024/QH15.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261111_b78cc929bd#2",
+    "doc_id": "vneconomy_en_20261111_b78cc929bd",
+    "sent_idx": 2,
+    "text": "The decision is expected to mark a new phase in addressing housing demand in Vietnam's largest urban center while helping to resolve long-standing legal obstacles facing numerous property projects.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261111_b78cc929bd#3",
+    "doc_id": "vneconomy_en_20261111_b78cc929bd",
+    "sent_idx": 3,
+    "text": "Accordingly, the 147 sites cover a combined area of more than 854.28 ha, equivalent to approximately 8.54 million square meters.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261111_b78cc929bd#4",
+    "doc_id": "vneconomy_en_20261111_b78cc929bd",
+    "sent_idx": 4,
+    "text": "Of this total, around 457.34 ha consist of existing residential land and land proposed for conversion into residential use.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261111_b78cc929bd#5",
+    "doc_id": "vneconomy_en_20261111_b78cc929bd",
+    "sent_idx": 5,
+    "text": "Notably, about 341.51 ha of rice-growing land are expected to be converted for other purposes.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261111_b78cc929bd#6",
+    "doc_id": "vneconomy_en_20261111_b78cc929bd",
+    "sent_idx": 6,
+    "text": "This substantial land bank is expected to contribute additional housing supply to the urban real estate market at a time when demand for housing in HCM City remains consistently high.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261111_b78cc929bd#7",
+    "doc_id": "vneconomy_en_20261111_b78cc929bd",
+    "sent_idx": 7,
+    "text": "Of the approved sites, 94 are located in the former Ho Chi Minh City area, covering approximately 589.58 ha.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261111_b78cc929bd#8",
+    "doc_id": "vneconomy_en_20261111_b78cc929bd",
+    "sent_idx": 8,
+    "text": "Another 19 sites are situated in the former Ba Ria-Vung Tau province, with a total area of around 124.67 ha, while 34 sites are located in the former Binh Duong province, totaling about 140.03 ha.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261111_b78cc929bd#9",
+    "doc_id": "vneconomy_en_20261111_b78cc929bd",
+    "sent_idx": 9,
+    "text": "The list also includes one defense-related land parcel.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261111_b78cc929bd#10",
+    "doc_id": "vneconomy_en_20261111_b78cc929bd",
+    "sent_idx": 10,
+    "text": "Fomer Ba Ria - Vung Tau and Binh Duong provinces have been merged into Ho Chi Minh City since July 2025.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261111_b78cc929bd#11",
+    "doc_id": "vneconomy_en_20261111_b78cc929bd",
+    "sent_idx": 11,
+    "text": "According to the City People's Committee, the selection process was based on a thorough review of 450 applications conducted over three rounds of evaluation.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261111_b78cc929bd#12",
+    "doc_id": "vneconomy_en_20261111_b78cc929bd",
+    "sent_idx": 12,
+    "text": "Calculations show that the combined area of existing residential land and land proposed for residential conversion within the 147 sites remains within the limits set by Resolution No 171.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261111_b78cc929bd#13",
+    "doc_id": "vneconomy_en_20261111_b78cc929bd",
+    "sent_idx": 13,
+    "text": "The resolution stipulates that the residential land area of pilot projects must not exceed 30% of the additional residential land allocated during the planning period.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261111_b78cc929bd#14",
+    "doc_id": "vneconomy_en_20261111_b78cc929bd",
+    "sent_idx": 14,
+    "text": "The city's administration emphasized that approval of the 147-site list serves only as a basis for carrying out subsequent procedures under the pilot program.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261111_b78cc929bd#15",
+    "doc_id": "vneconomy_en_20261111_b78cc929bd",
+    "sent_idx": 15,
+    "text": "The decision does not replace requirements for investment policy approval, investor recognition, land allocation, land leasing, or permission for land-use conversion.",
+    "lang": "en",
+    "is_title": false
+  }
+]

@@ -1,0 +1,170 @@
+[
+  {
+    "sent_id": "vneconomy_en_20261110_10a7db1a58#0",
+    "doc_id": "vneconomy_en_20261110_10a7db1a58",
+    "sent_idx": 0,
+    "text": "Thanh Hoa disburses over 76% of public investment, climbing 14 spots from year's low",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_10a7db1a58#1",
+    "doc_id": "vneconomy_en_20261110_10a7db1a58",
+    "sent_idx": 1,
+    "text": "Central Thanh Hoa Province has disbursed VND11.57 trillion (approximately $453.8 million) in public investment capital, as of November 5, fulfilling 76.2% of the 2026 plan assigned by the Prime Minister.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_10a7db1a58#2",
+    "doc_id": "vneconomy_en_20261110_10a7db1a58",
+    "sent_idx": 2,
+    "text": "Factoring in carry-over capital from 2025, total disbursement reached nearly VND13.93 trillion ($546 million), representing 67.4% of the adjusted plan.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_10a7db1a58#3",
+    "doc_id": "vneconomy_en_20261110_10a7db1a58",
+    "sent_idx": 3,
+    "text": "By late October, the province ranked 18th out of 34 evaluated localities nationwide, climbing 14 spots compared to its mid-June standing.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_10a7db1a58#4",
+    "doc_id": "vneconomy_en_20261110_10a7db1a58",
+    "sent_idx": 4,
+    "text": "Thanh Hoa's disbursement ranking showed steady recovery across multiple statistical checkpoints throughout the year.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_10a7db1a58#5",
+    "doc_id": "vneconomy_en_20261110_10a7db1a58",
+    "sent_idx": 5,
+    "text": "In early April 2026, the province recorded a disbursement rate of 7.6%, ranking 20th.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_10a7db1a58#6",
+    "doc_id": "vneconomy_en_20261110_10a7db1a58",
+    "sent_idx": 6,
+    "text": "By mid-May, the figure edged up to 10.7%, though its ranking slipped to 26th.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_10a7db1a58#7",
+    "doc_id": "vneconomy_en_20261110_10a7db1a58",
+    "sent_idx": 7,
+    "text": "On June 18, with disbursement standing at 15.1%, Thanh Hoa fell to 32nd place-its lowest position of the year-lagging behind the national average by a peak margin of 10.6 percentage points.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_10a7db1a58#8",
+    "doc_id": "vneconomy_en_20261110_10a7db1a58",
+    "sent_idx": 8,
+    "text": "Disbursement momentum accelerated markedly starting in late August, however.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_10a7db1a58#9",
+    "doc_id": "vneconomy_en_20261110_10a7db1a58",
+    "sent_idx": 9,
+    "text": "As a result, by October 31, the province's execution rate under the Prime Minister's capital allocation reached 74.9%, elevating Thanh Hoa to 18th among the nation's total 34 provinces and centrally run cities.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_10a7db1a58#10",
+    "doc_id": "vneconomy_en_20261110_10a7db1a58",
+    "sent_idx": 10,
+    "text": "Compared to the June 18 nadir, the locality climbed 14 places, narrowing its gap with the national average from 10.6 percentage points down to 1.7 percentage points.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_10a7db1a58#11",
+    "doc_id": "vneconomy_en_20261110_10a7db1a58",
+    "sent_idx": 11,
+    "text": "This marked a significant turnaround in both execution speed and comparative standing, despite a substantial volume of remaining funds to be cleared before year-end.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_10a7db1a58#12",
+    "doc_id": "vneconomy_en_20261110_10a7db1a58",
+    "sent_idx": 12,
+    "text": "During the reporting period from October 22 to 30, the province disbursed an additional VND1.21 trillion ($47.4 million), up from VND766.6 billion ($30 million) in the prior tracking period, pushing the aggregate rate from 60.01% to 65.88%.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_10a7db1a58#13",
+    "doc_id": "vneconomy_en_20261110_10a7db1a58",
+    "sent_idx": 13,
+    "text": "Between October 30 and November 5, an additional VND320.8 billion was cleared.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_10a7db1a58#14",
+    "doc_id": "vneconomy_en_20261110_10a7db1a58",
+    "sent_idx": 14,
+    "text": "On November 5 alone, disbursement increased by VND105.57 billion.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_10a7db1a58#15",
+    "doc_id": "vneconomy_en_20261110_10a7db1a58",
+    "sent_idx": 15,
+    "text": "Based on the 2026 capital quota assigned by the Prime Minister, Thanh Hoa had disbursed VND11.57 trillion out of more than VND15.75 trillion as of November 5, reaching 76.2%.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_10a7db1a58#16",
+    "doc_id": "vneconomy_en_20261110_10a7db1a58",
+    "sent_idx": 16,
+    "text": "Including extended 2025 funding carried forward into 2026, the total plan stands at VND20.66 trillion, with cumulative disbursements reaching nearly VND13.93 trillion (67.4%).",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_10a7db1a58#17",
+    "doc_id": "vneconomy_en_20261110_10a7db1a58",
+    "sent_idx": 17,
+    "text": "The province is targeting a 100% disbursement rate for public investment capital in 2026.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_10a7db1a58#18",
+    "doc_id": "vneconomy_en_20261110_10a7db1a58",
+    "sent_idx": 18,
+    "text": "Alongside tracking milestones, provincial leaders have directed relevant agencies to urgently troubleshoot slow-moving projects and reallocate funds in accordance with statutory guidelines to prioritize capital-absorptive ventures.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_10a7db1a58#19",
+    "doc_id": "vneconomy_en_20261110_10a7db1a58",
+    "sent_idx": 19,
+    "text": "Preparatory work for the 2027 fiscal cycle is progressing concurrently.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_10a7db1a58#20",
+    "doc_id": "vneconomy_en_20261110_10a7db1a58",
+    "sent_idx": 20,
+    "text": "The province has instructed relevant departments to accelerate pre-investment procedures and land clearance to initiate capital disbursements by January and begin construction on new projects within the first quarter of 2027.",
+    "lang": "en",
+    "is_title": false
+  }
+]

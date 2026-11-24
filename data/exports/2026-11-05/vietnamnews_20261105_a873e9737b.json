@@ -1,0 +1,218 @@
+[
+  {
+    "sent_id": "vietnamnews_20261105_a873e9737b#0",
+    "doc_id": "vietnamnews_20261105_a873e9737b",
+    "sent_idx": 0,
+    "text": "Ministry issues new rules for crypto-asset market",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261105_a873e9737b#1",
+    "doc_id": "vietnamnews_20261105_a873e9737b",
+    "sent_idx": 1,
+    "text": "HÀ NỘI - The Ministry of Finance has issued new regulations on reporting and information disclosure in the crypto-asset market, requiring exchanges to make daily reports and notify authorities of any technical incidents within 24 hours.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261105_a873e9737b#2",
+    "doc_id": "vietnamnews_20261105_a873e9737b",
+    "sent_idx": 2,
+    "text": "Circular No. 165/2026/TT-BTC guiding the reporting and information disclosure within the crypto-asset market will take effect from December 18 this year.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261105_a873e9737b#3",
+    "doc_id": "vietnamnews_20261105_a873e9737b",
+    "sent_idx": 3,
+    "text": "The circular applies to crypto-asset service providers, crypto-asset issuers, entities and individuals participating in investment or other activities within the crypto-asset market, as well as other relevant agencies, organisations, and individuals.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261105_a873e9737b#4",
+    "doc_id": "vietnamnews_20261105_a873e9737b",
+    "sent_idx": 4,
+    "text": "It does not supersede reporting obligations required for tax administration purposes under the crypto-asset reporting framework.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261105_a873e9737b#5",
+    "doc_id": "vietnamnews_20261105_a873e9737b",
+    "sent_idx": 5,
+    "text": "Sensitive data, such as user identification, tax identification numbers, or individual transaction details, is not subject to public disclosure, unless otherwise provided by law.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261105_a873e9737b#6",
+    "doc_id": "vietnamnews_20261105_a873e9737b",
+    "sent_idx": 6,
+    "text": "Service providers and issuers are required to disclose information in both Vietnamese and English.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261105_a873e9737b#7",
+    "doc_id": "vietnamnews_20261105_a873e9737b",
+    "sent_idx": 7,
+    "text": "In the event of any discrepancy between the two versions, the Vietnamese version shall prevail.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261105_a873e9737b#8",
+    "doc_id": "vietnamnews_20261105_a873e9737b",
+    "sent_idx": 8,
+    "text": "Information must be retained for at least 10 years in the form of documents or electronic data, and must remain accessible on the organisation's website for at least five years.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261105_a873e9737b#9",
+    "doc_id": "vietnamnews_20261105_a873e9737b",
+    "sent_idx": 9,
+    "text": "All information must be accurate, truthful, timely, complete, and not misleading.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261105_a873e9737b#10",
+    "doc_id": "vietnamnews_20261105_a873e9737b",
+    "sent_idx": 10,
+    "text": "For service providers, the circular stipulates that the selection of a crypto-asset for trading must be publicly announced at least seven days prior to the official commencement of trading.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261105_a873e9737b#11",
+    "doc_id": "vietnamnews_20261105_a873e9737b",
+    "sent_idx": 11,
+    "text": "The same requirement applies to the delisting or restriction of trading for any given asset.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261105_a873e9737b#12",
+    "doc_id": "vietnamnews_20261105_a873e9737b",
+    "sent_idx": 12,
+    "text": "Furthermore, any amendments or additions to key operational procedures must be published on the provider's website within 24 hours of their issuance.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261105_a873e9737b#13",
+    "doc_id": "vietnamnews_20261105_a873e9737b",
+    "sent_idx": 13,
+    "text": "Regarding financial reporting, the circular regulates that if a service provider acts as a parent company, it must disclose both the parent company's financial statements and the consolidated financial statements.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261105_a873e9737b#14",
+    "doc_id": "vietnamnews_20261105_a873e9737b",
+    "sent_idx": 14,
+    "text": "Audits must be conducted by a firm approved to audit public-interest entities within the securities sector - a requirement justified by the fact that these service providers manage assets for a large number of investors.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261105_a873e9737b#15",
+    "doc_id": "vietnamnews_20261105_a873e9737b",
+    "sent_idx": 15,
+    "text": "According to the circular, during trading hours, service providers are required to publicly display the quantity of assets being traded, the price and volume of the most recent transaction, the daily high and low prices, and the direction and magnitude of price fluctuations.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261105_a873e9737b#16",
+    "doc_id": "vietnamnews_20261105_a873e9737b",
+    "sent_idx": 16,
+    "text": "Besides, they must disclose at least the three best bid and ask price levels along with their corresponding volumes, as well as the buy and sell values attributed to foreign investors for each asset.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261105_a873e9737b#17",
+    "doc_id": "vietnamnews_20261105_a873e9737b",
+    "sent_idx": 17,
+    "text": "At the end of each day, the provider must publish a summary of the preceding trading session, including the price range, number of orders, total trading volume, and total transaction value.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261105_a873e9737b#18",
+    "doc_id": "vietnamnews_20261105_a873e9737b",
+    "sent_idx": 18,
+    "text": "As for issuers, a prospectus - a comprehensive document detailing the offering -must be made public before the offering commences.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261105_a873e9737b#19",
+    "doc_id": "vietnamnews_20261105_a873e9737b",
+    "sent_idx": 19,
+    "text": "Any subsequent changes to the prospectus, or to the terms and characteristics of the issued assets, must be disclosed within 24 hours.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261105_a873e9737b#20",
+    "doc_id": "vietnamnews_20261105_a873e9737b",
+    "sent_idx": 20,
+    "text": "The results of the offering must be announced within seven days of its conclusion, and the fulfillment of commitments stated in the prospectus must be disclosed on a semi-annual basis.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261105_a873e9737b#21",
+    "doc_id": "vietnamnews_20261105_a873e9737b",
+    "sent_idx": 21,
+    "text": "The State Securities Commission (SSC) will serve as the authority to which service providers must submit reports and disclosures.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261105_a873e9737b#22",
+    "doc_id": "vietnamnews_20261105_a873e9737b",
+    "sent_idx": 22,
+    "text": "Such reports may be provided in paper format or as electronic documents bearing a valid digital signature, transmitted via the SSC's information system.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261105_a873e9737b#23",
+    "doc_id": "vietnamnews_20261105_a873e9737b",
+    "sent_idx": 23,
+    "text": "Organisations must submit reports on the previous day's trading activities no later than 3pm.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261105_a873e9737b#24",
+    "doc_id": "vietnamnews_20261105_a873e9737b",
+    "sent_idx": 24,
+    "text": "Every Monday, they must provide data regarding the custody of crypto-assets for the preceding week.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261105_a873e9737b#25",
+    "doc_id": "vietnamnews_20261105_a873e9737b",
+    "sent_idx": 25,
+    "text": "The tenth day of each month serves as the deadline for several reports, covering market conditions, proprietary trading activities, new issuances, lists of institutional shareholders and capital contributors, as well as any transactions from the previous month that showed signs of violations and were subsequently addressed.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261105_a873e9737b#26",
+    "doc_id": "vietnamnews_20261105_a873e9737b",
+    "sent_idx": 26,
+    "text": "Certain reports concerning the market and issuances are also shared with the Ministry of Public Security and the State Bank of Vietnam. - BIZHUB/VNS",
+    "lang": "en",
+    "is_title": false
+  }
+]

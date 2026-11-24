@@ -1,0 +1,82 @@
+[
+  {
+    "sent_id": "vietnamnews_20261029_b286c04ff1#0",
+    "doc_id": "vietnamnews_20261029_b286c04ff1",
+    "sent_idx": 0,
+    "text": "Fuel prices rise from 3pm on Thursday",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261029_b286c04ff1#1",
+    "doc_id": "vietnamnews_20261029_b286c04ff1",
+    "sent_idx": 1,
+    "text": "HÀ NỘI - Domestic fuel prices were increased from 3pm on Thurday, with the Ministry of Industry and Trade and the Ministry of Finance deciding not to make any contributions to or draw from the petrol price stabilisation fund.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261029_b286c04ff1#2",
+    "doc_id": "vietnamnews_20261029_b286c04ff1",
+    "sent_idx": 2,
+    "text": "Under the adjustment, the retail price of E5RON92 petrol was capped at VNĐ26,027 (US$1.01) per litre, up VNĐ666 per litre from the previous ceiling price.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261029_b286c04ff1#3",
+    "doc_id": "vietnamnews_20261029_b286c04ff1",
+    "sent_idx": 3,
+    "text": "E10RON95-III petrol was priced at no more than VNĐ25,734 per litre, an increase of VNĐ521 per litre.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261029_b286c04ff1#4",
+    "doc_id": "vietnamnews_20261029_b286c04ff1",
+    "sent_idx": 4,
+    "text": "The ceiling price of 0.05S diesel rose by VNĐ696 to VNĐ30,246 per litre, while that of 180CST 3.5S mazut increased VNĐ223 to VNĐ23,596 per kilogramme.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261029_b286c04ff1#5",
+    "doc_id": "vietnamnews_20261029_b286c04ff1",
+    "sent_idx": 5,
+    "text": "The Ministry of Industry and Trade will coordinate with relevant agencies to inspect and supervise traders' fulfilment of their responsibilities to ensure adequate fuel supplies for the market and strictly handle any violations detected.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261029_b286c04ff1#6",
+    "doc_id": "vietnamnews_20261029_b286c04ff1",
+    "sent_idx": 6,
+    "text": "Meanwhile, the two ministries are keeping a close watch on market developments to announce appropriate fuel prices in line with Government directions and propose measures to the Government and the Prime Minister to stabilise fuel prices.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261029_b286c04ff1#7",
+    "doc_id": "vietnamnews_20261029_b286c04ff1",
+    "sent_idx": 7,
+    "text": "According to the Ministry of Industry and Trade, the global fuel market during this pricing cycle was influenced by clashes between the Houthi force and government troops in Yemen, continued attacks on Saudi Arabia's oil and gas facilities, a decline in US crude oil inventories, expectations that OPEC+ would maintain its production targets for December, increased diesel production at Russian refineries, and the ongoing Russia-Ukraine conflict.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261029_b286c04ff1#8",
+    "doc_id": "vietnamnews_20261029_b286c04ff1",
+    "sent_idx": 8,
+    "text": "These factors have caused global refined petroleum product prices to climb.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261029_b286c04ff1#9",
+    "doc_id": "vietnamnews_20261029_b286c04ff1",
+    "sent_idx": 9,
+    "text": "Overall, fuel prices in Vietnam remain relatively low compared with those in neighbouring countries, including Thailand, Laos, Cambodia and China. - VNA/VNS",
+    "lang": "en",
+    "is_title": false
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "sent_id": "vneconomy_en_20261101_4201fb52c3#0",
+    "doc_id": "vneconomy_en_20261101_4201fb52c3",
+    "sent_idx": 0,
+    "text": "Vietnam's stock market capitalization reaches $386 billion",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vneconomy_en_20261101_4201fb52c3#1",
+    "doc_id": "vneconomy_en_20261101_4201fb52c3",
+    "sent_idx": 1,
+    "text": "Vietnam's stock market capitalisation reached VND10.16 quadrillion ($386 billion) as of October 21, 2026, while the number of investor accounts exceeded 14 million, according to the State Securities Commission (SSC).",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261101_4201fb52c3#2",
+    "doc_id": "vneconomy_en_20261101_4201fb52c3",
+    "sent_idx": 2,
+    "text": "Speaking at the Vietnam Capital Market Forum 2026, themed \"New Capital Flows - New Position\", held in Ho Chi Minh City on October 30, SSC Chairwoman Vu Thi Chan Phuong said that, after 30 years of development, Vietnam's securities market had achieved significant milestones.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261101_4201fb52c3#3",
+    "doc_id": "vneconomy_en_20261101_4201fb52c3",
+    "sent_idx": 3,
+    "text": "It had gradually established itself as an important channel for raising medium- and long-term capital for the economy while becoming increasingly integrated into international financial markets.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261101_4201fb52c3#4",
+    "doc_id": "vneconomy_en_20261101_4201fb52c3",
+    "sent_idx": 4,
+    "text": "As of October 21, the stock market's capitalisation stood at VND10.16 quadrillion (about $386 billion), equivalent to 79.1% of estimated 2025 GDP.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261101_4201fb52c3#5",
+    "doc_id": "vneconomy_en_20261101_4201fb52c3",
+    "sent_idx": 5,
+    "text": "The listed bond market was valued at approximately VND2.94 quadrillion, or 22.9% of GDP.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261101_4201fb52c3#6",
+    "doc_id": "vneconomy_en_20261101_4201fb52c3",
+    "sent_idx": 6,
+    "text": "Meanwhile, the number of investor accounts had surpassed 14 million.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261101_4201fb52c3#7",
+    "doc_id": "vneconomy_en_20261101_4201fb52c3",
+    "sent_idx": 7,
+    "text": "A major milestone came on September 21, 2026, when FTSE Russell officially upgraded Vietnam from a frontier market to a secondary emerging market.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261101_4201fb52c3#8",
+    "doc_id": "vneconomy_en_20261101_4201fb52c3",
+    "sent_idx": 8,
+    "text": "Shares of several Vietnamese listed companies were also included in FTSE's global indices.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261101_4201fb52c3#9",
+    "doc_id": "vneconomy_en_20261101_4201fb52c3",
+    "sent_idx": 9,
+    "text": "Following the upgrade, the SSC has identified five key priorities to improve market quality and competitiveness: further refining the legal framework, streamlining administrative procedures and improving market accessibility; modernising infrastructure and strengthening trading, settlement and clearing systems, including introducing a central counterparty (CCP) mechanism for the cash equity market according to a roadmap; accelerating digital transformation and applying technology to market management and supervision; improving the quality of listed assets and diversifying investment products; developing a more professional and sustainable investor base; and strengthening regulatory oversight and market discipline.",
+    "lang": "en",
+    "is_title": false
+  }
+]

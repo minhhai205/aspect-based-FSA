@@ -1,0 +1,74 @@
+[
+  {
+    "sent_id": "vietnamnews_20261027_52b1184641#0",
+    "doc_id": "vietnamnews_20261027_52b1184641",
+    "sent_idx": 0,
+    "text": "Vietnamese cooperatives promote trade in China",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261027_52b1184641#1",
+    "doc_id": "vietnamnews_20261027_52b1184641",
+    "sent_idx": 1,
+    "text": "HÀ NỘI - A 33-member delegation from the Vietnam Cooperative Alliance (VCA), representing 25 cooperatives, is attending the China International Agricultural Machinery Exhibition 2026 to showcase Vietnamese agricultural products and explore trade opportunities in the Chinese market.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_52b1184641#2",
+    "doc_id": "vietnamnews_20261027_52b1184641",
+    "sent_idx": 2,
+    "text": "The China International Agricultural Machinery Exhibition (CIAME 2026) opened in Tianjin on the morning of October 26 and runs through October 28. The VCA delegation is combining product displays with business networking activities to connect Vietnamese cooperatives with Chinese enterprises.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_52b1184641#3",
+    "doc_id": "vietnamnews_20261027_52b1184641",
+    "sent_idx": 3,
+    "text": "Covering nearly 300,000 square metres, the exhibition brings together more than 3,000 businesses and is expected to attract over 200,000 professional visitors from China and abroad.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_52b1184641#4",
+    "doc_id": "vietnamnews_20261027_52b1184641",
+    "sent_idx": 4,
+    "text": "CIAME 2026 showcases modern agricultural machinery, smart equipment, artificial intelligence (AI) applications, automation technologies and mechanisation solutions for agricultural production and processing.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_52b1184641#5",
+    "doc_id": "vietnamnews_20261027_52b1184641",
+    "sent_idx": 5,
+    "text": "A key focus of the VCA's participation is promoting Vietnamese agricultural products, enabling cooperatives to raise product visibility, assess market demand and establish contacts with potential Chinese trading partners.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_52b1184641#6",
+    "doc_id": "vietnamnews_20261027_52b1184641",
+    "sent_idx": 6,
+    "text": "In addition to exhibiting their products, the Vietnamese delegation is taking part in business-to-business (B2B) matchmaking sessions arranged by the organisers based on actual business needs.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_52b1184641#7",
+    "doc_id": "vietnamnews_20261027_52b1184641",
+    "sent_idx": 7,
+    "text": "Discussions focus on sourcing machinery and technologies suited to Vietnamese agricultural production, as well as exploring cooperation in imports, distribution and market development.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_52b1184641#8",
+    "doc_id": "vietnamnews_20261027_52b1184641",
+    "sent_idx": 8,
+    "text": "Through its participation, the VCA aims to help Vietnamese cooperatives expand trade ties in China while gaining access to technologies, equipment and suppliers to improve the efficiency of agricultural production and processing. - VNS",
+    "lang": "en",
+    "is_title": false
+  }
+]

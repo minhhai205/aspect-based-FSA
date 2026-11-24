@@ -1,0 +1,226 @@
+[
+  {
+    "sent_id": "vneconomy_en_20261028_b66cf1e08d#0",
+    "doc_id": "vneconomy_en_20261028_b66cf1e08d",
+    "sent_idx": 0,
+    "text": "Deputy Prime Minister proposes reduction of electricity prices and gasoline tax in November",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vneconomy_en_20261028_b66cf1e08d#1",
+    "doc_id": "vneconomy_en_20261028_b66cf1e08d",
+    "sent_idx": 1,
+    "text": "During a meeting on October 27 regarding scenarios for managing gasoline and electricity prices, Deputy Prime Minister Nguyen Van Thang called for a review of the plan to reduce the average retail electricity price over five months, from November 1, 2026, to March 31, 2027, while requesting an assessment of the feasibility of reducing the special consumption tax on gasoline to 0% during the same period.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261028_b66cf1e08d#2",
+    "doc_id": "vneconomy_en_20261028_b66cf1e08d",
+    "sent_idx": 2,
+    "text": "These measures are proposed in the context of needing to reduce energy costs and support production, business activities, and people's livelihoods.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261028_b66cf1e08d#3",
+    "doc_id": "vneconomy_en_20261028_b66cf1e08d",
+    "sent_idx": 3,
+    "text": "Regarding electricity prices, the Deputy Prime Minister instructed the Vietnam Electricity (EVN) to urgently calculate and maximize cost savings to enable a reduction in the average retail electricity price over the five-month period from November 1, 2026, to March 31, 2027.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261028_b66cf1e08d#4",
+    "doc_id": "vneconomy_en_20261028_b66cf1e08d",
+    "sent_idx": 4,
+    "text": "The plan must comply with regulations on the mechanism, timing of electricity price adjustments, and related legal provisions.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261028_b66cf1e08d#5",
+    "doc_id": "vneconomy_en_20261028_b66cf1e08d",
+    "sent_idx": 5,
+    "text": "Once completed, EVN is responsible for submitting the plan to the Ministry of Industry and Trade for review and feedback.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261028_b66cf1e08d#6",
+    "doc_id": "vneconomy_en_20261028_b66cf1e08d",
+    "sent_idx": 6,
+    "text": "The Ministry of Industry and Trade is required to ensure the implementation schedule from November 1 and report to the competent authorities on issues beyond its jurisdiction.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261028_b66cf1e08d#7",
+    "doc_id": "vneconomy_en_20261028_b66cf1e08d",
+    "sent_idx": 7,
+    "text": "According to current regulations, the average retail electricity price is 2,204.0655 VND/kWh (excluding value-added tax) and has been applied since May 10, 2025.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261028_b66cf1e08d#8",
+    "doc_id": "vneconomy_en_20261028_b66cf1e08d",
+    "sent_idx": 8,
+    "text": "Although regulations allow for the consideration of adjusting the average electricity price at least once every three months based on fluctuations in production and business costs and related factors, the most recent adjustment however occurred in May 2025.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261028_b66cf1e08d#9",
+    "doc_id": "vneconomy_en_20261028_b66cf1e08d",
+    "sent_idx": 9,
+    "text": "The current adjustment mechanism stipulates different handling thresholds depending on the level of price fluctuation.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261028_b66cf1e08d#10",
+    "doc_id": "vneconomy_en_20261028_b66cf1e08d",
+    "sent_idx": 10,
+    "text": "Specifically, if the calculated average retail electricity price decreases by less than 1% or increases by less than 2% compared to the current level, EVN does not adjust but must report to the Ministry of Industry and Trade for inspection and supervision.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261028_b66cf1e08d#11",
+    "doc_id": "vneconomy_en_20261028_b66cf1e08d",
+    "sent_idx": 11,
+    "text": "When the electricity price decreases by 1% or more or increases by 2% to less than 5%, EVN must submit a plan for the Ministry of Industry and Trade to review and provide written feedback before making a decision.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261028_b66cf1e08d#12",
+    "doc_id": "vneconomy_en_20261028_b66cf1e08d",
+    "sent_idx": 12,
+    "text": "For increases from 5% to less than 10%, EVN can adjust accordingly after reporting and receiving approval from the Ministry of Industry and Trade.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261028_b66cf1e08d#13",
+    "doc_id": "vneconomy_en_20261028_b66cf1e08d",
+    "sent_idx": 13,
+    "text": "Compared to the current average retail electricity price, the aforementioned cost is about VND111.37/kWh lower, equivalent to 5.32%.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261028_b66cf1e08d#14",
+    "doc_id": "vneconomy_en_20261028_b66cf1e08d",
+    "sent_idx": 14,
+    "text": "However, EVN stated that by the end of 2025, there will still be over VND17,506 billion (nearly $678,000) in costs not accounted for in the production and business costs of electricity.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261028_b66cf1e08d#15",
+    "doc_id": "vneconomy_en_20261028_b66cf1e08d",
+    "sent_idx": 15,
+    "text": "Most of this amount is unrecognized exchange rate differences and payments to power plants, arising from the remainder of 2021 and the period 2022-2025.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261028_b66cf1e08d#16",
+    "doc_id": "vneconomy_en_20261028_b66cf1e08d",
+    "sent_idx": 16,
+    "text": "For cases where electricity prices need to increase by 10% or more, the Ministry of Industry and Trade will lead inspections, reviews, and consultations with relevant ministries and agencies before compiling and reporting to the Government for consideration.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261028_b66cf1e08d#17",
+    "doc_id": "vneconomy_en_20261028_b66cf1e08d",
+    "sent_idx": 17,
+    "text": "When necessary, the Ministry of Industry and Trade will coordinate with the Price Steering Committee before submitting to the Government.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261028_b66cf1e08d#18",
+    "doc_id": "vneconomy_en_20261028_b66cf1e08d",
+    "sent_idx": 18,
+    "text": "Regarding the basis for calculating electricity prices, the results of the inspection of production and business costs for electricity in 2025, recently announced by EVN, show that total costs reached over VND601.68 trillion (more than $23.28 billion).",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261028_b66cf1e08d#19",
+    "doc_id": "vneconomy_en_20261028_b66cf1e08d",
+    "sent_idx": 19,
+    "text": "After deducting income from the liquidation, transfer of fixed assets, recovered materials, and activities related to renting electric poles, the production and business cost of electricity is determined to be VND2,092.70 /kWh, according to EVN's report.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261028_b66cf1e08d#20",
+    "doc_id": "vneconomy_en_20261028_b66cf1e08d",
+    "sent_idx": 20,
+    "text": "For the gasoline tax plan, the Ministry of Finance is tasked with leading and coordinating with the Ministry of Industry and Trade, the Ministry of Justice, and related agencies to review the legal basis, authority, and fully assess the impact and feasibility of reducing the special consumption tax on gasoline to 0%.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261028_b66cf1e08d#21",
+    "doc_id": "vneconomy_en_20261028_b66cf1e08d",
+    "sent_idx": 21,
+    "text": "Previously, the Government extended policies on environmental protection tax and value-added tax for gasoline, diesel, kerosene, mazut, and aviation fuel under Resolution No. 19/2026/QH16 until December 31, 2026.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261028_b66cf1e08d#22",
+    "doc_id": "vneconomy_en_20261028_b66cf1e08d",
+    "sent_idx": 22,
+    "text": "Accordingly, the environmental protection tax on gasoline, diesel, kerosene, mazut, and aviation fuel remains at 0 VND/liter.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261028_b66cf1e08d#23",
+    "doc_id": "vneconomy_en_20261028_b66cf1e08d",
+    "sent_idx": 23,
+    "text": "Regarding value-added tax, these items are not subject to declaration or payment of value-added tax but are still eligible for input value-added tax deduction.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261028_b66cf1e08d#24",
+    "doc_id": "vneconomy_en_20261028_b66cf1e08d",
+    "sent_idx": 24,
+    "text": "Meanwhile, the special consumption tax on gasoline is still applied under the Special Consumption Tax Law No. 66/2025/QH15, with a tax rate of 10% for mineral gasoline, 8% for E5 gasoline, and 7% for E10 gasoline.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261028_b66cf1e08d#25",
+    "doc_id": "vneconomy_en_20261028_b66cf1e08d",
+    "sent_idx": 25,
+    "text": "Reducing the special consumption tax on gasoline to 0% is therefore not an unprecedented measure.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261028_b66cf1e08d#26",
+    "doc_id": "vneconomy_en_20261028_b66cf1e08d",
+    "sent_idx": 26,
+    "text": "From late March to the end of June 2026, this tax was reduced to 0% to support market stabilization.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261028_b66cf1e08d#27",
+    "doc_id": "vneconomy_en_20261028_b66cf1e08d",
+    "sent_idx": 27,
+    "text": "If approved this time, the policy will continue to be applied for five months, alongside the plan to reduce electricity prices.",
+    "lang": "en",
+    "is_title": false
+  }
+]

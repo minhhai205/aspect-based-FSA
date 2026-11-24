@@ -1,0 +1,106 @@
+[
+  {
+    "sent_id": "vietnamnews_20261112_3892932952#0",
+    "doc_id": "vietnamnews_20261112_3892932952",
+    "sent_idx": 0,
+    "text": "Việt Nam cuts retail fuel prices for fourth consecutive time in November",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261112_3892932952#1",
+    "doc_id": "vietnamnews_20261112_3892932952",
+    "sent_idx": 1,
+    "text": "HÀ NỘI - Việt Nam cut retail petrol prices from 3pm on Thursday, marking the fourth consecutive reduction since the beginning of the month, following a joint decision by the ministries of industry and trade and finance.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261112_3892932952#2",
+    "doc_id": "vietnamnews_20261112_3892932952",
+    "sent_idx": 2,
+    "text": "Under the latest adjustment, E5RON92 petrol was capped at VNĐ19,399 (US$$0.77) per litre, down VNĐ1,499, while E10RON95-III fell VNĐ1,311 to a maximum of VNĐ19,845 per litre.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261112_3892932952#3",
+    "doc_id": "vietnamnews_20261112_3892932952",
+    "sent_idx": 3,
+    "text": "Diesel 0.05S prices dropped VNĐ1,874 to no more than VNĐ26,822 per litre, while mazut 180CST 3.5S fell VNĐ2,263 to VNĐ19,742 per kilo.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261112_3892932952#4",
+    "doc_id": "vietnamnews_20261112_3892932952",
+    "sent_idx": 4,
+    "text": "For this adjustment, VNĐ600 per litre will be allocated to the fuel price stabilisation fund for biofuel using an advance from the state budget.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261112_3892932952#5",
+    "doc_id": "vietnamnews_20261112_3892932952",
+    "sent_idx": 5,
+    "text": "The latest adjustment was based on import cost benchmarks for petroleum products and the implementation of the price stabilisation fund in accordance with a decision issued the same day by the Ministry of Industry and Trade.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261112_3892932952#6",
+    "doc_id": "vietnamnews_20261112_3892932952",
+    "sent_idx": 6,
+    "text": "According to the minitry, global petroleum markets during the review period were influenced by several factors, including the US temporary suspension of plans for further attacks on Iran, fresh attacks on oil tankers in the Strait of Hormuz, higher OPEC crude oil output in October,and developments in negotiations involving Russia, the US and Ukraine.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261112_3892932952#7",
+    "doc_id": "vietnamnews_20261112_3892932952",
+    "sent_idx": 7,
+    "text": "These developments caused fluctuations in global fuel prices, although the overall trend was downward.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261112_3892932952#8",
+    "doc_id": "vietnamnews_20261112_3892932952",
+    "sent_idx": 8,
+    "text": "Between November 5 and November 12, average global prices of RON92 petrol, used to blend E5RON92, fell 8 per cent to $103.973 per barrel.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261112_3892932952#9",
+    "doc_id": "vietnamnews_20261112_3892932952",
+    "sent_idx": 9,
+    "text": "RON95 petrol, used to blend E10RON95-III, dropped 7 per cent to $106.028 per barrel.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261112_3892932952#10",
+    "doc_id": "vietnamnews_20261112_3892932952",
+    "sent_idx": 10,
+    "text": "Diesel prices declined 7 per cent to $152.280 per barrel, while mazut 180CST 3.5S fell 15 per cent to $620.545 per tonne.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261112_3892932952#11",
+    "doc_id": "vietnamnews_20261112_3892932952",
+    "sent_idx": 11,
+    "text": "The Ministry of Industry and Trade said it would coordinate with relevant agencies to inspect fuel traders' compliance with regulations and ensure adequate market supplies, with violations subject to strict penalties.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261112_3892932952#12",
+    "doc_id": "vietnamnews_20261112_3892932952",
+    "sent_idx": 12,
+    "text": "The ministries of industry and trade and finance will continue monitoring global and domestic market developments and propose measures to the Government and the Prime Minister when necessary to help stabilise fuel prices. - BIZHUB/ VNS",
+    "lang": "en",
+    "is_title": false
+  }
+]

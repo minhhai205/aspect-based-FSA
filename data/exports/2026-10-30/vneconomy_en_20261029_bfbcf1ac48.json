@@ -1,0 +1,74 @@
+[
+  {
+    "sent_id": "vneconomy_en_20261029_bfbcf1ac48#0",
+    "doc_id": "vneconomy_en_20261029_bfbcf1ac48",
+    "sent_idx": 0,
+    "text": "Life insurance market sees 4.3% growth in new policies",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vneconomy_en_20261029_bfbcf1ac48#1",
+    "doc_id": "vneconomy_en_20261029_bfbcf1ac48",
+    "sent_idx": 1,
+    "text": "Vietnam's life insurance market recorded 1,141,841 newly issued policies in the first nine months of 2026, up 4.3% from the same period last year, according to data from the Insurance Association of Vietnam.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261029_bfbcf1ac48#2",
+    "doc_id": "vneconomy_en_20261029_bfbcf1ac48",
+    "sent_idx": 2,
+    "text": "Life insurers paid out approximately VND55.733 trillion ($2.11 billion) in claims and benefits during the period, an increase of 21.5% year-on-year.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261029_bfbcf1ac48#3",
+    "doc_id": "vneconomy_en_20261029_bfbcf1ac48",
+    "sent_idx": 3,
+    "text": "Investment-linked insurance accounted for 41.5% of newly issued policies, although the number of policies in this category fell 23% compared with the same period in 2025.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261029_bfbcf1ac48#4",
+    "doc_id": "vneconomy_en_20261029_bfbcf1ac48",
+    "sent_idx": 4,
+    "text": "Meanwhile, term life insurance made up 50.3% of new policies, surging 54% year-on-year.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261029_bfbcf1ac48#5",
+    "doc_id": "vneconomy_en_20261029_bfbcf1ac48",
+    "sent_idx": 5,
+    "text": "Endowment insurance policies declined 23.4%, representing 3.6% of new contracts.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261029_bfbcf1ac48#6",
+    "doc_id": "vneconomy_en_20261029_bfbcf1ac48",
+    "sent_idx": 6,
+    "text": "Other products, including health, pension and whole-life insurance, accounted for a combined 4.6% of the market, down 69% year-on-year.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261029_bfbcf1ac48#7",
+    "doc_id": "vneconomy_en_20261029_bfbcf1ac48",
+    "sent_idx": 7,
+    "text": "In terms of revenue, premiums from newly issued life insurance policies were estimated at VND15.894 trillion ($604 million) in the first nine months of 2026.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261029_bfbcf1ac48#8",
+    "doc_id": "vneconomy_en_20261029_bfbcf1ac48",
+    "sent_idx": 8,
+    "text": "Total life insurance premium revenue reached an estimated VND101.621 trillion ($3.86 billion) over the same period, down 4% year-on-year.",
+    "lang": "en",
+    "is_title": false
+  }
+]

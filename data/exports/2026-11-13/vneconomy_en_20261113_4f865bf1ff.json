@@ -1,0 +1,210 @@
+[
+  {
+    "sent_id": "vneconomy_en_20261113_4f865bf1ff#0",
+    "doc_id": "vneconomy_en_20261113_4f865bf1ff",
+    "sent_idx": 0,
+    "text": "Vietnam seeks $251 billion to fuel 2027 growth",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vneconomy_en_20261113_4f865bf1ff#1",
+    "doc_id": "vneconomy_en_20261113_4f865bf1ff",
+    "sent_idx": 1,
+    "text": "Speaking at a question-and-answer session during the second sitting of the 16th National Assembly on November 12, Prime Minister Le Minh Hung emphasized that curbing inflation, stabilizing currency value, and strengthening macroeconomic foundations remain top priorities to sustain high growth and improve living standards.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261113_4f865bf1ff#2",
+    "doc_id": "vneconomy_en_20261113_4f865bf1ff",
+    "sent_idx": 2,
+    "text": "Throughout 2026, the Government implemented comprehensive fiscal and monetary measures to ease input costs, including a 2 percent value-added tax reduction, a 2 percent electricity price cut, zero-percent special consumption tax on gasoline from November 1, 2026 through March 31, 2027, and 30 percent income tax reductions for household businesses and small enterprises.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261113_4f865bf1ff#3",
+    "doc_id": "vneconomy_en_20261113_4f865bf1ff",
+    "sent_idx": 3,
+    "text": "These tax exemptions and reductions are estimated to lower 2026 state budget revenue by VND256.7 trillion ($10.07 billion).",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261113_4f865bf1ff#4",
+    "doc_id": "vneconomy_en_20261113_4f865bf1ff",
+    "sent_idx": 4,
+    "text": "Concurrently, flexible monetary management reduced lending interest rates by 1.5 to 2 percent for priority sectors, keeping 10-month consumer price index (CPI) inflation at 4.57 percent despite global commodity price volatility.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261113_4f865bf1ff#5",
+    "doc_id": "vneconomy_en_20261113_4f865bf1ff",
+    "sent_idx": 5,
+    "text": "Resource mobilization showed strong momentum in 2026.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261113_4f865bf1ff#6",
+    "doc_id": "vneconomy_en_20261113_4f865bf1ff",
+    "sent_idx": 6,
+    "text": "Total social investment reached VND3.11 quadrillion ($122 billion) in the first nine months, up 15.1 percent year-on-year.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261113_4f865bf1ff#7",
+    "doc_id": "vneconomy_en_20261113_4f865bf1ff",
+    "sent_idx": 7,
+    "text": "Over 10 months, state budget revenue hit VND2.44 quadrillion ($95.7 billion), up 11 percent, while public investment disbursement reached nearly VND708.6 trillion ($27.8 billion).",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261113_4f865bf1ff#8",
+    "doc_id": "vneconomy_en_20261113_4f865bf1ff",
+    "sent_idx": 8,
+    "text": "Registered foreign direct investment (FDI) surged 74 percent to $54.85 billion, with realized capital rising 13.1 percent to $24.08 billion, while total import-export turnover surpassed $1 trillion for the first time.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261113_4f865bf1ff#9",
+    "doc_id": "vneconomy_en_20261113_4f865bf1ff",
+    "sent_idx": 9,
+    "text": "Authorities also resolved 4,817 stalled projects worth over VND3.5 quadrillion ($137 billion), bringing 902 projects into operation and positioning the economy for over 10 percent GDP growth in 2026.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261113_4f865bf1ff#10",
+    "doc_id": "vneconomy_en_20261113_4f865bf1ff",
+    "sent_idx": 10,
+    "text": "For 2027, achieving 10 percent GDP growth requires total social investment equivalent to 36 to 38 percent of GDP, or VND6-6.4 quadrillion.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261113_4f865bf1ff#11",
+    "doc_id": "vneconomy_en_20261113_4f865bf1ff",
+    "sent_idx": 11,
+    "text": "State budget development investment will account for roughly VND1.76 quadrillion ($69 billion), or 27 to 29 percent of the total.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261113_4f865bf1ff#12",
+    "doc_id": "vneconomy_en_20261113_4f865bf1ff",
+    "sent_idx": 12,
+    "text": "To secure funding, the Government aims to boost budget revenue by 9.1 percent, trim public investment spending by 5 percent and recurrent expenditure by 10 percent, and mobilize capital through bond issuance, ODA loans, bank credit, and state-owned enterprises.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261113_4f865bf1ff#13",
+    "doc_id": "vneconomy_en_20261113_4f865bf1ff",
+    "sent_idx": 13,
+    "text": "Vietnam also targets $40-42 billion in registered FDI and $30-32 billion in realized FDI in 2027, alongside raising VND950 trillion ($37.3 billion) via the stock market.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261113_4f865bf1ff#14",
+    "doc_id": "vneconomy_en_20261113_4f865bf1ff",
+    "sent_idx": 14,
+    "text": "To enhance capital efficiency, the Government will establish detailed growth scenarios and assign clear tasks and timelines to ministries, localities, and state-owned enterprises.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261113_4f865bf1ff#15",
+    "doc_id": "vneconomy_en_20261113_4f865bf1ff",
+    "sent_idx": 15,
+    "text": "Key sectoral directives focus on breakthroughs in productivity, quality, and economic competitiveness.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261113_4f865bf1ff#16",
+    "doc_id": "vneconomy_en_20261113_4f865bf1ff",
+    "sent_idx": 16,
+    "text": "In industry, priority goes to foundational and supporting sectors alongside emerging fields such as energy, new materials, electronics, and semiconductors, while accelerating high-tech projects and deep processing of strategic minerals.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261113_4f865bf1ff#17",
+    "doc_id": "vneconomy_en_20261113_4f865bf1ff",
+    "sent_idx": 17,
+    "text": "In agriculture, authorities will promote high-tech, low-emission farming linked closely with deep processing, domestic consumption, and exports.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261113_4f865bf1ff#18",
+    "doc_id": "vneconomy_en_20261113_4f865bf1ff",
+    "sent_idx": 18,
+    "text": "In services, efforts will center on boosting tourism and logistics, stimulating domestic demand, diversifying export markets, and cutting intermediary steps and circulation costs.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261113_4f865bf1ff#19",
+    "doc_id": "vneconomy_en_20261113_4f865bf1ff",
+    "sent_idx": 19,
+    "text": "The Prime Minister underscored the need for substantive digital transformation across state governance, public services, and business operations, alongside commercializing research outcomes and strengthening linkages among the State, enterprises, research institutes, and universities.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261113_4f865bf1ff#20",
+    "doc_id": "vneconomy_en_20261113_4f865bf1ff",
+    "sent_idx": 20,
+    "text": "Science, technology, innovation, and digital transformation must serve as primary drivers to renew the growth model and form new economic sectors.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261113_4f865bf1ff#21",
+    "doc_id": "vneconomy_en_20261113_4f865bf1ff",
+    "sent_idx": 21,
+    "text": "Digitalization effectiveness will be measured by cost reductions, productivity gains, and service quality, while eliminating fragmented and wasteful information technology investments.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261113_4f865bf1ff#22",
+    "doc_id": "vneconomy_en_20261113_4f865bf1ff",
+    "sent_idx": 22,
+    "text": "To safeguard macroeconomic stability, the Government will ensure adequate supplies of fuel, electricity, and essential goods, enhance price transparency, strictly penalize market violations, and assign specific CPI control targets to localities.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261113_4f865bf1ff#23",
+    "doc_id": "vneconomy_en_20261113_4f865bf1ff",
+    "sent_idx": 23,
+    "text": "Alongside economic expansion, the Prime Minister reaffirmed a people-centered approach that links growth with social progress and equity.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261113_4f865bf1ff#24",
+    "doc_id": "vneconomy_en_20261113_4f865bf1ff",
+    "sent_idx": 24,
+    "text": "In the first 10 months of 2026, the state spent VND578 trillion ($22.7 billion) on healthcare, education, and social welfare, raised the base salary by 8 percent from July 1, and provided free health checkups for 73.6 million citizens.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261113_4f865bf1ff#25",
+    "doc_id": "vneconomy_en_20261113_4f865bf1ff",
+    "sent_idx": 25,
+    "text": "The Government also aims to roll out nationwide free textbooks for general education students starting in the 2028-2029 academic year, one year ahead of schedule, while strengthening disaster prevention, climate change adaptation, rural infrastructure, and unified national target programs.",
+    "lang": "en",
+    "is_title": false
+  }
+]

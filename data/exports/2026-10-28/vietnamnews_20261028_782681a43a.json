@@ -1,0 +1,434 @@
+[
+  {
+    "sent_id": "vietnamnews_20261028_782681a43a#0",
+    "doc_id": "vietnamnews_20261028_782681a43a",
+    "sent_idx": 0,
+    "text": "Việt Nam calls for action-oriented international partnerships at AEF 2026",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261028_782681a43a#1",
+    "doc_id": "vietnamnews_20261028_782681a43a",
+    "sent_idx": 1,
+    "text": "HCM CITY - Prime Minister Lê Minh Hưng has called for stronger international partnerships that translate commitments into concrete projects, as Việt Nam seeks to strengthen economic resilience, attract high-quality investment and achieve sustainable growth.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_782681a43a#2",
+    "doc_id": "vietnamnews_20261028_782681a43a",
+    "sent_idx": 2,
+    "text": "Addressing the high-level plenary of the Autumn Economic Forum 2026 (AEF 2026) in HCM City on October 28, the Prime Minister stressed that national self-reliance must go hand in hand with international cooperation amid profound changes in the global economic landscape.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_782681a43a#3",
+    "doc_id": "vietnamnews_20261028_782681a43a",
+    "sent_idx": 3,
+    "text": "Held under the theme \"The Spirit of Cooperation in a New Era\", the forum brought together government representatives, international organisations, business leaders and experts to discuss emerging growth drivers and new opportunities for collaboration.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_782681a43a#4",
+    "doc_id": "vietnamnews_20261028_782681a43a",
+    "sent_idx": 4,
+    "text": "The event also featured an exchange between the Prime Minister and World Economic Forum (WEF) Managing Director Stephan Mergenthaler on Việt Nam's development priorities and the future of international economic cooperation.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_782681a43a#5",
+    "doc_id": "vietnamnews_20261028_782681a43a",
+    "sent_idx": 5,
+    "text": "The Prime Minister said the world was undergoing profound changes driven by geopolitical competition, economic fragmentation and the restructuring of global supply chains.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_782681a43a#6",
+    "doc_id": "vietnamnews_20261028_782681a43a",
+    "sent_idx": 6,
+    "text": "Meanwhile, advances in artificial intelligence (AI), digital transformation, green transition and energy transition were reshaping production methods, development models and the distribution of economic opportunities.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_782681a43a#7",
+    "doc_id": "vietnamnews_20261028_782681a43a",
+    "sent_idx": 7,
+    "text": "These changes presented both significant challenges and new opportunities for countries seeking to maintain growth and strengthen their competitiveness.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_782681a43a#8",
+    "doc_id": "vietnamnews_20261028_782681a43a",
+    "sent_idx": 8,
+    "text": "Against this backdrop, Việt Nam believes that greater economic self-reliance and deeper international integration are closely connected, rather than contradictory objectives.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_782681a43a#9",
+    "doc_id": "vietnamnews_20261028_782681a43a",
+    "sent_idx": 9,
+    "text": "No country can achieve rapid and sustainable development in isolation, while global challenges cannot be effectively addressed through unilateral efforts, he said.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_782681a43a#10",
+    "doc_id": "vietnamnews_20261028_782681a43a",
+    "sent_idx": 10,
+    "text": "He called for greater trust, stronger multilateral cooperation and sustained dialogue based on respect for international law and the legitimate interests of all countries.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_782681a43a#11",
+    "doc_id": "vietnamnews_20261028_782681a43a",
+    "sent_idx": 11,
+    "text": "The Prime Minister also emphasised the need to move beyond declarations and general commitments towards practical cooperation mechanisms, feasible projects and measurable outcomes.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_782681a43a#12",
+    "doc_id": "vietnamnews_20261028_782681a43a",
+    "sent_idx": 12,
+    "text": "For Việt Nam, international integration remains a consistent strategic priority, helping the country mobilise external resources while strengthening domestic capabilities.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_782681a43a#13",
+    "doc_id": "vietnamnews_20261028_782681a43a",
+    "sent_idx": 13,
+    "text": "The Government aims to build an economy that is more productive, competitive and resilient, capable of adapting to external shocks while taking advantage of opportunities arising from technological advances and changes in global production networks.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_782681a43a#14",
+    "doc_id": "vietnamnews_20261028_782681a43a",
+    "sent_idx": 14,
+    "text": "The Prime Minister said Việt Nam was determined to pursue its long-term development goals, including becoming a developed, high-income country by 2045.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_782681a43a#15",
+    "doc_id": "vietnamnews_20261028_782681a43a",
+    "sent_idx": 15,
+    "text": "Achieving these ambitions will require substantial changes to the country's growth model, with greater emphasis on science and technology, innovation and digital transformation.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_782681a43a#16",
+    "doc_id": "vietnamnews_20261028_782681a43a",
+    "sent_idx": 16,
+    "text": "Traditional growth drivers must be renewed, while new economic sectors are developed to create additional sources of productivity and competitiveness.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_782681a43a#17",
+    "doc_id": "vietnamnews_20261028_782681a43a",
+    "sent_idx": 17,
+    "text": "High growth must be accompanied by higher productivity, foreign investment must contribute to the development of domestic enterprises, and deeper international integration must strengthen the economy's resilience and autonomy, he said.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_782681a43a#18",
+    "doc_id": "vietnamnews_20261028_782681a43a",
+    "sent_idx": 18,
+    "text": "From investment destination to strategic partner",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_782681a43a#19",
+    "doc_id": "vietnamnews_20261028_782681a43a",
+    "sent_idx": 19,
+    "text": "The Prime Minister outlined Việt Nam's ambition to become more than an attractive destination for foreign capital and emerging technologies.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_782681a43a#20",
+    "doc_id": "vietnamnews_20261028_782681a43a",
+    "sent_idx": 20,
+    "text": "The country seeks to become a trusted partner in global supply and value chains, a hub connecting innovation ecosystems, and a place where international and domestic businesses jointly develop new growth models.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_782681a43a#21",
+    "doc_id": "vietnamnews_20261028_782681a43a",
+    "sent_idx": 21,
+    "text": "This vision requires a shift in the way Việt Nam engages with international investors.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_782681a43a#22",
+    "doc_id": "vietnamnews_20261028_782681a43a",
+    "sent_idx": 22,
+    "text": "The Prime Minister encouraged foreign partners not merely to \"invest in Việt Nam\", but to \"invest together with Việt Nam\", contributing to research and development, innovation and the creation of new value chains with regional and global competitiveness.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_782681a43a#23",
+    "doc_id": "vietnamnews_20261028_782681a43a",
+    "sent_idx": 23,
+    "text": "He called for stronger partnerships between international corporations, Vietnamese businesses and local authorities, particularly in strategic technology sectors such as AI, semiconductors and advanced materials.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_782681a43a#24",
+    "doc_id": "vietnamnews_20261028_782681a43a",
+    "sent_idx": 24,
+    "text": "Such cooperation could help Việt Nam move beyond manufacturing and assembly towards higher-value activities, including research, technological development and innovation.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_782681a43a#25",
+    "doc_id": "vietnamnews_20261028_782681a43a",
+    "sent_idx": 25,
+    "text": "The Prime Minister also highlighted the importance of developing a skilled workforce capable of adopting, applying and mastering advanced technologies.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_782681a43a#26",
+    "doc_id": "vietnamnews_20261028_782681a43a",
+    "sent_idx": 26,
+    "text": "He called on the WEF and international partners to support programmes that develop digital talent and expertise in key scientific and technological fields.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_782681a43a#27",
+    "doc_id": "vietnamnews_20261028_782681a43a",
+    "sent_idx": 27,
+    "text": "At the same time, Việt Nam is ready to work with technology companies to explore controlled testing environments for strategic technologies, including AI and new energy solutions.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_782681a43a#28",
+    "doc_id": "vietnamnews_20261028_782681a43a",
+    "sent_idx": 28,
+    "text": "These mechanisms could help accelerate the practical application of emerging technologies while ensuring their safe and effective deployment.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_782681a43a#29",
+    "doc_id": "vietnamnews_20261028_782681a43a",
+    "sent_idx": 29,
+    "text": "Mobilising medium- and long-term capital was another priority.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_782681a43a#30",
+    "doc_id": "vietnamnews_20261028_782681a43a",
+    "sent_idx": 30,
+    "text": "The Prime Minister said international financial centres in HCM City and Đà Nẵng could play an important role in connecting global financial resources with Việt Nam's needs in infrastructure, energy, green transition and innovation.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_782681a43a#31",
+    "doc_id": "vietnamnews_20261028_782681a43a",
+    "sent_idx": 31,
+    "text": "The broader objective is to establish partnerships that generate lasting economic value, strengthen domestic capabilities and create opportunities for businesses on both sides.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_782681a43a#32",
+    "doc_id": "vietnamnews_20261028_782681a43a",
+    "sent_idx": 32,
+    "text": "Building a practical cooperation framework",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_782681a43a#33",
+    "doc_id": "vietnamnews_20261028_782681a43a",
+    "sent_idx": 33,
+    "text": "The Prime Minister stressed that translating the forum's discussions into tangible outcomes would require coordinated action by the Government, local authorities, businesses, scientific institutions and international partners.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_782681a43a#34",
+    "doc_id": "vietnamnews_20261028_782681a43a",
+    "sent_idx": 34,
+    "text": "The Government would focus on improving institutions and creating a favourable environment for development, while local authorities would take a more proactive role in implementation.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_782681a43a#35",
+    "doc_id": "vietnamnews_20261028_782681a43a",
+    "sent_idx": 35,
+    "text": "Domestic and foreign enterprises were expected to lead investment and innovation, while the scientific community would contribute knowledge and practical solutions.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_782681a43a#36",
+    "doc_id": "vietnamnews_20261028_782681a43a",
+    "sent_idx": 36,
+    "text": "International partners, meanwhile, could share experience, mobilise resources and work with Việt Nam to implement joint initiatives.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_782681a43a#37",
+    "doc_id": "vietnamnews_20261028_782681a43a",
+    "sent_idx": 37,
+    "text": "To improve accountability, the Prime Minister said the Government would designate clear focal points for feasible proposals, establish specific road maps for promising projects and identify the responsible agencies and individuals to address legitimate investor concerns.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_782681a43a#38",
+    "doc_id": "vietnamnews_20261028_782681a43a",
+    "sent_idx": 38,
+    "text": "The approach reflects an emphasis on implementation, with cooperation assessed through concrete progress rather than statements of intent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_782681a43a#39",
+    "doc_id": "vietnamnews_20261028_782681a43a",
+    "sent_idx": 39,
+    "text": "The four main pillars of AEF 2026 cover the role of major cities in connecting emerging growth centres, breakthrough technologies and innovation ecosystems, new cooperation models, and the pioneering role of the private sector.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_782681a43a#40",
+    "doc_id": "vietnamnews_20261028_782681a43a",
+    "sent_idx": 40,
+    "text": "The Prime Minister called for these priorities to be brought together in a coherent action programme with clear objectives and measurable results.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_782681a43a#41",
+    "doc_id": "vietnamnews_20261028_782681a43a",
+    "sent_idx": 41,
+    "text": "For Việt Nam, the forum provides an opportunity to strengthen its engagement with international partners while identifying new sources of growth amid the restructuring of the global economy.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_782681a43a#42",
+    "doc_id": "vietnamnews_20261028_782681a43a",
+    "sent_idx": 42,
+    "text": "WEF Managing Director Stephan Mergenthaler said global economic challenges required cooperation among governments, businesses and society, supported by a shared vision and a commitment to turning dialogue into action.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_782681a43a#43",
+    "doc_id": "vietnamnews_20261028_782681a43a",
+    "sent_idx": 43,
+    "text": "He identified three major forces shaping future growth: the convergence of technologies and intelligence, resilient and sustainable industry, and stronger connections between ideas, capital, talent and markets.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_782681a43a#44",
+    "doc_id": "vietnamnews_20261028_782681a43a",
+    "sent_idx": 44,
+    "text": "Technological advances are changing how businesses operate and how governments deliver services.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_782681a43a#45",
+    "doc_id": "vietnamnews_20261028_782681a43a",
+    "sent_idx": 45,
+    "text": "The challenge is to translate these advances into higher productivity, stronger business competitiveness, more jobs and tangible improvements in people's lives.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_782681a43a#46",
+    "doc_id": "vietnamnews_20261028_782681a43a",
+    "sent_idx": 46,
+    "text": "Meanwhile, resilience and sustainability are becoming increasingly important considerations in investment and production decisions, alongside efficiency.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_782681a43a#47",
+    "doc_id": "vietnamnews_20261028_782681a43a",
+    "sent_idx": 47,
+    "text": "The transition towards cleaner energy, smarter infrastructure and more efficient resource use also offers opportunities for industrial transformation.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_782681a43a#48",
+    "doc_id": "vietnamnews_20261028_782681a43a",
+    "sent_idx": 48,
+    "text": "Cities have a particularly important role in connecting these forces, as they bring together businesses, entrepreneurs, talent and investment, helping turn global opportunities into local economic activity.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_782681a43a#49",
+    "doc_id": "vietnamnews_20261028_782681a43a",
+    "sent_idx": 49,
+    "text": "Mergenthaler noted that the city's entrepreneurial spirit, industrial capabilities and international outlook provided a foundation for connecting domestic enterprises with global partners.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_782681a43a#50",
+    "doc_id": "vietnamnews_20261028_782681a43a",
+    "sent_idx": 50,
+    "text": "Realising this potential, however, would require stronger cooperation, mutual understanding and trust.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_782681a43a#51",
+    "doc_id": "vietnamnews_20261028_782681a43a",
+    "sent_idx": 51,
+    "text": "The Prime Minister reaffirmed that Việt Nam was ready to work with international partners to address shared challenges and create new development opportunities.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_782681a43a#52",
+    "doc_id": "vietnamnews_20261028_782681a43a",
+    "sent_idx": 52,
+    "text": "He said Việt Nam would continue to listen, learn and share experience, while contributing actively and responsibly to the international community.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_782681a43a#53",
+    "doc_id": "vietnamnews_20261028_782681a43a",
+    "sent_idx": 53,
+    "text": "The message from AEF 2026 was clear: international cooperation must deliver practical benefits, with governments, businesses and partners working together to turn shared ambitions into sustainable growth and long-term value. -VNS",
+    "lang": "en",
+    "is_title": false
+  }
+]

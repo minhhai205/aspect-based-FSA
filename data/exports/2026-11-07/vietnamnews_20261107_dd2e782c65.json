@@ -1,0 +1,378 @@
+[
+  {
+    "sent_id": "vietnamnews_20261107_dd2e782c65#0",
+    "doc_id": "vietnamnews_20261107_dd2e782c65",
+    "sent_idx": 0,
+    "text": "Clean energy hinges on tech and market conditions",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261107_dd2e782c65#1",
+    "doc_id": "vietnamnews_20261107_dd2e782c65",
+    "sent_idx": 1,
+    "text": "HÀ NỘI - Việt Nam's clean energy transition will depend not only on access to new technologies such as battery storage, clean hydrogen and nuclear power, but also on its ability to adapt them, build domestic expertise and make projects commercially viable.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_dd2e782c65#2",
+    "doc_id": "vietnamnews_20261107_dd2e782c65",
+    "sent_idx": 2,
+    "text": "Electricity demand is forecast to grow by 10-12 per cent annually, with energy demand projected to reach 110-122 million tonnes of oil equivalent by 2030, driven by Việt Nam's ambitious economic growth targets.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_dd2e782c65#3",
+    "doc_id": "vietnamnews_20261107_dd2e782c65",
+    "sent_idx": 3,
+    "text": "New sources of demand, including data centres, AI and electric transport, will add further pressure on the power system.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_dd2e782c65#4",
+    "doc_id": "vietnamnews_20261107_dd2e782c65",
+    "sent_idx": 4,
+    "text": "The adjusted Power Development Plan VIII includes a more diverse energy mix, incorporating renewable energy, nuclear power and energy storage.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_dd2e782c65#5",
+    "doc_id": "vietnamnews_20261107_dd2e782c65",
+    "sent_idx": 5,
+    "text": "It also sets a target of 10-16.3GW for energy storage capacity.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_dd2e782c65#6",
+    "doc_id": "vietnamnews_20261107_dd2e782c65",
+    "sent_idx": 6,
+    "text": "However, translating these plans into reality will require a broader approach to technology development.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_dd2e782c65#7",
+    "doc_id": "vietnamnews_20261107_dd2e782c65",
+    "sent_idx": 7,
+    "text": "Experts and businesses have highlighted the need to look beyond individual technologies and consider how they can work together to meet the country's changing energy needs.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_dd2e782c65#8",
+    "doc_id": "vietnamnews_20261107_dd2e782c65",
+    "sent_idx": 8,
+    "text": "Battery energy storage systems (BESS) can help improve the flexibility of the power system, particularly as the share of renewable energy increases.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_dd2e782c65#9",
+    "doc_id": "vietnamnews_20261107_dd2e782c65",
+    "sent_idx": 9,
+    "text": "According to Nguyễn Văn Thiện, deputy general director of GG Industries, an energy storage solutions provider, solar and wind power output do not always match periods of peak electricity demand.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_dd2e782c65#10",
+    "doc_id": "vietnamnews_20261107_dd2e782c65",
+    "sent_idx": 10,
+    "text": "Storage systems could store surplus electricity and release it when needed.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_dd2e782c65#11",
+    "doc_id": "vietnamnews_20261107_dd2e782c65",
+    "sent_idx": 11,
+    "text": "\"BESS is not just an ordinary battery.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_dd2e782c65#12",
+    "doc_id": "vietnamnews_20261107_dd2e782c65",
+    "sent_idx": 12,
+    "text": "It is essentially an intelligent energy system,\" Thiện said.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_dd2e782c65#13",
+    "doc_id": "vietnamnews_20261107_dd2e782c65",
+    "sent_idx": 13,
+    "text": "A BESS includes batteries that store direct current, power conversion systems that convert it into alternating current, and energy management software that controls and optimises the system's operation before electricity is supplied to the grid.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_dd2e782c65#14",
+    "doc_id": "vietnamnews_20261107_dd2e782c65",
+    "sent_idx": 14,
+    "text": "As of August 2026, Vietnam Electricity (EVN) had announced plans to develop 1,200MW of battery storage capacity nationwide.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_dd2e782c65#15",
+    "doc_id": "vietnamnews_20261107_dd2e782c65",
+    "sent_idx": 15,
+    "text": "Circular 62, issued by the Ministry of Industry and Trade, also provides guidance on BESS investment at 110kV and 220kV substations, including pricing and operating costs.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_dd2e782c65#16",
+    "doc_id": "vietnamnews_20261107_dd2e782c65",
+    "sent_idx": 16,
+    "text": "Thiện said domestic businesses could find opportunities across the energy technology value chain, from software and system integration to operation, maintenance and technical services, rather than focusing solely on manufacturing or assembling battery equipment.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_dd2e782c65#17",
+    "doc_id": "vietnamnews_20261107_dd2e782c65",
+    "sent_idx": 17,
+    "text": "However, the development of a market does not automatically make every project financially viable.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_dd2e782c65#18",
+    "doc_id": "vietnamnews_20261107_dd2e782c65",
+    "sent_idx": 18,
+    "text": "BESS investment requires substantial capital, while the integration of storage systems depends on grid infrastructure, technical requirements and the ability to connect projects to the electricity system.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_dd2e782c65#19",
+    "doc_id": "vietnamnews_20261107_dd2e782c65",
+    "sent_idx": 19,
+    "text": "Thiện called for a clear framework for pricing storage services and payment mechanisms, as well as financial support from banks and the Government.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_dd2e782c65#20",
+    "doc_id": "vietnamnews_20261107_dd2e782c65",
+    "sent_idx": 20,
+    "text": "\"Pilot projects are needed, with measurement equipment installed to develop case studies and assess the economics of the technology,\" Thiện said.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_dd2e782c65#21",
+    "doc_id": "vietnamnews_20261107_dd2e782c65",
+    "sent_idx": 21,
+    "text": "Clean hydrogen could play a role in reducing emissions in industries where it is difficult to replace fossil fuels.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_dd2e782c65#22",
+    "doc_id": "vietnamnews_20261107_dd2e782c65",
+    "sent_idx": 22,
+    "text": "However, high production costs remain a major obstacle.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_dd2e782c65#23",
+    "doc_id": "vietnamnews_20261107_dd2e782c65",
+    "sent_idx": 23,
+    "text": "Phạm Hoàng Lương, senior lecturer at Hanoi University of Science and Technology and vice chairman of the Vietnam Clean Energy Association, said hydrogen should be considered a solution for the medium and long term rather than an immediate alternative.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_dd2e782c65#24",
+    "doc_id": "vietnamnews_20261107_dd2e782c65",
+    "sent_idx": 24,
+    "text": "Green hydrogen is produced by splitting water into hydrogen and oxygen using electricity from renewable sources such as wind and solar power.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_dd2e782c65#25",
+    "doc_id": "vietnamnews_20261107_dd2e782c65",
+    "sent_idx": 25,
+    "text": "This makes it a low-emission fuel, but production is costly.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_dd2e782c65#26",
+    "doc_id": "vietnamnews_20261107_dd2e782c65",
+    "sent_idx": 26,
+    "text": "Renewable power accounts for around 50-60 per cent of its production costs, while clean hydrogen is currently 2.5-4.5 times more expensive than hydrogen made from fossil fuels, according to Lương.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_dd2e782c65#27",
+    "doc_id": "vietnamnews_20261107_dd2e782c65",
+    "sent_idx": 27,
+    "text": "Hydrogen can help cut emissions in industries that are difficult to electrify, including steel, fertiliser and chemicals, while ammonia and methanol made from hydrogen offer potentially lower-emission fuel options for transport.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_dd2e782c65#28",
+    "doc_id": "vietnamnews_20261107_dd2e782c65",
+    "sent_idx": 28,
+    "text": "This gives it a role in Việt Nam's path towards net-zero emissions by 2050.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_dd2e782c65#29",
+    "doc_id": "vietnamnews_20261107_dd2e782c65",
+    "sent_idx": 29,
+    "text": "Lương said Việt Nam should prepare for the development of the industry by training workers and establishing technical standards, even though costs remain high.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_dd2e782c65#30",
+    "doc_id": "vietnamnews_20261107_dd2e782c65",
+    "sent_idx": 30,
+    "text": "Meanwhile, nuclear power could provide a stable source of low-carbon electricity, but Việt Nam will need to build the technical expertise and institutional capacity to adopt the technology safely and effectively.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_dd2e782c65#31",
+    "doc_id": "vietnamnews_20261107_dd2e782c65",
+    "sent_idx": 31,
+    "text": "Trần Chí Thành, director of the Vietnam Atomic Energy Institute under the Ministry of Science and Technology, said plans for the Ninh Thuận 1 and 2 projects included Generation III+ reactors, while small modular reactors could also be studied as a future option.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_dd2e782c65#32",
+    "doc_id": "vietnamnews_20261107_dd2e782c65",
+    "sent_idx": 32,
+    "text": "He stressed that safety must remain the top priority, with domestic research institutions playing an important role in assessing technologies and developing local expertise.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_dd2e782c65#33",
+    "doc_id": "vietnamnews_20261107_dd2e782c65",
+    "sent_idx": 33,
+    "text": "This would help Việt Nam build the capacity needed not only to implement nuclear projects but also to master and manage the technology in the long term.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_dd2e782c65#34",
+    "doc_id": "vietnamnews_20261107_dd2e782c65",
+    "sent_idx": 34,
+    "text": "Lương said Việt Nam needed a flexible approach to technology selection and energy planning.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_dd2e782c65#35",
+    "doc_id": "vietnamnews_20261107_dd2e782c65",
+    "sent_idx": 35,
+    "text": "Energy technologies have their own life cycles, and solutions considered advanced today could become outdated in 10 to 20 years.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_dd2e782c65#36",
+    "doc_id": "vietnamnews_20261107_dd2e782c65",
+    "sent_idx": 36,
+    "text": "Planning therefore needed to be flexible enough to adapt to technological changes.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_dd2e782c65#37",
+    "doc_id": "vietnamnews_20261107_dd2e782c65",
+    "sent_idx": 37,
+    "text": "To reduce dependence on fossil fuels, countries could either replace them with cleaner energy sources such as renewables and nuclear power or continue using fossil fuels while applying technologies to capture and store carbon.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_dd2e782c65#38",
+    "doc_id": "vietnamnews_20261107_dd2e782c65",
+    "sent_idx": 38,
+    "text": "Việt Nam could not phase out coal immediately, as it remains a major source of electricity and there are not yet enough reliable alternatives.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_dd2e782c65#39",
+    "doc_id": "vietnamnews_20261107_dd2e782c65",
+    "sent_idx": 39,
+    "text": "A gradual reduction would be necessasy, while carbon capture remains costly and technically challenging.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_dd2e782c65#40",
+    "doc_id": "vietnamnews_20261107_dd2e782c65",
+    "sent_idx": 40,
+    "text": "\"We need to assess technologies based on their readiness, commercial viability and cost, as well as their suitability to the country's geographical and natural conditions,\" Lương said .",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_dd2e782c65#41",
+    "doc_id": "vietnamnews_20261107_dd2e782c65",
+    "sent_idx": 41,
+    "text": "Việt Nam's energy transition involves more than choosing and investing in new technologies.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_dd2e782c65#42",
+    "doc_id": "vietnamnews_20261107_dd2e782c65",
+    "sent_idx": 42,
+    "text": "It also requires the capacity to operate, adapt and eventually develop these technologies to meet domestic needs.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_dd2e782c65#43",
+    "doc_id": "vietnamnews_20261107_dd2e782c65",
+    "sent_idx": 43,
+    "text": "This means strengthening domestic research, developing skilled personnel and enabling local businesses to participate in technology development, software and system integration, rather than relying mainly on imported solutions.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_dd2e782c65#44",
+    "doc_id": "vietnamnews_20261107_dd2e782c65",
+    "sent_idx": 44,
+    "text": "As Việt Nam steps up implementation of the Party's Resolution 57, issued in December 2024 to promote breakthroughs in science, technology, innovation and digital transformation, these capabilities will play an increasingly important role in turning the country's technological ambitions into practical solutions for the energy sector.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_dd2e782c65#45",
+    "doc_id": "vietnamnews_20261107_dd2e782c65",
+    "sent_idx": 45,
+    "text": "\"Energy technologies should not be assessed in isolation.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_dd2e782c65#46",
+    "doc_id": "vietnamnews_20261107_dd2e782c65",
+    "sent_idx": 46,
+    "text": "Nuclear power, battery storage, hydrogen and other solutions need to be considered as part of an integrated energy system,\" Lương added. - VNS",
+    "lang": "en",
+    "is_title": false
+  }
+]

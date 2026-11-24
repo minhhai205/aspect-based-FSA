@@ -1,0 +1,202 @@
+[
+  {
+    "sent_id": "vietnamnews_20261028_8bec76acbf#0",
+    "doc_id": "vietnamnews_20261028_8bec76acbf",
+    "sent_idx": 0,
+    "text": "Việt Nam urges AI shift from pilot projects to real-world economic gains",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261028_8bec76acbf#1",
+    "doc_id": "vietnamnews_20261028_8bec76acbf",
+    "sent_idx": 1,
+    "text": "HÀ NỘI - Viet Nam is seeking to move artificial intelligence (AI) beyond isolated pilot projects and into wider use across the economy and society, with a focus on improving public services, raising productivity and enhancing national competitiveness, Minister of Science and Technology Vũ Hải Quân said on October 28.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_8bec76acbf#2",
+    "doc_id": "vietnamnews_20261028_8bec76acbf",
+    "sent_idx": 2,
+    "text": "Speaking at the Viet Nam International Digital Week 2026 (VIDW) in Quảng Ninh City, the minister said AI was reshaping economic growth, government services and competition among nations.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_8bec76acbf#3",
+    "doc_id": "vietnamnews_20261028_8bec76acbf",
+    "sent_idx": 3,
+    "text": "\"Smart connectivity, effective governance and AI transformation must deliver tangible results,\" he said.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_8bec76acbf#4",
+    "doc_id": "vietnamnews_20261028_8bec76acbf",
+    "sent_idx": 4,
+    "text": "Quân said the value of AI should not be measured by the number of strategies, models or pilot projects, but by improvements in public services, labour productivity, business performance and people's quality of life.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_8bec76acbf#5",
+    "doc_id": "vietnamnews_20261028_8bec76acbf",
+    "sent_idx": 5,
+    "text": "Việt Nam therefore needs to move from deploying individual AI applications to comprehensive transformation across the economy and society, he said.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_8bec76acbf#6",
+    "doc_id": "vietnamnews_20261028_8bec76acbf",
+    "sent_idx": 6,
+    "text": "Reliable AI deployment requires secure digital infrastructure, modern telecommunications networks, computing capacity and high-quality data which should be made accessible at affordable costs and with appropriate safeguards and energy efficiency, Quân said.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_8bec76acbf#7",
+    "doc_id": "vietnamnews_20261028_8bec76acbf",
+    "sent_idx": 7,
+    "text": "Public-private partnerships would be important in mobilising the investment needed to expand connectivity and computing infrastructure while supporting greener, more energy-efficient systems, he added.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_8bec76acbf#8",
+    "doc_id": "vietnamnews_20261028_8bec76acbf",
+    "sent_idx": 8,
+    "text": "Governance is equally important to building confidence in AI, particularly as data and AI applications increasingly cross national borders, he said, adding that compatible regulatory frameworks and trusted cross-border data flows are needed to support international cooperation and the safe deployment of the technology.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_8bec76acbf#9",
+    "doc_id": "vietnamnews_20261028_8bec76acbf",
+    "sent_idx": 9,
+    "text": "Quân said that Việt Nam's priorities include strengthening national AI capabilities through digital infrastructure, computing resources, high-quality data, Vietnamese-language AI models and skilled workers.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_8bec76acbf#10",
+    "doc_id": "vietnamnews_20261028_8bec76acbf",
+    "sent_idx": 10,
+    "text": "The country is also working to establish an open and trusted environment for innovation through risk-based regulation, regulatory sandbox and policies supporting research, startups and responsible AI applications.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_8bec76acbf#11",
+    "doc_id": "vietnamnews_20261028_8bec76acbf",
+    "sent_idx": 11,
+    "text": "Quân said Việt Nam had adopted laws on AI, data and digital transformation, and was pursuing plans for a national AI development fund, adding that developing domestic talent, attracting leading international experts and overseas Vietnamese professionals, and strengthening links between government, businesses, research institutes and universities will be central to the strategy.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_8bec76acbf#12",
+    "doc_id": "vietnamnews_20261028_8bec76acbf",
+    "sent_idx": 12,
+    "text": "Nguyễn Văn Công, deputy chairman of the Quảng Ninh People's Committee, said the city saw science and technology, innovation and digital transformation as key drivers of development.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_8bec76acbf#13",
+    "doc_id": "vietnamnews_20261028_8bec76acbf",
+    "sent_idx": 13,
+    "text": "He identified three priorities for cooperation: applying AI to governance, promoting digital solutions in key industries and developing the local digital workforce.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_8bec76acbf#14",
+    "doc_id": "vietnamnews_20261028_8bec76acbf",
+    "sent_idx": 14,
+    "text": "AI and data sharing could support urban management, decision-making and public services, provided that information security and data protection were maintained, he said.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_8bec76acbf#15",
+    "doc_id": "vietnamnews_20261028_8bec76acbf",
+    "sent_idx": 15,
+    "text": "The city also aims to introduce practical digital solutions in sectors such as seaports, logistics, tourism, border-gate trade and environmental protection, with successful applications potentially expanded more widely.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_8bec76acbf#16",
+    "doc_id": "vietnamnews_20261028_8bec76acbf",
+    "sent_idx": 16,
+    "text": "Running to October 30, VIDW 2026 has attracted more than 500 domestic and international delegates from nearly 30 countries.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_8bec76acbf#17",
+    "doc_id": "vietnamnews_20261028_8bec76acbf",
+    "sent_idx": 17,
+    "text": "Organised by the Ministry of Science and Technology in coordination with Quảng Ninh City, the event aims to strengthen international cooperation in science, technology, innovation and digital transformation.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_8bec76acbf#18",
+    "doc_id": "vietnamnews_20261028_8bec76acbf",
+    "sent_idx": 18,
+    "text": "VIDW 2026 features a series of forums and workshops designed to promote policy dialogue, research cooperation and practical technology applications.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_8bec76acbf#19",
+    "doc_id": "vietnamnews_20261028_8bec76acbf",
+    "sent_idx": 19,
+    "text": "An interregional dialogue on AI capacity-building, organised in coordination with the United Nations Resident Coordinator Office in Việt Nam, will focus on countries' capacity needs, experience-sharing and international cooperation.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_8bec76acbf#20",
+    "doc_id": "vietnamnews_20261028_8bec76acbf",
+    "sent_idx": 20,
+    "text": "Other events include the ASEAN-EU Digital Innovation Forum, the Vietnam-Australia Digital Cooperation Forum, the ASEAN 5G Conference and a Việt Nam-EU science and technology cooperation forum on advanced materials.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_8bec76acbf#21",
+    "doc_id": "vietnamnews_20261028_8bec76acbf",
+    "sent_idx": 21,
+    "text": "The programme also includes a workshop on trusted cross-border services and digital trust infrastructure in the AI era, a Việt Nam-China workshop on AI research and applications, and cooperation activities involving the Friends of the Hiroshima AI Process initiative and the Vietnam-South Korea Digital Cooperation Forum.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_8bec76acbf#22",
+    "doc_id": "vietnamnews_20261028_8bec76acbf",
+    "sent_idx": 22,
+    "text": "An exhibition of strategic technology products and solutions is showcasing research results and technology applications while connecting businesses, research institutes and technology organisations.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_8bec76acbf#23",
+    "doc_id": "vietnamnews_20261028_8bec76acbf",
+    "sent_idx": 23,
+    "text": "The Ministry of Science and Technology will also meet international partners to identify opportunities for joint research, development, deployment and commercialisation.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_8bec76acbf#24",
+    "doc_id": "vietnamnews_20261028_8bec76acbf",
+    "sent_idx": 24,
+    "text": "The push to turn AI into practical economic and social gains aligns with Politburo Resolution 57-NQ/TW, issued in December 2024, which identifies breakthroughs in science and technology, innovation and digital transformation as key drivers of Việt Nam's next growth chapter. - VNS",
+    "lang": "en",
+    "is_title": false
+  }
+]

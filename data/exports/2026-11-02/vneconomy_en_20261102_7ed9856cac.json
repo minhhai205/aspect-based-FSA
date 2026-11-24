@@ -1,0 +1,122 @@
+[
+  {
+    "sent_id": "vneconomy_en_20261102_7ed9856cac#0",
+    "doc_id": "vneconomy_en_20261102_7ed9856cac",
+    "sent_idx": 0,
+    "text": "Vietnam's manufacturing PMI ticks up to 52.3 in October",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_7ed9856cac#1",
+    "doc_id": "vneconomy_en_20261102_7ed9856cac",
+    "sent_idx": 1,
+    "text": "The S&P Global Vietnam Manufacturing Purchasing Managers' Index (PMI) ticked up to 52.3 in October from 51.9 in September, signaling a modest monthly improvement in sector health and marking 16 consecutive months of expansion .",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_7ed9856cac#2",
+    "doc_id": "vneconomy_en_20261102_7ed9856cac",
+    "sent_idx": 2,
+    "text": "Overall gains were constrained by softer increases in production and new business .",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_7ed9856cac#3",
+    "doc_id": "vneconomy_en_20261102_7ed9856cac",
+    "sent_idx": 3,
+    "text": "Total new orders rose for the sixth consecutive month - supported by stronger customer demand - but the growth rate slipped to a six-month low amidst an ongoing drag from falling export orders .",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_7ed9856cac#4",
+    "doc_id": "vneconomy_en_20261102_7ed9856cac",
+    "sent_idx": 4,
+    "text": "Manufacturing production expanded for the same reason, though growth also eased to a six-month low as some firms cited difficulties in obtaining raw materials .",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_7ed9856cac#5",
+    "doc_id": "vneconomy_en_20261102_7ed9856cac",
+    "sent_idx": 5,
+    "text": "Meanwhile, employment decreased for the third month in a row due to minor staff resignations .",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_7ed9856cac#6",
+    "doc_id": "vneconomy_en_20261102_7ed9856cac",
+    "sent_idx": 6,
+    "text": "Transportation bottlenecks and climbing oil prices fueled a sharp acceleration in input costs, driving the fastest rise in purchase prices since June .",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_7ed9856cac#7",
+    "doc_id": "vneconomy_en_20261102_7ed9856cac",
+    "sent_idx": 7,
+    "text": "Higher fuel expenses and adverse weather conditions led to marked delays in suppliers' delivery times, lengthening delivery periods to the greatest extent since April .",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_7ed9856cac#8",
+    "doc_id": "vneconomy_en_20261102_7ed9856cac",
+    "sent_idx": 8,
+    "text": "In response to rising cost pressures, manufacturers increased their own output prices at a sharper pace following a slight rise in September .",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_7ed9856cac#9",
+    "doc_id": "vneconomy_en_20261102_7ed9856cac",
+    "sent_idx": 9,
+    "text": "Despite these operational headwinds, business optimism regarding the 12-month outlook for production climbed to an eight-month high, supported by hopes for improved raw material availability and better market conditions .",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_7ed9856cac#10",
+    "doc_id": "vneconomy_en_20261102_7ed9856cac",
+    "sent_idx": 10,
+    "text": "\"Vietnamese firms are battling to maintain growth at present amid headwinds that are making their operations more challenging.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_7ed9856cac#11",
+    "doc_id": "vneconomy_en_20261102_7ed9856cac",
+    "sent_idx": 11,
+    "text": "New orders continued to rise in October, feeding through to a solid increase in production, but in both cases rates of expansion slowed from September,\" said Mr. Andrew Harker, Economics Director at S&P Global Market Intelligence .",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_7ed9856cac#12",
+    "doc_id": "vneconomy_en_20261102_7ed9856cac",
+    "sent_idx": 12,
+    "text": "\"The limits to growth were often due to the international environment.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_7ed9856cac#13",
+    "doc_id": "vneconomy_en_20261102_7ed9856cac",
+    "sent_idx": 13,
+    "text": "Fuel and transportation costs rose amid higher oil prices, while companies reported difficulties importing and exporting products.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_7ed9856cac#14",
+    "doc_id": "vneconomy_en_20261102_7ed9856cac",
+    "sent_idx": 14,
+    "text": "While firms are able to maintain improvements for now, they will be hoping for a more conducive environment to growth in the months ahead.\"",
+    "lang": "en",
+    "is_title": false
+  }
+]

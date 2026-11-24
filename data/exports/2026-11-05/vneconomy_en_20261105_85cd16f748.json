@@ -1,0 +1,74 @@
+[
+  {
+    "sent_id": "vneconomy_en_20261105_85cd16f748#0",
+    "doc_id": "vneconomy_en_20261105_85cd16f748",
+    "sent_idx": 0,
+    "text": "Q4 growth target of over 12.5% poses a major challenge",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_85cd16f748#1",
+    "doc_id": "vneconomy_en_20261105_85cd16f748",
+    "sent_idx": 1,
+    "text": "At the Government's regular press briefing for October, held in Hanoi on November 4, Minister and Chairman of the Government Office Dang Xuan Phong said that Vietnam's socio-economic performance in October and the first ten months of the year continued to record many positive results, while development resources were further unlocked.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_85cd16f748#2",
+    "doc_id": "vneconomy_en_20261105_85cd16f748",
+    "sent_idx": 2,
+    "text": "However, the Government assessed that achieving economic growth of more than 12.5% in the fourth quarter would be a major challenge.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_85cd16f748#3",
+    "doc_id": "vneconomy_en_20261105_85cd16f748",
+    "sent_idx": 3,
+    "text": "Average CPI in the first ten months rose 4.57%, exceeding the full-year target of around 4.5%, thereby increasing pressure on inflation control efforts.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_85cd16f748#4",
+    "doc_id": "vneconomy_en_20261105_85cd16f748",
+    "sent_idx": 4,
+    "text": "In addition, lending interest rates remain relatively high, while public investment disbursement has been slow in several ministries, sectors, and localities.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_85cd16f748#5",
+    "doc_id": "vneconomy_en_20261105_85cd16f748",
+    "sent_idx": 5,
+    "text": "Greater efforts are also needed to promote science and technology, innovation, and digital transformation.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_85cd16f748#6",
+    "doc_id": "vneconomy_en_20261105_85cd16f748",
+    "sent_idx": 6,
+    "text": "Air pollution, urban flooding, and traffic congestion have yet to be comprehensively addressed.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_85cd16f748#7",
+    "doc_id": "vneconomy_en_20261105_85cd16f748",
+    "sent_idx": 7,
+    "text": "Earlier on the same day, the Government's regular October meeting, chaired by Prime Minister Le Minh Hung, reviewed progress in socio-economic development, public investment disbursement, institutional reform, science and technology, innovation, and digital transformation.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_85cd16f748#8",
+    "doc_id": "vneconomy_en_20261105_85cd16f748",
+    "sent_idx": 8,
+    "text": "According to Minister Phong, PM Hung concluded that the final two months of the year would be crucial to achieving the country's 2026 socio-economic development goals.",
+    "lang": "en",
+    "is_title": false
+  }
+]

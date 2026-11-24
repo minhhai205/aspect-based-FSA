@@ -1,0 +1,434 @@
+[
+  {
+    "sent_id": "vietnamnews_20261103_fcae92614f#0",
+    "doc_id": "vietnamnews_20261103_fcae92614f",
+    "sent_idx": 0,
+    "text": "Local growth cannot be judged by GRDP figures alone",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261103_fcae92614f#1",
+    "doc_id": "vietnamnews_20261103_fcae92614f",
+    "sent_idx": 1,
+    "text": "When the Government issued Resolution No. 312/NQ-CP on October 3, 2026, together with an annex setting out fourth-quarter growth scenarios for each sector and each locality, responsibility for growth became more visible than ever: every province and city was assigned a specific target (See the graph).",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261103_fcae92614f#2",
+    "doc_id": "vietnamnews_20261103_fcae92614f",
+    "sent_idx": 2,
+    "text": "Such targets are necessary to create a sense of urgency and guide action.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261103_fcae92614f#3",
+    "doc_id": "vietnamnews_20261103_fcae92614f",
+    "sent_idx": 3,
+    "text": "But if we rely on the gross regional domestic product (GRDP) growth rate alone to judge how well a locality is performing, we will miss much that matters more.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261103_fcae92614f#4",
+    "doc_id": "vietnamnews_20261103_fcae92614f",
+    "sent_idx": 4,
+    "text": "The nine-month picture across Việt Nam's 34 provinces and centrally run cities shows a clear recovery.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261103_fcae92614f#5",
+    "doc_id": "vietnamnews_20261103_fcae92614f",
+    "sent_idx": 5,
+    "text": "According to the National Statistics Office under the Ministry of Finance, most localities posted higher growth in the third quarter than in earlier quarters.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261103_fcae92614f#6",
+    "doc_id": "vietnamnews_20261103_fcae92614f",
+    "sent_idx": 6,
+    "text": "HCM City grew 9.86 per cent in the third quarter, lifting its nine-month growth to 9.06 per cent, the highest in a decade.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261103_fcae92614f#7",
+    "doc_id": "vietnamnews_20261103_fcae92614f",
+    "sent_idx": 7,
+    "text": "Hà Nội expanded 10.02 per cent in the third quarter and 8.85 per cent over nine months.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261103_fcae92614f#8",
+    "doc_id": "vietnamnews_20261103_fcae92614f",
+    "sent_idx": 8,
+    "text": "Hải Phòng maintained its double-digit pace, at 13.09 per cent and 12.08 per cent, while Đà Nẵng recorded 11.83 per cent and 10.31 per cent, respectively.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261103_fcae92614f#9",
+    "doc_id": "vietnamnews_20261103_fcae92614f",
+    "sent_idx": 9,
+    "text": "Growth came mainly from industry, construction and services, while agriculture, forestry and fisheries, typically expanding by around 2 per cent to 5 per cent, served as a cushion for overall stability.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261103_fcae92614f#10",
+    "doc_id": "vietnamnews_20261103_fcae92614f",
+    "sent_idx": 10,
+    "text": "Yet for the country to achieve double-digit growth for the full year, national GDP growth in the fourth quarter must exceed 12.5 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261103_fcae92614f#11",
+    "doc_id": "vietnamnews_20261103_fcae92614f",
+    "sent_idx": 11,
+    "text": "That pressure has been passed down to each locality, and nine of them must grow by more than 15 per cent in the final three months of the year.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261103_fcae92614f#12",
+    "doc_id": "vietnamnews_20261103_fcae92614f",
+    "sent_idx": 12,
+    "text": "Lạng Sơn faces the highest required fourth-quarter growth rate, at 18.41 per cent, after its economy grew by only 7.52 per cent in the first nine months against a full-year target of 10.61 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261103_fcae92614f#13",
+    "doc_id": "vietnamnews_20261103_fcae92614f",
+    "sent_idx": 13,
+    "text": "It is followed by Vĩnh Long, Thanh Hóa, Cà Mau, Quảng Trị, Hà Nội, Cần Thơ, Hải Phòng and Tuyên Quang.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261103_fcae92614f#14",
+    "doc_id": "vietnamnews_20261103_fcae92614f",
+    "sent_idx": 14,
+    "text": "These numbers need to be read correctly.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261103_fcae92614f#15",
+    "doc_id": "vietnamnews_20261103_fcae92614f",
+    "sent_idx": 15,
+    "text": "Agriculture, forestry and fisheries generally account for a large share of economic activity in provinces with lower growth, where output depends on weather and climate conditions and transport costs; their markets, services and consumption remain limited; and their industrial sectors lack major projects to drive growth.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261103_fcae92614f#16",
+    "doc_id": "vietnamnews_20261103_fcae92614f",
+    "sent_idx": 16,
+    "text": "By contrast, the fastest-growing localities are concentrated along ring-road corridors and near seaports, where infrastructure is better, tourism advantages can be exploited and public investment disbursement is strong.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261103_fcae92614f#17",
+    "doc_id": "vietnamnews_20261103_fcae92614f",
+    "sent_idx": 17,
+    "text": "The same applies to public investment disbursement, which needs to be looked at beyond the headline rate.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261103_fcae92614f#18",
+    "doc_id": "vietnamnews_20261103_fcae92614f",
+    "sent_idx": 18,
+    "text": "Many localities have reported higher disbursementrates, but progress towards project completion remains slow, so disbursement rates or the number of bottlenecks cleared should not be the only yardstick.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261103_fcae92614f#19",
+    "doc_id": "vietnamnews_20261103_fcae92614f",
+    "sent_idx": 19,
+    "text": "What counts is whether that capital contributes to production, jobs, budget revenue, competitiveness and the efficient use of resources.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261103_fcae92614f#20",
+    "doc_id": "vietnamnews_20261103_fcae92614f",
+    "sent_idx": 20,
+    "text": "Speeding up also does not mean chasing growth at any cost.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261103_fcae92614f#21",
+    "doc_id": "vietnamnews_20261103_fcae92614f",
+    "sent_idx": 21,
+    "text": "With the world economy volatile, and input costs, export markets and inflationary pressure still weighing on production and business, localities must also keep inflation in check, ensure energy balances, safeguard social welfare, improve environmental quality and take proactive measures to prepare for natural disasters.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261103_fcae92614f#22",
+    "doc_id": "vietnamnews_20261103_fcae92614f",
+    "sent_idx": 22,
+    "text": "Investment projects must comply with the law, deliver socio-economic returns, and avoid unpaid capital construction debt, waste and environmental consequences.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261103_fcae92614f#23",
+    "doc_id": "vietnamnews_20261103_fcae92614f",
+    "sent_idx": 23,
+    "text": "Rapid growth without a solid foundation is hard to sustain and may even narrow the room for growth in the years ahead.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261103_fcae92614f#24",
+    "doc_id": "vietnamnews_20261103_fcae92614f",
+    "sent_idx": 24,
+    "text": "One more perspective is often overlooked: connectivity.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261103_fcae92614f#25",
+    "doc_id": "vietnamnews_20261103_fcae92614f",
+    "sent_idx": 25,
+    "text": "If growth drivers operate in isolation, their effects will be confined within the boundaries of individual provinces and cities.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261103_fcae92614f#26",
+    "doc_id": "vietnamnews_20261103_fcae92614f",
+    "sent_idx": 26,
+    "text": "When regional links improve, a road, a seaport, a logistics centre or a new industrial park can produce effects well beyond the place where the project is built, and one locality's growth becomes a pulling force for its whole region.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261103_fcae92614f#27",
+    "doc_id": "vietnamnews_20261103_fcae92614f",
+    "sent_idx": 27,
+    "text": "Spillover is where connectivity proves its worth.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261103_fcae92614f#28",
+    "doc_id": "vietnamnews_20261103_fcae92614f",
+    "sent_idx": 28,
+    "text": "A new expressway is more than an entry in the disbursement tally: it shortens delivery times, lowers logistics costs and brings land and labour in neighbouring areas within reach of investors.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261103_fcae92614f#29",
+    "doc_id": "vietnamnews_20261103_fcae92614f",
+    "sent_idx": 29,
+    "text": "A seaport draws shipping lines, warehousing and customs services, and gives manufacturers in surrounding provinces a cheaper route to export markets.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261103_fcae92614f#30",
+    "doc_id": "vietnamnews_20261103_fcae92614f",
+    "sent_idx": 30,
+    "text": "In each case the benefits travel far beyond the project's boundary, but only if neighbouring localities are ready to receive them, through compatible planning, shared infrastructure standards and coordinated procedures.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261103_fcae92614f#31",
+    "doc_id": "vietnamnews_20261103_fcae92614f",
+    "sent_idx": 31,
+    "text": "Capturing it means that each locality must make better use of its own resources and strengths, and fit them into a wider whole.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261103_fcae92614f#32",
+    "doc_id": "vietnamnews_20261103_fcae92614f",
+    "sent_idx": 32,
+    "text": "The aim is to form ecosystems and industrial clusters rather than a scattering of separate projects.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261103_fcae92614f#33",
+    "doc_id": "vietnamnews_20261103_fcae92614f",
+    "sent_idx": 33,
+    "text": "That also calls for coordination among neighbours.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261103_fcae92614f#34",
+    "doc_id": "vietnamnews_20261103_fcae92614f",
+    "sent_idx": 34,
+    "text": "If every province tries to build everything, resources will be spread thin and no cluster will reach critical mass.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261103_fcae92614f#35",
+    "doc_id": "vietnamnews_20261103_fcae92614f",
+    "sent_idx": 35,
+    "text": "If localities complement one another, with one hosting the port, another the processing zone and a third the raw-material base or the skilled workforce, each cluster can draw on suppliers, workers and markets across several provinces.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261103_fcae92614f#36",
+    "doc_id": "vietnamnews_20261103_fcae92614f",
+    "sent_idx": 36,
+    "text": "This is how one locality's growth becomes growth for its region, and how a region's combined strengths, rather than those of a single province, come to define its competitiveness.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261103_fcae92614f#37",
+    "doc_id": "vietnamnews_20261103_fcae92614f",
+    "sent_idx": 37,
+    "text": "That is why local growth should not be viewed as a GRDP ranking race.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261103_fcae92614f#38",
+    "doc_id": "vietnamnews_20261103_fcae92614f",
+    "sent_idx": 38,
+    "text": "A difference of a few tenths of a percentage point can produce different positions on a league table, but the long-term 'health' of the economy lies in the new production capacity created, the additional jobs, people's incomes, purchasing power, budget revenue and business competitiveness.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261103_fcae92614f#39",
+    "doc_id": "vietnamnews_20261103_fcae92614f",
+    "sent_idx": 39,
+    "text": "An industrial locality cannot apply the same formula as one whose strengths lie in agriculture, tourism or the marine economy.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261103_fcae92614f#40",
+    "doc_id": "vietnamnews_20261103_fcae92614f",
+    "sent_idx": 40,
+    "text": "Setting clear targets is necessary, but it matters more to find the right sources of growth for local conditions.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261103_fcae92614f#41",
+    "doc_id": "vietnamnews_20261103_fcae92614f",
+    "sent_idx": 41,
+    "text": "This is also the deeper meaning of assigning growth responsibility to each locality.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261103_fcae92614f#42",
+    "doc_id": "vietnamnews_20261103_fcae92614f",
+    "sent_idx": 42,
+    "text": "The central Government sets targets, builds the policy framework and allocates resources; localities must answer how they will generate additional growth, which projects can be put into operation, which capital needs to be unlocked, and which bottlenecks within their authority can be resolved right away.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261103_fcae92614f#43",
+    "doc_id": "vietnamnews_20261103_fcae92614f",
+    "sent_idx": 43,
+    "text": "Some concrete answers already exist.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261103_fcae92614f#44",
+    "doc_id": "vietnamnews_20261103_fcae92614f",
+    "sent_idx": 44,
+    "text": "Quảng Ninh has launched an emulation drive, '90 days and nights of acceleration and breakthroughs', aiming to complete 100 per cent of site clearance for projects, disburse 100 per cent of its public investment plan, and lift full-year GRDP growth above 13 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261103_fcae92614f#45",
+    "doc_id": "vietnamnews_20261103_fcae92614f",
+    "sent_idx": 45,
+    "text": "In Hà Nội, many key projects have completed site clearance and moved to construction, and several large-scale projects have finished investment preparation and are ready for synchronised implementation.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261103_fcae92614f#46",
+    "doc_id": "vietnamnews_20261103_fcae92614f",
+    "sent_idx": 46,
+    "text": "When the question of \"how\" is answered with concrete work, the double-digit growth target becomes more substantive and more likely to be met.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261103_fcae92614f#47",
+    "doc_id": "vietnamnews_20261103_fcae92614f",
+    "sent_idx": 47,
+    "text": "The results of the first nine months show positive signs: more localities are rising, new growth poles are taking clearer shape, and responsibility for management has been defined more specifically.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261103_fcae92614f#48",
+    "doc_id": "vietnamnews_20261103_fcae92614f",
+    "sent_idx": 48,
+    "text": "But the road ahead is still long.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261103_fcae92614f#49",
+    "doc_id": "vietnamnews_20261103_fcae92614f",
+    "sent_idx": 49,
+    "text": "The pace of the whole economy will depend on whether today's bright spots can hold their momentum, whether the major locomotives can accelerate strongly enough, and whether the resources can be put to work faster.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261103_fcae92614f#50",
+    "doc_id": "vietnamnews_20261103_fcae92614f",
+    "sent_idx": 50,
+    "text": "The foundations for double-digit growth must be laid at every construction site, factory, project and infrastructure route, in every investment decision and every procedure that is unblocked.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261103_fcae92614f#51",
+    "doc_id": "vietnamnews_20261103_fcae92614f",
+    "sent_idx": 51,
+    "text": "Only when all these pieces move together, will growth in each locality translate into sustained momentum for the national economy.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261103_fcae92614f#52",
+    "doc_id": "vietnamnews_20261103_fcae92614f",
+    "sent_idx": 52,
+    "text": "* Võ Trí Thành is a former vice president of the Central Institute for Economic Management and a member of the National Financial and Monetary Policy Advisory Council.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261103_fcae92614f#53",
+    "doc_id": "vietnamnews_20261103_fcae92614f",
+    "sent_idx": 53,
+    "text": "With a doctorate in economics from the Australian National University, he focuses on macroeconomic policy, trade liberalisation and institutional reform.",
+    "lang": "en",
+    "is_title": false
+  }
+]

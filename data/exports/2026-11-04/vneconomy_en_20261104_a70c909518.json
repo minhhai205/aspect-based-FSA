@@ -1,0 +1,74 @@
+[
+  {
+    "sent_id": "vneconomy_en_20261104_a70c909518#0",
+    "doc_id": "vneconomy_en_20261104_a70c909518",
+    "sent_idx": 0,
+    "text": "Electricity output and imports rise 9.8% in 10M",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vneconomy_en_20261104_a70c909518#1",
+    "doc_id": "vneconomy_en_20261104_a70c909518",
+    "sent_idx": 1,
+    "text": "Vietnam's total electricity production and imports reached 31.58 billion kWh in October 2026, up 14.3 per cent year-on-year, according to the Electricity of Vietnam (EVN).",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261104_a70c909518#2",
+    "doc_id": "vneconomy_en_20261104_a70c909518",
+    "sent_idx": 2,
+    "text": "Cumulative output for the first 10 months of the year stood at 297.4 billion kWh, an increase of 9.8 per cent compared with the same period in 2025.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261104_a70c909518#3",
+    "doc_id": "vneconomy_en_20261104_a70c909518",
+    "sent_idx": 3,
+    "text": "Coal-fired power accounted for the largest share of the electricity mix during the 10-month period, generating 147.78 billion kWh, or 49.7 per cent of the total.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261104_a70c909518#4",
+    "doc_id": "vneconomy_en_20261104_a70c909518",
+    "sent_idx": 4,
+    "text": "Hydropower contributed 73.39 billion kWh (24.7 per cent), while renewable energy sources generated 40.72 billion kWh (13.7 per cent).",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261104_a70c909518#5",
+    "doc_id": "vneconomy_en_20261104_a70c909518",
+    "sent_idx": 5,
+    "text": "Of the renewable energy output, solar power accounted for 24.04 billion kWh and wind power 15.37 billion kWh.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261104_a70c909518#6",
+    "doc_id": "vneconomy_en_20261104_a70c909518",
+    "sent_idx": 6,
+    "text": "Gas-fired power generation reached 23.28 billion kWh, representing 7.8 per cent, while imported electricity totalled 11.77 billion kWh, or 4 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261104_a70c909518#7",
+    "doc_id": "vneconomy_en_20261104_a70c909518",
+    "sent_idx": 7,
+    "text": "Electricity transmitted across the national grid was estimated at 239.23 billion kWh in the first 10 months, up 11.2 per cent year-on-year.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261104_a70c909518#8",
+    "doc_id": "vneconomy_en_20261104_a70c909518",
+    "sent_idx": 8,
+    "text": "Regarding grid infrastructure, the power group commenced construction on 150 projects and commissioned 137 projects at voltage levels ranging from 110kV to 500kV during the period.",
+    "lang": "en",
+    "is_title": false
+  }
+]

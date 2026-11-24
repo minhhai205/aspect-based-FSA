@@ -1,0 +1,258 @@
+[
+  {
+    "sent_id": "vneconomy_en_20261101_33c3a3704b#0",
+    "doc_id": "vneconomy_en_20261101_33c3a3704b",
+    "sent_idx": 0,
+    "text": "Post-quantum cybersecurity: Quantropi experts suggest new directions for enterprises and organizations in Vietnam",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vneconomy_en_20261101_33c3a3704b#1",
+    "doc_id": "vneconomy_en_20261101_33c3a3704b",
+    "sent_idx": 1,
+    "text": "The seminar \"Post-Quantum Cybersecurity: Data Governance Challenges & Implementation Roadmap for Enterprises and Organizations in Vietnam\" will take place on November 3, 2026, at BMC Hall, 98 Hoang Quoc Viet, Hanoi.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261101_33c3a3704b#2",
+    "doc_id": "vneconomy_en_20261101_33c3a3704b",
+    "sent_idx": 2,
+    "text": "The program is organized by Tap chi Kinh te Việt Nam / VnEconomy, in collaboration with VNet and Quantropi.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261101_33c3a3704b#3",
+    "doc_id": "vneconomy_en_20261101_33c3a3704b",
+    "sent_idx": 3,
+    "text": "The seminar focuses on analyzing the cybersecurity challenges as quantum computers develop, the risk of current encryption methods being weakened, and businesses and organizations being required to prepare for a roadmap for transitioning to post-quantum security.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261101_33c3a3704b#4",
+    "doc_id": "vneconomy_en_20261101_33c3a3704b",
+    "sent_idx": 4,
+    "text": "Quantropi is a Canadian quantum cybersecurity technology company founded in 2018 in Ottawa.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261101_33c3a3704b#5",
+    "doc_id": "vneconomy_en_20261101_33c3a3704b",
+    "sent_idx": 5,
+    "text": "The company holds 13 granted patents and has over 45 scientific publications, focusing on developing security solutions for enterprises, telecommunications, government, defense, manufacturing, and the Internet of Things (IoT).",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261101_33c3a3704b#6",
+    "doc_id": "vneconomy_en_20261101_33c3a3704b",
+    "sent_idx": 6,
+    "text": "Quantropi's main focus is to address the cybersecurity risks arising from the development of quantum computers.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261101_33c3a3704b#7",
+    "doc_id": "vneconomy_en_20261101_33c3a3704b",
+    "sent_idx": 7,
+    "text": "One highlightedi risk is the \"Harvest Now, Decrypt Later\" attack method, where hackers can collect and store encrypted data now, then wait until quantum computers are capable of decrypting this data.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261101_33c3a3704b#8",
+    "doc_id": "vneconomy_en_20261101_33c3a3704b",
+    "sent_idx": 8,
+    "text": "This risk is particularly concerning for information with long-term security value.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261101_33c3a3704b#9",
+    "doc_id": "vneconomy_en_20261101_33c3a3704b",
+    "sent_idx": 9,
+    "text": "Additionally, the development of quantum computers poses challenges to widely used public key cryptographic algorithms, including RSA and ECC.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261101_33c3a3704b#10",
+    "doc_id": "vneconomy_en_20261101_33c3a3704b",
+    "sent_idx": 10,
+    "text": "These algorithms play a crucial role in key exchange, identity verification, and digital signatures.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261101_33c3a3704b#11",
+    "doc_id": "vneconomy_en_20261101_33c3a3704b",
+    "sent_idx": 11,
+    "text": "Transitioning to new security methods is not straightforward, as many existing networks, applications, devices, and technology infrastructures are designed to operate for long periods and are difficult to replace or upgrade all at once.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261101_33c3a3704b#12",
+    "doc_id": "vneconomy_en_20261101_33c3a3704b",
+    "sent_idx": 12,
+    "text": "The seminar \"Post-Quantum Cybersecurity: Data Governance Challenges & Implementation Roadmap for Enterprises and Organizations in Vietnam\" will feature three speakers from Quantropi.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261101_33c3a3704b#13",
+    "doc_id": "vneconomy_en_20261101_33c3a3704b",
+    "sent_idx": 13,
+    "text": "Mr. James Nguyen, CEO and Co-Founder of Quantropi, will share insights on post-quantum security risks in the AI era, the direction of technology collaboration between Vietnam and Canada, and commitments to support businesses and organizations in Vietnam.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261101_33c3a3704b#14",
+    "doc_id": "vneconomy_en_20261101_33c3a3704b",
+    "sent_idx": 14,
+    "text": "Mr. James Nguyen has over 15 years of experience in finance, deep technology commercialization, and international operations.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261101_33c3a3704b#15",
+    "doc_id": "vneconomy_en_20261101_33c3a3704b",
+    "sent_idx": 15,
+    "text": "Since 2018, he has led Quantropi in developing quantum cybersecurity solutions, focusing on post-quantum cryptography (PQC), quantum random number generation (QRNG), and data protection using symmetric encryption.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261101_33c3a3704b#16",
+    "doc_id": "vneconomy_en_20261101_33c3a3704b",
+    "sent_idx": 16,
+    "text": "Under his leadership, Quantropi developed the QiSpace platform, integrating security technologies to protect data and information systems from quantum computer risks.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261101_33c3a3704b#17",
+    "doc_id": "vneconomy_en_20261101_33c3a3704b",
+    "sent_idx": 17,
+    "text": "He also promotes international collaboration programs in the field of quantum-safe communications, particularly applications for defense and telecommunications networks.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261101_33c3a3704b#18",
+    "doc_id": "vneconomy_en_20261101_33c3a3704b",
+    "sent_idx": 18,
+    "text": "In 2023, he was honored with the CanadianSME Entrepreneur of the Year award.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261101_33c3a3704b#19",
+    "doc_id": "vneconomy_en_20261101_33c3a3704b",
+    "sent_idx": 19,
+    "text": "Joining online from Canada, Mr. Jay Toth, Chief Revenue Officer (CRO) of Quantropi, will present on customer needs, post-quantum security application strategies by industry, key distribution models, and trial project selection.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261101_33c3a3704b#20",
+    "doc_id": "vneconomy_en_20261101_33c3a3704b",
+    "sent_idx": 20,
+    "text": "Mr. Jay Toth is responsible for driving commercialization, market development, and expanding customer and partner relationships in the quantum cybersecurity field.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261101_33c3a3704b#21",
+    "doc_id": "vneconomy_en_20261101_33c3a3704b",
+    "sent_idx": 21,
+    "text": "With experience in business development and technology solution implementation for enterprises and government, Mr. Jay Toth focuses on bringing Quantropi's security solutions to market, identifying industry-specific needs, and building appropriate application roadmaps for customers.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261101_33c3a3704b#22",
+    "doc_id": "vneconomy_en_20261101_33c3a3704b",
+    "sent_idx": 22,
+    "text": "Before joining Quantropi, he spent nearly 17 years at Microsoft.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261101_33c3a3704b#23",
+    "doc_id": "vneconomy_en_20261101_33c3a3704b",
+    "sent_idx": 23,
+    "text": "He also held leadership positions in growth and business development at Kepro, Risetime, and Accenture.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261101_33c3a3704b#24",
+    "doc_id": "vneconomy_en_20261101_33c3a3704b",
+    "sent_idx": 24,
+    "text": "At the seminar, he will share insights on post-quantum security needs by industry, customer selection strategies, key distribution models, and how to implement trial projects aimed at commercialization and real-world application expansion.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261101_33c3a3704b#25",
+    "doc_id": "vneconomy_en_20261101_33c3a3704b",
+    "sent_idx": 25,
+    "text": "To provide deeper insights into architecture and technology, during the online session, Mr. Michael Redding, Chief Technology Officer (CTO) of Quantropi, will focus on analyzing post-quantum security architecture, integration capabilities with existing technology infrastructure, and the roadmap for testing and implementing solutions.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261101_33c3a3704b#26",
+    "doc_id": "vneconomy_en_20261101_33c3a3704b",
+    "sent_idx": 26,
+    "text": "He will help address specific questions such as \"how does the technology actually work, how is it validated, and how can it be implemented without disrupting existing systems?",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261101_33c3a3704b#27",
+    "doc_id": "vneconomy_en_20261101_33c3a3704b",
+    "sent_idx": 27,
+    "text": "Mr. Michael has nearly 30 years of experience at Accenture, having led Accenture Technology Labs and co-founded Accenture Ventures.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261101_33c3a3704b#28",
+    "doc_id": "vneconomy_en_20261101_33c3a3704b",
+    "sent_idx": 28,
+    "text": "He has experience managing research, technology development, and commercialization of new solutions on an international scale, with an innovation network in 50 countries.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261101_33c3a3704b#29",
+    "doc_id": "vneconomy_en_20261101_33c3a3704b",
+    "sent_idx": 29,
+    "text": "At Quantropi, he is responsible for product strategy, research, and technology development.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261101_33c3a3704b#30",
+    "doc_id": "vneconomy_en_20261101_33c3a3704b",
+    "sent_idx": 30,
+    "text": "After the presentations, the seminar will host a Q&A session, creating a forum for business representatives and experts to discuss application potential, technical requirements, infrastructure, costs, and implementation models.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261101_33c3a3704b#31",
+    "doc_id": "vneconomy_en_20261101_33c3a3704b",
+    "sent_idx": 31,
+    "text": "The program aims to provide additional information and practical insights to help organizations assess their readiness and build a roadmap for data protection against cybersecurity risks in the quantum era.",
+    "lang": "en",
+    "is_title": false
+  }
+]

@@ -1,0 +1,330 @@
+[
+  {
+    "sent_id": "vietnamnews_20261105_9d9851e801#0",
+    "doc_id": "vietnamnews_20261105_9d9851e801",
+    "sent_idx": 0,
+    "text": "Việt Nam's growth needs strong infrastructure, stronger SMEs: Siemens CEO",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261105_9d9851e801#1",
+    "doc_id": "vietnamnews_20261105_9d9851e801",
+    "sent_idx": 1,
+    "text": "HÀ NỘI - Roland Busch, chairman of the Asia-Pacific Committee of German Business (APA) and CEO of Siemens AG, talked to Việt Nam News reporter Ly Ly Cao on the sideline of the 19th Asia-Pacific Conference of German Business (APK) in Seoul about Việt Nam's investment potential, opportunities for closer Việt Nam-Germany business cooperation, the importance of developing small- and medium-sized enterprises and how Vietnamese companies can move from AI pilots to wider deployment.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261105_9d9851e801#2",
+    "doc_id": "vietnamnews_20261105_9d9851e801",
+    "sent_idx": 2,
+    "text": "How do you assess Việt Nam's economic prospects and its potential for attracting further German investment?",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261105_9d9851e801#3",
+    "doc_id": "vietnamnews_20261105_9d9851e801",
+    "sent_idx": 3,
+    "text": "The best is ahead for Việt Nam.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261105_9d9851e801#4",
+    "doc_id": "vietnamnews_20261105_9d9851e801",
+    "sent_idx": 4,
+    "text": "We see a very strong commitment to investing in infrastructure, and we are very pleased that we will be delivering the first two high-speed trains and railway lines to Việt Nam.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261105_9d9851e801#5",
+    "doc_id": "vietnamnews_20261105_9d9851e801",
+    "sent_idx": 5,
+    "text": "An economy develops on the back of strong infrastructure and a reliable energy system capable of supporting increasingly high-value manufacturing.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261105_9d9851e801#6",
+    "doc_id": "vietnamnews_20261105_9d9851e801",
+    "sent_idx": 6,
+    "text": "Việt Nam has a young population, a large pool of capable people and strong companies, including large enterprises.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261105_9d9851e801#7",
+    "doc_id": "vietnamnews_20261105_9d9851e801",
+    "sent_idx": 7,
+    "text": "However, I believe developing small- and medium-sized enterprises (SMEs) is particularly important.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261105_9d9851e801#8",
+    "doc_id": "vietnamnews_20261105_9d9851e801",
+    "sent_idx": 8,
+    "text": "Every economy is driven by large companies, but sustained by SMEs.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261105_9d9851e801#9",
+    "doc_id": "vietnamnews_20261105_9d9851e801",
+    "sent_idx": 9,
+    "text": "We see this in South Korea and Germany, and I believe Việt Nam needs to follow the same path.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261105_9d9851e801#10",
+    "doc_id": "vietnamnews_20261105_9d9851e801",
+    "sent_idx": 10,
+    "text": "What areas of sustainable technology and industrial development offer the greatest opportunities for Việt Nam?",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261105_9d9851e801#11",
+    "doc_id": "vietnamnews_20261105_9d9851e801",
+    "sent_idx": 11,
+    "text": "When it comes to the energy system, the priority is to develop one that is sustainable while still being able to support economic growth.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261105_9d9851e801#12",
+    "doc_id": "vietnamnews_20261105_9d9851e801",
+    "sent_idx": 12,
+    "text": "At the same time, the rapid pace of technological change gives Việt Nam an opportunity to leapfrog by adopting new and advanced technologies.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261105_9d9851e801#13",
+    "doc_id": "vietnamnews_20261105_9d9851e801",
+    "sent_idx": 13,
+    "text": "The country's young generation is keen to embrace technology, which is a significant advantage.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261105_9d9851e801#14",
+    "doc_id": "vietnamnews_20261105_9d9851e801",
+    "sent_idx": 14,
+    "text": "These opportunities span all sectors.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261105_9d9851e801#15",
+    "doc_id": "vietnamnews_20261105_9d9851e801",
+    "sent_idx": 15,
+    "text": "Việt Nam is already strong in manufacturing and can continue moving towards higher-end manufacturing while preserving the industrial foundationson which it has built its development.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261105_9d9851e801#16",
+    "doc_id": "vietnamnews_20261105_9d9851e801",
+    "sent_idx": 16,
+    "text": "There are also strong Vietnamese companies driving innovation.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261105_9d9851e801#17",
+    "doc_id": "vietnamnews_20261105_9d9851e801",
+    "sent_idx": 17,
+    "text": "Opportunities can be found in areas such as automobiles, healthcare, mass technology and infrastructure.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261105_9d9851e801#18",
+    "doc_id": "vietnamnews_20261105_9d9851e801",
+    "sent_idx": 18,
+    "text": "The potential is substantial.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261105_9d9851e801#19",
+    "doc_id": "vietnamnews_20261105_9d9851e801",
+    "sent_idx": 19,
+    "text": "What are the main obstacles preventing German companies from expanding their business activities and investment in Việt Nam?",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261105_9d9851e801#20",
+    "doc_id": "vietnamnews_20261105_9d9851e801",
+    "sent_idx": 20,
+    "text": "One of the main obstacles is that businesses in the two countries do not know each other well enough.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261105_9d9851e801#21",
+    "doc_id": "vietnamnews_20261105_9d9851e801",
+    "sent_idx": 21,
+    "text": "Many companies have not yet put Việt Nam on their radar as an investment destination.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261105_9d9851e801#22",
+    "doc_id": "vietnamnews_20261105_9d9851e801",
+    "sent_idx": 22,
+    "text": "That is understandable in a country that is developing and growing rapidly, as new opportunities continue to emerge.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261105_9d9851e801#23",
+    "doc_id": "vietnamnews_20261105_9d9851e801",
+    "sent_idx": 23,
+    "text": "Stronger business-to-business exchanges would certainly help, supported by free trade agreements.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261105_9d9851e801#24",
+    "doc_id": "vietnamnews_20261105_9d9851e801",
+    "sent_idx": 24,
+    "text": "Some companies may also not fully recognise the potential of Việt Nam's young talent, which is eager to work with and deploy new technologies.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261105_9d9851e801#25",
+    "doc_id": "vietnamnews_20261105_9d9851e801",
+    "sent_idx": 25,
+    "text": "This potential is becoming increasingly visible, particularly in the fast-growing software sector.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261105_9d9851e801#26",
+    "doc_id": "vietnamnews_20261105_9d9851e801",
+    "sent_idx": 26,
+    "text": "I am also confident that AI is an important area of interest for the younger generation.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261105_9d9851e801#27",
+    "doc_id": "vietnamnews_20261105_9d9851e801",
+    "sent_idx": 27,
+    "text": "Greater promotion and more opportunities for businesses to connect, with support from governments and free trade agreements, could help drive further growth..",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261105_9d9851e801#28",
+    "doc_id": "vietnamnews_20261105_9d9851e801",
+    "sent_idx": 28,
+    "text": "What should Vietnamese companies do to move beyond AI pilot projects and integrate artificial intelligence into their operations at scale?",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261105_9d9851e801#29",
+    "doc_id": "vietnamnews_20261105_9d9851e801",
+    "sent_idx": 29,
+    "text": "First, everyone should be encouraged to use AI technology, whether in their personal lives or at work.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261105_9d9851e801#30",
+    "doc_id": "vietnamnews_20261105_9d9851e801",
+    "sent_idx": 30,
+    "text": "By becoming familiar with the technology, people can begin to understand what it can do.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261105_9d9851e801#31",
+    "doc_id": "vietnamnews_20261105_9d9851e801",
+    "sent_idx": 31,
+    "text": "Second, the commitment must come from the top.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261105_9d9851e801#32",
+    "doc_id": "vietnamnews_20261105_9d9851e801",
+    "sent_idx": 32,
+    "text": "Company leaders need to make a clear decision that they want to put their businesses on an AI path.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261105_9d9851e801#33",
+    "doc_id": "vietnamnews_20261105_9d9851e801",
+    "sent_idx": 33,
+    "text": "They should identify where AI can be applied, whether in support functions, design or manufacturing processes.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261105_9d9851e801#34",
+    "doc_id": "vietnamnews_20261105_9d9851e801",
+    "sent_idx": 34,
+    "text": "Third, it is not enough to simply add AI as a co-pilot to existing activities.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261105_9d9851e801#35",
+    "doc_id": "vietnamnews_20261105_9d9851e801",
+    "sent_idx": 35,
+    "text": "Companies need to go deeper into their processes and rethink how those processes would operate if they were AI-native.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261105_9d9851e801#36",
+    "doc_id": "vietnamnews_20261105_9d9851e801",
+    "sent_idx": 36,
+    "text": "That makes a significant difference.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261105_9d9851e801#37",
+    "doc_id": "vietnamnews_20261105_9d9851e801",
+    "sent_idx": 37,
+    "text": "Finally, an element that is often overlooked is data preparation.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261105_9d9851e801#38",
+    "doc_id": "vietnamnews_20261105_9d9851e801",
+    "sent_idx": 38,
+    "text": "Many companies have data silos, with information scattered across systems and stored in unstructured formats that cannot be easily accessed.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261105_9d9851e801#39",
+    "doc_id": "vietnamnews_20261105_9d9851e801",
+    "sent_idx": 39,
+    "text": "Businesses need to work on their data first.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261105_9d9851e801#40",
+    "doc_id": "vietnamnews_20261105_9d9851e801",
+    "sent_idx": 40,
+    "text": "Once they address these issues, the results they obtain from applying AI can improve tremendously. - BIZHUB/VNS",
+    "lang": "en",
+    "is_title": false
+  }
+]

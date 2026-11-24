@@ -1,0 +1,82 @@
+[
+  {
+    "sent_id": "vietnamnews_20261029_dbdd5e7e7e#0",
+    "doc_id": "vietnamnews_20261029_dbdd5e7e7e",
+    "sent_idx": 0,
+    "text": "Việt Nam's M&A market recorded 30 deals in September",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261029_dbdd5e7e7e#1",
+    "doc_id": "vietnamnews_20261029_dbdd5e7e7e",
+    "sent_idx": 1,
+    "text": "HÀ NỘI - Việt Nam's M&A market recorded 30 deals in September, with only 23 disclosing or having an estimated transaction value, totalling approximately US$1.74 billion, according to a Grant Thornton report.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261029_dbdd5e7e7e#2",
+    "doc_id": "vietnamnews_20261029_dbdd5e7e7e",
+    "sent_idx": 2,
+    "text": "In terms of deal volume, logistics & infrastructure, real estate, consumer, industrials and financials sectors recorded a total of 16 deals, accounting for approximately 53 per cent of all transactions during the month.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261029_dbdd5e7e7e#3",
+    "doc_id": "vietnamnews_20261029_dbdd5e7e7e",
+    "sent_idx": 3,
+    "text": "September M&A activity was driven by restructuring and related-party transactions, with four deals contributing approximately $1.23 billion and accounting for 70.7 per cent of total transaction value.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261029_dbdd5e7e7e#4",
+    "doc_id": "vietnamnews_20261029_dbdd5e7e7e",
+    "sent_idx": 4,
+    "text": "The most notable transaction was VinFast Vietnam Joint Stock Company's agreement to acquire 100 per cent of the equity interests in Ngọc Hồi Real Estate Investment Joint Stock Company for approximately $1.2 billion.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261029_dbdd5e7e7e#5",
+    "doc_id": "vietnamnews_20261029_dbdd5e7e7e",
+    "sent_idx": 5,
+    "text": "In terms of transaction volume, logistics and infrastructure led with four deals, accounting for 14 per cent of transactions during the month.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261029_dbdd5e7e7e#6",
+    "doc_id": "vietnamnews_20261029_dbdd5e7e7e",
+    "sent_idx": 6,
+    "text": "Real estate, consumer, industrials and financials each recorded three deals, together accounting for 40 per cent of announced transactions.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261029_dbdd5e7e7e#7",
+    "doc_id": "vietnamnews_20261029_dbdd5e7e7e",
+    "sent_idx": 7,
+    "text": "Excluding restructuring and related-party transactions, consumer and metals and mining were the leading sectors in September, recording total deal values of approximately $183.8 million and $124.8 million, respectively, and together accounting for 61 per cent of total disclosed or estimable transaction value.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261029_dbdd5e7e7e#8",
+    "doc_id": "vietnamnews_20261029_dbdd5e7e7e",
+    "sent_idx": 8,
+    "text": "Notable transactions included the transfer of shares in Thành Thành Công - Biên Hòa Joint Stock Company, valued at nearly $179 million, and Elmet Group's acquisition of a 4.99 per cent stake in Masan High-Tech Materials Corporation at approximately $138 million.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261029_dbdd5e7e7e#9",
+    "doc_id": "vietnamnews_20261029_dbdd5e7e7e",
+    "sent_idx": 9,
+    "text": "The F&B sector ranked third, with a transaction value of approximately $88.4 million, equivalent to 18 per cent of the market's total deal value. - BIZHUB/VNS",
+    "lang": "en",
+    "is_title": false
+  }
+]

@@ -1,0 +1,306 @@
+[
+  {
+    "sent_id": "vneconomy_en_20261026_3e8440485d#0",
+    "doc_id": "vneconomy_en_20261026_3e8440485d",
+    "sent_idx": 0,
+    "text": "Proposal for mutual recognition of electronic identities with foreign systems",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vneconomy_en_20261026_3e8440485d#1",
+    "doc_id": "vneconomy_en_20261026_3e8440485d",
+    "sent_idx": 1,
+    "text": "On October 26, at the ongoing 2nd session of the 16th National Assembly, General Lương Tam Quang, Member of the Politburo, Minister of Public Security, authorized by the Prime Minister, presented the Government's proposal for the draft Law on Electronic Identification and Authentication.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261026_3e8440485d#2",
+    "doc_id": "vneconomy_en_20261026_3e8440485d",
+    "sent_idx": 2,
+    "text": "The draft law outlines regulations on electronic identification and authentication, as well as the rights, obligations, and responsibilities of relevant agencies, organizations, and individuals.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261026_3e8440485d#3",
+    "doc_id": "vneconomy_en_20261026_3e8440485d",
+    "sent_idx": 3,
+    "text": "It consists of 8 chapters with 46 articles.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261026_3e8440485d#4",
+    "doc_id": "vneconomy_en_20261026_3e8440485d",
+    "sent_idx": 4,
+    "text": "Regarding electronic identification subjects, the draft law identifies five groups: agencies, organizations, individuals; products, goods, physical assets, and other physical objects; databases, data files, images, sounds, videos, applications, software, and digital services; events, transactions, behaviors; locations and spaces.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261026_3e8440485d#5",
+    "doc_id": "vneconomy_en_20261026_3e8440485d",
+    "sent_idx": 5,
+    "text": "The draft law also noted that the Government is tasked with regulating electronic identification and authentication for subjects in the military, defense, and cryptography sectors.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261026_3e8440485d#6",
+    "doc_id": "vneconomy_en_20261026_3e8440485d",
+    "sent_idx": 6,
+    "text": "The draft law proposes two methods for electronic identification:",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261026_3e8440485d#7",
+    "doc_id": "vneconomy_en_20261026_3e8440485d",
+    "sent_idx": 7,
+    "text": "Firstly, the State invests in and establishes systems and platforms to directly conduct electronic identification activities; locations, spaces; core data, important data; certified ownership and usage subjects; high-risk products, goods, and state secrets.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261026_3e8440485d#8",
+    "doc_id": "vneconomy_en_20261026_3e8440485d",
+    "sent_idx": 8,
+    "text": "Secondly, qualified organizations can independently invest in and establish systems, platforms, and infrastructure for electronic identification activities.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261026_3e8440485d#9",
+    "doc_id": "vneconomy_en_20261026_3e8440485d",
+    "sent_idx": 9,
+    "text": "For other subjects, the draft encourages the commercialization of identification services.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261026_3e8440485d#10",
+    "doc_id": "vneconomy_en_20261026_3e8440485d",
+    "sent_idx": 10,
+    "text": "The electronic identification and authentication system, as outlined in the draft law, includes: the national database on electronic identification and authentication; the electronic identification and authentication platform; the national identification application (VNeID); the system for managing the validity of electronic identities and electronic certificates confirming information; the national electronic identification and authentication portal, and other software, applications, and information systems.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261026_3e8440485d#11",
+    "doc_id": "vneconomy_en_20261026_3e8440485d",
+    "sent_idx": 11,
+    "text": "Related information systems are connected to the system to serve state management, provide public services, and promote socio-economic development.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261026_3e8440485d#12",
+    "doc_id": "vneconomy_en_20261026_3e8440485d",
+    "sent_idx": 12,
+    "text": "Regarding electronic authentication models, the draft law stipulates that all subjects with established electronic identities and identification codes under the Law are electronic authentication subjects.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261026_3e8440485d#13",
+    "doc_id": "vneconomy_en_20261026_3e8440485d",
+    "sent_idx": 13,
+    "text": "It establishes three models for electronic authentication activities: centralized authentication, intermediary authentication, and independent authentication.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261026_3e8440485d#14",
+    "doc_id": "vneconomy_en_20261026_3e8440485d",
+    "sent_idx": 14,
+    "text": "It mandates linking and authenticating electronic identities for transactions on digital platforms in certain fields.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261026_3e8440485d#15",
+    "doc_id": "vneconomy_en_20261026_3e8440485d",
+    "sent_idx": 15,
+    "text": "The draft specifies conditions for organizations providing electronic identification and authentication services, including their legal status, financial capacity, technical systems, IT infrastructure, specialized personnel, operational procedures, user data protection, cybersecurity, technical connectivity with the System, and liability insurance.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261026_3e8440485d#16",
+    "doc_id": "vneconomy_en_20261026_3e8440485d",
+    "sent_idx": 16,
+    "text": "Additionally, the draft Law stipulates the principle of mutual recognition of electronic identities and foreign authentication results for cross-border transactions.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261026_3e8440485d#17",
+    "doc_id": "vneconomy_en_20261026_3e8440485d",
+    "sent_idx": 17,
+    "text": "It amends and supplements related provisions of the Law on Electronic Transactions, the Law on Identity Cards, the Law on Digital Transformation, the Law on E-commerce, and the Law on Investment to ensure consistency within the legal system.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261026_3e8440485d#18",
+    "doc_id": "vneconomy_en_20261026_3e8440485d",
+    "sent_idx": 18,
+    "text": "Presenting the verification report on the draft Law on Electronic Identification and Authentication, Lieutenant General Le Tan Toi, Chairman of the National Defense, Security, and Foreign Affairs Committee, stated that the Committee generally agrees with the name, scope, and subjects of application.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261026_3e8440485d#19",
+    "doc_id": "vneconomy_en_20261026_3e8440485d",
+    "sent_idx": 19,
+    "text": "However, there are suggestions to add a provision on the principle of legal application to clearly delineate boundaries with specialized laws such as the Law on Identity Cards, the Law on Electronic Transactions, and the Law on Personal Data Protection.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261026_3e8440485d#20",
+    "doc_id": "vneconomy_en_20261026_3e8440485d",
+    "sent_idx": 20,
+    "text": "It should clarify that electronic identification and authentication only have technical value for identifying and authenticating subjects, not replacing regulations on ownership rights, transaction conditions, or legal status under specialized laws.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261026_3e8440485d#21",
+    "doc_id": "vneconomy_en_20261026_3e8440485d",
+    "sent_idx": 21,
+    "text": "Regarding electronic identities and identification codes, the Committee cautions against allowing specialized agencies or service providers to independently decide on the information fields to be collected, as this could lead to abuse and privacy violations.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261026_3e8440485d#22",
+    "doc_id": "vneconomy_en_20261026_3e8440485d",
+    "sent_idx": 22,
+    "text": "It is recommended to add a framework regulation on permissible information fields for collection, with the Government setting limits, issuing technical standards, and emphasizing the principle of minimal collection to protect data subjects' rights.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261026_3e8440485d#23",
+    "doc_id": "vneconomy_en_20261026_3e8440485d",
+    "sent_idx": 23,
+    "text": "Regarding organizations providing electronic identification and authentication services, the Committee agrees with the policy of socialization, allowing qualified organizations to participate in providing these services.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261026_3e8440485d#24",
+    "doc_id": "vneconomy_en_20261026_3e8440485d",
+    "sent_idx": 24,
+    "text": "However, there are suggestions that state agencies should issue minimum technical standards and common data standards to avoid scattered, unfocused, and inconsistent investments.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261026_3e8440485d#25",
+    "doc_id": "vneconomy_en_20261026_3e8440485d",
+    "sent_idx": 25,
+    "text": "Additionally, specific regulations on legal liability and compensation mechanisms for service providers in case of data breaches or incorrect identification and authentication should be added.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261026_3e8440485d#26",
+    "doc_id": "vneconomy_en_20261026_3e8440485d",
+    "sent_idx": 26,
+    "text": "Regarding electronic identity subjects, the National Defense, Security, and Foreign Affairs Committee generally agrees with the draft Law's provisions.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261026_3e8440485d#27",
+    "doc_id": "vneconomy_en_20261026_3e8440485d",
+    "sent_idx": 27,
+    "text": "However, there are suggestions to clearly distinguish between \"ownership rights\" and \"management and usage rights\" to align with representation and authorization mechanisms under the Civil Code, serving as a basis for resolving disputes and handling legal responsibilities.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261026_3e8440485d#28",
+    "doc_id": "vneconomy_en_20261026_3e8440485d",
+    "sent_idx": 28,
+    "text": "Provisions on authorization and delegation of management and usage of electronic identities should also be added.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261026_3e8440485d#29",
+    "doc_id": "vneconomy_en_20261026_3e8440485d",
+    "sent_idx": 29,
+    "text": "Regarding the suspension, cancellation, termination of electronic identity validity, and data storage, the Committee generally agrees with the provisions in Articles 14, 17, 18, and 19 of the draft Law.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261026_3e8440485d#30",
+    "doc_id": "vneconomy_en_20261026_3e8440485d",
+    "sent_idx": 30,
+    "text": "However, there are suggestions to specify the authority and grounds for suspension and cancellation directly in the Law, clearly define the maximum suspension period, and the liability for damages if handled incorrectly.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261026_3e8440485d#31",
+    "doc_id": "vneconomy_en_20261026_3e8440485d",
+    "sent_idx": 31,
+    "text": "An emergency suspension mechanism should be added in case of security threats, and the rights of subjects to request deletion or cancellation of their identities when no longer needed should be specified.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261026_3e8440485d#32",
+    "doc_id": "vneconomy_en_20261026_3e8440485d",
+    "sent_idx": 32,
+    "text": "The storage period should be reviewed to ensure compatibility with the Law on Archives and the Civil Code, avoiding unnecessary pressure on storage systems.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261026_3e8440485d#33",
+    "doc_id": "vneconomy_en_20261026_3e8440485d",
+    "sent_idx": 33,
+    "text": "Regarding international integration and cooperation, the Committee agrees with the provisions in Chapter VI.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261026_3e8440485d#34",
+    "doc_id": "vneconomy_en_20261026_3e8440485d",
+    "sent_idx": 34,
+    "text": "However, there are suggestions to continue reviewing regulations on recognizing foreign electronic identities, digital signatures, and authentication results to ensure compatibility with new-generation free trade agreements.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261026_3e8440485d#35",
+    "doc_id": "vneconomy_en_20261026_3e8440485d",
+    "sent_idx": 35,
+    "text": "The draft Law should include or authorize the Government to specify coordination mechanisms and requirements for cross-border digital platforms providing services in Vietnam in linking and authenticating user identities.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261026_3e8440485d#36",
+    "doc_id": "vneconomy_en_20261026_3e8440485d",
+    "sent_idx": 36,
+    "text": "Regarding data exploitation fees and administrative procedure reduction, the National Defense, Security, and Foreign Affairs Committee recommends reviewing to ensure consistency, avoiding overlap with the Law on Data, the Law on Fees and Charges, and calculating reasonable fees for citizens and businesses.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261026_3e8440485d#37",
+    "doc_id": "vneconomy_en_20261026_3e8440485d",
+    "sent_idx": 37,
+    "text": "Regarding administrative procedure reduction, there are suggestions to add provisions allowing for the resolution of procedures using traditional paper documents in case of technical failures or in areas lacking digital infrastructure.",
+    "lang": "en",
+    "is_title": false
+  }
+]

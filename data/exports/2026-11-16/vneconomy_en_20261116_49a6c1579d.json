@@ -1,0 +1,90 @@
+[
+  {
+    "sent_id": "vneconomy_en_20261116_49a6c1579d#0",
+    "doc_id": "vneconomy_en_20261116_49a6c1579d",
+    "sent_idx": 0,
+    "text": "Hanoi launches digital platform to boost cultural tourism",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vneconomy_en_20261116_49a6c1579d#1",
+    "doc_id": "vneconomy_en_20261116_49a6c1579d",
+    "sent_idx": 1,
+    "text": "Hanoi has officially launched HanoiGo, a digital platform for culture and tourism integrated into the iHanoi app, a dedicated mobile application and a web platform.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261116_49a6c1579d#2",
+    "doc_id": "vneconomy_en_20261116_49a6c1579d",
+    "sent_idx": 2,
+    "text": "It aims to bring information on tourist attractions, events and travel services together in one system.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261116_49a6c1579d#3",
+    "doc_id": "vneconomy_en_20261116_49a6c1579d",
+    "sent_idx": 3,
+    "text": "According to the Hanoi Department of Science and Technology, HanoiGo currently provides information on 1,464 historical and cultural sites, 82 spiritual and religious destinations, 146 cultural heritage sites and 20 traditional craft villages, as well as architectural, ecological, shopping and entertainment venues.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261116_49a6c1579d#4",
+    "doc_id": "vneconomy_en_20261116_49a6c1579d",
+    "sent_idx": 4,
+    "text": "The platform also features information on 113 hotels, apartments, homestays, dining venues and 56 tour programmes.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261116_49a6c1579d#5",
+    "doc_id": "vneconomy_en_20261116_49a6c1579d",
+    "sent_idx": 5,
+    "text": "Beyond providing information, HanoiGo connects users with tourism services, including restaurant and hotel bookings, tour purchases and electronic tickets featuring integrated QR codes.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261116_49a6c1579d#6",
+    "doc_id": "vneconomy_en_20261116_49a6c1579d",
+    "sent_idx": 6,
+    "text": "Hanoi welcomed 30.36 million visitors in the first 10 months of 2026.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261116_49a6c1579d#7",
+    "doc_id": "vneconomy_en_20261116_49a6c1579d",
+    "sent_idx": 7,
+    "text": "In October alone, the capital received nearly 2.8 million visitors, up 10.7% year-on-year, while tourism revenue reached approximately VND12.1 trillion ($460 million), an increase of 10.5%.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261116_49a6c1579d#8",
+    "doc_id": "vneconomy_en_20261116_49a6c1579d",
+    "sent_idx": 8,
+    "text": "Revenue for the 10-month period totalled VND125.2 trillion ($4.76 billion), up 13%.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261116_49a6c1579d#9",
+    "doc_id": "vneconomy_en_20261116_49a6c1579d",
+    "sent_idx": 9,
+    "text": "The Hanoi Department of Science and Technology said HanoiGo QR codes have been installed at 1,445 tourist attractions, Noi Bai International Airport and across the city's bus network.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261116_49a6c1579d#10",
+    "doc_id": "vneconomy_en_20261116_49a6c1579d",
+    "sent_idx": 10,
+    "text": "The platform is expected to consolidate tourism data, reduce the time visitors spend searching for information, and help them plan itineraries and access services more easily.",
+    "lang": "en",
+    "is_title": false
+  }
+]

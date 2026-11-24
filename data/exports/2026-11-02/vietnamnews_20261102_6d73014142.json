@@ -1,0 +1,82 @@
+[
+  {
+    "sent_id": "vietnamnews_20261102_6d73014142#0",
+    "doc_id": "vietnamnews_20261102_6d73014142",
+    "sent_idx": 0,
+    "text": "Hà Nội approves $3.8 billion Bắc Thăng Long urban project",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261102_6d73014142#1",
+    "doc_id": "vietnamnews_20261102_6d73014142",
+    "sent_idx": 1,
+    "text": "HÀ NỘI - Hà Nội has approved investment plans for a VNĐ99.8 trillion (US$3.8 billion) multi-purpose urban development project in the north of the capital city with construction scheduled to run from 2026 to 2032.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261102_6d73014142#2",
+    "doc_id": "vietnamnews_20261102_6d73014142",
+    "sent_idx": 2,
+    "text": "Under Decision No. 6009/QĐ-UBND signed on October 30, the Bắc Thăng Long Urban City project will cover about 465.45ha in Thiên Lộc and Phúc Thịnh communes.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261102_6d73014142#3",
+    "doc_id": "vietnamnews_20261102_6d73014142",
+    "sent_idx": 3,
+    "text": "The development is expected to accommodate around 97,500 residents and include more than 5.5 million sq.m of residential floor space, alongside technical and social infrastructure, public facilities and commercial services.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261102_6d73014142#4",
+    "doc_id": "vietnamnews_20261102_6d73014142",
+    "sent_idx": 4,
+    "text": "Social housing will account for 21.83 per cent of total residential floor space, resettlement and official housing 40.17 per cent, and commercial homes 38 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261102_6d73014142#5",
+    "doc_id": "vietnamnews_20261102_6d73014142",
+    "sent_idx": 5,
+    "text": "The project will allocate about 43ha for resettlement townhouses, 15.06ha for social housing and 4.33ha for apartment buildings serving resettlement and official residence needs.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261102_6d73014142#6",
+    "doc_id": "vietnamnews_20261102_6d73014142",
+    "sent_idx": 6,
+    "text": "The project will be developed by a consortium of five investors, including Hanoi Housing Investment and Development Corporation, Sunshine Group, Big Gain Investment Company, Thái Nam Land and Potamos Real Estate.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261102_6d73014142#7",
+    "doc_id": "vietnamnews_20261102_6d73014142",
+    "sent_idx": 7,
+    "text": "The project is expected to include a cultural park, public squares, green spaces and water features, while expanding the city's urban area under a transit-oriented development (TOD) model.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261102_6d73014142#8",
+    "doc_id": "vietnamnews_20261102_6d73014142",
+    "sent_idx": 8,
+    "text": "The municipal authorities has asked the investors to ensure sufficient funding for compensation, support and resettlement, while prioritising infrastructure in resettlement areas and the coordinated development of schools, markets, healthcare and cultural facilities.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261102_6d73014142#9",
+    "doc_id": "vietnamnews_20261102_6d73014142",
+    "sent_idx": 9,
+    "text": "The city also asked efforts to accelerate administrative procedures related to land, investment, construction, the environment and site clearance to keep the project on schedule. - VNS",
+    "lang": "en",
+    "is_title": false
+  }
+]

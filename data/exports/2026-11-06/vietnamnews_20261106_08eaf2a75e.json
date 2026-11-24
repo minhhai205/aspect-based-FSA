@@ -1,0 +1,258 @@
+[
+  {
+    "sent_id": "vietnamnews_20261106_08eaf2a75e#0",
+    "doc_id": "vietnamnews_20261106_08eaf2a75e",
+    "sent_idx": 0,
+    "text": "Việt Nam's urban areas urged to shift towards quality-driven growth",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261106_08eaf2a75e#1",
+    "doc_id": "vietnamnews_20261106_08eaf2a75e",
+    "sent_idx": 1,
+    "text": "HÀ NỘI - Việt Nam's urban areas need to move beyond expansion driven mainly by land development and investment capital toward a growth model based on productivity, innovation, technology and efficient use of resources, experts said at a forum in Hà Nội on Friday.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_08eaf2a75e#2",
+    "doc_id": "vietnamnews_20261106_08eaf2a75e",
+    "sent_idx": 2,
+    "text": "The Vietnam Urban Sustainability Summit 2026, themed \"Urban Development Model Contributing to National Growth\", was jointly organised by the Party Central Committee's Commission for Policy and Strategy and the Ministry of Construction.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_08eaf2a75e#3",
+    "doc_id": "vietnamnews_20261106_08eaf2a75e",
+    "sent_idx": 3,
+    "text": "In his opening remarks, Nguyễn Ngọc Tuấn, Vice Chairman of the commission, said that amid both opportunities and challenges, achieving high and sustainable growth required urban areas to become genuine drivers of the economy.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_08eaf2a75e#4",
+    "doc_id": "vietnamnews_20261106_08eaf2a75e",
+    "sent_idx": 4,
+    "text": "Cities should serve as centres for high-value economic activities, innovation ecosystems, modern technology and quality services, he said.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_08eaf2a75e#5",
+    "doc_id": "vietnamnews_20261106_08eaf2a75e",
+    "sent_idx": 5,
+    "text": "They should also help reduce production and logistics costs, promote services and spread the benefits of development.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_08eaf2a75e#6",
+    "doc_id": "vietnamnews_20261106_08eaf2a75e",
+    "sent_idx": 6,
+    "text": "Tuan stressed the need to shift from expanding urban scale to improving productivity, with science and technology, innovation and digital transformation serving as key drivers.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_08eaf2a75e#7",
+    "doc_id": "vietnamnews_20261106_08eaf2a75e",
+    "sent_idx": 7,
+    "text": "Green, digital and circular economies should also be promoted.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_08eaf2a75e#8",
+    "doc_id": "vietnamnews_20261106_08eaf2a75e",
+    "sent_idx": 8,
+    "text": "Deputy Minister of Construction Nguyễn Tường Văn shared this view, calling for a shift from extensive to intensive urban development and from growth based on land, investment capital and construction expansion to a model focused on productivity and efficient resource use.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_08eaf2a75e#9",
+    "doc_id": "vietnamnews_20261106_08eaf2a75e",
+    "sent_idx": 9,
+    "text": "He said the urban system should be organised as a network of multiple centres, with stronger regional connectivity and a leading role for major cities, growth poles and economic corridors.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_08eaf2a75e#10",
+    "doc_id": "vietnamnews_20261106_08eaf2a75e",
+    "sent_idx": 10,
+    "text": "Small and medium-sized cities should develop in line with their specific strengths, avoiding scattered investment and poorly connected development.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_08eaf2a75e#11",
+    "doc_id": "vietnamnews_20261106_08eaf2a75e",
+    "sent_idx": 11,
+    "text": "Urban planning should take into account green, smart, ecological and innovation-oriented cities, as well as transit-oriented development (TOD) models.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_08eaf2a75e#12",
+    "doc_id": "vietnamnews_20261106_08eaf2a75e",
+    "sent_idx": 12,
+    "text": "For coastal cities, port cities and logistics hubs, spatial planning should be linked with the marine economy strategy.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_08eaf2a75e#13",
+    "doc_id": "vietnamnews_20261106_08eaf2a75e",
+    "sent_idx": 13,
+    "text": "Development must make use of the country's coastline, seaports, bays and islands while balancing economic growth, environmental protection, national defence and security.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_08eaf2a75e#14",
+    "doc_id": "vietnamnews_20261106_08eaf2a75e",
+    "sent_idx": 14,
+    "text": "Swiss Ambassador to Việt Nam Thomas Gass said Việt Nam needed not only to accelerate infrastructure investment but also to identify priority sectors and projects to ensure long-term value.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_08eaf2a75e#15",
+    "doc_id": "vietnamnews_20261106_08eaf2a75e",
+    "sent_idx": 15,
+    "text": "Investment decisions should strengthen urban resilience to climate change, natural disasters, flooding and extreme heat.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_08eaf2a75e#16",
+    "doc_id": "vietnamnews_20261106_08eaf2a75e",
+    "sent_idx": 16,
+    "text": "Data-driven governance and climate resilience",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_08eaf2a75e#17",
+    "doc_id": "vietnamnews_20261106_08eaf2a75e",
+    "sent_idx": 17,
+    "text": "Digital transformation and stronger governance capacity are also essential to creating new sources of urban growth.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_08eaf2a75e#18",
+    "doc_id": "vietnamnews_20261106_08eaf2a75e",
+    "sent_idx": 18,
+    "text": "Mariam J. Sherman, World Bank Country Director for Việt Nam, Cambodia and Laos, highlighted the important role of cities in achieving Việt Nam's growth goals.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_08eaf2a75e#19",
+    "doc_id": "vietnamnews_20261106_08eaf2a75e",
+    "sent_idx": 19,
+    "text": "She called for stronger investment planning and project-cycle management at the local level, alongside technical standards and guidance from the Ministry of Construction.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_08eaf2a75e#20",
+    "doc_id": "vietnamnews_20261106_08eaf2a75e",
+    "sent_idx": 20,
+    "text": "Deputy Minister Văn said the legal framework for urban and rural planning, urban classification and smart city development was being improved to meet the requirements of the two-tier local administration model.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_08eaf2a75e#21",
+    "doc_id": "vietnamnews_20261106_08eaf2a75e",
+    "sent_idx": 21,
+    "text": "On Thursday, Standing Deputy Prime Minister Phạm Gia Túc signed Decision No. 2116/QD-TTg approving the National Smart Urban Development Orientation for 2026-2030, with a vision to 2035.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_08eaf2a75e#22",
+    "doc_id": "vietnamnews_20261106_08eaf2a75e",
+    "sent_idx": 22,
+    "text": "The orientation calls for a shift from case-by-case urban management and isolated technology applications to data-driven governance capable of analysis, forecasting, coordination and performance measurement.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_08eaf2a75e#23",
+    "doc_id": "vietnamnews_20261106_08eaf2a75e",
+    "sent_idx": 23,
+    "text": "By 2030, all cities are expected to formulate and implement smart city development schemes and build shared urban databases.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_08eaf2a75e#24",
+    "doc_id": "vietnamnews_20261106_08eaf2a75e",
+    "sent_idx": 24,
+    "text": "Văn stressed that smart urban development was not simply about investing in technology or building control centres.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_08eaf2a75e#25",
+    "doc_id": "vietnamnews_20261106_08eaf2a75e",
+    "sent_idx": 25,
+    "text": "Its core purpose was to improve governance, address practical problems, enhance public services and raise residents' quality of life.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_08eaf2a75e#26",
+    "doc_id": "vietnamnews_20261106_08eaf2a75e",
+    "sent_idx": 26,
+    "text": "Climate resilience must also be integrated into urban planning, investment and management, particularly in coastal and delta areas exposed to flooding, saltwater intrusion, erosion and pollution.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_08eaf2a75e#27",
+    "doc_id": "vietnamnews_20261106_08eaf2a75e",
+    "sent_idx": 27,
+    "text": "The forum also highlighted the need to improve mechanisms for mobilising and using resources, including public-private partnerships and urban financial instruments.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_08eaf2a75e#28",
+    "doc_id": "vietnamnews_20261106_08eaf2a75e",
+    "sent_idx": 28,
+    "text": "Greater transparency, effective decentralisation and accountability are essential to ensuring that development benefits the State, businesses and residents.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_08eaf2a75e#29",
+    "doc_id": "vietnamnews_20261106_08eaf2a75e",
+    "sent_idx": 29,
+    "text": "Participants said urban development should be assessed not only by population, land area or construction expansion, but also by labour productivity, land-use efficiency, investment effectiveness, innovation, environmental quality and living standards.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_08eaf2a75e#30",
+    "doc_id": "vietnamnews_20261106_08eaf2a75e",
+    "sent_idx": 30,
+    "text": "The future of Việt Nam's cities will depend not only on the infrastructure they build but also on their development vision, institutional quality and governance, Văn said.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261106_08eaf2a75e#31",
+    "doc_id": "vietnamnews_20261106_08eaf2a75e",
+    "sent_idx": 31,
+    "text": "Urban areas should become dynamic growth centres while providing safe, green, smart and distinctive living environments for their residents. - VNA/VNS",
+    "lang": "en",
+    "is_title": false
+  }
+]

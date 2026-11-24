@@ -1,0 +1,186 @@
+[
+  {
+    "sent_id": "vietnamnews_20261111_5a90da98fd#0",
+    "doc_id": "vietnamnews_20261111_5a90da98fd",
+    "sent_idx": 0,
+    "text": "VN-Index rises for second day despite low liquidity, stronger selling force",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261111_5a90da98fd#1",
+    "doc_id": "vietnamnews_20261111_5a90da98fd",
+    "sent_idx": 1,
+    "text": "HÀ NỘI - The stock market was mixed on Wednesday, with the VN-Index extending gains as buying interest in several large-cap stocks during the closing auction helped the benchmark reverse earlier losses.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261111_5a90da98fd#2",
+    "doc_id": "vietnamnews_20261111_5a90da98fd",
+    "sent_idx": 2,
+    "text": "The VN-Index, representing the Hochiminh Stock Exchange (HoSE), gained 3.83 points to close at 1,746.90 points.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261111_5a90da98fd#3",
+    "doc_id": "vietnamnews_20261111_5a90da98fd",
+    "sent_idx": 3,
+    "text": "Selling pressure intensified during the afternoon session, briefly pushing the benchmark below 1,735 points.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261111_5a90da98fd#4",
+    "doc_id": "vietnamnews_20261111_5a90da98fd",
+    "sent_idx": 4,
+    "text": "However, demand for selected large-cap stocks during the closing ATC auction helped narrow the losses and lift the index above its reference level.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261111_5a90da98fd#5",
+    "doc_id": "vietnamnews_20261111_5a90da98fd",
+    "sent_idx": 5,
+    "text": "The breadth of the market was negative, with 157 stocks declining while 136 ticker symbols increased.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261111_5a90da98fd#6",
+    "doc_id": "vietnamnews_20261111_5a90da98fd",
+    "sent_idx": 6,
+    "text": "Trading on the HoSE reached more than 680.4 million shares, worth VNĐ13.84 trillion (US$539.6 million).",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261111_5a90da98fd#7",
+    "doc_id": "vietnamnews_20261111_5a90da98fd",
+    "sent_idx": 7,
+    "text": "The strongest buying interest emerged in several heavyweight stocks, including Vingroup (VIC), Vinhomes (VHM), PV Gas (GAS), Vietcombank (VCB) and BIDV (BID).",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261111_5a90da98fd#8",
+    "doc_id": "vietnamnews_20261111_5a90da98fd",
+    "sent_idx": 8,
+    "text": "VIC was the biggest contributor to the rally, rising 1.3 per cent to VNĐ245,200 per share and adding around five points to the VN-Index.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261111_5a90da98fd#9",
+    "doc_id": "vietnamnews_20261111_5a90da98fd",
+    "sent_idx": 9,
+    "text": "Its contribution exceeded the benchmark's total gain for the session, highlighting the significant influence of a small number of heavyweight stocks on the overall market movement.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261111_5a90da98fd#10",
+    "doc_id": "vietnamnews_20261111_5a90da98fd",
+    "sent_idx": 10,
+    "text": "Other large-cap shares also supported the index.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261111_5a90da98fd#11",
+    "doc_id": "vietnamnews_20261111_5a90da98fd",
+    "sent_idx": 11,
+    "text": "GAS gained 1.8 per cent, VHM rose 0.8 per cent, while VCB and BID advanced by around 0.7-0.8 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261111_5a90da98fd#12",
+    "doc_id": "vietnamnews_20261111_5a90da98fd",
+    "sent_idx": 12,
+    "text": "Banking stocks improved towards the close, with Saigon-Hanoi Bank (SHB) climbing 2.3 per cent to VNĐ11,150 per share.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261111_5a90da98fd#13",
+    "doc_id": "vietnamnews_20261111_5a90da98fd",
+    "sent_idx": 13,
+    "text": "SHB recorded trading volume of 60.8 million shares, the highest across the market.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261111_5a90da98fd#14",
+    "doc_id": "vietnamnews_20261111_5a90da98fd",
+    "sent_idx": 14,
+    "text": "Tien Phong Commercial Joint Stock Bank (TPB) was another standout, gaining 3.15 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261111_5a90da98fd#15",
+    "doc_id": "vietnamnews_20261111_5a90da98fd",
+    "sent_idx": 15,
+    "text": "However, losses in several influential stocks continued to cap the gain.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261111_5a90da98fd#16",
+    "doc_id": "vietnamnews_20261111_5a90da98fd",
+    "sent_idx": 16,
+    "text": "Masan Consumer (MCH) was the largest drag on the VN-Index, reducing the benchmark by around 0.87 points.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261111_5a90da98fd#17",
+    "doc_id": "vietnamnews_20261111_5a90da98fd",
+    "sent_idx": 17,
+    "text": "VPBank (VPB), Sacombank (STB), Vinamilk (VNM), Masan Group (MSN) and Techcombank (TCB) also closed lower.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261111_5a90da98fd#18",
+    "doc_id": "vietnamnews_20261111_5a90da98fd",
+    "sent_idx": 18,
+    "text": "STB fell 1.7 per cent, while VNM declined 1.6 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261111_5a90da98fd#19",
+    "doc_id": "vietnamnews_20261111_5a90da98fd",
+    "sent_idx": 19,
+    "text": "On the Hanoi Stock Exchange (HNX), the HNX-Index lost 0.53 points to close at 255.73 points.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261111_5a90da98fd#20",
+    "doc_id": "vietnamnews_20261111_5a90da98fd",
+    "sent_idx": 20,
+    "text": "Trading volume reached 37 million shares, worth over VNĐ612 billion, down 55 per cent from the previous session.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261111_5a90da98fd#21",
+    "doc_id": "vietnamnews_20261111_5a90da98fd",
+    "sent_idx": 21,
+    "text": "Also supporting the market, foreign investors recorded net buying for a second consecutive session, although the value narrowed to around VNĐ75 billion.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261111_5a90da98fd#22",
+    "doc_id": "vietnamnews_20261111_5a90da98fd",
+    "sent_idx": 22,
+    "text": "VIC attracted the largest net foreign purchases, worth VNĐ139 billion, followed by PV Power (POW) at VNĐ79 billion and VHM at VNĐ47 billion. - BIZHUB/VNS",
+    "lang": "en",
+    "is_title": false
+  }
+]

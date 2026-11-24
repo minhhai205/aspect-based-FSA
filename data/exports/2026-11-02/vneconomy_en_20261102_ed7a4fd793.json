@@ -1,0 +1,202 @@
+[
+  {
+    "sent_id": "vneconomy_en_20261102_ed7a4fd793#0",
+    "doc_id": "vneconomy_en_20261102_ed7a4fd793",
+    "sent_idx": 0,
+    "text": "Users to gain greater control over personal data on digital platforms",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_ed7a4fd793#1",
+    "doc_id": "vneconomy_en_20261102_ed7a4fd793",
+    "sent_idx": 1,
+    "text": "The proposed regulations outline minimum operational, data security, and user protection requirements for service providers, incorporating multiple provisions designed to enhance user control over personal accounts while curbing deceptive interface designs.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_ed7a4fd793#2",
+    "doc_id": "vneconomy_en_20261102_ed7a4fd793",
+    "sent_idx": 2,
+    "text": "Under the draft circular, digital platforms must provide tools for users to proactively manage account information and interaction history.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_ed7a4fd793#3",
+    "doc_id": "vneconomy_en_20261102_ed7a4fd793",
+    "sent_idx": 3,
+    "text": "Users must be able to review access logs, lock, suspend, or delete accounts, except where legal exemptions apply.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_ed7a4fd793#4",
+    "doc_id": "vneconomy_en_20261102_ed7a4fd793",
+    "sent_idx": 4,
+    "text": "Crucially, platforms must enable users to request the permanent deletion of account-generated data, excluding state agency platforms or statutory exceptions.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_ed7a4fd793#5",
+    "doc_id": "vneconomy_en_20261102_ed7a4fd793",
+    "sent_idx": 5,
+    "text": "In addition to data deletion requests, platforms are required to offer user interfaces that extract and download account-generated data.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_ed7a4fd793#6",
+    "doc_id": "vneconomy_en_20261102_ed7a4fd793",
+    "sent_idx": 6,
+    "text": "Users will also hold the right to approve or reject personal data sharing outside the platform.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_ed7a4fd793#7",
+    "doc_id": "vneconomy_en_20261102_ed7a4fd793",
+    "sent_idx": 7,
+    "text": "Furthermore, platforms must display a list of linked third-party applications with active data access, allowing users to disconnect or revoke permissions at any time.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_ed7a4fd793#8",
+    "doc_id": "vneconomy_en_20261102_ed7a4fd793",
+    "sent_idx": 8,
+    "text": "The draft circular dictates that digital platforms adopt a user-centric design approach, prohibiting ambiguous interface features or deceptive tactics that mislead users into unintentional decisions.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_ed7a4fd793#9",
+    "doc_id": "vneconomy_en_20261102_ed7a4fd793",
+    "sent_idx": 9,
+    "text": "Platforms are strictly forbidden from executing covert auto-renewals, automated confirmations, or setting default configurations that act on behalf of users.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_ed7a4fd793#10",
+    "doc_id": "vneconomy_en_20261102_ed7a4fd793",
+    "sent_idx": 10,
+    "text": "Notably, platforms must publicly disclose processing algorithms that affect user rights, choices, and decision-making processes.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_ed7a4fd793#11",
+    "doc_id": "vneconomy_en_20261102_ed7a4fd793",
+    "sent_idx": 11,
+    "text": "These rules aim to provide users with clear insight into platform operations, active choices, and account-related rights.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_ed7a4fd793#12",
+    "doc_id": "vneconomy_en_20261102_ed7a4fd793",
+    "sent_idx": 12,
+    "text": "Strict guidelines are also set for managing user data.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_ed7a4fd793#13",
+    "doc_id": "vneconomy_en_20261102_ed7a4fd793",
+    "sent_idx": 13,
+    "text": "Platforms cannot provide user data, including behavioral data, to external parties without prior notification and explicit user confirmation.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_ed7a4fd793#14",
+    "doc_id": "vneconomy_en_20261102_ed7a4fd793",
+    "sent_idx": 14,
+    "text": "Platforms are barred from combining user data across services outside user control.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_ed7a4fd793#15",
+    "doc_id": "vneconomy_en_20261102_ed7a4fd793",
+    "sent_idx": 15,
+    "text": "Moreover, user-provided data cannot be shared with third parties for advertising purposes without explicit user consent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_ed7a4fd793#16",
+    "doc_id": "vneconomy_en_20261102_ed7a4fd793",
+    "sent_idx": 16,
+    "text": "Platforms must establish channels to receive and handle user feedback, disclosing support contact details including phone numbers, emails, and direct communication channels.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_ed7a4fd793#17",
+    "doc_id": "vneconomy_en_20261102_ed7a4fd793",
+    "sent_idx": 17,
+    "text": "For platforms leveraging artificial intelligence (AI) for customer support, the draft mandates an option to transition seamlessly to human agents.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_ed7a4fd793#18",
+    "doc_id": "vneconomy_en_20261102_ed7a4fd793",
+    "sent_idx": 18,
+    "text": "Platforms must integrate post-transaction satisfaction surveys and track metrics including completion rates, error rates, processing times, and assistance request rates.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_ed7a4fd793#19",
+    "doc_id": "vneconomy_en_20261102_ed7a4fd793",
+    "sent_idx": 19,
+    "text": "The draft introduces official labeling requirements for digital platforms.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_ed7a4fd793#20",
+    "doc_id": "vneconomy_en_20261102_ed7a4fd793",
+    "sent_idx": 20,
+    "text": "Platforms subject to mandatory minimum standards must complete labeling and disclosure protocols prior to the implementation deadline of July 1, 2027.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_ed7a4fd793#21",
+    "doc_id": "vneconomy_en_20261102_ed7a4fd793",
+    "sent_idx": 21,
+    "text": "Platform labels are designed to help users identify whether minimum compliance requirements are met, presenting identification codes, platform types, and independent verification status.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_ed7a4fd793#22",
+    "doc_id": "vneconomy_en_20261102_ed7a4fd793",
+    "sent_idx": 22,
+    "text": "The draft establishes two label categories: one for platforms certified through third-party testing and verification, and another for platforms self-declaring compliance without independent audit.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_ed7a4fd793#23",
+    "doc_id": "vneconomy_en_20261102_ed7a4fd793",
+    "sent_idx": 23,
+    "text": "Mandatory minimum compliance applies to platforms funded, built, or leased by state agencies; public-private partnership platforms; and platforms delivering online public services, essential services, or public utility functions.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_ed7a4fd793#24",
+    "doc_id": "vneconomy_en_20261102_ed7a4fd793",
+    "sent_idx": 24,
+    "text": "The Ministry of Science and Technology encourages all other digital platforms to adopt labeling and information disclosure voluntarily once the circular takes effect.",
+    "lang": "en",
+    "is_title": false
+  }
+]

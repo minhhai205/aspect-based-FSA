@@ -1,0 +1,234 @@
+[
+  {
+    "sent_id": "sggp_en_20261113_b1103bba08#0",
+    "doc_id": "sggp_en_20261113_b1103bba08",
+    "sent_idx": 0,
+    "text": "Ho Chi Minh City expands power infrastructure to sustain high-tech FDI appeal",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "sggp_en_20261113_b1103bba08#1",
+    "doc_id": "sggp_en_20261113_b1103bba08",
+    "sent_idx": 1,
+    "text": "Developing power infrastructure, diversifying supply sources, and expanding access to green energy have become critical requirements for Ho Chi Minh City to maintain its competitive edge in attracting high-tech foreign direct investment (FDI).",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "sggp_en_20261113_b1103bba08#2",
+    "doc_id": "sggp_en_20261113_b1103bba08",
+    "sent_idx": 2,
+    "text": "Data centers, chip plants drive up HCMC power needs",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "sggp_en_20261113_b1103bba08#3",
+    "doc_id": "sggp_en_20261113_b1103bba08",
+    "sent_idx": 3,
+    "text": "According to Travis Mitchell, Executive Director of the American Chamber of Commerce in Vietnam (AmCham), high technology and semiconductors offer significant potential for attracting investment from US businesses into Ho Chi Minh City, provided the city ensures a stable power supply at competitive prices.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "sggp_en_20261113_b1103bba08#4",
+    "doc_id": "sggp_en_20261113_b1103bba08",
+    "sent_idx": 4,
+    "text": "Head Nguyen Ky Phung of the Saigon Hi-Tech Park Management Board noted that investment projects in SHTP are shifting toward power-intensive sectors, particularly data centers and the semiconductor industry.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "sggp_en_20261113_b1103bba08#5",
+    "doc_id": "sggp_en_20261113_b1103bba08",
+    "sent_idx": 5,
+    "text": "Currently, SHTP operates 147 dedicated substations with a total installed capacity of 469,535 kVA, which basically meets existing production needs.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "sggp_en_20261113_b1103bba08#6",
+    "doc_id": "sggp_en_20261113_b1103bba08",
+    "sent_idx": 6,
+    "text": "However, without timely additions to power generation and grid infrastructure, the park will face severe pressure once upcoming data center, semiconductor, and expansion zone projects become operational.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "sggp_en_20261113_b1103bba08#7",
+    "doc_id": "sggp_en_20261113_b1103bba08",
+    "sent_idx": 7,
+    "text": "SHTP's electricity demand through 2030 has been calculated and integrated into the power supply plan issued by the Ho Chi Minh City People's Committee under Decision No. 1744/QD-UBND.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "sggp_en_20261113_b1103bba08#8",
+    "doc_id": "sggp_en_20261113_b1103bba08",
+    "sent_idx": 8,
+    "text": "During the 2025-2030 period, the existing 913-hectare zone will add four 110 kV substations with a minimum total capacity of 504 MVA, while the 194.84-hectare expansion zone will add one 110 kV substation with a minimum capacity of 189 MVA.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "sggp_en_20261113_b1103bba08#9",
+    "doc_id": "sggp_en_20261113_b1103bba08",
+    "sent_idx": 9,
+    "text": "This brings the total additional capacity for both zones to at least 693 MVA.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "sggp_en_20261113_b1103bba08#10",
+    "doc_id": "sggp_en_20261113_b1103bba08",
+    "sent_idx": 10,
+    "text": "Beyond SHTP, high-tech projects especially data centers are expanding into export processing zones (EPZs) and industrial parks (IPs) across Ho Chi Minh City, driving power demand even higher.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "sggp_en_20261113_b1103bba08#11",
+    "doc_id": "sggp_en_20261113_b1103bba08",
+    "sent_idx": 11,
+    "text": "Notable projects include the AI Factory Data Center, invested by a consortium comprising Accelerated Infrastructure Capital (AIC), Kinh Bac City Development Holding Corporation (KBC), and partners, featuring a designed IT load capacity of up to 365 MW.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "sggp_en_20261113_b1103bba08#12",
+    "doc_id": "sggp_en_20261113_b1103bba08",
+    "sent_idx": 12,
+    "text": "Meanwhile, the Viettel High-Tech Data Storage and Research & Development Center, which is slated for operation in the first quarter of 2028, has a designed capacity of 150 MVA.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "sggp_en_20261113_b1103bba08#13",
+    "doc_id": "sggp_en_20261113_b1103bba08",
+    "sent_idx": 13,
+    "text": "HCMC ramps up power capacity to fuel industrial and FDI growth",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "sggp_en_20261113_b1103bba08#14",
+    "doc_id": "sggp_en_20261113_b1103bba08",
+    "sent_idx": 14,
+    "text": "Ho Chi Minh City currently consumes roughly 58 billion kWh of electricity annually, with a peak load of about 9,471 MW.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "sggp_en_20261113_b1103bba08#15",
+    "doc_id": "sggp_en_20261113_b1103bba08",
+    "sent_idx": 15,
+    "text": "By 2030, the city's electricity consumption is projected to reach 93.972 billion kWh, with a peak load of around 16,103 MW.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "sggp_en_20261113_b1103bba08#16",
+    "doc_id": "sggp_en_20261113_b1103bba08",
+    "sent_idx": 16,
+    "text": "To meet this rapid growth, the Ho Chi Minh City Department of Industry and Trade estimates the city must add approximately 6,000 MW of capacity to serve industrial production.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "sggp_en_20261113_b1103bba08#17",
+    "doc_id": "sggp_en_20261113_b1103bba08",
+    "sent_idx": 17,
+    "text": "Deputy Director Bui Trung Kien of the Ho Chi Minh City Power Corporation (EVNHCMC) emphasized that proactive efforts by the power sector and industrial park infrastructure developers play a decisive role in maintaining the city's standing as a premier investment destination.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "sggp_en_20261113_b1103bba08#18",
+    "doc_id": "sggp_en_20261113_b1103bba08",
+    "sent_idx": 18,
+    "text": "The municipal power sector has focused on upgrading infrastructure, accelerating grid automation, and constructing additional transmission lines and substations to guarantee stable supply while improving system quality and reliability.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "sggp_en_20261113_b1103bba08#19",
+    "doc_id": "sggp_en_20261113_b1103bba08",
+    "sent_idx": 19,
+    "text": "According to Deputy Director Le Huynh Minh Tu of the Ho Chi Minh City Department of Industry and Trade, the city will establish a national energy center in the Ba Ria - Vung Tau area oriented toward supplying power to Ho Chi Minh City, including its data centers.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "sggp_en_20261113_b1103bba08#20",
+    "doc_id": "sggp_en_20261113_b1103bba08",
+    "sent_idx": 20,
+    "text": "On September 22, 2026, the Ho Chi Minh City People's Council passed Resolution No. 47/2026/NQ-HDND, expanding eligible participants, conditions, and the Direct Power Purchase Agreement (DPPA) mechanism within the city's jurisdiction.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "sggp_en_20261113_b1103bba08#21",
+    "doc_id": "sggp_en_20261113_b1103bba08",
+    "sent_idx": 21,
+    "text": "Under the resolution, the city added eligible participants via dedicated connection grids, including power generation units from thermal power plants using liquefied natural gas (LNG) and electricity consumers located in IPs, EPZs, economic zones, industrial clusters, and high-tech parks.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "sggp_en_20261113_b1103bba08#22",
+    "doc_id": "sggp_en_20261113_b1103bba08",
+    "sent_idx": 22,
+    "text": "Alongside the DPPA mechanism, renewable energy development is opening up long-term supply avenues for Ho Chi Minh City.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "sggp_en_20261113_b1103bba08#23",
+    "doc_id": "sggp_en_20261113_b1103bba08",
+    "sent_idx": 23,
+    "text": "In 2026, Pacifico Energy Vietnam Company (under US-based Pacifico Energy) received approval from the Ministry of Agriculture and Environment for marine area allocation to conduct surveys for two offshore wind power projects.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "sggp_en_20261113_b1103bba08#24",
+    "doc_id": "sggp_en_20261113_b1103bba08",
+    "sent_idx": 24,
+    "text": "Among them, the Southern offshore wind power project has a projected capacity of 500 MW in Ho Chi Minh City's waters, with a total investment of roughly US$2 billion.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "sggp_en_20261113_b1103bba08#25",
+    "doc_id": "sggp_en_20261113_b1103bba08",
+    "sent_idx": 25,
+    "text": "Previously, numerous domestic and international investors also proposed wind power projects ranging from several hundred to thousands of megawatts off the coast of Can Gio.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "sggp_en_20261113_b1103bba08#26",
+    "doc_id": "sggp_en_20261113_b1103bba08",
+    "sent_idx": 26,
+    "text": "In the first 10 months of 2026, Ho Chi Minh City attracted US$19.1 billion in FDI, exceeding its annual target by 73.9 percent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "sggp_en_20261113_b1103bba08#27",
+    "doc_id": "sggp_en_20261113_b1103bba08",
+    "sent_idx": 27,
+    "text": "Of this total, the city granted licenses to 1,726 new projects with a combined registered capital of US$9.7 billion, while 314 existing projects adjusted their capital upward by a net increase of nearly US$5.7 billion.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "sggp_en_20261113_b1103bba08#28",
+    "doc_id": "sggp_en_20261113_b1103bba08",
+    "sent_idx": 28,
+    "text": "The city currently hosts over 22,036 active FDI projects with a total registered capital exceeding US$157.4 billion, continuing to lead the country in FDI scale.",
+    "lang": "en",
+    "is_title": false
+  }
+]

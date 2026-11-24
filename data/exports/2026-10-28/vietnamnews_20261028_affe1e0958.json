@@ -1,0 +1,234 @@
+[
+  {
+    "sent_id": "vietnamnews_20261028_affe1e0958#0",
+    "doc_id": "vietnamnews_20261028_affe1e0958",
+    "sent_idx": 0,
+    "text": "Vietnamese businesses face tax hurdles",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261028_affe1e0958#1",
+    "doc_id": "vietnamnews_20261028_affe1e0958",
+    "sent_idx": 1,
+    "text": "HÀ NỘI - Vietnamese businesses are facing tax-related problems in the domestic market, prompting calls for regulators to review and harmonise regulations to reduce costs, maintain competitiveness and strengthen domestic supply chains.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_affe1e0958#2",
+    "doc_id": "vietnamnews_20261028_affe1e0958",
+    "sent_idx": 2,
+    "text": "Domestic firms selling raw materials to export-processing enterprises may have to pay export tax, while similar imported materials may qualify for a zero import duty.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_affe1e0958#3",
+    "doc_id": "vietnamnews_20261028_affe1e0958",
+    "sent_idx": 3,
+    "text": "In another case, Vietnamese firms supplying goods to foreign traders but delivering them to bonded warehouses may not qualify for the zero per cent value-added tax (VAT) rate.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_affe1e0958#4",
+    "doc_id": "vietnamnews_20261028_affe1e0958",
+    "sent_idx": 4,
+    "text": "This situation not only increases compliance costs but may also put goods and services supplied by Vietnamese businesses at a competitive disadvantage in their home market.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_affe1e0958#5",
+    "doc_id": "vietnamnews_20261028_affe1e0958",
+    "sent_idx": 5,
+    "text": "In a recent submission on draft resolutions and decrees adjusting export tax rates for certain products, the Vietnam Chamber of Commerce and Industry (VCCI) raised concerns over a proposal to cut export duties on unwrought aluminium (heading 76.01), aluminium bars, rods and profiles (heading 76.04), and aluminium wire (heading 76.05) to 1 per cent from 5 per cent, rather than to zero.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_affe1e0958#6",
+    "doc_id": "vietnamnews_20261028_affe1e0958",
+    "sent_idx": 6,
+    "text": "By contrast, the proposed export duty on aluminium plates, sheets and strip in coils under heading 76.06 would be reduced to zero, vnbusiness.vn reported.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_affe1e0958#7",
+    "doc_id": "vietnamnews_20261028_affe1e0958",
+    "sent_idx": 7,
+    "text": "Citing feedback from the Vietnam Aluminium Profile Association and businesses, VCCI said the 1 per cent rate would generate negligible budget revenue while still requiring firms to complete administrative procedures for tax declarations and payments, provide tax guarantee documents and undergo post-clearance inspections.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_affe1e0958#8",
+    "doc_id": "vietnamnews_20261028_affe1e0958",
+    "sent_idx": 8,
+    "text": "\"This makes international customers hesitant to negotiate long-term supply contracts for 2027,\" VCCI said.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_affe1e0958#9",
+    "doc_id": "vietnamnews_20261028_affe1e0958",
+    "sent_idx": 9,
+    "text": "The problem extends beyond direct exports, affecting domestic supply chains as well.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_affe1e0958#10",
+    "doc_id": "vietnamnews_20261028_affe1e0958",
+    "sent_idx": 10,
+    "text": "According to VCCI, under current tax and customs regulations, domestic firms selling aluminium to export-processing enterprises or businesses in non-tariff zones - including electronics and auto-parts manufacturing complexes operated by Samsung, LG and Foxconn - are treated as exporters and must pay a 1 per cent export duty.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_affe1e0958#11",
+    "doc_id": "vietnamnews_20261028_affe1e0958",
+    "sent_idx": 11,
+    "text": "Meanwhile, export-processing enterprises importing aluminium ingots and bars from China, South Korea and Malaysia into their processing zones may qualify for a zero import duty.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_affe1e0958#12",
+    "doc_id": "vietnamnews_20261028_affe1e0958",
+    "sent_idx": 12,
+    "text": "\"This creates an unfavourable disparity for domestic manufacturers, effectively encouraging export-processing enterprises to switch to imported aluminium rather than use domestic suppliers.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_affe1e0958#13",
+    "doc_id": "vietnamnews_20261028_affe1e0958",
+    "sent_idx": 13,
+    "text": "This weakens incentives to develop supporting-industry linkages and runs counter to the policy of achieving self-reliance in the materials industry set out in Conclusion 83-KL/TW,\" VCCI said.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_affe1e0958#14",
+    "doc_id": "vietnamnews_20261028_affe1e0958",
+    "sent_idx": 14,
+    "text": "Reducing the export duty to zero would ease pressure on domestic firms to sell their products and create a more level playing field with imported aluminium supplied to export-processing enterprises, VCCI said.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_affe1e0958#15",
+    "doc_id": "vietnamnews_20261028_affe1e0958",
+    "sent_idx": 15,
+    "text": "If factories operate at full capacity, the state budget could also benefit from more sustainable revenue from corporate and personal income taxes.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_affe1e0958#16",
+    "doc_id": "vietnamnews_20261028_affe1e0958",
+    "sent_idx": 16,
+    "text": "The tax disadvantage could affect not only the aluminium industry but also the ability of domestic materials suppliers to become more deeply integrated into supply chains serving electronics, auto-parts and export-oriented manufacturers.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_affe1e0958#17",
+    "doc_id": "vietnamnews_20261028_affe1e0958",
+    "sent_idx": 17,
+    "text": "VCCI said tax policies should therefore be assessed in terms of their effects on production, employment and domestic supply chain linkages.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_affe1e0958#18",
+    "doc_id": "vietnamnews_20261028_affe1e0958",
+    "sent_idx": 18,
+    "text": "Even a low tax rate c ould create a significant disadvantage if it makes locally sourced materials more expensive than imports.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_affe1e0958#19",
+    "doc_id": "vietnamnews_20261028_affe1e0958",
+    "sent_idx": 19,
+    "text": "Disadvantages in VAT have also emerged in transactions involving goods sold to foreign traders but delivered to bonded warehouses.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_affe1e0958#20",
+    "doc_id": "vietnamnews_20261028_affe1e0958",
+    "sent_idx": 20,
+    "text": "Phạm Văn Vĩnh, director of customs and international trade advisory services at PwC Vietnam, said customs regulations and domestic tax rules were not aligned in such cases.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_affe1e0958#21",
+    "doc_id": "vietnamnews_20261028_affe1e0958",
+    "sent_idx": 21,
+    "text": "The amended Customs Law issued in 2026 has introduced provisions allowing goods to be stored in bonded warehouses pending export or re-importation into Vietnam.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_affe1e0958#22",
+    "doc_id": "vietnamnews_20261028_affe1e0958",
+    "sent_idx": 22,
+    "text": "However, the amended VAT Law, which took effect on July 1, 2025, stipulates that goods sold into non-tariff zones must be consumed within those zones and serve export-oriented production activities to qualify for the zero-rated VAT treatment, subject to statutory conditions.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_affe1e0958#23",
+    "doc_id": "vietnamnews_20261028_affe1e0958",
+    "sent_idx": 23,
+    "text": "As a result, Vietnamese firms supplying goods to foreign traders but delivering them to bonded warehouses, or handling goods for transit, may not qualify for the zero VAT rate.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_affe1e0958#24",
+    "doc_id": "vietnamnews_20261028_affe1e0958",
+    "sent_idx": 24,
+    "text": "The issue creates significant difficulties and disadvantages for exporters, according to PwC.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_affe1e0958#25",
+    "doc_id": "vietnamnews_20261028_affe1e0958",
+    "sent_idx": 25,
+    "text": "The fact that goods are handled under customs procedures for pending export does not automatically mean the transaction qualifies for zero-rated VAT.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_affe1e0958#26",
+    "doc_id": "vietnamnews_20261028_affe1e0958",
+    "sent_idx": 26,
+    "text": "Differences between the two regulatory frameworks make it difficult for businesses to determine their tax obligations, even when the buyer is a foreign trader and delivery takes place at a bonded warehouse.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_affe1e0958#27",
+    "doc_id": "vietnamnews_20261028_affe1e0958",
+    "sent_idx": 27,
+    "text": "Regulators should review the rules to ensure consistency between domestic tax legislation and customs law, while clarifying how VAT should apply to goods sold to foreign traders but delivered to bonded warehouses.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_affe1e0958#28",
+    "doc_id": "vietnamnews_20261028_affe1e0958",
+    "sent_idx": 28,
+    "text": "Consistent regulations would help businesses calculate costs more accurately, limit risks and prevent delivery arrangements from putting export transactions at a disadvantage.",
+    "lang": "en",
+    "is_title": false
+  }
+]

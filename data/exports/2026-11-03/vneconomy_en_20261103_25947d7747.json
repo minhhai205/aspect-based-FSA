@@ -1,0 +1,122 @@
+[
+  {
+    "sent_id": "vneconomy_en_20261103_25947d7747#0",
+    "doc_id": "vneconomy_en_20261103_25947d7747",
+    "sent_idx": 0,
+    "text": "Vietnam's semiconductor chip testing and packaging plant enters trial operations",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_25947d7747#1",
+    "doc_id": "vneconomy_en_20261103_25947d7747",
+    "sent_idx": 1,
+    "text": "FPT Corporation announced on November 3 that its 1,600-square-meter facility located in Yen Phong II-C Industrial Park, northern Bac Ninh city, operates six production lines designed to meet high-volume testing demands for both domestic and international semiconductor firms.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_25947d7747#2",
+    "doc_id": "vneconomy_en_20261103_25947d7747",
+    "sent_idx": 2,
+    "text": "Equipped with six production lines, the plant operates under international quality standards, including ISO 9001 for quality management, ISO 14001 for environmental management, and ISO 45001 for occupational health and safety.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_25947d7747#3",
+    "doc_id": "vneconomy_en_20261103_25947d7747",
+    "sent_idx": 3,
+    "text": "Cleanroom environment measures adhere to ISO 14644 standards, alongside electrostatic discharge controls and specialized product reliability testing procedures.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_25947d7747#4",
+    "doc_id": "vneconomy_en_20261103_25947d7747",
+    "sent_idx": 4,
+    "text": "The facility aims to strengthen Vietnam ' s chip testing capabilities, promote seamless integration across the semiconductor value chain, and support national directives to master core technologies under Resolution No. 57-NQ/TW, Decision No. 1131/QD-TTg, and Decision No. 1018/QD-TTg.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_25947d7747#5",
+    "doc_id": "vneconomy_en_20261103_25947d7747",
+    "sent_idx": 5,
+    "text": "According to FPT, the plant utilizes Automated Test Equipment (ATE) Testers combined with Handler devices for chip testing and classification.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_25947d7747#6",
+    "doc_id": "vneconomy_en_20261103_25947d7747",
+    "sent_idx": 6,
+    "text": "ATE Testers evaluate functional performance, while Handler devices position chips and sort them based on pass or fail outcomes.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_25947d7747#7",
+    "doc_id": "vneconomy_en_20261103_25947d7747",
+    "sent_idx": 7,
+    "text": "The testing area is situated within a Class 10,000 (ISO Class 7) cleanroom to control airborne dust and environmental variables.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_25947d7747#8",
+    "doc_id": "vneconomy_en_20261103_25947d7747",
+    "sent_idx": 8,
+    "text": "FPT's engineering team designs customized testing programs tailored to specific chip parameters and technical requirements.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_25947d7747#9",
+    "doc_id": "vneconomy_en_20261103_25947d7747",
+    "sent_idx": 9,
+    "text": "The company is also developing an AI-driven platform to automate testing program development, spanning data standardization, technical specifications, configuration design, and performance evaluation.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_25947d7747#10",
+    "doc_id": "vneconomy_en_20261103_25947d7747",
+    "sent_idx": 10,
+    "text": "Beyond functional testing, the facility assesses product durability and reliability through high-temperature stress tests, thermal cycling, and temperature-humidity exposure assessments.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_25947d7747#11",
+    "doc_id": "vneconomy_en_20261103_25947d7747",
+    "sent_idx": 11,
+    "text": "Static electricity controls are implemented to protect components during handling.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_25947d7747#12",
+    "doc_id": "vneconomy_en_20261103_25947d7747",
+    "sent_idx": 12,
+    "text": "During its initial operational phase, the plant focuses on verifying functional performance, quality, and reliability for domestic and international semiconductor firms.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_25947d7747#13",
+    "doc_id": "vneconomy_en_20261103_25947d7747",
+    "sent_idx": 13,
+    "text": "In the upcoming period, the reliability testing division will expand to meet international laboratory and calibration standards.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_25947d7747#14",
+    "doc_id": "vneconomy_en_20261103_25947d7747",
+    "sent_idx": 14,
+    "text": "FPT plans to execute its first chip testing order for a South Korean partner, marking the commencement of its commercial chip testing services.",
+    "lang": "en",
+    "is_title": false
+  }
+]

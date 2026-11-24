@@ -1,0 +1,130 @@
+[
+  {
+    "sent_id": "sggp_en_20261120_38ba554311#0",
+    "doc_id": "sggp_en_20261120_38ba554311",
+    "sent_idx": 0,
+    "text": "Ho Chi Minh City steps up crackdown on IUU fishing",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "sggp_en_20261120_38ba554311#1",
+    "doc_id": "sggp_en_20261120_38ba554311",
+    "sent_idx": 1,
+    "text": "Ho Chi Minh City is stepping up efforts to combat illegal, unreported, and unregulated (IUU) fishing, tightening vessel monitoring, licensing, and enforcement as part of its efforts to address violations and meet international requirements.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "sggp_en_20261120_38ba554311#2",
+    "doc_id": "sggp_en_20261120_38ba554311",
+    "sent_idx": 2,
+    "text": "At a meeting of the city's IUU fishing prevention and control steering committee on November 20, chaired by Vice Chairman of the municipal People's Committee Bui Minh Thanh, Ms. Pham Thi Na, Deputy Director of the Department of Agriculture and Environment, reported that the city had 4,402 registered fishing vessels as of November 18, down 13 from October 30.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "sggp_en_20261120_38ba554311#3",
+    "doc_id": "sggp_en_20261120_38ba554311",
+    "sent_idx": 3,
+    "text": "The decline resulted from the deregistration of 13 vessels: four sold to other provinces, five sunk or destroyed by fire, three dismantled, and one withdrawn from fishing operations.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "sggp_en_20261120_38ba554311#4",
+    "doc_id": "sggp_en_20261120_38ba554311",
+    "sent_idx": 4,
+    "text": "Under municipal directives, the Sub-Department of Fisheries and Fisheries Surveillance, local authorities, fishing port management boards, and border guard forces have been working to help fishermen install and use electronic fishing logbooks and the electronic Catch Documentation and Traceability (eCDT) system.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "sggp_en_20261120_38ba554311#5",
+    "doc_id": "sggp_en_20261120_38ba554311",
+    "sent_idx": 5,
+    "text": "As of November 18, eCDT had been installed on 4,389 of the city's 4,402 fishing vessels, representing 99.70 percent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "sggp_en_20261120_38ba554311#6",
+    "doc_id": "sggp_en_20261120_38ba554311",
+    "sent_idx": 6,
+    "text": "The remaining 13 vessels had yet to complete installation because of pending ownership transfers, registration number changes, or licensing procedures.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "sggp_en_20261120_38ba554311#7",
+    "doc_id": "sggp_en_20261120_38ba554311",
+    "sent_idx": 7,
+    "text": "From the beginning of 2026 through November 18, authorities recorded 269 cases of fishing vessels losing connection with their vessel monitoring systems (VMS) while at sea, including vessels crossing permitted fishing boundaries.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "sggp_en_20261120_38ba554311#8",
+    "doc_id": "sggp_en_20261120_38ba554311",
+    "sent_idx": 8,
+    "text": "Of 137 vessels that lost VMS connectivity for more than six hours but less than 10 days while at sea, 18 were fined a combined VND1.113 billion (US$44,500), 110 cases were closed after no violations were found, and nine remain under investigation.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "sggp_en_20261120_38ba554311#9",
+    "doc_id": "sggp_en_20261120_38ba554311",
+    "sent_idx": 9,
+    "text": "Among 26 vessels that lost connectivity for more than 10 days at sea, one was fined VND200 million.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "sggp_en_20261120_38ba554311#10",
+    "doc_id": "sggp_en_20261120_38ba554311",
+    "sent_idx": 10,
+    "text": "Of 101 vessels that lost connectivity while in port or near shore, 17 were fined a total of VND39 million.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "sggp_en_20261120_38ba554311#11",
+    "doc_id": "sggp_en_20261120_38ba554311",
+    "sent_idx": 11,
+    "text": "The Department of Agriculture and Environment will maintain round-the-clock VMS monitoring to issue timely warnings, investigate connection failures and impose strict penalties for violations.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "sggp_en_20261120_38ba554311#12",
+    "doc_id": "sggp_en_20261120_38ba554311",
+    "sent_idx": 12,
+    "text": "Addressing the meeting, Mr. Bui Minh Thanh called on the department to accelerate implementation of the city's plan to address shortcomings in IUU fishing prevention and control.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "sggp_en_20261120_38ba554311#13",
+    "doc_id": "sggp_en_20261120_38ba554311",
+    "sent_idx": 13,
+    "text": "He also directed authorities to review fishing licenses and ensure vessel information is accurately and fully updated in the national fisheries database, VNFishbase.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "sggp_en_20261120_38ba554311#14",
+    "doc_id": "sggp_en_20261120_38ba554311",
+    "sent_idx": 14,
+    "text": "He urged the municipal police to strengthen intelligence gathering, investigate suspected IUU fishing activities and strictly prosecute offenders.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "sggp_en_20261120_38ba554311#15",
+    "doc_id": "sggp_en_20261120_38ba554311",
+    "sent_idx": 15,
+    "text": "Meanwhile, coastal communes, wards and special administrative zones were instructed to tighten controls at fish landing sites, step up legal education and encourage fishermen to comply with regulations on combating IUU fishing.",
+    "lang": "en",
+    "is_title": false
+  }
+]

@@ -1,0 +1,338 @@
+[
+  {
+    "sent_id": "vneconomy_en_20261105_bb8a6713c1#0",
+    "doc_id": "vneconomy_en_20261105_bb8a6713c1",
+    "sent_idx": 0,
+    "text": "Quantropi CEO James Nguyen: AI and Quantum Computing Convergence Poses Massive Cybersecurity Challenge",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_bb8a6713c1#1",
+    "doc_id": "vneconomy_en_20261105_bb8a6713c1",
+    "sent_idx": 1,
+    "text": "Speaking at the Senior Executive Roundtable titled \"Post-Quantum Security: Data Governance Challenges & Implementation Roadmap for Enterprises and Organizations in Vietnam\", co-hosted on October 3 by Vietnam Economic Times (VnEconomy) in collaboration with Canadian tech firm Quantropi and VNet, Mr. James Nguyen, CEO and Co-founder of Quantropi, stated that the simultaneous rise of artificial intelligence (AI) and quantum computing is shifting fundamental assumptions about cryptographic security.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_bb8a6713c1#2",
+    "doc_id": "vneconomy_en_20261105_bb8a6713c1",
+    "sent_idx": 2,
+    "text": "\"Widely used encryption methods today are at risk of no longer providing adequate data protection against unprecedented processing power\", he said.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_bb8a6713c1#3",
+    "doc_id": "vneconomy_en_20261105_bb8a6713c1",
+    "sent_idx": 3,
+    "text": "According to Mr. James Nguyen, warnings regarding quantum computers breaking conventional encryption algorithms like RSA are becoming increasingly distinct.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_bb8a6713c1#4",
+    "doc_id": "vneconomy_en_20261105_bb8a6713c1",
+    "sent_idx": 4,
+    "text": "Today, several technology firms and research institutions have issued timelines earlier than previously anticipated regarding the \"potential emergence of quantum computers capable of compromising existing cryptographic systems.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_bb8a6713c1#5",
+    "doc_id": "vneconomy_en_20261105_bb8a6713c1",
+    "sent_idx": 5,
+    "text": "\"The convergence of AI and quantum computing poses a massive cybersecurity challenge.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_bb8a6713c1#6",
+    "doc_id": "vneconomy_en_20261105_bb8a6713c1",
+    "sent_idx": 6,
+    "text": "AI enables attackers to drastically accelerate the discovery and exploitation of system vulnerabilities, while future large-scale quantum computers will be capable of breaking currently deployed public-key algorithms,\" Mr. Nguyen added.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_bb8a6713c1#7",
+    "doc_id": "vneconomy_en_20261105_bb8a6713c1",
+    "sent_idx": 7,
+    "text": "IonQ, a quantum computing hardware and software company, projected a scenario where a quantum computer capable of breaking RSA, the public-key algorithm widely used to secure data and digital signatures could emerge as early as 2028.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_bb8a6713c1#8",
+    "doc_id": "vneconomy_en_20261105_bb8a6713c1",
+    "sent_idx": 8,
+    "text": "Meanwhile, Microsoft, Google, and research firm Gartner have issued alerts emphasizing the urgent need to transition and strengthen cryptographic resilience before 2029.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_bb8a6713c1#9",
+    "doc_id": "vneconomy_en_20261105_bb8a6713c1",
+    "sent_idx": 9,
+    "text": "One of the most critical threats highlighted by Mr. Nguyen is the \"Harvest Now, Decrypt Later\" strategy.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_bb8a6713c1#10",
+    "doc_id": "vneconomy_en_20261105_bb8a6713c1",
+    "sent_idx": 10,
+    "text": "Under this tactic, threat actors silently intercept and store encrypted data today, waiting for quantum computers to grow powerful enough to crack public-key algorithms, or for AI to assist in efficiently exploiting structural, implementation, and key-management flaws.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_bb8a6713c1#11",
+    "doc_id": "vneconomy_en_20261105_bb8a6713c1",
+    "sent_idx": 11,
+    "text": "This implies that sensitive information protected by today's standard algorithms remains exposed to future compromise, even if attackers cannot read the data at the moment of interception.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_bb8a6713c1#12",
+    "doc_id": "vneconomy_en_20261105_bb8a6713c1",
+    "sent_idx": 12,
+    "text": "To address this, Mr. Nguyen urged organizations to clearly map out their data security lifecycles, the duration for which specific information must remain confidential to select appropriate countermeasures.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_bb8a6713c1#13",
+    "doc_id": "vneconomy_en_20261105_bb8a6713c1",
+    "sent_idx": 13,
+    "text": "For data requiring protection for a decade or longer, postponing defense measures until quantum computers become fully operational will be far too late.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_bb8a6713c1#14",
+    "doc_id": "vneconomy_en_20261105_bb8a6713c1",
+    "sent_idx": 14,
+    "text": "\"Just one or two years ago, the consensus was that quantum threats wouldn't require action until after 2030.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_bb8a6713c1#15",
+    "doc_id": "vneconomy_en_20261105_bb8a6713c1",
+    "sent_idx": 15,
+    "text": "Today, time is running out much faster than we anticipated,\" said Mr. Nguyen.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_bb8a6713c1#16",
+    "doc_id": "vneconomy_en_20261105_bb8a6713c1",
+    "sent_idx": 16,
+    "text": "Post-Quantum Cryptography (PQC) represents a vital transition, replacing vulnerable encryption algorithms with mathematical problems designed to resist quantum attacks.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_bb8a6713c1#17",
+    "doc_id": "vneconomy_en_20261105_bb8a6713c1",
+    "sent_idx": 17,
+    "text": "However, according to Mr. Nguyen, migrating to PQC alone does not mean an organization has eliminated all security exposure.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_bb8a6713c1#18",
+    "doc_id": "vneconomy_en_20261105_bb8a6713c1",
+    "sent_idx": 18,
+    "text": "\"PQC is a necessary upgrade, but organizations must still prepare for new risk vectors.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_bb8a6713c1#19",
+    "doc_id": "vneconomy_en_20261105_bb8a6713c1",
+    "sent_idx": 19,
+    "text": "Without proactive preparation and early deployment of security measures, our window of response will rapidly close.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_bb8a6713c1#20",
+    "doc_id": "vneconomy_en_20261105_bb8a6713c1",
+    "sent_idx": 20,
+    "text": "According to the Quantropi representative, complex cryptographic problems that previously took top researchers years to evaluate can now be analyzed by AI in a fraction of the time.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_bb8a6713c1#21",
+    "doc_id": "vneconomy_en_20261105_bb8a6713c1",
+    "sent_idx": 21,
+    "text": "Illustrating this acceleration, Mr. Nguyen noted that AI is significantly speeding up discoveries in mathematics.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_bb8a6713c1#22",
+    "doc_id": "vneconomy_en_20261105_bb8a6713c1",
+    "sent_idx": 22,
+    "text": "OpenAI's publication of 722 research papers in a single month serves as a clear indication of an irreversible trend.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_bb8a6713c1#23",
+    "doc_id": "vneconomy_en_20261105_bb8a6713c1",
+    "sent_idx": 23,
+    "text": "For critical infrastructure operators, this accelerated pace of innovation means the lifespan of traditional security standards is shrinking rapidly.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_bb8a6713c1#24",
+    "doc_id": "vneconomy_en_20261105_bb8a6713c1",
+    "sent_idx": 24,
+    "text": "\"In an era where the next technological breakthrough cannot be predicted, proactive risk management is imperative.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_bb8a6713c1#25",
+    "doc_id": "vneconomy_en_20261105_bb8a6713c1",
+    "sent_idx": 25,
+    "text": "The key lies in a defense-in-depth strategy: aggressively deploying Post-Quantum Cryptography while ensuring security architectures do not rely on a single mathematical assumption,\" Mr. Nguyen shared.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_bb8a6713c1#26",
+    "doc_id": "vneconomy_en_20261105_bb8a6713c1",
+    "sent_idx": 26,
+    "text": "Detailing Quantropi's technology, Mr. Nguyen explained that Quantropi QSKD (Quantum Secure Key Distribution), also known as Digital QKD, is a software-based cybersecurity solution designed to securely distribute cryptographic keys over existing internet and telecom infrastructure.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_bb8a6713c1#27",
+    "doc_id": "vneconomy_en_20261105_bb8a6713c1",
+    "sent_idx": 27,
+    "text": "It protects data networks from immediate threats like \"Harvest Now, Decrypt Later\" attacks and future risks posed by quantum computers.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_bb8a6713c1#28",
+    "doc_id": "vneconomy_en_20261105_bb8a6713c1",
+    "sent_idx": 28,
+    "text": "Unlike traditional Optical QKD, which requires expensive dedicated fiber-optic lines and specialized quantum hardware, Quantropi's QSKD is entirely software-defined.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_bb8a6713c1#29",
+    "doc_id": "vneconomy_en_20261105_bb8a6713c1",
+    "sent_idx": 29,
+    "text": "It runs on top of standard, existing IP networks (cloud, hybrid, satellite, and RF).",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_bb8a6713c1#30",
+    "doc_id": "vneconomy_en_20261105_bb8a6713c1",
+    "sent_idx": 30,
+    "text": "Traditional key exchanges negotiate keys \"in-band\" along the same path as the data, making them vulnerable to interception.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_bb8a6713c1#31",
+    "doc_id": "vneconomy_en_20261105_bb8a6713c1",
+    "sent_idx": 31,
+    "text": "Quantropi's QSKD sends quantum-grade entropy out-of-band.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_bb8a6713c1#32",
+    "doc_id": "vneconomy_en_20261105_bb8a6713c1",
+    "sent_idx": 32,
+    "text": "Endpoints synchronize this entropy and generate identical keys independently without ever passing the actual cryptographic material through the data path.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_bb8a6713c1#33",
+    "doc_id": "vneconomy_en_20261105_bb8a6713c1",
+    "sent_idx": 33,
+    "text": "According to Quantropi, because it bypasses the physical limitations of sending individual photons through glass, Quantropi's digital approach operates over unlimited distances at network speeds, outperforming optical QKD by up to 250x in benchmarks.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_bb8a6713c1#34",
+    "doc_id": "vneconomy_en_20261105_bb8a6713c1",
+    "sent_idx": 34,
+    "text": "The solution supports the ETSI GS QKD 014 protocol standard, allowing it to seamlessly interoperate with enterprise routing and security ecosystems from vendors like Cisco, Palo Alto Networks, Juniper, and Fortinet.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_bb8a6713c1#35",
+    "doc_id": "vneconomy_en_20261105_bb8a6713c1",
+    "sent_idx": 35,
+    "text": "In June of 2026, the company announced the availability of an integrated solution with Nokia that delivers quantum-safe key distribution at scale.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_bb8a6713c1#36",
+    "doc_id": "vneconomy_en_20261105_bb8a6713c1",
+    "sent_idx": 36,
+    "text": "The offering combines Quantropi's Digital Quantum Key Distribution technology with Nokia's Security Management Server (SMS), providing quantum‑resilient out‑of‑band key distribution for critical networks.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_bb8a6713c1#37",
+    "doc_id": "vneconomy_en_20261105_bb8a6713c1",
+    "sent_idx": 37,
+    "text": "The combined solution has already been successfully deployed within Kirq, Numana's quantum communication testbed, a neutral and open innovation platform for advanced telecom and quantum communication technologies funded by the governments of Canada and Quebec, demonstrating real‑world performance, interoperability, and readiness for large‑scale adoption.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_bb8a6713c1#38",
+    "doc_id": "vneconomy_en_20261105_bb8a6713c1",
+    "sent_idx": 38,
+    "text": "As Vietnamese enterprises accelerate digital transformation and roll out digital services, data protection and system resiliency must be prioritized alongside tech expansion.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_bb8a6713c1#39",
+    "doc_id": "vneconomy_en_20261105_bb8a6713c1",
+    "sent_idx": 39,
+    "text": "As interconnected systems handle growing volumes of data, organizations require robust data governance, security, and resilience frameworks aligned with long-term operational needs.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_bb8a6713c1#40",
+    "doc_id": "vneconomy_en_20261105_bb8a6713c1",
+    "sent_idx": 40,
+    "text": "\"Organizations should not wait until quantum computers actively breach today's algorithms before taking action,\" Mr. Nguyen emphasized.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_bb8a6713c1#41",
+    "doc_id": "vneconomy_en_20261105_bb8a6713c1",
+    "sent_idx": 41,
+    "text": "\"Auditing data assets, determining required protection lifespans, and establishing a structured post-quantum migration roadmap must begin now.\"",
+    "lang": "en",
+    "is_title": false
+  }
+]

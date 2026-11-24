@@ -1,0 +1,58 @@
+[
+  {
+    "sent_id": "vietnamnews_20261105_21e5c69e7b#0",
+    "doc_id": "vietnamnews_20261105_21e5c69e7b",
+    "sent_idx": 0,
+    "text": "US dollar hits 18-month low at Vietnamese banks",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261105_21e5c69e7b#1",
+    "doc_id": "vietnamnews_20261105_21e5c69e7b",
+    "sent_idx": 1,
+    "text": "HÀ NỘI - The State Bank of Vietnam (SBV) set the daily reference exchange rate at VNĐ25,623 buying a US dollar on November 5, down VNĐ4 from the previous session.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261105_21e5c69e7b#2",
+    "doc_id": "vietnamnews_20261105_21e5c69e7b",
+    "sent_idx": 2,
+    "text": "With the current trading band of ±5 per cent, the ceiling rate applicable to commercial banks stood at VNĐ26,904 buying a US dollar, while the floor rate was VNĐ24,342.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261105_21e5c69e7b#3",
+    "doc_id": "vietnamnews_20261105_21e5c69e7b",
+    "sent_idx": 3,
+    "text": "Notably, the US dollar has fallen to its lowest level at Vietnamese banks in 18 months.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261105_21e5c69e7b#4",
+    "doc_id": "vietnamnews_20261105_21e5c69e7b",
+    "sent_idx": 4,
+    "text": "The opening-hour exchange rates at major commercial banks saw decreases.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261105_21e5c69e7b#5",
+    "doc_id": "vietnamnews_20261105_21e5c69e7b",
+    "sent_idx": 5,
+    "text": "At 8:15 am, Vietcombank listed buying and selling rates at 25,510 VNĐD/USD and 25,890 VNĐ/USD, both down VNĐ70 from the November 4 morning session.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261105_21e5c69e7b#6",
+    "doc_id": "vietnamnews_20261105_21e5c69e7b",
+    "sent_idx": 6,
+    "text": "Similarly, BIDV also cut its respective rates by VNĐ65 to 25,510 VNĐ/USD and 25,890 VNĐ/USD. - VNA/VNS",
+    "lang": "en",
+    "is_title": false
+  }
+]

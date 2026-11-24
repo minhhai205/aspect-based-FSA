@@ -1,0 +1,778 @@
+[
+  {
+    "sent_id": "vneconomy_en_20261110_6505c5a2c9#0",
+    "doc_id": "vneconomy_en_20261110_6505c5a2c9",
+    "sent_idx": 0,
+    "text": "Tangible contributions from oil and gas industry",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_6505c5a2c9#1",
+    "doc_id": "vneconomy_en_20261110_6505c5a2c9",
+    "sent_idx": 1,
+    "text": "Vietnam is entering a new development cycle, with ambitions to sustain high economic growth driving ever-increasing demand for primary energy.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_6505c5a2c9#2",
+    "doc_id": "vneconomy_en_20261110_6505c5a2c9",
+    "sent_idx": 2,
+    "text": "At the \"Development of Vietnam's Oil and Gas Industry: Ensuring Sustainable Growth\" seminar, hosted by Tap chi Kinh te Viet Nam / Vietnam Economic Times / VnEconomy on October 29 in Hanoi, participants noted that energy in general and the oil and gas industry in particular serve as the lifeblood of the national economy, providing a solid foundation for energy security and macro-economic stability.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_6505c5a2c9#3",
+    "doc_id": "vneconomy_en_20261110_6505c5a2c9",
+    "sent_idx": 3,
+    "text": "Vietnam's oil and gas industry, however, faces unprecedented challenges as many of its key fields have entered natural production decline after decades of exploitation.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_6505c5a2c9#4",
+    "doc_id": "vneconomy_en_20261110_6505c5a2c9",
+    "sent_idx": 4,
+    "text": "Unpredictable global geopolitical developments, coupled with pressure to meet the international commitment to achieve net-zero emissions by 2050, have made it increasingly urgent to balance immediate supply security with long-term sustainable development.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_6505c5a2c9#5",
+    "doc_id": "vneconomy_en_20261110_6505c5a2c9",
+    "sent_idx": 5,
+    "text": "To address these challenges, the oil and gas industry must restructure and improve the quality of development across the entire value chain.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_6505c5a2c9#6",
+    "doc_id": "vneconomy_en_20261110_6505c5a2c9",
+    "sent_idx": 6,
+    "text": "Upstream priorities include increasing reserves through intensified exploration in deepwater and offshore areas and optimizing production from small and marginal fields.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_6505c5a2c9#7",
+    "doc_id": "vneconomy_en_20261110_6505c5a2c9",
+    "sent_idx": 7,
+    "text": "In the midstream and downstream segments, the focus is on accelerating major gas project chains, developing integrated liquefied natural gas (LNG) infrastructure, and upgrading deep processing and refining and petrochemical capabilities to produce higher value-added products.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_6505c5a2c9#8",
+    "doc_id": "vneconomy_en_20261110_6505c5a2c9",
+    "sent_idx": 8,
+    "text": "On August 23, the National Assembly officially passed the Law on Petroleum 2026, which will take effect on March 1, 2027.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_6505c5a2c9#9",
+    "doc_id": "vneconomy_en_20261110_6505c5a2c9",
+    "sent_idx": 9,
+    "text": "This landmark legislation establishes a more streamlined and modern legal framework, removes long-standing bottlenecks, introduces competitive investment incentives and internationally-aligned risk-sharing mechanisms, and expands the delegation of authority to enterprises.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_6505c5a2c9#10",
+    "doc_id": "vneconomy_en_20261110_6505c5a2c9",
+    "sent_idx": 10,
+    "text": "It also introduces several key reforms, including greater decentralization, with the Prime Minister retaining decision-making authority over matters related to national defense and security, while other matters fall under the relevant ministry, with certain powers delegated to the Vietnam National Industry - Energy Group (Petrovietnam).",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_6505c5a2c9#11",
+    "doc_id": "vneconomy_en_20261110_6505c5a2c9",
+    "sent_idx": 11,
+    "text": "The Law also establishes streamlined procedures, reduces unnecessary approval requirements and processing times, introduces differentiated investment incentives tailored to individual fields, promotes the development of oil and gas technical services, and integrates carbon capture and storage and offshore energy activities associated with petroleum blocks.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_6505c5a2c9#12",
+    "doc_id": "vneconomy_en_20261110_6505c5a2c9",
+    "sent_idx": 12,
+    "text": "Dr. Dang Thi Thu Hoai, Head of the Sectoral and Local Economic Affairs Division at the Institute for Policy and Strategy Studies under the Central Commission for Policy and Strategy, emphasized the strategic importance of oil and gas and energy in national development.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_6505c5a2c9#13",
+    "doc_id": "vneconomy_en_20261110_6505c5a2c9",
+    "sent_idx": 13,
+    "text": "As countries intensify competition in digital technology, AI, and industrial innovation, the ability to secure and control energy resources has become a key measure of national sovereignty and strategic autonomy.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_6505c5a2c9#14",
+    "doc_id": "vneconomy_en_20261110_6505c5a2c9",
+    "sent_idx": 14,
+    "text": "For Vietnam, achieving high economic growth requires energy supplies to be developed ahead of demand.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_6505c5a2c9#15",
+    "doc_id": "vneconomy_en_20261110_6505c5a2c9",
+    "sent_idx": 15,
+    "text": "Despite its significant achievements in recent years, the industry must undergo deeper transformation.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_6505c5a2c9#16",
+    "doc_id": "vneconomy_en_20261110_6505c5a2c9",
+    "sent_idx": 16,
+    "text": "Macro-economic policy frameworks need further refinement to help energy groups transition from traditional business models to integrated operations, adopt advanced technologies, develop the carbon credit market, and establish energy pricing mechanisms that respond flexibly to market conditions.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_6505c5a2c9#17",
+    "doc_id": "vneconomy_en_20261110_6505c5a2c9",
+    "sent_idx": 17,
+    "text": "To fulfill its mission in this new phase of development, the Vietnam National Oil and Gas Group has transformed its strategic model into the Vietnam National Industry - Energy Group (Petrovietnam), built around three pillars: energy, industry, and high-quality technical services.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_6505c5a2c9#18",
+    "doc_id": "vneconomy_en_20261110_6505c5a2c9",
+    "sent_idx": 18,
+    "text": "Its development strategy focuses on sustaining and improving the efficiency of core operations by optimizing domestic exploration and production, applying new technologies to enhance recovery rates at declining and marginal fields, and expanding international exploration partnerships.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_6505c5a2c9#19",
+    "doc_id": "vneconomy_en_20261110_6505c5a2c9",
+    "sent_idx": 19,
+    "text": "At the same time, Petrovietnam is expanding its integrated value chain, developing coordinated gas-to-power projects, strengthening deep processing and refining and petrochemical capabilities, and establishing major energy industrial hubs to enable shared infrastructure.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_6505c5a2c9#20",
+    "doc_id": "vneconomy_en_20261110_6505c5a2c9",
+    "sent_idx": 20,
+    "text": "It is also selectively developing new energy sources, including offshore wind power, green hydrogen, green ammonia, and sustainable aviation fuel, while placing science, technology, and innovation at the center of its development strategy.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_6505c5a2c9#21",
+    "doc_id": "vneconomy_en_20261110_6505c5a2c9",
+    "sent_idx": 21,
+    "text": "For Vietnam, energy diplomacy and economic diplomacy play a pioneering role in opening new opportunities and strengthening strategic partnerships with major technology and energy powers.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_6505c5a2c9#22",
+    "doc_id": "vneconomy_en_20261110_6505c5a2c9",
+    "sent_idx": 22,
+    "text": "Diplomatic networks can help national enterprises access capital and advanced technologies while expanding export markets for offshore engineering services.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_6505c5a2c9#23",
+    "doc_id": "vneconomy_en_20261110_6505c5a2c9",
+    "sent_idx": 23,
+    "text": "Meanwhile, establishing strategic national petroleum reserves in line with government directives is a key priority for strengthening energy autonomy amid increasingly complex global geopolitical developments.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_6505c5a2c9#24",
+    "doc_id": "vneconomy_en_20261110_6505c5a2c9",
+    "sent_idx": 24,
+    "text": "To address practical bottlenecks, experts emphasized the importance of completing the regulatory framework underpinning the Law on Petroleum, particularly its implementing decrees, while accelerating the development of electricity pricing mechanisms and arrangements to ensure investors can recover their capital.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_6505c5a2c9#25",
+    "doc_id": "vneconomy_en_20261110_6505c5a2c9",
+    "sent_idx": 25,
+    "text": "Technical assessments also indicate that Vietnam has substantial CO2 storage potential in its sedimentary basins, creating opportunities to commercialize carbon credits and develop carbon capture and storage projects linked to depleted oil and gas fields.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_6505c5a2c9#26",
+    "doc_id": "vneconomy_en_20261110_6505c5a2c9",
+    "sent_idx": 26,
+    "text": "Realizing this potential, however, will require financial incentives and a clear legal framework governing long-term liability for carbon storage projects.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_6505c5a2c9#27",
+    "doc_id": "vneconomy_en_20261110_6505c5a2c9",
+    "sent_idx": 27,
+    "text": "The transition to clean energy and sustainable development presents significant challenges but also opens up new growth opportunities for Vietnam's oil and gas industry.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_6505c5a2c9#28",
+    "doc_id": "vneconomy_en_20261110_6505c5a2c9",
+    "sent_idx": 28,
+    "text": "With coordinated support from government authorities, decisive action by industry enterprises, and effective economic diplomacy, the industry can continue to serve as a beacon guiding the country toward a prosperous future.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_6505c5a2c9#29",
+    "doc_id": "vneconomy_en_20261110_6505c5a2c9",
+    "sent_idx": 29,
+    "text": "V ietnam's oil and gas industry faces unprecedented challenges as many key fields enter natural production decline after decades of exploitation.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_6505c5a2c9#30",
+    "doc_id": "vneconomy_en_20261110_6505c5a2c9",
+    "sent_idx": 30,
+    "text": "Unpredictable geopolitical developments and mounting pressure to meet the international commitment to achieve net-zero emissions by 2050 further complicate the task of balancing immediate supply security with long-term sustainable development.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_6505c5a2c9#31",
+    "doc_id": "vneconomy_en_20261110_6505c5a2c9",
+    "sent_idx": 31,
+    "text": "To address these challenges, the industry must restructure and improve the quality of development across the entire value chain.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_6505c5a2c9#32",
+    "doc_id": "vneconomy_en_20261110_6505c5a2c9",
+    "sent_idx": 32,
+    "text": "Upstream priorities include increasing reserves through intensified exploration in deepwater and offshore areas and optimizing production from small and marginal fields.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_6505c5a2c9#33",
+    "doc_id": "vneconomy_en_20261110_6505c5a2c9",
+    "sent_idx": 33,
+    "text": "In the midstream and downstream segments, the focus is on accelerating major gas project chains, developing integrated liquefied natural gas (LNG) infrastructure, and upgrading deep processing, refining, and petrochemical capabilities to produce higher value-added products.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_6505c5a2c9#34",
+    "doc_id": "vneconomy_en_20261110_6505c5a2c9",
+    "sent_idx": 34,
+    "text": "Meanwhile, technical services providers must leverage their offshore engineering capabilities to maintain their domestic market share and expand confidently into international markets.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_6505c5a2c9#35",
+    "doc_id": "vneconomy_en_20261110_6505c5a2c9",
+    "sent_idx": 35,
+    "text": "A major driver of these efforts is a breakthrough in the institutional framework.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_6505c5a2c9#36",
+    "doc_id": "vneconomy_en_20261110_6505c5a2c9",
+    "sent_idx": 36,
+    "text": "On August 23, 2026, the National Assembly passed the Law on Petroleum 2026, which will take effect on March 1, 2027.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_6505c5a2c9#37",
+    "doc_id": "vneconomy_en_20261110_6505c5a2c9",
+    "sent_idx": 37,
+    "text": "This landmark legislation establishes a more streamlined and modern legal framework, removes long-standing bottlenecks, introduces competitive investment incentives and internationally-aligned risk-sharing mechanisms, and expands the delegation of authority to enterprises.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_6505c5a2c9#38",
+    "doc_id": "vneconomy_en_20261110_6505c5a2c9",
+    "sent_idx": 38,
+    "text": "Alongside institutional reform, the energy transition and green growth are becoming essential priorities.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_6505c5a2c9#39",
+    "doc_id": "vneconomy_en_20261110_6505c5a2c9",
+    "sent_idx": 39,
+    "text": "The oil and gas industry is not standing aside; it is taking a leading role.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_6505c5a2c9#40",
+    "doc_id": "vneconomy_en_20261110_6505c5a2c9",
+    "sent_idx": 40,
+    "text": "Drawing on its experience and offshore infrastructure, the industry is well positioned to develop offshore wind power, explore green hydrogen and green ammonia, and deploy carbon capture and storage technologies and methane emissions reduction measures, making a tangible contribution to Vietnam's national net-zero target.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_6505c5a2c9#41",
+    "doc_id": "vneconomy_en_20261110_6505c5a2c9",
+    "sent_idx": 41,
+    "text": "B ased on my experience, I believe oil and gas industry development must go hand-in-hand with strengthening the capabilities of domestic enterprises.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_6505c5a2c9#42",
+    "doc_id": "vneconomy_en_20261110_6505c5a2c9",
+    "sent_idx": 42,
+    "text": "In 2008, when I was General Director of the PetroVietnam Technical Services Corporation (PTSC), we studied the Venezuelan market.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_6505c5a2c9#43",
+    "doc_id": "vneconomy_en_20261110_6505c5a2c9",
+    "sent_idx": 43,
+    "text": "However, because local partners were required to hold a controlling stake, we concluded that Vietnamese enterprises would have limited autonomy in conducting business and decided not to participate.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_6505c5a2c9#44",
+    "doc_id": "vneconomy_en_20261110_6505c5a2c9",
+    "sent_idx": 44,
+    "text": "When PTSC was established, most oil and gas technical services were provided by foreign companies.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_6505c5a2c9#45",
+    "doc_id": "vneconomy_en_20261110_6505c5a2c9",
+    "sent_idx": 45,
+    "text": "Through cooperation, training, and technology transfer, we gradually mastered the entire process, from engineering and fabrication to transportation, installation, hook-up, and commissioning.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_6505c5a2c9#46",
+    "doc_id": "vneconomy_en_20261110_6505c5a2c9",
+    "sent_idx": 46,
+    "text": "Today, many domestic enterprises are capable of participating in the supply chain.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_6505c5a2c9#47",
+    "doc_id": "vneconomy_en_20261110_6505c5a2c9",
+    "sent_idx": 47,
+    "text": "To fully leverage these capabilities, the institutional framework must be clear, pricing mechanisms appropriate, and policies stable over the long term.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_6505c5a2c9#48",
+    "doc_id": "vneconomy_en_20261110_6505c5a2c9",
+    "sent_idx": 48,
+    "text": "Lengthy approval procedures increase investment costs and undermine project efficiency.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_6505c5a2c9#49",
+    "doc_id": "vneconomy_en_20261110_6505c5a2c9",
+    "sent_idx": 49,
+    "text": "I believe a list of work packages for major projects and nationally important infrastructure projects should be made public to give domestic enterprises opportunities to participate.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_6505c5a2c9#50",
+    "doc_id": "vneconomy_en_20261110_6505c5a2c9",
+    "sent_idx": 50,
+    "text": "Only packages that local companies lack the capacity to deliver should be opened to international contractors.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_6505c5a2c9#51",
+    "doc_id": "vneconomy_en_20261110_6505c5a2c9",
+    "sent_idx": 51,
+    "text": "This does not mean protectionism at any cost; rather, it requires fair and transparent competition.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_6505c5a2c9#52",
+    "doc_id": "vneconomy_en_20261110_6505c5a2c9",
+    "sent_idx": 52,
+    "text": "A database of companies' capabilities and track records should also be developed to identify those that meet the required standards.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_6505c5a2c9#53",
+    "doc_id": "vneconomy_en_20261110_6505c5a2c9",
+    "sent_idx": 53,
+    "text": "The oil and gas industry is currently facing declining production at existing fields.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_6505c5a2c9#54",
+    "doc_id": "vneconomy_en_20261110_6505c5a2c9",
+    "sent_idx": 54,
+    "text": "For small and marginal fields, we must apply science and technology to improve oil recovery rates.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_6505c5a2c9#55",
+    "doc_id": "vneconomy_en_20261110_6505c5a2c9",
+    "sent_idx": 55,
+    "text": "As I understand it, the Vietnam National Industry - Energy Group (Petrovietnam) must simultaneously sustain oil and gas production to support growth and develop new energy sectors to create long-term growth opportunities.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_6505c5a2c9#56",
+    "doc_id": "vneconomy_en_20261110_6505c5a2c9",
+    "sent_idx": 56,
+    "text": "Petrovietnam must therefore make use of its existing infrastructure while exploring new areas such as offshore wind power, CO2 capture and storage, and floating solar power.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_6505c5a2c9#57",
+    "doc_id": "vneconomy_en_20261110_6505c5a2c9",
+    "sent_idx": 57,
+    "text": "These efforts would also leverage the expertise of oil and gas professionals and create opportunities to retrain the workforce for green and clean energy sectors.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_6505c5a2c9#58",
+    "doc_id": "vneconomy_en_20261110_6505c5a2c9",
+    "sent_idx": 58,
+    "text": "Offshore wind power may entail substantial upfront investment, but if implemented effectively, it could supply electricity for internal use, reduce the amount of oil and gas burned for production, lower costs, and improve project efficiency.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_6505c5a2c9#59",
+    "doc_id": "vneconomy_en_20261110_6505c5a2c9",
+    "sent_idx": 59,
+    "text": "However, new energy projects also face significant challenges.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_6505c5a2c9#60",
+    "doc_id": "vneconomy_en_20261110_6505c5a2c9",
+    "sent_idx": 60,
+    "text": "Nuclear power requires stringent safety standards, substantial capital investment, and a clear policy framework.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_6505c5a2c9#61",
+    "doc_id": "vneconomy_en_20261110_6505c5a2c9",
+    "sent_idx": 61,
+    "text": "Other energy projects must also ensure that their capacity can be effectively dispatched to avoid underutilized investments.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_6505c5a2c9#62",
+    "doc_id": "vneconomy_en_20261110_6505c5a2c9",
+    "sent_idx": 62,
+    "text": "Procuring turbines and generators has become particularly difficult.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_6505c5a2c9#63",
+    "doc_id": "vneconomy_en_20261110_6505c5a2c9",
+    "sent_idx": 63,
+    "text": "Many companies in the oil and gas sector are also exploring new directions.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_6505c5a2c9#64",
+    "doc_id": "vneconomy_en_20261110_6505c5a2c9",
+    "sent_idx": 64,
+    "text": "Phu My Fertilizer and Ca Mau Fertilizer are researching new products, while the Nghi Son and Binh Son refining and petrochemical complexes are exploring fuel conversion.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_6505c5a2c9#65",
+    "doc_id": "vneconomy_en_20261110_6505c5a2c9",
+    "sent_idx": 65,
+    "text": "In biofuels, alongside the rollout of E5 and E10 gasoline, the Dung Quat Biofuel Plant, which previously faced significant difficulties, is now operating close to full capacity.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_6505c5a2c9#66",
+    "doc_id": "vneconomy_en_20261110_6505c5a2c9",
+    "sent_idx": 66,
+    "text": "The Law on Petroleum will take effect on March 1, 2027.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_6505c5a2c9#67",
+    "doc_id": "vneconomy_en_20261110_6505c5a2c9",
+    "sent_idx": 67,
+    "text": "Enterprises and major corporations expect that greater autonomy will open up new opportunities.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_6505c5a2c9#68",
+    "doc_id": "vneconomy_en_20261110_6505c5a2c9",
+    "sent_idx": 68,
+    "text": "However, from the perspective of the Vietnam Petroleum Association, which conducts research, provides policy advice, and offers policy critique, I believe these opportunities will materialize only if institutional frameworks, policy mechanisms, and project implementation are properly aligned.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_6505c5a2c9#69",
+    "doc_id": "vneconomy_en_20261110_6505c5a2c9",
+    "sent_idx": 69,
+    "text": "F or upstream oil and gas production, I believe we should focus on three main groups of projects: small and marginal fields, fields currently in production, and major gas fields.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_6505c5a2c9#70",
+    "doc_id": "vneconomy_en_20261110_6505c5a2c9",
+    "sent_idx": 70,
+    "text": "Each offers development potential but also presents distinct challenges in terms of policy mechanisms, technology, and economic viability.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_6505c5a2c9#71",
+    "doc_id": "vneconomy_en_20261110_6505c5a2c9",
+    "sent_idx": 71,
+    "text": "First, new projects involving small and marginal fields.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_6505c5a2c9#72",
+    "doc_id": "vneconomy_en_20261110_6505c5a2c9",
+    "sent_idx": 72,
+    "text": "These offer considerable room for development but carry relatively high investment costs and economic risks.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_6505c5a2c9#73",
+    "doc_id": "vneconomy_en_20261110_6505c5a2c9",
+    "sent_idx": 73,
+    "text": "Second, fields currently in production.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_6505c5a2c9#74",
+    "doc_id": "vneconomy_en_20261110_6505c5a2c9",
+    "sent_idx": 74,
+    "text": "In practice, both in Vietnam and globally, recovery rates at existing oil fields typically stand at around 30 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_6505c5a2c9#75",
+    "doc_id": "vneconomy_en_20261110_6505c5a2c9",
+    "sent_idx": 75,
+    "text": "The Law on Petroleum also provides for incentives to encourage technology adoption, improve recovery rates, and maximize resource recovery.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_6505c5a2c9#76",
+    "doc_id": "vneconomy_en_20261110_6505c5a2c9",
+    "sent_idx": 76,
+    "text": "Third, major gas fields.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_6505c5a2c9#77",
+    "doc_id": "vneconomy_en_20261110_6505c5a2c9",
+    "sent_idx": 77,
+    "text": "These are particularly important because gas is expected to account for a growing share of production in the years to come.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_6505c5a2c9#78",
+    "doc_id": "vneconomy_en_20261110_6505c5a2c9",
+    "sent_idx": 78,
+    "text": "Regarding Vietnam's potential for carbon capture and storage (CCS), I would like to share findings from a recent research project led by the Vietnam Petroleum Institute, with the participation of Petrovietnam and a Japanese conglomerate.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_6505c5a2c9#79",
+    "doc_id": "vneconomy_en_20261110_6505c5a2c9",
+    "sent_idx": 79,
+    "text": "The project comprehensively assessed Vietnam's potential and capacity for CO2 storage.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_6505c5a2c9#80",
+    "doc_id": "vneconomy_en_20261110_6505c5a2c9",
+    "sent_idx": 80,
+    "text": "The findings indicate that Vietnam has significant CO2 storage potential, with geological formations suitable for such activities.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_6505c5a2c9#81",
+    "doc_id": "vneconomy_en_20261110_6505c5a2c9",
+    "sent_idx": 81,
+    "text": "Potential storage sites also include depleted oil and gas fields and saline aquifers.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_6505c5a2c9#82",
+    "doc_id": "vneconomy_en_20261110_6505c5a2c9",
+    "sent_idx": 82,
+    "text": "Preliminary assessments suggest that Vietnam's major sedimentary basins alone could have an annual storage capacity of 1 billion cu m of CO2, with total storage capacity exceeding 50 billion cu m. This is a significant figure that highlights the development potential of this sector.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_6505c5a2c9#83",
+    "doc_id": "vneconomy_en_20261110_6505c5a2c9",
+    "sent_idx": 83,
+    "text": "However, realizing this potential will require addressing several challenges.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_6505c5a2c9#84",
+    "doc_id": "vneconomy_en_20261110_6505c5a2c9",
+    "sent_idx": 84,
+    "text": "The first is technology.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_6505c5a2c9#85",
+    "doc_id": "vneconomy_en_20261110_6505c5a2c9",
+    "sent_idx": 85,
+    "text": "Every stage, from capturing and transporting CO2 to storing it underground, requires specialized technologies.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_6505c5a2c9#86",
+    "doc_id": "vneconomy_en_20261110_6505c5a2c9",
+    "sent_idx": 86,
+    "text": "Vietnam has limited practical experience in this area, but I do not believe technology is an insurmountable barrier, as these solutions have already been proven internationally.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_6505c5a2c9#87",
+    "doc_id": "vneconomy_en_20261110_6505c5a2c9",
+    "sent_idx": 87,
+    "text": "The next challenge is selecting suitable storage sites.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_6505c5a2c9#88",
+    "doc_id": "vneconomy_en_20261110_6505c5a2c9",
+    "sent_idx": 88,
+    "text": "In my view, the main difficulty lies in the time required for surveys and testing before a site can be selected and investment can proceed.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_6505c5a2c9#89",
+    "doc_id": "vneconomy_en_20261110_6505c5a2c9",
+    "sent_idx": 89,
+    "text": "This process can be lengthy and costly.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_6505c5a2c9#90",
+    "doc_id": "vneconomy_en_20261110_6505c5a2c9",
+    "sent_idx": 90,
+    "text": "While a legal framework for CO2 capture, transportation, and storage projects is now in place, more detailed decrees and guidelines are needed to establish project feasibility.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_6505c5a2c9#91",
+    "doc_id": "vneconomy_en_20261110_6505c5a2c9",
+    "sent_idx": 91,
+    "text": "Vietnam also needs to establish measurement, monitoring, reporting, and verification (MRV) systems that meet international standards.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_6505c5a2c9#92",
+    "doc_id": "vneconomy_en_20261110_6505c5a2c9",
+    "sent_idx": 92,
+    "text": "This is essential for projects to participate in carbon markets and trade carbon credits.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_6505c5a2c9#93",
+    "doc_id": "vneconomy_en_20261110_6505c5a2c9",
+    "sent_idx": 93,
+    "text": "Investment costs remain the biggest bottleneck for carbon capture and storage projects.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_6505c5a2c9#94",
+    "doc_id": "vneconomy_en_20261110_6505c5a2c9",
+    "sent_idx": 94,
+    "text": "According to research by the Vietnam Petroleum Institute, the total cost of the entire chain, from CO2 capture and transportation to storage, could exceed what companies currently pay to purchase carbon credits.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_6505c5a2c9#95",
+    "doc_id": "vneconomy_en_20261110_6505c5a2c9",
+    "sent_idx": 95,
+    "text": "These costs vary considerably, depending primarily on the emissions source, the capture location, and the storage site.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261110_6505c5a2c9#96",
+    "doc_id": "vneconomy_en_20261110_6505c5a2c9",
+    "sent_idx": 96,
+    "text": "Therefore, alongside completing the regulatory framework, Vietnam should initially prioritize projects located near major emissions sources with high CO2 concentrations and access to suitable storage sites with large capacity.",
+    "lang": "en",
+    "is_title": false
+  }
+]

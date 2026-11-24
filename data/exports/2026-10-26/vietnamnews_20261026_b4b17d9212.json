@@ -1,0 +1,82 @@
+[
+  {
+    "sent_id": "vietnamnews_20261026_b4b17d9212#0",
+    "doc_id": "vietnamnews_20261026_b4b17d9212",
+    "sent_idx": 0,
+    "text": "Singapore grants conditional approval for Việt Nam renewable power export project",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261026_b4b17d9212#1",
+    "doc_id": "vietnamnews_20261026_b4b17d9212",
+    "sent_idx": 1,
+    "text": "HÀ NỘI - Singapore has granted conditional approval for a project to export renewable electricity from Việt Nam to Malaysia and Singapore, marking a step forward in cross-border energy cooperation in Southeast Asia.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261026_b4b17d9212#2",
+    "doc_id": "vietnamnews_20261026_b4b17d9212",
+    "sent_idx": 2,
+    "text": "The Energy Market Authority issued the approval at the opening of Singapore International Energy Week 2026 on Monday to Sembcorp Utilities Pte Ltd, a wholly owned subsidiary of Sembcorp Industries, which will act as the project's electricity importer.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261026_b4b17d9212#3",
+    "doc_id": "vietnamnews_20261026_b4b17d9212",
+    "sent_idx": 3,
+    "text": "The Việt Nam-Malaysia-Singapore project aims to supply up to 1.3 gigawatts of renewable electricity to Singapore through a transmission network connecting the three countries.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261026_b4b17d9212#4",
+    "doc_id": "vietnamnews_20261026_b4b17d9212",
+    "sent_idx": 4,
+    "text": "Under the proposed plan, offshore wind power generated in Việt Nam will be combined with solar power and battery energy storage systems in Malaysia.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261026_b4b17d9212#5",
+    "doc_id": "vietnamnews_20261026_b4b17d9212",
+    "sent_idx": 5,
+    "text": "Electricity will be transmitted through Malaysia to supply both the Malaysian and Singaporean markets.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261026_b4b17d9212#6",
+    "doc_id": "vietnamnews_20261026_b4b17d9212",
+    "sent_idx": 6,
+    "text": "Electricity imports are expected to begin in 2035, subject to further project development and the necessary regulatory approvals.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261026_b4b17d9212#7",
+    "doc_id": "vietnamnews_20261026_b4b17d9212",
+    "sent_idx": 7,
+    "text": "The conditional approval follows a Joint Development Agreement signed in May 2025 by Việt Nam's PetroVietnam Technical Services Corporation, a member of the Vietnam National Industry - Energy Group (Petrovietnam), and Sembcorp Utilities along with Malaysia's MY Energy Consortium, comprising national utility Tenaga Nasional Berhad and Petroliam Nasional Berhad .",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261026_b4b17d9212#8",
+    "doc_id": "vietnamnews_20261026_b4b17d9212",
+    "sent_idx": 8,
+    "text": "Since the agreement was signed, the partners have carried out technical and commercial studies and worked with government agencies and regulators in the three countries to advance the project.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261026_b4b17d9212#9",
+    "doc_id": "vietnamnews_20261026_b4b17d9212",
+    "sent_idx": 9,
+    "text": "The project is expected to support the development of renewable energy resources in Southeast Asia and strengthen regional electricity links, in line with efforts to advance the ASEAN Power Grid initiative. - BIZHUB/VNS",
+    "lang": "en",
+    "is_title": false
+  }
+]

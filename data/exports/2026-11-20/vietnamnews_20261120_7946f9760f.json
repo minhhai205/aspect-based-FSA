@@ -1,0 +1,130 @@
+[
+  {
+    "sent_id": "vietnamnews_20261120_7946f9760f#0",
+    "doc_id": "vietnamnews_20261120_7946f9760f",
+    "sent_idx": 0,
+    "text": "Business conditions for car maintenance services proposed to be removed",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261120_7946f9760f#1",
+    "doc_id": "vietnamnews_20261120_7946f9760f",
+    "sent_idx": 1,
+    "text": "HÀ NỘI - The Vietnam Register has proposed removing business conditions for automobile warranty and maintenance service providers, in a move aimed at reducing regulatory barriers, cutting compliance costs and encouraging competition in the automotive services market.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261120_7946f9760f#2",
+    "doc_id": "vietnamnews_20261120_7946f9760f",
+    "sent_idx": 2,
+    "text": "Under the draft amendments to Decree 116/2017/NĐ-CP governing the production, assembly and import of road vehicles, automobile warranty and maintenance businesses would no longer be required to meet separate state-prescribed business conditions.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261120_7946f9760f#3",
+    "doc_id": "vietnamnews_20261120_7946f9760f",
+    "sent_idx": 3,
+    "text": "Instead, they would be recognised based on authorisation, designation or public notification by automobile manufacturers, assemblers or importers.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261120_7946f9760f#4",
+    "doc_id": "vietnamnews_20261120_7946f9760f",
+    "sent_idx": 4,
+    "text": "Industry experts said removing the additional licensing requirements could make it easier for service providers to enter the market, which might potentially increase competition and give vehicle owners more options for lower-cost maintenance.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261120_7946f9760f#5",
+    "doc_id": "vietnamnews_20261120_7946f9760f",
+    "sent_idx": 5,
+    "text": "A representative of an automobile warranty and maintenance company in HCM City said businesses seeking to provide authorised warranty services currently had to satisfy both state requirements and the standards set by manufacturers.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261120_7946f9760f#6",
+    "doc_id": "vietnamnews_20261120_7946f9760f",
+    "sent_idx": 6,
+    "text": "If approved, the proposal would remove requirements imposed by the Government, although service providers would still need manufacturers' approval to carry out official warranty work.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261120_7946f9760f#7",
+    "doc_id": "vietnamnews_20261120_7946f9760f",
+    "sent_idx": 7,
+    "text": "Automotive expert Huỳnh Minh Châu described the proposal as a positive regulatory reform that would eliminate overlapping inspections and reduce compliance costs for businesses.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261120_7946f9760f#8",
+    "doc_id": "vietnamnews_20261120_7946f9760f",
+    "sent_idx": 8,
+    "text": "He said manufacturers already applied strict requirements when selecting authorised service facilities, making additional state certification an unnecessary administrative burden.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261120_7946f9760f#9",
+    "doc_id": "vietnamnews_20261120_7946f9760f",
+    "sent_idx": 9,
+    "text": "The reform could particularly benefit new automotive brands, including electric vehicle manufacturers, and professional service chains seeking to expand their networks through satellite workshops and mobile maintenance services.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261120_7946f9760f#10",
+    "doc_id": "vietnamnews_20261120_7946f9760f",
+    "sent_idx": 10,
+    "text": "However, Châu cautioned that regulatory relaxation would not automatically allow independent garages to join manufacturers' authorised service networks.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261120_7946f9760f#11",
+    "doc_id": "vietnamnews_20261120_7946f9760f",
+    "sent_idx": 11,
+    "text": "Automakers are likely to remain cautious about granting independent operators access to technical documentation, electrical system diagrams and vehicle electronic control unit programming systems because of concerns over service quality, brand reputation and the protection of proprietary technology.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261120_7946f9760f#12",
+    "doc_id": "vietnamnews_20261120_7946f9760f",
+    "sent_idx": 12,
+    "text": "Manufacturers would therefore continue to play a key role in determining which facilities can provide official warranty services, even if the state removes administrative barriers to entering the wider maintenance market.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261120_7946f9760f#13",
+    "doc_id": "vietnamnews_20261120_7946f9760f",
+    "sent_idx": 13,
+    "text": "The draft also proposes changes to vehicle classifications together with the introduction of a definition of semi-finished passenger vehicles alongside existing categories of vehicle chassis with and without cabins.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261120_7946f9760f#14",
+    "doc_id": "vietnamnews_20261120_7946f9760f",
+    "sent_idx": 14,
+    "text": "The change would enable secondary manufacturers to complete passenger vehicles to specific customer requirements without removing seats and equipment already installed, helping reduce waste, the Vietnam Register said.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261120_7946f9760f#15",
+    "doc_id": "vietnamnews_20261120_7946f9760f",
+    "sent_idx": 15,
+    "text": "The Vietnam Register said the revisions were intended to address practical difficulties, reduce compliance costs, facilitate business operations and improve consistency across the legal framework governing the automotive industry. - VNS",
+    "lang": "en",
+    "is_title": false
+  }
+]

@@ -1,0 +1,458 @@
+[
+  {
+    "sent_id": "vneconomy_en_20261109_c4038fa367#0",
+    "doc_id": "vneconomy_en_20261109_c4038fa367",
+    "sent_idx": 0,
+    "text": "From concept to creation",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vneconomy_en_20261109_c4038fa367#1",
+    "doc_id": "vneconomy_en_20261109_c4038fa367",
+    "sent_idx": 1,
+    "text": "Vietnam's deep-tech (deep technology) ambitions in areas such as AI and semiconductors depend not only on access to advanced technologies but also on the ability to turn research and engineering capabilities into commercially-viable products.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261109_c4038fa367#2",
+    "doc_id": "vneconomy_en_20261109_c4038fa367",
+    "sent_idx": 2,
+    "text": "Achieving this will require stronger links between universities, businesses, and policymakers, alongside specialized talent, domestic supplier networks, and a clearer strategic direction.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261109_c4038fa367#3",
+    "doc_id": "vneconomy_en_20261109_c4038fa367",
+    "sent_idx": 3,
+    "text": "Industry experts attending the Vietnam Innovation Summit 2026, held in Ho Chi Minh City on October 14, highlighted gaps in university-industry cooperation, shortages of experienced technical talent, and the need to align research and infrastructure investment with market demand.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261109_c4038fa367#4",
+    "doc_id": "vneconomy_en_20261109_c4038fa367",
+    "sent_idx": 4,
+    "text": "One of Vietnam's key challenges in developing deep-tech is turning research capabilities into commercially-viable products.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261109_c4038fa367#5",
+    "doc_id": "vneconomy_en_20261109_c4038fa367",
+    "sent_idx": 5,
+    "text": "Mr. Mitchell Pham, Chair of the Marlborough Technology Association and Board Member of NZTech in New Zealand, said success depends on connecting an initial invention with the value it ultimately delivers to customers.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261109_c4038fa367#6",
+    "doc_id": "vneconomy_en_20261109_c4038fa367",
+    "sent_idx": 6,
+    "text": "\"Technology only succeeds when you design backwards from customer value,\" he said, stressing that commercial applications should be considered from the outset.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261109_c4038fa367#7",
+    "doc_id": "vneconomy_en_20261109_c4038fa367",
+    "sent_idx": 7,
+    "text": "Mr. Vo Trong Thu, Head of the AI Lab at GreenNode, identified misaligned incentives as a major obstacle to university-business collaboration.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261109_c4038fa367#8",
+    "doc_id": "vneconomy_en_20261109_c4038fa367",
+    "sent_idx": 8,
+    "text": "While universities contribute scientific knowledge and research teams, businesses provide capital, data, and practical problems to solve.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261109_c4038fa367#9",
+    "doc_id": "vneconomy_en_20261109_c4038fa367",
+    "sent_idx": 9,
+    "text": "However, \"the incentive structures are not aligned,\" he said.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261109_c4038fa367#10",
+    "doc_id": "vneconomy_en_20261109_c4038fa367",
+    "sent_idx": 10,
+    "text": "In the semiconductor industry, Mr. Calvin Yong, Regional Director for Hong Kong, Southeast Asia, India and Oceania at the Yole Group and Strategic Technical Advisor for the Hong Kong Printed Circuit Board Association (HKPCA), noted that deep-tech development requires an ecosystem connecting companies, suppliers, investors, and other stakeholders.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261109_c4038fa367#11",
+    "doc_id": "vneconomy_en_20261109_c4038fa367",
+    "sent_idx": 11,
+    "text": "This is particularly relevant to semiconductors, which require specialized talent, supplier networks, capital, and reliable infrastructure.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261109_c4038fa367#12",
+    "doc_id": "vneconomy_en_20261109_c4038fa367",
+    "sent_idx": 12,
+    "text": "Beyond chip design, the industry needs expertise in design verification, equipment reliability, fabrication operations, yield management, and advanced packaging.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261109_c4038fa367#13",
+    "doc_id": "vneconomy_en_20261109_c4038fa367",
+    "sent_idx": 13,
+    "text": "Manufacturing also depends on uninterrupted power, ultrapure water, and tightly-controlled production environments.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261109_c4038fa367#14",
+    "doc_id": "vneconomy_en_20261109_c4038fa367",
+    "sent_idx": 14,
+    "text": "Vietnam has established capabilities in assembly, testing, and packaging (ATP), alongside a growing integrated circuit design workforce.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261109_c4038fa367#15",
+    "doc_id": "vneconomy_en_20261109_c4038fa367",
+    "sent_idx": 15,
+    "text": "However, Mr. Yong said the country must connect these strengths more effectively with manufacturing and commercialization, identifying three priorities.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261109_c4038fa367#16",
+    "doc_id": "vneconomy_en_20261109_c4038fa367",
+    "sent_idx": 16,
+    "text": "First, strengthen domestic supplier networks.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261109_c4038fa367#17",
+    "doc_id": "vneconomy_en_20261109_c4038fa367",
+    "sent_idx": 17,
+    "text": "Vietnam relies on imports for specialized semiconductor inputs, including electronic chemicals, silicon wafers, photoresists, and precision tooling.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261109_c4038fa367#18",
+    "doc_id": "vneconomy_en_20261109_c4038fa367",
+    "sent_idx": 18,
+    "text": "Developing local suppliers of cleanroom consumables, precision-machined components, and chemical delivery systems could strengthen support industries and reduce reliance on external supply chains.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261109_c4038fa367#19",
+    "doc_id": "vneconomy_en_20261109_c4038fa367",
+    "sent_idx": 19,
+    "text": "This will require closer coordination between domestic enterprises, major corporations, and government agencies.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261109_c4038fa367#20",
+    "doc_id": "vneconomy_en_20261109_c4038fa367",
+    "sent_idx": 20,
+    "text": "Second, build on existing strengths and move into higher-value activities.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261109_c4038fa367#21",
+    "doc_id": "vneconomy_en_20261109_c4038fa367",
+    "sent_idx": 21,
+    "text": "Vietnam holds potential in chip design and back-end manufacturing but lacks a mature, commercial-scale front-end wafer fabrication ecosystem.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261109_c4038fa367#22",
+    "doc_id": "vneconomy_en_20261109_c4038fa367",
+    "sent_idx": 22,
+    "text": "Rather than developing every stage simultaneously, the country should upgrade its existing capabilities through advanced packaging technologies, including 2.5D and 3D integration and panel-level packaging.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261109_c4038fa367#23",
+    "doc_id": "vneconomy_en_20261109_c4038fa367",
+    "sent_idx": 23,
+    "text": "Third, develop senior technical talent with hands-on manufacturing experience.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261109_c4038fa367#24",
+    "doc_id": "vneconomy_en_20261109_c4038fa367",
+    "sent_idx": 24,
+    "text": "Though Vietnam has a growing pool of engineering graduates, it faces shortages of experienced chip architects, yield optimization specialists and advanced packaging R&D leaders with high-volume manufacturing experience.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261109_c4038fa367#25",
+    "doc_id": "vneconomy_en_20261109_c4038fa367",
+    "sent_idx": 25,
+    "text": "Addressing this gap will require sustained investment in in-house training, partnerships with technical universities, and continuous professional development.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261109_c4038fa367#26",
+    "doc_id": "vneconomy_en_20261109_c4038fa367",
+    "sent_idx": 26,
+    "text": "Mr. Yong added that domestic anchor companies could also help upgrade industry capabilities, generate demand for local suppliers and skilled workers, and connect technology development with market needs.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261109_c4038fa367#27",
+    "doc_id": "vneconomy_en_20261109_c4038fa367",
+    "sent_idx": 27,
+    "text": "Bridging the gap between research and commercialization requires institutions that connect businesses, researchers, and investors.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261109_c4038fa367#28",
+    "doc_id": "vneconomy_en_20261109_c4038fa367",
+    "sent_idx": 28,
+    "text": "Mr. Vo Trong Thu cited Saigon AI Hub, established by VNG and Vietnam National University Ho Chi Minh City in 2025, as an example of this approach.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261109_c4038fa367#29",
+    "doc_id": "vneconomy_en_20261109_c4038fa367",
+    "sent_idx": 29,
+    "text": "In May 2026, the hub partnered with the Google AI Futures Fund to establish an applied AI lab in Vietnam.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261109_c4038fa367#30",
+    "doc_id": "vneconomy_en_20261109_c4038fa367",
+    "sent_idx": 30,
+    "text": "Its first cohort brought together nearly 60 researchers, providing computing resources, funding, and support to develop prototypes.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261109_c4038fa367#31",
+    "doc_id": "vneconomy_en_20261109_c4038fa367",
+    "sent_idx": 31,
+    "text": "The next phase focuses on business-identified challenges, linking research teams with practical industry needs and encouraging commercially-viable solutions.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261109_c4038fa367#32",
+    "doc_id": "vneconomy_en_20261109_c4038fa367",
+    "sent_idx": 32,
+    "text": "New Zealand offers another example of industry-led development.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261109_c4038fa367#33",
+    "doc_id": "vneconomy_en_20261109_c4038fa367",
+    "sent_idx": 33,
+    "text": "Mr. Pham said the country's technology sector grew from its 12th-largest export industry in 2016 to its second-largest in less than a decade.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261109_c4038fa367#34",
+    "doc_id": "vneconomy_en_20261109_c4038fa367",
+    "sent_idx": 34,
+    "text": "Technology businesses formed specialized communities across financial technology, education, agriculture, healthcare, and the Internet of Things (IoT), subsequently coordinating through a broader industry structure to engage with policymakers.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261109_c4038fa367#35",
+    "doc_id": "vneconomy_en_20261109_c4038fa367",
+    "sent_idx": 35,
+    "text": "\"The industry needs to lead, with the government supporting,\" Mr. Pham said, noting that government participation in industry governance helps align business priorities with regulatory requirements.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261109_c4038fa367#36",
+    "doc_id": "vneconomy_en_20261109_c4038fa367",
+    "sent_idx": 36,
+    "text": "He cited Rocket Lab as an example of how an innovative company, supported by appropriate safety and security regulations, can help establish a new industry.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261109_c4038fa367#37",
+    "doc_id": "vneconomy_en_20261109_c4038fa367",
+    "sent_idx": 37,
+    "text": "For Vietnam, this highlights the need for coordinated action across industry, research, and government.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261109_c4038fa367#38",
+    "doc_id": "vneconomy_en_20261109_c4038fa367",
+    "sent_idx": 38,
+    "text": "Mr. Pham also pointed to the country's emerging International Financial Center model as a potential reference for setting national objectives, establishing governance structures, and coordinating stakeholders, though its outcomes remain too early to assess.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261109_c4038fa367#39",
+    "doc_id": "vneconomy_en_20261109_c4038fa367",
+    "sent_idx": 39,
+    "text": "Mr. Yong highlighted Taiwan (China)'s Industrial Technology Research Institute (ITRI) and Singapore's Agency for Science, Technology and Research (A*STAR) as examples of institutions linking research, talent development, and industry.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261109_c4038fa367#40",
+    "doc_id": "vneconomy_en_20261109_c4038fa367",
+    "sent_idx": 40,
+    "text": "Beyond supporting research, such organizations can facilitate technology transfer and help bring innovations to market.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261109_c4038fa367#41",
+    "doc_id": "vneconomy_en_20261109_c4038fa367",
+    "sent_idx": 41,
+    "text": "He cited the Taiwan Semiconductor Manufacturing Company (TSMC) as an example of coordination between businesses, government, and research-support institutions in building a globally-competitive semiconductor industry.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261109_c4038fa367#42",
+    "doc_id": "vneconomy_en_20261109_c4038fa367",
+    "sent_idx": 42,
+    "text": "Vietnam, he said, needs a national semiconductor strategy that clearly defines priorities, growth drivers, and implementation measures, including capital mobilization and investment risk management.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261109_c4038fa367#43",
+    "doc_id": "vneconomy_en_20261109_c4038fa367",
+    "sent_idx": 43,
+    "text": "For Mr. Pham, technology development should start with a real customer problem rather than the technology itself.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261109_c4038fa367#44",
+    "doc_id": "vneconomy_en_20261109_c4038fa367",
+    "sent_idx": 44,
+    "text": "A customer willing to pay for a solution provides a practical test of whether it can generate commercial, economic, environmental, or social value.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261109_c4038fa367#45",
+    "doc_id": "vneconomy_en_20261109_c4038fa367",
+    "sent_idx": 45,
+    "text": "If the solution can be replicated for other customers, the first deployment can also become a reference case for wider adoption.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261109_c4038fa367#46",
+    "doc_id": "vneconomy_en_20261109_c4038fa367",
+    "sent_idx": 46,
+    "text": "This is especially relevant to AI.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261109_c4038fa367#47",
+    "doc_id": "vneconomy_en_20261109_c4038fa367",
+    "sent_idx": 47,
+    "text": "Though new models continue to emerge, businesses often struggle to move from successful pilots to organization-wide deployment and measurable business results.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261109_c4038fa367#48",
+    "doc_id": "vneconomy_en_20261109_c4038fa367",
+    "sent_idx": 48,
+    "text": "The obstacles include systems integration, organizational implementation, business processes, and the ability to demonstrate returns on investment.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261109_c4038fa367#49",
+    "doc_id": "vneconomy_en_20261109_c4038fa367",
+    "sent_idx": 49,
+    "text": "Technological progress alone does not guarantee commercial impact.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261109_c4038fa367#50",
+    "doc_id": "vneconomy_en_20261109_c4038fa367",
+    "sent_idx": 50,
+    "text": "Mr. Thu spoke of his ambition to make AI accessible to a wider range of Vietnamese users over the next five years, including farmers, factory workers, and small service businesses, rather than limiting its benefits to large corporations.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261109_c4038fa367#51",
+    "doc_id": "vneconomy_en_20261109_c4038fa367",
+    "sent_idx": 51,
+    "text": "Achieving this requires coordination across the ecosystem.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261109_c4038fa367#52",
+    "doc_id": "vneconomy_en_20261109_c4038fa367",
+    "sent_idx": 52,
+    "text": "The government can create an enabling environment and stimulate initial demand by becoming the first customer for suitable solutions.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261109_c4038fa367#53",
+    "doc_id": "vneconomy_en_20261109_c4038fa367",
+    "sent_idx": 53,
+    "text": "Technology companies can provide infrastructure and co-develop applications, while universities train talent and help translate research into products.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261109_c4038fa367#54",
+    "doc_id": "vneconomy_en_20261109_c4038fa367",
+    "sent_idx": 54,
+    "text": "Early users must also test solutions and provide feedback to ensure they meet practical needs.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261109_c4038fa367#55",
+    "doc_id": "vneconomy_en_20261109_c4038fa367",
+    "sent_idx": 55,
+    "text": "From applied AI research to advanced semiconductor packaging, Vietnam's opportunities differ, but the underlying challenge remains the same: connecting domestic research and engineering capabilities with market demand.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261109_c4038fa367#56",
+    "doc_id": "vneconomy_en_20261109_c4038fa367",
+    "sent_idx": 56,
+    "text": "The next stage of deep-tech development will depend on whether Vietnam can move beyond building research capacity toward a system that consistently turns that capacity into commercially-viable products and measurable economic value.",
+    "lang": "en",
+    "is_title": false
+  }
+]

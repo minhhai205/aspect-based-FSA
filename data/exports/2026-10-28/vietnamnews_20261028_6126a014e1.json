@@ -1,0 +1,178 @@
+[
+  {
+    "sent_id": "vietnamnews_20261028_6126a014e1#0",
+    "doc_id": "vietnamnews_20261028_6126a014e1",
+    "sent_idx": 0,
+    "text": "VN-Index ticks up as banking stocks support market",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261028_6126a014e1#1",
+    "doc_id": "vietnamnews_20261028_6126a014e1",
+    "sent_idx": 1,
+    "text": "HÀ NỘI - Benchmark indices edged higher on Wednesday, as gains in banking stocks helped the VN-Index maintain positive territory despite mixed movements across heavyweight shares and continued net selling by foreign investors.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_6126a014e1#2",
+    "doc_id": "vietnamnews_20261028_6126a014e1",
+    "sent_idx": 2,
+    "text": "On the Hochiminh Stock Exchange (HoSE), the VN-Index closed at 1,766.65 points, up 4.78 points.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_6126a014e1#3",
+    "doc_id": "vietnamnews_20261028_6126a014e1",
+    "sent_idx": 3,
+    "text": "Market liquidity improved, increasing to over VNĐ15.3 trillion (nearly $592 million).",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_6126a014e1#4",
+    "doc_id": "vietnamnews_20261028_6126a014e1",
+    "sent_idx": 4,
+    "text": "However, market breadth was negative, with 176 stocks declining while 124 stocks increasing.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_6126a014e1#5",
+    "doc_id": "vietnamnews_20261028_6126a014e1",
+    "sent_idx": 5,
+    "text": "Banking stocks provided the main support for the benchmark, although gains were not evenly distributed across the sector.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_6126a014e1#6",
+    "doc_id": "vietnamnews_20261028_6126a014e1",
+    "sent_idx": 6,
+    "text": "Vietcombank (VCB) rose 2.5 per cent, while HDBank (HDB) advanced 3.86 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_6126a014e1#7",
+    "doc_id": "vietnamnews_20261028_6126a014e1",
+    "sent_idx": 7,
+    "text": "TPBank (TPB) gained 2.36 per cent, Maritime Bank (MSB) increased 1.59 per cent, VPBank (VPB) climbed 1.29 per cent and VietinBank (CTG) added 1.15 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_6126a014e1#8",
+    "doc_id": "vietnamnews_20261028_6126a014e1",
+    "sent_idx": 8,
+    "text": "Sacombank (STB), Asia Commercial Bank (ACB), MBBank (MBB), VIB and SeABank (SSB) also closed higher.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_6126a014e1#9",
+    "doc_id": "vietnamnews_20261028_6126a014e1",
+    "sent_idx": 9,
+    "text": "VCB made the largest positive contribution among the banking stocks, adding approximately 2.41 points to the VN-Index.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_6126a014e1#10",
+    "doc_id": "vietnamnews_20261028_6126a014e1",
+    "sent_idx": 10,
+    "text": "HDB followed with a contribution of 1.14 points, while VPB and CTG added 0.62 points and 0.56 points, respectively.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_6126a014e1#11",
+    "doc_id": "vietnamnews_20261028_6126a014e1",
+    "sent_idx": 11,
+    "text": "However, several other banking stocks remained under selling pressure.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_6126a014e1#12",
+    "doc_id": "vietnamnews_20261028_6126a014e1",
+    "sent_idx": 12,
+    "text": "Eximbank (EIB) fell 1.48 per cent, SHB declined 1.39 per cent, BIDV (BID) lost 0.85 per cent and Techcombank (TCB) slipped 0.15 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_6126a014e1#13",
+    "doc_id": "vietnamnews_20261028_6126a014e1",
+    "sent_idx": 13,
+    "text": "Outside the banking sector, Vingroup (VIC) rose 0.33 per cent, contributing approximately 1.28 points to the benchmark.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_6126a014e1#14",
+    "doc_id": "vietnamnews_20261028_6126a014e1",
+    "sent_idx": 14,
+    "text": "Losses in several large-cap stocks partly offset these gains.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_6126a014e1#15",
+    "doc_id": "vietnamnews_20261028_6126a014e1",
+    "sent_idx": 15,
+    "text": "PV Gas (GAS) fell 1.62 per cent, subtracting around 0.60 points from the benchmark, while FPT Corporation (FPT) declined 1.07 per cent, reducing the index by 0.54 points.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_6126a014e1#16",
+    "doc_id": "vietnamnews_20261028_6126a014e1",
+    "sent_idx": 16,
+    "text": "Hoa Phat Group (HPG) dropped 1.19 per cent, taking away around 0.43 points.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_6126a014e1#17",
+    "doc_id": "vietnamnews_20261028_6126a014e1",
+    "sent_idx": 17,
+    "text": "Digiworld Corporation (DGW) was the session's weakest performer, falling 6.92 per cent to its floor price of VNĐ42,350 per share, despite reporting strong third-quarter business results.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_6126a014e1#18",
+    "doc_id": "vietnamnews_20261028_6126a014e1",
+    "sent_idx": 18,
+    "text": "The company recorded net revenue of more than VNĐ11 trillion in the third quarter of 2026, up 49 per cent year-on-year, while profit after tax rose 66 per cent to VNĐ276 billion.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_6126a014e1#19",
+    "doc_id": "vietnamnews_20261028_6126a014e1",
+    "sent_idx": 19,
+    "text": "On the Hanoi Stock Exchange (HNX), the HNX-Index also finished higher at 259.86 points, up 0.36 points.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_6126a014e1#20",
+    "doc_id": "vietnamnews_20261028_6126a014e1",
+    "sent_idx": 20,
+    "text": "Investors poured nearly VNĐ500 billion into the northern exchange, equivalent to a trading volume of over 34.6 million shares.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_6126a014e1#21",
+    "doc_id": "vietnamnews_20261028_6126a014e1",
+    "sent_idx": 21,
+    "text": "Foreign investor activity continued to weigh on market sentiment, offloading VNĐ267.1 billion on HoSE. - BIZHUB/VNS",
+    "lang": "en",
+    "is_title": false
+  }
+]

@@ -1,0 +1,170 @@
+[
+  {
+    "sent_id": "vneconomy_en_20261102_d74a9873a4#0",
+    "doc_id": "vneconomy_en_20261102_d74a9873a4",
+    "sent_idx": 0,
+    "text": "Three startups win investment pitch at 2026 Vietnam-Korea AI & Digital Forum",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_d74a9873a4#1",
+    "doc_id": "vneconomy_en_20261102_d74a9873a4",
+    "sent_idx": 1,
+    "text": "The three top-performing startups were selected and honored at the Korea-Vietnam AI Company IR Pitching program on October 29, held as part of the 202 6 Vietnam-Korea AI Vietnam-Korea AI & Digital Forum .",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_d74a9873a4#2",
+    "doc_id": "vneconomy_en_20261102_d74a9873a4",
+    "sent_idx": 2,
+    "text": "South Korea ' s Altibase won first place, while Vietnam's V-Indoor Care and VEEP secured second and third places, respectively.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_d74a9873a4#3",
+    "doc_id": "vneconomy_en_20261102_d74a9873a4",
+    "sent_idx": 3,
+    "text": "The IR Pitching program materialized the spirit of Vietnam-South Korea cooperation in AI and digital technology, creating a bridge between tech startups and the investment and innovation ecosystems of both nations.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_d74a9873a4#4",
+    "doc_id": "vneconomy_en_20261102_d74a9873a4",
+    "sent_idx": 4,
+    "text": "The event was organized by the National Innovation Center (NIC) under the Vietnamese Ministry of Finance, in collaboration with the Hanoi representative office of South Korea's National IT Industry Promotion Agency (KICC Hanoi / NIPA).",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_d74a9873a4#5",
+    "doc_id": "vneconomy_en_20261102_d74a9873a4",
+    "sent_idx": 5,
+    "text": "Ten startups from Vietnam and South Korea participated in IR Pitching 2026, operating across education, artificial intelligence, healthcare, IoT, robotics, environmental technology, and data infrastructure.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_d74a9873a4#6",
+    "doc_id": "vneconomy_en_20261102_d74a9873a4",
+    "sent_idx": 6,
+    "text": "Participating teams introduced practical technology solutions aimed at real-world applications and market expansion.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_d74a9873a4#7",
+    "doc_id": "vneconomy_en_20261102_d74a9873a4",
+    "sent_idx": 7,
+    "text": "In education, Hello Science Edu (South Korea) developed an AI-driven learning platform utilizing student data to assist teachers in identifying learning needs and delivering personalized curricula.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_d74a9873a4#8",
+    "doc_id": "vneconomy_en_20261102_d74a9873a4",
+    "sent_idx": 8,
+    "text": "BNV (South Korea) introduced Agentic AI solutions for education and enterprises, focusing on adaptive learning, coding assistants, and operational automation.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_d74a9873a4#9",
+    "doc_id": "vneconomy_en_20261102_d74a9873a4",
+    "sent_idx": 9,
+    "text": "In IoT and robotics, VEEP (Vietnam) offered energy-saving solutions under an Energy-as-a-Service (EaaS) model, leveraging AIoT to reduce energy costs, lower carbon emissions, and increase renewable energy adoption.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_d74a9873a4#10",
+    "doc_id": "vneconomy_en_20261102_d74a9873a4",
+    "sent_idx": 10,
+    "text": "V-Indoor Care (Vietnam) developed real-time indoor air quality monitoring technology, combining simulation and AI to optimize HVAC systems, improve environmental quality, and reduce power consumption.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_d74a9873a4#11",
+    "doc_id": "vneconomy_en_20261102_d74a9873a4",
+    "sent_idx": 11,
+    "text": "In digital transformation and AI, AIZ (Vietnam) provided an enterprise intelligence platform that integrates multi-source data and applies AI to automate processes, enhance operational efficiency, and support decision-making.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_d74a9873a4#12",
+    "doc_id": "vneconomy_en_20261102_d74a9873a4",
+    "sent_idx": 12,
+    "text": "In healthcare, VICI Dentia (Vietnam) developed an AI platform for dental image analysis, assisting doctors in diagnosing maxillofacial diseases while automating electronic medical record creation.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_d74a9873a4#13",
+    "doc_id": "vneconomy_en_20261102_d74a9873a4",
+    "sent_idx": 13,
+    "text": "In environmental technology, Nomo Green (Vietnam) created indoor air quality monitoring and optimization solutions, blending environmental data, simulation, and AI to curb pollution and save energy.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_d74a9873a4#14",
+    "doc_id": "vneconomy_en_20261102_d74a9873a4",
+    "sent_idx": 14,
+    "text": "In spatial AI and computer vision, Farmity (South Korea) introduced Spatial AI solutions using mmWave radar and computer vision to analyze 3D environments, targeted at healthcare, industry, drones, and smart cities.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_d74a9873a4#15",
+    "doc_id": "vneconomy_en_20261102_d74a9873a4",
+    "sent_idx": 15,
+    "text": "In smart buildings, EMCT (South Korea) built the BDApp platform for remote monitoring and control of building systems such as fire safety, elevators, and parking, enhancing operational safety.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_d74a9873a4#16",
+    "doc_id": "vneconomy_en_20261102_d74a9873a4",
+    "sent_idx": 16,
+    "text": "In database infrastructure, Altibase (South Korea) presented a high-performance Hybrid DBMS supporting high-speed data retrieval and real-time processing across multiple industries.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_d74a9873a4#17",
+    "doc_id": "vneconomy_en_20261102_d74a9873a4",
+    "sent_idx": 17,
+    "text": "Against the backdrop of AI and digital transformation driving economic growth, the program aimed to foster investment connections and expand international cooperation for tech enterprises.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_d74a9873a4#18",
+    "doc_id": "vneconomy_en_20261102_d74a9873a4",
+    "sent_idx": 18,
+    "text": "The platform enabled startups to meet potential investors, while helping corporations access innovative solutions to resolve practical challenges.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_d74a9873a4#19",
+    "doc_id": "vneconomy_en_20261102_d74a9873a4",
+    "sent_idx": 19,
+    "text": "For startup ecosystem enablers, the event offered opportunities to identify high-potential tech teams and expand Vietnam-South Korea partnership networks.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_d74a9873a4#20",
+    "doc_id": "vneconomy_en_20261102_d74a9873a4",
+    "sent_idx": 20,
+    "text": "Through IR Pitching, NIC continues to drive connections between startups, investors, and international partners, empowering innovative enterprises to access growth resources and broaden their market footprint.",
+    "lang": "en",
+    "is_title": false
+  }
+]

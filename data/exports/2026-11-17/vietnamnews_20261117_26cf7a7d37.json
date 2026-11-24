@@ -1,0 +1,282 @@
+[
+  {
+    "sent_id": "vietnamnews_20261117_26cf7a7d37#0",
+    "doc_id": "vietnamnews_20261117_26cf7a7d37",
+    "sent_idx": 0,
+    "text": "Construction sector applies technology to improve investment efficiency",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261117_26cf7a7d37#1",
+    "doc_id": "vietnamnews_20261117_26cf7a7d37",
+    "sent_idx": 1,
+    "text": "HÀ NỘI - The construction sector will promote the use of technology to improve investment efficiency and the management and operation of infrastructure projects, a conference on science and technology, innovation and digital transformation in the construction sector was told on November 16.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_26cf7a7d37#2",
+    "doc_id": "vietnamnews_20261117_26cf7a7d37",
+    "sent_idx": 2,
+    "text": "Held by the Ministry of Construction, the conference was part of a series of events on science and technology, innovation and digital transformation in the construction sector in 2026.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_26cf7a7d37#3",
+    "doc_id": "vietnamnews_20261117_26cf7a7d37",
+    "sent_idx": 3,
+    "text": "Deputy Minister of Construction Phạm Minh Hà said Việt Nam was striving to achieve double-digit economic growth in the 2026-30 period.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_26cf7a7d37#4",
+    "doc_id": "vietnamnews_20261117_26cf7a7d37",
+    "sent_idx": 4,
+    "text": "Meeting this target would require a larger share of growth to come from more efficient use of resources, driven by science, technology and innovation.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_26cf7a7d37#5",
+    "doc_id": "vietnamnews_20261117_26cf7a7d37",
+    "sent_idx": 5,
+    "text": "The construction sector contributes directly to economic growth while providing the foundations for other industries through infrastructure, urban development, housing and transport services.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_26cf7a7d37#6",
+    "doc_id": "vietnamnews_20261117_26cf7a7d37",
+    "sent_idx": 6,
+    "text": "However, its growth in recent years has relied largely on expanding investment.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_26cf7a7d37#7",
+    "doc_id": "vietnamnews_20261117_26cf7a7d37",
+    "sent_idx": 7,
+    "text": "\"The question facing the sector is where future growth will come from, how much science, technology, innovation and digital transformation can contribute, and in which areas,\" Hà said.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_26cf7a7d37#8",
+    "doc_id": "vietnamnews_20261117_26cf7a7d37",
+    "sent_idx": 8,
+    "text": "He said the conference provided an opportunity for the Ministry of Construction to gather feedback from businesses directly involved in investment, construction, project operations and technology adoption.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_26cf7a7d37#9",
+    "doc_id": "vietnamnews_20261117_26cf7a7d37",
+    "sent_idx": 9,
+    "text": "The ministry has begun preparing institutional frameworks, standards and data, while the capabilities of domestic businesses have also improved, Hà said.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_26cf7a7d37#10",
+    "doc_id": "vietnamnews_20261117_26cf7a7d37",
+    "sent_idx": 10,
+    "text": "However, he said the deployment of strategic technologies and innovation in the sector remained at an early stage, with many research findings yet to be applied in practice.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_26cf7a7d37#11",
+    "doc_id": "vietnamnews_20261117_26cf7a7d37",
+    "sent_idx": 11,
+    "text": "Presentations at the conference examined the role of science and technology in road transport, technological innovation and digital transformation at construction companies, and the application of building information modelling (BIM), geographic information systems (GIS), artificial intelligence (AI) and digital data in surveying, design and project management.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_26cf7a7d37#12",
+    "doc_id": "vietnamnews_20261117_26cf7a7d37",
+    "sent_idx": 12,
+    "text": "Participants also proposed measures to develop the construction sector by strengthening its capacity to master technologies, thereby improving management efficiency and driving growth.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_26cf7a7d37#13",
+    "doc_id": "vietnamnews_20261117_26cf7a7d37",
+    "sent_idx": 13,
+    "text": "Road management shifts towards digital data",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_26cf7a7d37#14",
+    "doc_id": "vietnamnews_20261117_26cf7a7d37",
+    "sent_idx": 14,
+    "text": "In the road transport sector, Nguyễn Văn Thắng, deputy director of the Viet Nam Road Administration, said the agency was shifting from traditional management towards data-driven smart management to oversee the country's extensive road network of approximately 600,000 kilometres.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_26cf7a7d37#15",
+    "doc_id": "vietnamnews_20261117_26cf7a7d37",
+    "sent_idx": 15,
+    "text": "The strategy focuses on three main areas: expanding the use of new technologies and materials; developing a national road database and digital governance systems; and advancing intelligent transport systems (ITS), electronic toll collection (ETC) and vehicle weight control.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_26cf7a7d37#16",
+    "doc_id": "vietnamnews_20261117_26cf7a7d37",
+    "sent_idx": 16,
+    "text": "The administration is developing a national ITS architecture framework as the foundation for a national ITS centre.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_26cf7a7d37#17",
+    "doc_id": "vietnamnews_20261117_26cf7a7d37",
+    "sent_idx": 17,
+    "text": "The operations centre for the eastern section of the North-South Expressway and the electronic road transport payment system have already been put into operation.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_26cf7a7d37#18",
+    "doc_id": "vietnamnews_20261117_26cf7a7d37",
+    "sent_idx": 18,
+    "text": "ITS technology enables traffic incidents to be automatically detected, monitored and reported.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_26cf7a7d37#19",
+    "doc_id": "vietnamnews_20261117_26cf7a7d37",
+    "sent_idx": 19,
+    "text": "It can reduce the time needed to detect and handle incidents by about 35-45 per cent, helping ease congestion and prevent multiple-vehicle accidents.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_26cf7a7d37#20",
+    "doc_id": "vietnamnews_20261117_26cf7a7d37",
+    "sent_idx": 20,
+    "text": "Meanwhile, ETC adoption in Việt Nam has exceeded 96 per cent, placing the country among those with the highest implementation rates worldwide.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_26cf7a7d37#21",
+    "doc_id": "vietnamnews_20261117_26cf7a7d37",
+    "sent_idx": 21,
+    "text": "From March 2 to the end of October 2026, toll collection on 15 publicly funded expressway sections generated more than VNĐ3.5 trillion, with over 37.5 million vehicle passages recorded at toll stations.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_26cf7a7d37#22",
+    "doc_id": "vietnamnews_20261117_26cf7a7d37",
+    "sent_idx": 22,
+    "text": "The administration is also accelerating the automation of vehicle weight control through high-speed dynamic weighing systems operating around the clock.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_26cf7a7d37#23",
+    "doc_id": "vietnamnews_20261117_26cf7a7d37",
+    "sent_idx": 23,
+    "text": "These are combined with AI-powered cameras to identify licence plates, record violations and enables fines to be issued without vehicles being stopped.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_26cf7a7d37#24",
+    "doc_id": "vietnamnews_20261117_26cf7a7d37",
+    "sent_idx": 24,
+    "text": "According to Thắng, these applications are helping improve management efficiency, enhance road safety, protect infrastructure assets and optimise the capacity of the road network.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_26cf7a7d37#25",
+    "doc_id": "vietnamnews_20261117_26cf7a7d37",
+    "sent_idx": 25,
+    "text": "For 2026-30, the administration aims to modernise all aspects of road investment, construction, management, maintenance and operation, with a target of developing 5,000 kilometres of smart expressways.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_26cf7a7d37#26",
+    "doc_id": "vietnamnews_20261117_26cf7a7d37",
+    "sent_idx": 26,
+    "text": "The plan is expected to contribute to the construction sector's double-digit growth ambitions.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_26cf7a7d37#27",
+    "doc_id": "vietnamnews_20261117_26cf7a7d37",
+    "sent_idx": 27,
+    "text": "Businesses step up technology research and transfer",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_26cf7a7d37#28",
+    "doc_id": "vietnamnews_20261117_26cf7a7d37",
+    "sent_idx": 28,
+    "text": "Nguyễn Quang Huy, general director of Đèo Cả Group, said technological innovation and improvements in management methods were important to raising productivity, quality, construction progress and investment efficiency in transport infrastructure projects.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_26cf7a7d37#29",
+    "doc_id": "vietnamnews_20261117_26cf7a7d37",
+    "sent_idx": 29,
+    "text": "Drawing on its experience in investing in and building transport infrastructure, Đèo Cả said promoting science, technology and innovation required closer coordination among state management agencies, businesses, research institutions and training establishments.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_26cf7a7d37#30",
+    "doc_id": "vietnamnews_20261117_26cf7a7d37",
+    "sent_idx": 30,
+    "text": "The group proposed promoting a tripartite cooperation model involving the State, universities and businesses, with closer coordination among government agencies, educational institutions, research institutes and companies in training, research and technology transfer.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_26cf7a7d37#31",
+    "doc_id": "vietnamnews_20261117_26cf7a7d37",
+    "sent_idx": 31,
+    "text": "Under the proposed approach, technical challenges arising from actual projects should serve as research topics and provide practical training opportunities.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_26cf7a7d37#32",
+    "doc_id": "vietnamnews_20261117_26cf7a7d37",
+    "sent_idx": 32,
+    "text": "Technology transfer should be linked to direct participation in construction work on site, enabling Vietnamese engineers and workers to gradually master technologies and independently organise and carry out complex technical tasks, the group said.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_26cf7a7d37#33",
+    "doc_id": "vietnamnews_20261117_26cf7a7d37",
+    "sent_idx": 33,
+    "text": "The Ministry of Construction said it would collate and consider the recommendations made at the conference to refine its priorities and solutions for advancing science and technology, innovation and digital transformation in the sector, in line with growth targets for the coming years.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_26cf7a7d37#34",
+    "doc_id": "vietnamnews_20261117_26cf7a7d37",
+    "sent_idx": 34,
+    "text": "The move also reflects a directive from the Prime Minister requiring ministries and agencies to review growth potential across sectors, regions, localities and value chains, identify bottlenecks and other issues requiring action, and put businesses at the centre of the process. - VNS",
+    "lang": "en",
+    "is_title": false
+  }
+]

@@ -1,0 +1,906 @@
+[
+  {
+    "sent_id": "vneconomy_en_20261112_d9bc9238ba#0",
+    "doc_id": "vneconomy_en_20261112_d9bc9238ba",
+    "sent_idx": 0,
+    "text": "Path to prosperity",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_d9bc9238ba#1",
+    "doc_id": "vneconomy_en_20261112_d9bc9238ba",
+    "sent_idx": 1,
+    "text": "As the end of 2026 comes into view, the year has provided important lessons on ensuring national energy security.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_d9bc9238ba#2",
+    "doc_id": "vneconomy_en_20261112_d9bc9238ba",
+    "sent_idx": 2,
+    "text": "Since late February, the Strait of Hormuz has been virtually closed, cutting global oil supplies by about 11 million barrels a day.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_d9bc9238ba#3",
+    "doc_id": "vneconomy_en_20261112_d9bc9238ba",
+    "sent_idx": 3,
+    "text": "Oil prices have exceeded $100 a barrel, with Brent crude recently closing at $116.93 a barrel.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_d9bc9238ba#4",
+    "doc_id": "vneconomy_en_20261112_d9bc9238ba",
+    "sent_idx": 4,
+    "text": "The International Energy Agency has had to release 400 million barrels from its strategic reserves; the largest release in its history.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_d9bc9238ba#5",
+    "doc_id": "vneconomy_en_20261112_d9bc9238ba",
+    "sent_idx": 5,
+    "text": "In Vietnam, on March 10, the Prime Minister instructed the Vietnam National Industry - Energy Group (Petrovietnam) to maximize production and study the establishment of a national crude oil reserve.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_d9bc9238ba#6",
+    "doc_id": "vneconomy_en_20261112_d9bc9238ba",
+    "sent_idx": 6,
+    "text": "Vietnam is also at a critical juncture.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_d9bc9238ba#7",
+    "doc_id": "vneconomy_en_20261112_d9bc9238ba",
+    "sent_idx": 7,
+    "text": "The National Assembly passed the new Law on Petroleum on August 23, which will take effect on March 1, 2027.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_d9bc9238ba#8",
+    "doc_id": "vneconomy_en_20261112_d9bc9238ba",
+    "sent_idx": 8,
+    "text": "The consultation period for the implementing decree ended on October 24, and the draft is scheduled to be submitted to the government in December.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_d9bc9238ba#9",
+    "doc_id": "vneconomy_en_20261112_d9bc9238ba",
+    "sent_idx": 9,
+    "text": "This leaves a limited window to draw on international experience and refine the institutional framework governing Vietnam's oil and gas industry.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_d9bc9238ba#10",
+    "doc_id": "vneconomy_en_20261112_d9bc9238ba",
+    "sent_idx": 10,
+    "text": "Countries organize their oil and gas industries in different ways, but four models offer particularly relevant lessons.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_d9bc9238ba#11",
+    "doc_id": "vneconomy_en_20261112_d9bc9238ba",
+    "sent_idx": 11,
+    "text": "The first is Norway, where the State clearly separates three functions.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_d9bc9238ba#12",
+    "doc_id": "vneconomy_en_20261112_d9bc9238ba",
+    "sent_idx": 12,
+    "text": "In 1971, before significant oil production began, Norway's parliament adopted ten principles governing the petroleum industry.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_d9bc9238ba#13",
+    "doc_id": "vneconomy_en_20261112_d9bc9238ba",
+    "sent_idx": 13,
+    "text": "In 1972, the country established Statoil, the national oil company, and the Norwegian Petroleum Directorate.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_d9bc9238ba#14",
+    "doc_id": "vneconomy_en_20261112_d9bc9238ba",
+    "sent_idx": 14,
+    "text": "Though the tax rate is high, at 78 per cent, it has remained unchanged for decades.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_d9bc9238ba#15",
+    "doc_id": "vneconomy_en_20261112_d9bc9238ba",
+    "sent_idx": 15,
+    "text": "Rather than spending oil revenues immediately, Norway channels them into a fund that is now worth more than $2 trillion.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_d9bc9238ba#16",
+    "doc_id": "vneconomy_en_20261112_d9bc9238ba",
+    "sent_idx": 16,
+    "text": "The government withdraws only about 3 per cent of the fund's value annually to finance the State budget.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_d9bc9238ba#17",
+    "doc_id": "vneconomy_en_20261112_d9bc9238ba",
+    "sent_idx": 17,
+    "text": "Geological data has been consolidated in a shared national database since 1995, and licensing rounds are held annually according to a publicly-announced schedule.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_d9bc9238ba#18",
+    "doc_id": "vneconomy_en_20261112_d9bc9238ba",
+    "sent_idx": 18,
+    "text": "The second model is Malaysia, where a single national company controls the entire industry.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_d9bc9238ba#19",
+    "doc_id": "vneconomy_en_20261112_d9bc9238ba",
+    "sent_idx": 19,
+    "text": "Under the 1974 Petroleum Development Act, all rights to petroleum resources were vested in Petronas.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_d9bc9238ba#20",
+    "doc_id": "vneconomy_en_20261112_d9bc9238ba",
+    "sent_idx": 20,
+    "text": "The company manages contractors, operates oil and gas fields directly, and invests in more than 20 countries and territories.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_d9bc9238ba#21",
+    "doc_id": "vneconomy_en_20261112_d9bc9238ba",
+    "sent_idx": 21,
+    "text": "It continually adjusts contract models to suit different types of fields, including small fields, mature fields nearing depletion, and deepwater developments.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_d9bc9238ba#22",
+    "doc_id": "vneconomy_en_20261112_d9bc9238ba",
+    "sent_idx": 22,
+    "text": "Petronas spends approximately MYR500 million ($122.6 million) annually on geological surveys and provides the resulting information to investors free of charge.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_d9bc9238ba#23",
+    "doc_id": "vneconomy_en_20261112_d9bc9238ba",
+    "sent_idx": 23,
+    "text": "In 2024, its upstream investment reached a record high.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_d9bc9238ba#24",
+    "doc_id": "vneconomy_en_20261112_d9bc9238ba",
+    "sent_idx": 24,
+    "text": "The third model is found in the Gulf, particularly Saudi Arabia and the United Arab Emirates, through Saudi Aramco and ADNOC.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_d9bc9238ba#25",
+    "doc_id": "vneconomy_en_20261112_d9bc9238ba",
+    "sent_idx": 25,
+    "text": "The States own these companies, but their accounting and performance measurement systems are rigorous.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_d9bc9238ba#26",
+    "doc_id": "vneconomy_en_20261112_d9bc9238ba",
+    "sent_idx": 26,
+    "text": "Neither company imposes fixed domestic procurement quotas on contractors.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_d9bc9238ba#27",
+    "doc_id": "vneconomy_en_20261112_d9bc9238ba",
+    "sent_idx": 27,
+    "text": "Rather, they score individual suppliers based on factors such as local manufacturing, wages paid to local workers, training, and research.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_d9bc9238ba#28",
+    "doc_id": "vneconomy_en_20261112_d9bc9238ba",
+    "sent_idx": 28,
+    "text": "These scores are independently audited and incorporated into tender evaluations.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_d9bc9238ba#29",
+    "doc_id": "vneconomy_en_20261112_d9bc9238ba",
+    "sent_idx": 29,
+    "text": "The fourth model is represented by Brazil and Guyana, which have opened their markets to foreign investors and required national oil companies to compete.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_d9bc9238ba#30",
+    "doc_id": "vneconomy_en_20261112_d9bc9238ba",
+    "sent_idx": 30,
+    "text": "In 2016, Brazil removed the requirement for Petrobras to serve as the operator of every project and relaxed local content requirements.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_d9bc9238ba#31",
+    "doc_id": "vneconomy_en_20261112_d9bc9238ba",
+    "sent_idx": 31,
+    "text": "Oil production subsequently increased by half over nine years, reaching a record 3.77 million barrels a day.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_d9bc9238ba#32",
+    "doc_id": "vneconomy_en_20261112_d9bc9238ba",
+    "sent_idx": 32,
+    "text": "Guyana discovered oil in May 2015 and began production in December 2019, in less than five years.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_d9bc9238ba#33",
+    "doc_id": "vneconomy_en_20261112_d9bc9238ba",
+    "sent_idx": 33,
+    "text": "Its current production has reached 750,000 barrels a day.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_d9bc9238ba#34",
+    "doc_id": "vneconomy_en_20261112_d9bc9238ba",
+    "sent_idx": 34,
+    "text": "South Korea provides another distinctive example.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_d9bc9238ba#35",
+    "doc_id": "vneconomy_en_20261112_d9bc9238ba",
+    "sent_idx": 35,
+    "text": "Though the country has no domestic oil production, it has a refining capacity of 3.4 million barrels a day, exports $45 billion worth of petroleum products annually, and accounted for more than 90 per cent of global orders for liquefied natural gas carriers in 2025.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_d9bc9238ba#36",
+    "doc_id": "vneconomy_en_20261112_d9bc9238ba",
+    "sent_idx": 36,
+    "text": "However, no model is perfect.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_d9bc9238ba#37",
+    "doc_id": "vneconomy_en_20261112_d9bc9238ba",
+    "sent_idx": 37,
+    "text": "Norway's greatest strengths are stability and fiscal discipline.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_d9bc9238ba#38",
+    "doc_id": "vneconomy_en_20261112_d9bc9238ba",
+    "sent_idx": 38,
+    "text": "Its sovereign wealth fund now finances more than a quarter of government spending, and its investment returns have exceeded twice the total amount of petroleum revenue contributed to it.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_d9bc9238ba#39",
+    "doc_id": "vneconomy_en_20261112_d9bc9238ba",
+    "sent_idx": 39,
+    "text": "However, this model requires highly-capable institutions and substantial natural resources.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_d9bc9238ba#40",
+    "doc_id": "vneconomy_en_20261112_d9bc9238ba",
+    "sent_idx": 40,
+    "text": "Many countries have attempted to replicate it without success.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_d9bc9238ba#41",
+    "doc_id": "vneconomy_en_20261112_d9bc9238ba",
+    "sent_idx": 41,
+    "text": "Across the North Sea, by contrast, the UK offers a cautionary tale.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_d9bc9238ba#42",
+    "doc_id": "vneconomy_en_20261112_d9bc9238ba",
+    "sent_idx": 42,
+    "text": "Despite sharing the same offshore basin, the UK changed its tax regime eight times from 2002 onward.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_d9bc9238ba#43",
+    "doc_id": "vneconomy_en_20261112_d9bc9238ba",
+    "sent_idx": 43,
+    "text": "Within just two years, the tax rate on energy profits rose from 25 per cent to 38 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_d9bc9238ba#44",
+    "doc_id": "vneconomy_en_20261112_d9bc9238ba",
+    "sent_idx": 44,
+    "text": "The consequences included a decline in projected tax revenue from £65.7 billion to £21.1 billion ($87.8 billion to $28.2 billion), investor withdrawals, and production falling to just one-fifth of its peak.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_d9bc9238ba#45",
+    "doc_id": "vneconomy_en_20261112_d9bc9238ba",
+    "sent_idx": 45,
+    "text": "The country also failed to set aside any petroleum revenue for future generations.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_d9bc9238ba#46",
+    "doc_id": "vneconomy_en_20261112_d9bc9238ba",
+    "sent_idx": 46,
+    "text": "Malaysia excels in flexibility and commercial capability, but Petronas acting as both referee and player raises ongoing questions about transparency.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_d9bc9238ba#47",
+    "doc_id": "vneconomy_en_20261112_d9bc9238ba",
+    "sent_idx": 47,
+    "text": "Malaysia's State budget relied on oil and gas for as much as 35 per cent of revenue in 2015, but the share has since fallen to 12.5 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_d9bc9238ba#48",
+    "doc_id": "vneconomy_en_20261112_d9bc9238ba",
+    "sent_idx": 48,
+    "text": "Oil production has halved, and the country became a net oil importer in 2014.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_d9bc9238ba#49",
+    "doc_id": "vneconomy_en_20261112_d9bc9238ba",
+    "sent_idx": 49,
+    "text": "More recently, a dispute between Petronas and the state of Sarawak over gas distribution rights prompted ConocoPhillips to withdraw from a deepwater project.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_d9bc9238ba#50",
+    "doc_id": "vneconomy_en_20261112_d9bc9238ba",
+    "sent_idx": 50,
+    "text": "The Gulf states, meanwhile, have developed effective methods for measuring local content.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_d9bc9238ba#51",
+    "doc_id": "vneconomy_en_20261112_d9bc9238ba",
+    "sent_idx": 51,
+    "text": "Saudi Aramco increased its local content ratio from 35 per cent in 2015 to 70 per cent in 2025, generating more than 200,000 jobs.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_d9bc9238ba#52",
+    "doc_id": "vneconomy_en_20261112_d9bc9238ba",
+    "sent_idx": 52,
+    "text": "However, these countries possess financial resources on a scale unavailable to Vietnam.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_d9bc9238ba#53",
+    "doc_id": "vneconomy_en_20261112_d9bc9238ba",
+    "sent_idx": 53,
+    "text": "So, while Vietnam cannot replicate their scale, it can adopt their methods for assessing local content.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_d9bc9238ba#54",
+    "doc_id": "vneconomy_en_20261112_d9bc9238ba",
+    "sent_idx": 54,
+    "text": "Brazil has strong deepwater technology capabilities, but its experience also includes a major policy failure.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_d9bc9238ba#55",
+    "doc_id": "vneconomy_en_20261112_d9bc9238ba",
+    "sent_idx": 55,
+    "text": "Between 2010 and 2016, the government required Petrobras to operate every block and imposed local content requirements of 55-65 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_d9bc9238ba#56",
+    "doc_id": "vneconomy_en_20261112_d9bc9238ba",
+    "sent_idx": 56,
+    "text": "Projects were delayed, costs escalated, and a major corruption scandal wiped BRL50 billion ($9.3 billion) off Petrobras' value, leaving the company with $132 billion in debt.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_d9bc9238ba#57",
+    "doc_id": "vneconomy_en_20261112_d9bc9238ba",
+    "sent_idx": 57,
+    "text": "Recovery began only after the law was amended in 2016.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_d9bc9238ba#58",
+    "doc_id": "vneconomy_en_20261112_d9bc9238ba",
+    "sent_idx": 58,
+    "text": "Political intervention has since begun to return: in 2026, Brazil imposed a crude oil export tax to subsidize diesel prices.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_d9bc9238ba#59",
+    "doc_id": "vneconomy_en_20261112_d9bc9238ba",
+    "sent_idx": 59,
+    "text": "Indonesia and Mexico offer two of the clearest examples of failure.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_d9bc9238ba#60",
+    "doc_id": "vneconomy_en_20261112_d9bc9238ba",
+    "sent_idx": 60,
+    "text": "Indonesia was once an OPEC member, producing 1.4 million barrels a day.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_d9bc9238ba#61",
+    "doc_id": "vneconomy_en_20261112_d9bc9238ba",
+    "sent_idx": 61,
+    "text": "Production has since fallen to 580,000 barrels a day, and the country has had to import oil since 2004.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_d9bc9238ba#62",
+    "doc_id": "vneconomy_en_20261112_d9bc9238ba",
+    "sent_idx": 62,
+    "text": "This decline was not simply the result of depleted reserves; the regulatory framework also changed repeatedly.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_d9bc9238ba#63",
+    "doc_id": "vneconomy_en_20261112_d9bc9238ba",
+    "sent_idx": 63,
+    "text": "Indonesia dissolved its regulatory agency in 2012, changed its contract model in 2017, revised it again in 2020, and amended it once more in 2024.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_d9bc9238ba#64",
+    "doc_id": "vneconomy_en_20261112_d9bc9238ba",
+    "sent_idx": 64,
+    "text": "The Abadi gas field, discovered in 2000, has yet to see a final investment decision made.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_d9bc9238ba#65",
+    "doc_id": "vneconomy_en_20261112_d9bc9238ba",
+    "sent_idx": 65,
+    "text": "Overall, unsuccessful models share three characteristics: frequent changes to the rules, national oil companies burdened with excessive political responsibilities beyond commercial objectives, and petroleum revenues being spent rather than reinvested.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_d9bc9238ba#66",
+    "doc_id": "vneconomy_en_20261112_d9bc9238ba",
+    "sent_idx": 66,
+    "text": "Vietnam has used production-sharing contracts since the 1980s, similar to Malaysia and Indonesia.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_d9bc9238ba#67",
+    "doc_id": "vneconomy_en_20261112_d9bc9238ba",
+    "sent_idx": 67,
+    "text": "Petrovietnam acts both as a contractor and as an entity carrying out State-assigned responsibilities, making its structure more comparable to Petronas.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_d9bc9238ba#68",
+    "doc_id": "vneconomy_en_20261112_d9bc9238ba",
+    "sent_idx": 68,
+    "text": "The Ministry of Industry and Trade oversees State management, while the government makes major decisions.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_d9bc9238ba#69",
+    "doc_id": "vneconomy_en_20261112_d9bc9238ba",
+    "sent_idx": 69,
+    "text": "Vietnam's performance presents both achievements and challenges.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_d9bc9238ba#70",
+    "doc_id": "vneconomy_en_20261112_d9bc9238ba",
+    "sent_idx": 70,
+    "text": "Oil production increased in 2025 for the first time after eleven consecutive years of decline.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_d9bc9238ba#71",
+    "doc_id": "vneconomy_en_20261112_d9bc9238ba",
+    "sent_idx": 71,
+    "text": "Domestic production rose by 10.4 per cent in the first nine months of 2026.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_d9bc9238ba#72",
+    "doc_id": "vneconomy_en_20261112_d9bc9238ba",
+    "sent_idx": 72,
+    "text": "Petrovietnam contributed nearly VND166 trillion ($6.38 billion) to the State budget, accounting for 7-8 per cent of total revenue.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_d9bc9238ba#73",
+    "doc_id": "vneconomy_en_20261112_d9bc9238ba",
+    "sent_idx": 73,
+    "text": "The PetroVietnam Technical Services Corporation (PTSC) has also exported offshore wind turbine foundations and substations to Taiwan (China) and Europe, using fabrication facilities originally developed for oil and gas platforms.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_d9bc9238ba#74",
+    "doc_id": "vneconomy_en_20261112_d9bc9238ba",
+    "sent_idx": 74,
+    "text": "However, oil production remains only about half its 2004 peak.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_d9bc9238ba#75",
+    "doc_id": "vneconomy_en_20261112_d9bc9238ba",
+    "sent_idx": 75,
+    "text": "The Bach Ho field has been producing for 40 years, while the remaining potential lies in deepwater and remote offshore areas with higher risks.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_d9bc9238ba#76",
+    "doc_id": "vneconomy_en_20261112_d9bc9238ba",
+    "sent_idx": 76,
+    "text": "Vietnam's petroleum reserves also remain below the target of 90 days of net imports set by Politburo Resolution No. 70 for 2030.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_d9bc9238ba#77",
+    "doc_id": "vneconomy_en_20261112_d9bc9238ba",
+    "sent_idx": 77,
+    "text": "The Law on Petroleum 2026 addresses several of these challenges.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_d9bc9238ba#78",
+    "doc_id": "vneconomy_en_20261112_d9bc9238ba",
+    "sent_idx": 78,
+    "text": "It retains the preferential tax rates introduced in 2022, avoiding disruption to the existing fiscal framework.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_d9bc9238ba#79",
+    "doc_id": "vneconomy_en_20261112_d9bc9238ba",
+    "sent_idx": 79,
+    "text": "It introduces specific mechanisms for marginal fields, provides an additional 10 per cent in cost recovery for operators applying enhanced oil recovery technologies, expands opportunities for late-life field development, grants Petrovietnam greater approval authority, and introduces, for the first time, provisions on CO2 storage and offshore energy.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_d9bc9238ba#80",
+    "doc_id": "vneconomy_en_20261112_d9bc9238ba",
+    "sent_idx": 80,
+    "text": "Compared with international models, Vietnam resembles Norway in maintaining State control over petroleum resources, but differs in three important respects: it lacks an open data repository, does not have an annual licensing schedule, and has not clearly separated Petrovietnam's commercial operations from its State-assigned political responsibilities.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_d9bc9238ba#81",
+    "doc_id": "vneconomy_en_20261112_d9bc9238ba",
+    "sent_idx": 81,
+    "text": "Vietnam's institutional structure also resembles Malaysia's, exposing it to similar risks arising from the national oil company's dual role.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_d9bc9238ba#82",
+    "doc_id": "vneconomy_en_20261112_d9bc9238ba",
+    "sent_idx": 82,
+    "text": "It could face problems similar to those experienced by Indonesia if implementing regulations are repeatedly revised.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_d9bc9238ba#83",
+    "doc_id": "vneconomy_en_20261112_d9bc9238ba",
+    "sent_idx": 83,
+    "text": "Vietnam has already amended its Law on Petroleum just three years after the previous version.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_d9bc9238ba#84",
+    "doc_id": "vneconomy_en_20261112_d9bc9238ba",
+    "sent_idx": 84,
+    "text": "It could also follow Mexico's trajectory if Petrovietnam is assigned too many unprofitable responsibilities without transparent compensation.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_d9bc9238ba#85",
+    "doc_id": "vneconomy_en_20261112_d9bc9238ba",
+    "sent_idx": 85,
+    "text": "Vietnam should not copy any single international model wholesale.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_d9bc9238ba#86",
+    "doc_id": "vneconomy_en_20261112_d9bc9238ba",
+    "sent_idx": 86,
+    "text": "Rather, it should combine Norway's principles, Malaysia's operating flexibility, and the Gulf states' methods of measuring local content, while avoiding the mistakes made by Indonesia and Mexico.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_d9bc9238ba#87",
+    "doc_id": "vneconomy_en_20261112_d9bc9238ba",
+    "sent_idx": 87,
+    "text": "From Norway, Vietnam can draw three key principles.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_d9bc9238ba#88",
+    "doc_id": "vneconomy_en_20261112_d9bc9238ba",
+    "sent_idx": 88,
+    "text": "First, stability is the greatest incentive for investors.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_d9bc9238ba#89",
+    "doc_id": "vneconomy_en_20261112_d9bc9238ba",
+    "sent_idx": 89,
+    "text": "Implementing regulations should uphold the principle of non-retroactivity and remain unchanged for years once issued.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_d9bc9238ba#90",
+    "doc_id": "vneconomy_en_20261112_d9bc9238ba",
+    "sent_idx": 90,
+    "text": "Second, data is among the least costly incentives.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_d9bc9238ba#91",
+    "doc_id": "vneconomy_en_20261112_d9bc9238ba",
+    "sent_idx": 91,
+    "text": "Third, political responsibilities must be separated clearly from commercial performance.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_d9bc9238ba#92",
+    "doc_id": "vneconomy_en_20261112_d9bc9238ba",
+    "sent_idx": 92,
+    "text": "From Malaysia, Vietnam can learn to tailor contracts to different field characteristics.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_d9bc9238ba#93",
+    "doc_id": "vneconomy_en_20261112_d9bc9238ba",
+    "sent_idx": 93,
+    "text": "Each type of field should have an appropriate contract model, while licensing rounds should follow a publicly announced annual schedule.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_d9bc9238ba#94",
+    "doc_id": "vneconomy_en_20261112_d9bc9238ba",
+    "sent_idx": 94,
+    "text": "Geological survey information should be provided free of charge to attract investors.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_d9bc9238ba#95",
+    "doc_id": "vneconomy_en_20261112_d9bc9238ba",
+    "sent_idx": 95,
+    "text": "The Vietsovpetro joint venture agreement expires in 2030, making this an opportune time to apply the extension provisions and late-life field contract mechanisms introduced under the 2026 law to the Bach Ho field.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_d9bc9238ba#96",
+    "doc_id": "vneconomy_en_20261112_d9bc9238ba",
+    "sent_idx": 96,
+    "text": "From the Gulf states, Vietnam should adopt more sophisticated approaches to increasing local content.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_d9bc9238ba#97",
+    "doc_id": "vneconomy_en_20261112_d9bc9238ba",
+    "sent_idx": 97,
+    "text": "The draft implementing decree already proposes awarding additional technical points to contractors that commit to using domestic high-tech services.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_d9bc9238ba#98",
+    "doc_id": "vneconomy_en_20261112_d9bc9238ba",
+    "sent_idx": 98,
+    "text": "Vietnam should go further by introducing independently audited local content certificates with weights disclosed in advance.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_d9bc9238ba#99",
+    "doc_id": "vneconomy_en_20261112_d9bc9238ba",
+    "sent_idx": 99,
+    "text": "At the same time, it should avoid Brazil's mistake of imposing rigid quotas.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_d9bc9238ba#100",
+    "doc_id": "vneconomy_en_20261112_d9bc9238ba",
+    "sent_idx": 100,
+    "text": "Finally, Vietnam should learn from South Korea in establishing strategic petroleum reserves.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_d9bc9238ba#101",
+    "doc_id": "vneconomy_en_20261112_d9bc9238ba",
+    "sent_idx": 101,
+    "text": "South Korea maintains reserves equivalent to approximately 200 days of consumption and released 22 million barrels during the first month of the Strait of Hormuz crisis.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_d9bc9238ba#102",
+    "doc_id": "vneconomy_en_20261112_d9bc9238ba",
+    "sent_idx": 102,
+    "text": "Strategic reserves represent a cost today, but they are essential to safeguarding national sovereignty tomorrow.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_d9bc9238ba#103",
+    "doc_id": "vneconomy_en_20261112_d9bc9238ba",
+    "sent_idx": 103,
+    "text": "Norway is an important partner that deserves particular attention.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_d9bc9238ba#104",
+    "doc_id": "vneconomy_en_20261112_d9bc9238ba",
+    "sent_idx": 104,
+    "text": "It has supported Vietnam's oil and gas sector since 1977, when the Petroleum Institute was established with Norwegian assistance.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_d9bc9238ba#105",
+    "doc_id": "vneconomy_en_20261112_d9bc9238ba",
+    "sent_idx": 105,
+    "text": "Norway has helped Vietnam develop its resource database and safety and environmental systems, and supported amendments to the Law on Petroleum in 2008.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_d9bc9238ba#106",
+    "doc_id": "vneconomy_en_20261112_d9bc9238ba",
+    "sent_idx": 106,
+    "text": "On October 18, Vietnam signed a free trade agreement with the European Free Trade Association, of which Norway is a member.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_d9bc9238ba#107",
+    "doc_id": "vneconomy_en_20261112_d9bc9238ba",
+    "sent_idx": 107,
+    "text": "This creates an opportunity to deepen cooperation and draw further lessons from the Norwegian experience.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_d9bc9238ba#108",
+    "doc_id": "vneconomy_en_20261112_d9bc9238ba",
+    "sent_idx": 108,
+    "text": "Oil and gas resources may be a gift of nature, but a successful petroleum industry is built by people through effective institutions.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_d9bc9238ba#109",
+    "doc_id": "vneconomy_en_20261112_d9bc9238ba",
+    "sent_idx": 109,
+    "text": "Norway did not become wealthy simply because it had oil; many countries possess oil and remain poor.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_d9bc9238ba#110",
+    "doc_id": "vneconomy_en_20261112_d9bc9238ba",
+    "sent_idx": 110,
+    "text": "Norway prospered because it chose the right approach in 1971 and maintained it consistently for half a century.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_d9bc9238ba#111",
+    "doc_id": "vneconomy_en_20261112_d9bc9238ba",
+    "sent_idx": 111,
+    "text": "The Law on Petroleum 2026 has created new opportunities for Vietnam's oil and gas industry to develop further.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_d9bc9238ba#112",
+    "doc_id": "vneconomy_en_20261112_d9bc9238ba",
+    "sent_idx": 112,
+    "text": "If the forthcoming implementing decree can preserve Norway's stability, Malaysia's flexibility, and the Gulf states' approach to local content while avoiding the mistakes of Indonesia and Mexico, the sector will not only make a significant contribution to Vietnam's goal of achieving double-digit economic growth but also become a foundation for a modern offshore energy industry.",
+    "lang": "en",
+    "is_title": false
+  }
+]

@@ -1,0 +1,290 @@
+[
+  {
+    "sent_id": "vietnamnews_20261027_02a8c6bd2e#0",
+    "doc_id": "vietnamnews_20261027_02a8c6bd2e",
+    "sent_idx": 0,
+    "text": "From scale to value: Việt Nam's agro-forestry exports need control of the value chain",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261027_02a8c6bd2e#1",
+    "doc_id": "vietnamnews_20261027_02a8c6bd2e",
+    "sent_idx": 1,
+    "text": "HÀ NỘI - Việt Nam has become a major supplier to global agricultural and forestry markets, but its export strength has yet to translate into matching market power.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_02a8c6bd2e#2",
+    "doc_id": "vietnamnews_20261027_02a8c6bd2e",
+    "sent_idx": 2,
+    "text": "While the country has improved its production capacity and moved further into processing, the high-value links in many supply chains, such as technology, branding, standards, data and decision-making, remain largely in foreign hands.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_02a8c6bd2e#3",
+    "doc_id": "vietnamnews_20261027_02a8c6bd2e",
+    "sent_idx": 3,
+    "text": "Việt Nam must now move beyond its strength in production to gain greater control over the value chain.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_02a8c6bd2e#4",
+    "doc_id": "vietnamnews_20261027_02a8c6bd2e",
+    "sent_idx": 4,
+    "text": "Wood, coffee, rubber, pepper, rice and other agricultural and forestry products have established a strong presence in international markets.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_02a8c6bd2e#5",
+    "doc_id": "vietnamnews_20261027_02a8c6bd2e",
+    "sent_idx": 5,
+    "text": "Many businesses have shifted from exporting raw materials to processing and developing branded products with higher value added.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_02a8c6bd2e#6",
+    "doc_id": "vietnamnews_20261027_02a8c6bd2e",
+    "sent_idx": 6,
+    "text": "The country's strategic location, free trade agreements and diverse product portfolio further strengthen its position as a global supplier.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_02a8c6bd2e#7",
+    "doc_id": "vietnamnews_20261027_02a8c6bd2e",
+    "sent_idx": 7,
+    "text": "Việt Nam also participates in international and regional organisations covering key industries, including the International Coffee Organisation (ICO), the International Tropical Timber Organisation (ITTO) and the Association of Natural Rubber Producing Countries (ANRPC).",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_02a8c6bd2e#8",
+    "doc_id": "vietnamnews_20261027_02a8c6bd2e",
+    "sent_idx": 8,
+    "text": "Yet the country faces a fundamental paradox: it can produce on a large scale and serve major markets, but it does not control what ultimately determines the value of its products.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_02a8c6bd2e#9",
+    "doc_id": "vietnamnews_20261027_02a8c6bd2e",
+    "sent_idx": 9,
+    "text": "The wood industry illustrates this gap.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_02a8c6bd2e#10",
+    "doc_id": "vietnamnews_20261027_02a8c6bd2e",
+    "sent_idx": 10,
+    "text": "Exports of wood and wood products reached approximately US$17.2 billion last year, placing Việt Nam among the world's five largest exporters.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_02a8c6bd2e#11",
+    "doc_id": "vietnamnews_20261027_02a8c6bd2e",
+    "sent_idx": 11,
+    "text": "The industry has developed a relatively comprehensive supply chain, drawing on domestic raw materials and generating substantial local value added.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_02a8c6bd2e#12",
+    "doc_id": "vietnamnews_20261027_02a8c6bd2e",
+    "sent_idx": 12,
+    "text": "Nevertheless, Nguyễn Quốc Khanh, chairman of the Vietnam Timber and Forest Products Association (VIFOREST), said the industry remained concentrated at the manufacturing end of the supply chain.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_02a8c6bd2e#13",
+    "doc_id": "vietnamnews_20261027_02a8c6bd2e",
+    "sent_idx": 13,
+    "text": "Production largely follows the original equipment manufacturing (OEM) model, while original design manufacturing (ODM) and original brand manufacturing (OBM) remain limited.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_02a8c6bd2e#14",
+    "doc_id": "vietnamnews_20261027_02a8c6bd2e",
+    "sent_idx": 14,
+    "text": "This means manufacturing capacity has outpaced capabilities in product design, branding and market positioning.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_02a8c6bd2e#15",
+    "doc_id": "vietnamnews_20261027_02a8c6bd2e",
+    "sent_idx": 15,
+    "text": "Dependence on buyers' orders and designs limits businesses' ability to influence pricing and capture greater value.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_02a8c6bd2e#16",
+    "doc_id": "vietnamnews_20261027_02a8c6bd2e",
+    "sent_idx": 16,
+    "text": "Coffee faces a similar challenge.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_02a8c6bd2e#17",
+    "doc_id": "vietnamnews_20261027_02a8c6bd2e",
+    "sent_idx": 17,
+    "text": "Việt Nam is a global powerhouse in robusta production and exports, but Thái Như Hiệp, vice chairman of the Vietnam Coffee and Cocoa Association (VICOFA), said the country was known more for quantity than for quality, limiting its ability to shape the market.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_02a8c6bd2e#18",
+    "doc_id": "vietnamnews_20261027_02a8c6bd2e",
+    "sent_idx": 18,
+    "text": "To make quality a competitive advantage, the industry needs consistent standards covering agricultural inputs, growing areas, traceability, data transparency and sustainable production.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_02a8c6bd2e#19",
+    "doc_id": "vietnamnews_20261027_02a8c6bd2e",
+    "sent_idx": 19,
+    "text": "Requirements under the EU-Việt Nam Free Trade Agreement (EVFTA) and the European Union Deforestation Regulation (EUDR) should be seen not merely as compliance burdens but as opportunities to build stronger capabilities.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_02a8c6bd2e#20",
+    "doc_id": "vietnamnews_20261027_02a8c6bd2e",
+    "sent_idx": 20,
+    "text": "The rubber industry faces the same pressure.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_02a8c6bd2e#21",
+    "doc_id": "vietnamnews_20261027_02a8c6bd2e",
+    "sent_idx": 21,
+    "text": "Despite being one of the world's largest natural rubber producers and exporters, Việt Nam still relies heavily on raw material sales.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_02a8c6bd2e#22",
+    "doc_id": "vietnamnews_20261027_02a8c6bd2e",
+    "sent_idx": 22,
+    "text": "Nguyễn Viết Tượng, former vice chairman of the Vietnam Rubber Association, said the industry needed to shift from selling raw materials to selling value, underpinned by technology, data and standards.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_02a8c6bd2e#23",
+    "doc_id": "vietnamnews_20261027_02a8c6bd2e",
+    "sent_idx": 23,
+    "text": "This requires an integrated ecosystem linking processors, traders, smallholder farmers, research institutes, universities and financial institutions.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_02a8c6bd2e#24",
+    "doc_id": "vietnamnews_20261027_02a8c6bd2e",
+    "sent_idx": 24,
+    "text": "Large enterprises can lead technology development and work with foreign-invested enterprises to produce higher-value rubber products.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_02a8c6bd2e#25",
+    "doc_id": "vietnamnews_20261027_02a8c6bd2e",
+    "sent_idx": 25,
+    "text": "Smallholders, meanwhile, need support in adopting sustainability standards, reducing emissions and embracing green production and circular economy practices.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_02a8c6bd2e#26",
+    "doc_id": "vietnamnews_20261027_02a8c6bd2e",
+    "sent_idx": 26,
+    "text": "Across these industries, large-scale production has enabled Việt Nam to integrate deeply into global markets, but output alone does not confer market power.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_02a8c6bd2e#27",
+    "doc_id": "vietnamnews_20261027_02a8c6bd2e",
+    "sent_idx": 27,
+    "text": "That power depends on control over the links that determine value, from technology and design to branding, standards, data and market intelligence.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_02a8c6bd2e#28",
+    "doc_id": "vietnamnews_20261027_02a8c6bd2e",
+    "sent_idx": 28,
+    "text": "Khanh said the wood industry should develop five- to ten-year strategies rather than simply react to tariffs and market fluctuations.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_02a8c6bd2e#29",
+    "doc_id": "vietnamnews_20261027_02a8c6bd2e",
+    "sent_idx": 29,
+    "text": "Priorities include strengthening design capabilities, building brands and adopting artificial intelligence and advanced manufacturing technologies, and working more closely with foreign-invested businesses and regional partners.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_02a8c6bd2e#30",
+    "doc_id": "vietnamnews_20261027_02a8c6bd2e",
+    "sent_idx": 30,
+    "text": "Diversifying agricultural products and export markets is equally important.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_02a8c6bd2e#31",
+    "doc_id": "vietnamnews_20261027_02a8c6bd2e",
+    "sent_idx": 31,
+    "text": "Lê Anh Dũng, general director of Vegetexco Vietnam, said Việt Nam had further growth potential in fruit and vegetables, processed foods and products tailored to changing consumer demand, alongside established exports such as wood, rice, coffee, cashew nuts and pepper.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_02a8c6bd2e#32",
+    "doc_id": "vietnamnews_20261027_02a8c6bd2e",
+    "sent_idx": 32,
+    "text": "A broader range of products, customers and markets would help businesses better withstand trade disruptions.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_02a8c6bd2e#33",
+    "doc_id": "vietnamnews_20261027_02a8c6bd2e",
+    "sent_idx": 33,
+    "text": "But diversification is only part of the solution.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_02a8c6bd2e#34",
+    "doc_id": "vietnamnews_20261027_02a8c6bd2e",
+    "sent_idx": 34,
+    "text": "Việt Nam must ensure its exports are built not only on low costs and production capacity but also on homegrown technology, standards, brands, data and innovation.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_02a8c6bd2e#35",
+    "doc_id": "vietnamnews_20261027_02a8c6bd2e",
+    "sent_idx": 35,
+    "text": "By moving beyond compliance to help shape standards and gain greater control over technology, design and branding, the country can turn export strength into lasting influence in global markets. - VNS",
+    "lang": "en",
+    "is_title": false
+  }
+]

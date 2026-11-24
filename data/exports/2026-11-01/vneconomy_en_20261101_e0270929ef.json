@@ -1,0 +1,594 @@
+[
+  {
+    "sent_id": "vneconomy_en_20261101_e0270929ef#0",
+    "doc_id": "vneconomy_en_20261101_e0270929ef",
+    "sent_idx": 0,
+    "text": "Window of opportunity",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vneconomy_en_20261101_e0270929ef#1",
+    "doc_id": "vneconomy_en_20261101_e0270929ef",
+    "sent_idx": 1,
+    "text": "Oil has helped shape the global energy, industrial, and geopolitical landscape for more than a century, but a new shift has been ushered in over recent times.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261101_e0270929ef#2",
+    "doc_id": "vneconomy_en_20261101_e0270929ef",
+    "sent_idx": 2,
+    "text": "Upon seas once used primarily for shipping, fishing, and oil and gas extraction, vast clusters of turbines are increasingly converting wind into electricity at scales of hundreds of megawatts and even gigawatts.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261101_e0270929ef#3",
+    "doc_id": "vneconomy_en_20261101_e0270929ef",
+    "sent_idx": 3,
+    "text": "Yet the value of offshore wind extends far beyond electricity generation.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261101_e0270929ef#4",
+    "doc_id": "vneconomy_en_20261101_e0270929ef",
+    "sent_idx": 4,
+    "text": "A project typically operates for decades, supporting an extensive industrial ecosystem spanning engineering, offshore structures, power cables, ports, specialized vessels, logistics, finance, maintenance, and digital technologies.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261101_e0270929ef#5",
+    "doc_id": "vneconomy_en_20261101_e0270929ef",
+    "sent_idx": 5,
+    "text": "Global competition in offshore wind is therefore becoming a contest over industrial capabilities and the ability to retain value domestically, rather than simply a race to install generating capacity.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261101_e0270929ef#6",
+    "doc_id": "vneconomy_en_20261101_e0270929ef",
+    "sent_idx": 6,
+    "text": "Many countries recognize offshore wind as a driver of the blue marine economy, with benefits extending to manufacturing, ports, logistics, engineering services, finance, workforce development, and innovation.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261101_e0270929ef#7",
+    "doc_id": "vneconomy_en_20261101_e0270929ef",
+    "sent_idx": 7,
+    "text": "For Vietnam, the key question is not simply how much offshore wind potential the country possesses, but how much of that potential can be converted into domestic manufacturing, technology, high-skilled jobs, and value-added.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261101_e0270929ef#8",
+    "doc_id": "vneconomy_en_20261101_e0270929ef",
+    "sent_idx": 8,
+    "text": "The revised National Power Development Plan VIII (PDP8), approved in 2025, identifies approximately 600,000 MW of technical offshore wind potential for electricity generation and new energy production.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261101_e0270929ef#9",
+    "doc_id": "vneconomy_en_20261101_e0270929ef",
+    "sent_idx": 9,
+    "text": "Capacity serving domestic electricity demand is targeted at 6,000-17,032 MW by 2030-2035, rising to 113,000-139,097 MW by 2050.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261101_e0270929ef#10",
+    "doc_id": "vneconomy_en_20261101_e0270929ef",
+    "sent_idx": 10,
+    "text": "The plan also envisions 15,000 MW of offshore wind capacity for new energy production by 2035 and 240,000 MW by 2050.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261101_e0270929ef#11",
+    "doc_id": "vneconomy_en_20261101_e0270929ef",
+    "sent_idx": 11,
+    "text": "Resolution No. 20-NQ/TW, dated July 28, 2026, on building and developing Vietnam into a strong maritime nation, subsequently established a target of 6-10 GW of offshore wind capacity by 2030.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261101_e0270929ef#12",
+    "doc_id": "vneconomy_en_20261101_e0270929ef",
+    "sent_idx": 12,
+    "text": "This marks an important shift: offshore wind is no longer viewed solely as a component of the energy system but is explicitly recognized as an emerging marine industry central to Vietnam's ambition to become a strong maritime nation.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261101_e0270929ef#13",
+    "doc_id": "vneconomy_en_20261101_e0270929ef",
+    "sent_idx": 13,
+    "text": "However, the targets are ambitious given current conditions.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261101_e0270929ef#14",
+    "doc_id": "vneconomy_en_20261101_e0270929ef",
+    "sent_idx": 14,
+    "text": "As of early October, no offshore wind project in Vietnam had completed all legal procedures required to proceed with investment and construction.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261101_e0270929ef#15",
+    "doc_id": "vneconomy_en_20261101_e0270929ef",
+    "sent_idx": 15,
+    "text": "If the legal framework remains incomplete for much longer, achieving the 6,000 MW target by 2030 will become considerably more difficult.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261101_e0270929ef#16",
+    "doc_id": "vneconomy_en_20261101_e0270929ef",
+    "sent_idx": 16,
+    "text": "Vietnam must therefore approach offshore wind as a marine industrial policy priority, rather than merely a subsector of energy policy.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261101_e0270929ef#17",
+    "doc_id": "vneconomy_en_20261101_e0270929ef",
+    "sent_idx": 17,
+    "text": "First, marine data must be the initial step.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261101_e0270929ef#18",
+    "doc_id": "vneconomy_en_20261101_e0270929ef",
+    "sent_idx": 18,
+    "text": "High wind speeds alone do not make a site suitable for offshore wind.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261101_e0270929ef#19",
+    "doc_id": "vneconomy_en_20261101_e0270929ef",
+    "sent_idx": 19,
+    "text": "Investors also need reliable information on seabed geology, water depth, foundation requirements, ocean currents, wave conditions, grid connections, and potential overlaps with shipping lanes, fishing grounds, protected areas, and national defense and security zones.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261101_e0270929ef#20",
+    "doc_id": "vneconomy_en_20261101_e0270929ef",
+    "sent_idx": 20,
+    "text": "Second, marine spatial planning must guide development.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261101_e0270929ef#21",
+    "doc_id": "vneconomy_en_20261101_e0270929ef",
+    "sent_idx": 21,
+    "text": "Offshore wind intersects with power planning, seaport development, transmission infrastructure, shipping, fisheries, environmental protection, and national defense and security.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261101_e0270929ef#22",
+    "doc_id": "vneconomy_en_20261101_e0270929ef",
+    "sent_idx": 22,
+    "text": "Vietnam must translate planning frameworks into areas genuinely ready for development, supported by reliable data, clear survey procedures, and predictable mechanisms for granting rights to use marine space.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261101_e0270929ef#23",
+    "doc_id": "vneconomy_en_20261101_e0270929ef",
+    "sent_idx": 23,
+    "text": "Third, contracts and pricing mechanisms matter.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261101_e0270929ef#24",
+    "doc_id": "vneconomy_en_20261101_e0270929ef",
+    "sent_idx": 24,
+    "text": "Offshore wind projects can require billions of dollars in investment.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261101_e0270929ef#25",
+    "doc_id": "vneconomy_en_20261101_e0270929ef",
+    "sent_idx": 25,
+    "text": "Investors need contractual arrangements that provide predictable cash flows over several decades, with clear rules governing electricity purchases, policy changes, grid connection delays, project transfers, and foreign currency risks.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261101_e0270929ef#26",
+    "doc_id": "vneconomy_en_20261101_e0270929ef",
+    "sent_idx": 26,
+    "text": "A well-designed framework can also lower the cost of capital.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261101_e0270929ef#27",
+    "doc_id": "vneconomy_en_20261101_e0270929ef",
+    "sent_idx": 27,
+    "text": "Conversely, institutional uncertainty increases financing costs and ultimately pushes up electricity generation costs.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261101_e0270929ef#28",
+    "doc_id": "vneconomy_en_20261101_e0270929ef",
+    "sent_idx": 28,
+    "text": "Fourth, generation and transmission must develop together.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261101_e0270929ef#29",
+    "doc_id": "vneconomy_en_20261101_e0270929ef",
+    "sent_idx": 29,
+    "text": "Lessons from the expansion of solar and onshore wind demonstrate that power generation and transmission infrastructure must be developed in tandem.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261101_e0270929ef#30",
+    "doc_id": "vneconomy_en_20261101_e0270929ef",
+    "sent_idx": 30,
+    "text": "Vietnam should explore shared infrastructure in areas with concentrated wind potential.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261101_e0270929ef#31",
+    "doc_id": "vneconomy_en_20261101_e0270929ef",
+    "sent_idx": 31,
+    "text": "Common transmission systems, ports, assembly facilities, logistics, and maintenance services could reduce costs, avoid duplication, and establish integrated offshore industrial hubs.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261101_e0270929ef#32",
+    "doc_id": "vneconomy_en_20261101_e0270929ef",
+    "sent_idx": 32,
+    "text": "Over a typical 30-year lifecycle, an offshore wind farm requires a wide range of products and services, from surveys and engineering to foundations, steel structures, cables, specialized vessels, ports, maintenance, insurance, and finance.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261101_e0270929ef#33",
+    "doc_id": "vneconomy_en_20261101_e0270929ef",
+    "sent_idx": 33,
+    "text": "Projects also create opportunities in digital technologies, green finance, and workforce training.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261101_e0270929ef#34",
+    "doc_id": "vneconomy_en_20261101_e0270929ef",
+    "sent_idx": 34,
+    "text": "This is particularly important as Vietnam seeks to move up the global value chain.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261101_e0270929ef#35",
+    "doc_id": "vneconomy_en_20261101_e0270929ef",
+    "sent_idx": 35,
+    "text": "If Vietnam imports most turbines, blades, cables, electrical equipment, and high-value engineering services, while limiting domestic participation to basic construction and installation, installed capacity could grow without generating commensurate domestic value.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261101_e0270929ef#36",
+    "doc_id": "vneconomy_en_20261101_e0270929ef",
+    "sent_idx": 36,
+    "text": "Developing competitive local capabilities could instead make offshore wind an anchor market for emerging industries.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261101_e0270929ef#37",
+    "doc_id": "vneconomy_en_20261101_e0270929ef",
+    "sent_idx": 37,
+    "text": "Offshore wind offers Vietnam an opportunity to use domestic electricity demand to establish an initial market for local businesses.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261101_e0270929ef#38",
+    "doc_id": "vneconomy_en_20261101_e0270929ef",
+    "sent_idx": 38,
+    "text": "A predictable, long-term project pipeline would encourage investment in factories, machinery, workforce training, and R&D, building manufacturing capabilities that could eventually serve international markets.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261101_e0270929ef#39",
+    "doc_id": "vneconomy_en_20261101_e0270929ef",
+    "sent_idx": 39,
+    "text": "The revised PDP8 provides substantial scope for offshore wind in electricity generation and new energy production.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261101_e0270929ef#40",
+    "doc_id": "vneconomy_en_20261101_e0270929ef",
+    "sent_idx": 40,
+    "text": "If properly organized, this could become a major domestic market for Vietnam's offshore industrial ecosystem.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261101_e0270929ef#41",
+    "doc_id": "vneconomy_en_20261101_e0270929ef",
+    "sent_idx": 41,
+    "text": "The sea is not an unused space awaiting development.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261101_e0270929ef#42",
+    "doc_id": "vneconomy_en_20261101_e0270929ef",
+    "sent_idx": 42,
+    "text": "It already supports millions of livelihoods, carries shipping traffic, accommodates numerous industries, and forms an important part of Vietnam's national defense and security system.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261101_e0270929ef#43",
+    "doc_id": "vneconomy_en_20261101_e0270929ef",
+    "sent_idx": 43,
+    "text": "Offshore wind projects must therefore fit within the broader structure of maritime space.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261101_e0270929ef#44",
+    "doc_id": "vneconomy_en_20261101_e0270929ef",
+    "sent_idx": 44,
+    "text": "Potential conflicts with fisheries require early community consultation and livelihood assessments, particularly where projects overlap with important fishing grounds.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261101_e0270929ef#45",
+    "doc_id": "vneconomy_en_20261101_e0270929ef",
+    "sent_idx": 45,
+    "text": "Coastal residents should participate in planning rather than be treated merely as people affected by development.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261101_e0270929ef#46",
+    "doc_id": "vneconomy_en_20261101_e0270929ef",
+    "sent_idx": 46,
+    "text": "Transparent information and equitable benefit-sharing can strengthen public acceptance.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261101_e0270929ef#47",
+    "doc_id": "vneconomy_en_20261101_e0270929ef",
+    "sent_idx": 47,
+    "text": "Offshore turbines may also restrict vessel movements.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261101_e0270929ef#48",
+    "doc_id": "vneconomy_en_20261101_e0270929ef",
+    "sent_idx": 48,
+    "text": "Planning must identify shipping corridors, anchorage areas, and zones subject to special maritime safety requirements.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261101_e0270929ef#49",
+    "doc_id": "vneconomy_en_20261101_e0270929ef",
+    "sent_idx": 49,
+    "text": "National sovereignty and defense and security must be incorporated from the outset.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261101_e0270929ef#50",
+    "doc_id": "vneconomy_en_20261101_e0270929ef",
+    "sent_idx": 50,
+    "text": "Environmental safeguards are equally important.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261101_e0270929ef#51",
+    "doc_id": "vneconomy_en_20261101_e0270929ef",
+    "sent_idx": 51,
+    "text": "Though wind power is a clean energy source, offshore projects can affect the seabed, underwater noise levels, marine ecosystems, seabirds, and other marine organisms.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261101_e0270929ef#52",
+    "doc_id": "vneconomy_en_20261101_e0270929ef",
+    "sent_idx": 52,
+    "text": "Rigorous environmental impact assessments and evaluations of ecological carrying capacity are essential.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261101_e0270929ef#53",
+    "doc_id": "vneconomy_en_20261101_e0270929ef",
+    "sent_idx": 53,
+    "text": "Ultimately, offshore wind is not simply about installing giant turbines at sea.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261101_e0270929ef#54",
+    "doc_id": "vneconomy_en_20261101_e0270929ef",
+    "sent_idx": 54,
+    "text": "It is about using maritime space to create a new value chain.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261101_e0270929ef#55",
+    "doc_id": "vneconomy_en_20261101_e0270929ef",
+    "sent_idx": 55,
+    "text": "Hundreds of turbines can generate demand for ports, logistics, specialized vessels, shipbuilding and repair, steel structures, cables, electrical equipment, engineering, insurance, and finance.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261101_e0270929ef#56",
+    "doc_id": "vneconomy_en_20261101_e0270929ef",
+    "sent_idx": 56,
+    "text": "Operations can also support jobs in software, sensors, AI, and other advanced technologies, while clean electricity can supply hydrogen and ammonia production.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261101_e0270929ef#57",
+    "doc_id": "vneconomy_en_20261101_e0270929ef",
+    "sent_idx": 57,
+    "text": "If these activities are integrated effectively, a natural resource can become the foundation of an industrial ecosystem.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261101_e0270929ef#58",
+    "doc_id": "vneconomy_en_20261101_e0270929ef",
+    "sent_idx": 58,
+    "text": "This is the greatest strategic value of offshore wind.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261101_e0270929ef#59",
+    "doc_id": "vneconomy_en_20261101_e0270929ef",
+    "sent_idx": 59,
+    "text": "Vietnam holds several advantages, including abundant wind resources, a long coastline, an extensive maritime territory, rising electricity demand, an established oil and gas sector, marine industrial capabilities, ongoing port investment, and a commitment to the green transition.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261101_e0270929ef#60",
+    "doc_id": "vneconomy_en_20261101_e0270929ef",
+    "sent_idx": 60,
+    "text": "However, these advantages are only a starting point.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261101_e0270929ef#61",
+    "doc_id": "vneconomy_en_20261101_e0270929ef",
+    "sent_idx": 61,
+    "text": "Success depends on translating them into reliable data, effective planning, viable projects, competitive businesses, technology, infrastructure, and markets.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261101_e0270929ef#62",
+    "doc_id": "vneconomy_en_20261101_e0270929ef",
+    "sent_idx": 62,
+    "text": "Offshore wind development should therefore be measured against more ambitious objectives than installed capacity alone.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261101_e0270929ef#63",
+    "doc_id": "vneconomy_en_20261101_e0270929ef",
+    "sent_idx": 63,
+    "text": "How much can Vietnam design and manufacture domestically?",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261101_e0270929ef#64",
+    "doc_id": "vneconomy_en_20261101_e0270929ef",
+    "sent_idx": 64,
+    "text": "How many local businesses can join the supply chain?",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261101_e0270929ef#65",
+    "doc_id": "vneconomy_en_20261101_e0270929ef",
+    "sent_idx": 65,
+    "text": "How many ports can serve the industry?",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261101_e0270929ef#66",
+    "doc_id": "vneconomy_en_20261101_e0270929ef",
+    "sent_idx": 66,
+    "text": "Which services can be exported, and how much project value can remain in the domestic economy?",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261101_e0270929ef#67",
+    "doc_id": "vneconomy_en_20261101_e0270929ef",
+    "sent_idx": 67,
+    "text": "Answering these questions would transform offshore wind from an emerging energy sector into a new marine industry and help Vietnam move beyond being a market for global wind technologies toward becoming a regional hub for offshore industry, services, and energy.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261101_e0270929ef#68",
+    "doc_id": "vneconomy_en_20261101_e0270929ef",
+    "sent_idx": 68,
+    "text": "This is also a test of Vietnam's ability to formulate industrial policy, govern maritime space, advance science and technology, and develop domestic enterprises in an emerging industry.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261101_e0270929ef#69",
+    "doc_id": "vneconomy_en_20261101_e0270929ef",
+    "sent_idx": 69,
+    "text": "Coordinated implementation of Resolution No. 20 on building a strong maritime nation, Politburo Resolution No. 57-NQ/TW on science, technology, and innovation, Politburo Resolution No. 68-NQ/TW on private sector development, and relevant national plans could make offshore wind a driver of a modern marine industrial ecosystem.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261101_e0270929ef#70",
+    "doc_id": "vneconomy_en_20261101_e0270929ef",
+    "sent_idx": 70,
+    "text": "Such an ecosystem would connect energy with manufacturing, ports, logistics, digital technologies, green hydrogen, and low-emissions industries.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261101_e0270929ef#71",
+    "doc_id": "vneconomy_en_20261101_e0270929ef",
+    "sent_idx": 71,
+    "text": "Success would then be measured not only by installed megawatts but also by technological capabilities, the share of value-added retained domestically, the number of Vietnamese businesses participating in the supply chain, and Vietnam's position in the global green energy value chain.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261101_e0270929ef#72",
+    "doc_id": "vneconomy_en_20261101_e0270929ef",
+    "sent_idx": 72,
+    "text": "If Vietnam capitalizes on this window of opportunity, it can transform wind-rich maritime areas into new production spaces, stimulate coastal economies, strengthen industrial capabilities and expand its position in the global green energy value chain.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261101_e0270929ef#73",
+    "doc_id": "vneconomy_en_20261101_e0270929ef",
+    "sent_idx": 73,
+    "text": "That is the deeper significance of transforming offshore wind from an energy source into a new industry.",
+    "lang": "en",
+    "is_title": false
+  }
+]

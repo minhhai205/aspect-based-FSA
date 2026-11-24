@@ -1,0 +1,162 @@
+[
+  {
+    "sent_id": "vietnamnews_20261104_e6e94d49ed#0",
+    "doc_id": "vietnamnews_20261104_e6e94d49ed",
+    "sent_idx": 0,
+    "text": "Việt Nam to complete 87,601 social housing units in 2026",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261104_e6e94d49ed#1",
+    "doc_id": "vietnamnews_20261104_e6e94d49ed",
+    "sent_idx": 1,
+    "text": "HÀ NỘI - Việt Nam is expected to complete 87,601 social housing units this year, equivalent to 90 per cent of the annual target.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261104_e6e94d49ed#2",
+    "doc_id": "vietnamnews_20261104_e6e94d49ed",
+    "sent_idx": 2,
+    "text": "Rental housing completions are projected at 18,049 units, exceeding the assigned target by 5 per cent, according to the Ministry of Construction.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261104_e6e94d49ed#3",
+    "doc_id": "vietnamnews_20261104_e6e94d49ed",
+    "sent_idx": 3,
+    "text": "Speaking at the Government's regular press briefing on Wednesday, Deputy Minister of Construction Lê Hồng Vinh said 293 social housing projects, comprising 363,065 units, are currently under development nationwide.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261104_e6e94d49ed#4",
+    "doc_id": "vietnamnews_20261104_e6e94d49ed",
+    "sent_idx": 4,
+    "text": "Of these, 128 are newly launched projects with a combined capacity of 183,293 units, including 140,492 social housing units and 42,801 rental units.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261104_e6e94d49ed#5",
+    "doc_id": "vietnamnews_20261104_e6e94d49ed",
+    "sent_idx": 5,
+    "text": "To date, 170 projects have been completed, delivering 46,962 of the planned 97,271 units, or 48 per cent of the target.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261104_e6e94d49ed#6",
+    "doc_id": "vietnamnews_20261104_e6e94d49ed",
+    "sent_idx": 6,
+    "text": "Rental housing development is also gaining momentum.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261104_e6e94d49ed#7",
+    "doc_id": "vietnamnews_20261104_e6e94d49ed",
+    "sent_idx": 7,
+    "text": "Nationwide, 114 ongoing social housing projects include rental units, with a combined capacity of 63,970 units.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261104_e6e94d49ed#8",
+    "doc_id": "vietnamnews_20261104_e6e94d49ed",
+    "sent_idx": 8,
+    "text": "Since the Prime Minister called for stronger development of the rental housing segment in June this year, another 29 projects have been launched, adding approximately 85,594 units, including 33,886 rental units.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261104_e6e94d49ed#9",
+    "doc_id": "vietnamnews_20261104_e6e94d49ed",
+    "sent_idx": 9,
+    "text": "The country has so far completed 8,314 of its targeted 17,176 rental units.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261104_e6e94d49ed#10",
+    "doc_id": "vietnamnews_20261104_e6e94d49ed",
+    "sent_idx": 10,
+    "text": "Full-year completions are forecast at 18,049 units, equivalent to 105 per cent of the target.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261104_e6e94d49ed#11",
+    "doc_id": "vietnamnews_20261104_e6e94d49ed",
+    "sent_idx": 11,
+    "text": "To improve access to affordable housing for low-income households and industrial workers, the Ministry of Construction has finalised a draft amended Housing Law for submission to the 16th National Assembly.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261104_e6e94d49ed#12",
+    "doc_id": "vietnamnews_20261104_e6e94d49ed",
+    "sent_idx": 12,
+    "text": "The proposed legislation focuses on eligibility criteria, support mechanisms, housing fund development, investor incentives, pricing frameworks and transaction management.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261104_e6e94d49ed#13",
+    "doc_id": "vietnamnews_20261104_e6e94d49ed",
+    "sent_idx": 13,
+    "text": "Key measures include clearer eligibility and income requirements, priority access for disadvantaged groups, preferential loans and the establishment of non-profit housing funds.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261104_e6e94d49ed#14",
+    "doc_id": "vietnamnews_20261104_e6e94d49ed",
+    "sent_idx": 14,
+    "text": "The draft also proposes allocating land for social and rental housing, including accommodation for workers in industrial parks.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261104_e6e94d49ed#15",
+    "doc_id": "vietnamnews_20261104_e6e94d49ed",
+    "sent_idx": 15,
+    "text": "To reduce development costs, investors would receive incentives on land-use fees, land rents, taxes and credit.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261104_e6e94d49ed#16",
+    "doc_id": "vietnamnews_20261104_e6e94d49ed",
+    "sent_idx": 16,
+    "text": "They would also be allowed to offset infrastructure and construction costs through commercial and service activities within projects.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261104_e6e94d49ed#17",
+    "doc_id": "vietnamnews_20261104_e6e94d49ed",
+    "sent_idx": 17,
+    "text": "The proposed pricing framework would require selling, rental and rent-to-own prices to reflect legitimate costs and regulated profit margins, while excluding state incentives from housing prices.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261104_e6e94d49ed#18",
+    "doc_id": "vietnamnews_20261104_e6e94d49ed",
+    "sent_idx": 18,
+    "text": "Transaction controls would also be tightened to prevent speculation and ensure housing serves its intended social purpose.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261104_e6e94d49ed#19",
+    "doc_id": "vietnamnews_20261104_e6e94d49ed",
+    "sent_idx": 19,
+    "text": "Each eligible beneficiary would be allowed to purchase or rent-to-own only one social housing unit, with transfers restricted during the first five years. - VNS",
+    "lang": "en",
+    "is_title": false
+  }
+]

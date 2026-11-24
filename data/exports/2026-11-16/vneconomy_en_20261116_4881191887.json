@@ -1,0 +1,58 @@
+[
+  {
+    "sent_id": "vneconomy_en_20261116_4881191887#0",
+    "doc_id": "vneconomy_en_20261116_4881191887",
+    "sent_idx": 0,
+    "text": "Hue breaks ground on $76m social housing project",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vneconomy_en_20261116_4881191887#1",
+    "doc_id": "vneconomy_en_20261116_4881191887",
+    "sent_idx": 1,
+    "text": "A consortium comprising DICERA Holdings Joint Stock Company and Thuan An Construction and Investment Company Limited broke ground on a social housing project in Phong Thai Ward, central Hue City, on November 14.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261116_4881191887#2",
+    "doc_id": "vneconomy_en_20261116_4881191887",
+    "sent_idx": 2,
+    "text": "The project covers a total planned area of 26.17 hectares, including approximately 11.76 hectares designated for social housing development.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261116_4881191887#3",
+    "doc_id": "vneconomy_en_20261116_4881191887",
+    "sent_idx": 3,
+    "text": "With an estimated investment of more than VND2 trillion ($76 million), it will provide 1,680 two-storey terraced social housing units featuring four different designs to accommodate the needs of various household types.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261116_4881191887#4",
+    "doc_id": "vneconomy_en_20261116_4881191887",
+    "sent_idx": 4,
+    "text": "According to the master plan, the development is expected to provide homes for approximately 7,000 residents.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261116_4881191887#5",
+    "doc_id": "vneconomy_en_20261116_4881191887",
+    "sent_idx": 5,
+    "text": "The project is scheduled for implementation over seven years, from 2026 to 2033.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261116_4881191887#6",
+    "doc_id": "vneconomy_en_20261116_4881191887",
+    "sent_idx": 6,
+    "text": "Beyond increasing the supply of affordable housing, the development is expected to generate additional employment and stimulate demand for construction materials, equipment, trade and services, contributing to local socio-economic development.",
+    "lang": "en",
+    "is_title": false
+  }
+]

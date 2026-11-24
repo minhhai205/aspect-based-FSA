@@ -1,0 +1,234 @@
+[
+  {
+    "sent_id": "vietnamnews_20261105_b39a2e3ca4#0",
+    "doc_id": "vietnamnews_20261105_b39a2e3ca4",
+    "sent_idx": 0,
+    "text": "Việt Nam speeds up electricity market reforms, eco-industrial park development",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261105_b39a2e3ca4#1",
+    "doc_id": "vietnamnews_20261105_b39a2e3ca4",
+    "sent_idx": 1,
+    "text": "HCM CITY - Việt Nam is accelerating electricity market reforms and encouraging greater private investment in energy infrastructure to support renewable energy development and make its industrial sector more sustainable, the 2026 Vietnam International Energy Conference heard on Wednesday.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261105_b39a2e3ca4#2",
+    "doc_id": "vietnamnews_20261105_b39a2e3ca4",
+    "sent_idx": 2,
+    "text": "Nguyễn Thị Phương Yến, deputy director of the Centre for Energy Information and Electricity Market Development, said the global energy sector is undergoing profound changes, as the energy transition, technological advances, digital transformation and rising demand for resource efficiency reshape energy production, supply and consumption, as well as business models across economic sectors.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261105_b39a2e3ca4#3",
+    "doc_id": "vietnamnews_20261105_b39a2e3ca4",
+    "sent_idx": 3,
+    "text": "\"For Việt Nam, energy has always been fundamental to socio-economic development, enhancing national competitiveness and achieving sustainable development goals.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261105_b39a2e3ca4#4",
+    "doc_id": "vietnamnews_20261105_b39a2e3ca4",
+    "sent_idx": 4,
+    "text": "As energy demand continues to rise, the challenge is not only to ensure an adequate, safe and reliable supply but also to gradually build a modern and efficient energy system capable of adapting to rapid changes in technology and markets.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261105_b39a2e3ca4#5",
+    "doc_id": "vietnamnews_20261105_b39a2e3ca4",
+    "sent_idx": 5,
+    "text": "The country is moving towards a more transparent and competitive electricity market.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261105_b39a2e3ca4#6",
+    "doc_id": "vietnamnews_20261105_b39a2e3ca4",
+    "sent_idx": 6,
+    "text": "The reforms can create more opportunities for independent power producers and allow eligible electricity buyers and generators to negotiate power purchase agreements directly.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261105_b39a2e3ca4#7",
+    "doc_id": "vietnamnews_20261105_b39a2e3ca4",
+    "sent_idx": 7,
+    "text": "Under the revised Power Development Plan VIII, Việt Nam's total power generation capacity is projected to reach 183,291-236,363 MW by 2030, with renewable energy accounting for 28-36 per cent of the electricity mix.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261105_b39a2e3ca4#8",
+    "doc_id": "vietnamnews_20261105_b39a2e3ca4",
+    "sent_idx": 8,
+    "text": "Achieving these targets will require substantial investment in modern power grids and flexible systems capable of integrating variable output from wind and solar projects.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261105_b39a2e3ca4#9",
+    "doc_id": "vietnamnews_20261105_b39a2e3ca4",
+    "sent_idx": 9,
+    "text": "Battery energy storage systems could also play a greater role in balancing supply and demand.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261105_b39a2e3ca4#10",
+    "doc_id": "vietnamnews_20261105_b39a2e3ca4",
+    "sent_idx": 10,
+    "text": "Sinem Denir Duru, EIP focal point for Asia at the International Finance Corporation's manufacturing, agribusiness and services upstream and advisory department, said rapid industrialisation is placing increasing pressure on Việt Nam's energy and natural resources, underscoring the need to accelerate the development of eco-industrial parks and promote more sustainable, resource-efficient manufacturing.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261105_b39a2e3ca4#11",
+    "doc_id": "vietnamnews_20261105_b39a2e3ca4",
+    "sent_idx": 11,
+    "text": "She said Việt Nam has 478 established industrial parks, of which 324 are operational with an average occupancy rate of 78.8 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261105_b39a2e3ca4#12",
+    "doc_id": "vietnamnews_20261105_b39a2e3ca4",
+    "sent_idx": 12,
+    "text": "Commercial electricity demand is projected to rise from around 335 terawatt-hours in 2025 to 505 terawatt-hours by 2030, representing average annual growth of 8.6 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261105_b39a2e3ca4#13",
+    "doc_id": "vietnamnews_20261105_b39a2e3ca4",
+    "sent_idx": 13,
+    "text": "Việt Nam has considerable potential to transform traditional industrial parks into more sustainable production centres, she said.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261105_b39a2e3ca4#14",
+    "doc_id": "vietnamnews_20261105_b39a2e3ca4",
+    "sent_idx": 14,
+    "text": "Eco-industrial parks incorporate sustainability into industrial planning, infrastructure and operations, helping businesses reduce their consumption of energy, water, and raw materials while minimising waste and greenhouse gas emissions.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261105_b39a2e3ca4#15",
+    "doc_id": "vietnamnews_20261105_b39a2e3ca4",
+    "sent_idx": 15,
+    "text": "They also offer economic benefits by lowering operating costs, improving productivity, facilitating access to technology, and attracting higher-quality investment.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261105_b39a2e3ca4#16",
+    "doc_id": "vietnamnews_20261105_b39a2e3ca4",
+    "sent_idx": 16,
+    "text": "The transition is becoming increasingly important as multinational manufacturers place greater emphasis on environmental, social, and governance performance and climate commitments when selecting production locations and suppliers.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261105_b39a2e3ca4#17",
+    "doc_id": "vietnamnews_20261105_b39a2e3ca4",
+    "sent_idx": 17,
+    "text": "During a panel discussion, industrial park developers said they are stepping up efforts to promote eco-industrial parks through more efficient resource use, renewable energy, and shared infrastructure to meet growing sustainability requirements from manufacturers and international investors.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261105_b39a2e3ca4#18",
+    "doc_id": "vietnamnews_20261105_b39a2e3ca4",
+    "sent_idx": 18,
+    "text": "Surakij Kiatthanakorn, vice-president for country project coordination and business development infrastructure at AMATA VN Public Co Ltd, said the company was working to improve the climate resilience and resource efficiency of its industrial parks through measures such as water reuse and clean energy solutions, including rooftop solar power and direct power purchase agreements.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261105_b39a2e3ca4#19",
+    "doc_id": "vietnamnews_20261105_b39a2e3ca4",
+    "sent_idx": 19,
+    "text": "Vincent Kwok, director of investment and strategic projects at Kinh Bac City Development Corporation, said international sustainability commitments and regulatory requirements are increasingly shaping industrial park development.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261105_b39a2e3ca4#20",
+    "doc_id": "vietnamnews_20261105_b39a2e3ca4",
+    "sent_idx": 20,
+    "text": "The company is focusing on renewable energy, data collection on environmental, social and governance performance and sustainable infrastructure.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261105_b39a2e3ca4#21",
+    "doc_id": "vietnamnews_20261105_b39a2e3ca4",
+    "sent_idx": 21,
+    "text": "Duru said the International Finance Corporation's eco-industrial park assessment framework covered park management and environmental, social, and economic performance.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261105_b39a2e3ca4#22",
+    "doc_id": "vietnamnews_20261105_b39a2e3ca4",
+    "sent_idx": 22,
+    "text": "The assessments helped identify opportunities to improve energy efficiency, upgrade boilers and wastewater systems, install rooftop solar panels and increase water reuse.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261105_b39a2e3ca4#23",
+    "doc_id": "vietnamnews_20261105_b39a2e3ca4",
+    "sent_idx": 23,
+    "text": "They also helped developers plan investments over the short, medium and long term, while estimating potential greenhouse gas emission reductions and cost savings, she added",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261105_b39a2e3ca4#24",
+    "doc_id": "vietnamnews_20261105_b39a2e3ca4",
+    "sent_idx": 24,
+    "text": "Amata has participated in the Global Eco-Industrial Parks Programme in Việt Nam since 2020.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261105_b39a2e3ca4#25",
+    "doc_id": "vietnamnews_20261105_b39a2e3ca4",
+    "sent_idx": 25,
+    "text": "Its industrial park in Đồng Nai has raised its assessment score from approximately 50 per cent to 90 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261105_b39a2e3ca4#26",
+    "doc_id": "vietnamnews_20261105_b39a2e3ca4",
+    "sent_idx": 26,
+    "text": "But speakers said transforming established industrial parks remained challenging.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261105_b39a2e3ca4#27",
+    "doc_id": "vietnamnews_20261105_b39a2e3ca4",
+    "sent_idx": 27,
+    "text": "Improvements depend not only on park operators but also on tenants, who might need to invest in new equipment and modify production processes, and so access to affordable green financing is important, they said.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261105_b39a2e3ca4#28",
+    "doc_id": "vietnamnews_20261105_b39a2e3ca4",
+    "sent_idx": 28,
+    "text": "Despite these challenges, greener industrial parks would help Việt Nam attract higher-quality investment, strengthen manufacturers' competitiveness, and support the development of more sustainable supply chains, they added. - VNS",
+    "lang": "en",
+    "is_title": false
+  }
+]

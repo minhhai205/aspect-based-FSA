@@ -1,0 +1,114 @@
+[
+  {
+    "sent_id": "vneconomy_en_20261103_091f4fd81d#0",
+    "doc_id": "vneconomy_en_20261103_091f4fd81d",
+    "sent_idx": 0,
+    "text": "Vietnam's ten-month IIP up 12.4 percent, highest since 2019",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_091f4fd81d#1",
+    "doc_id": "vneconomy_en_20261103_091f4fd81d",
+    "sent_idx": 1,
+    "text": "According to data released by the National Statistics Office under the Ministry of Finance on November 3, the IIP for October is estimated to have grown by 2.3 percent from the previous month and by 15.0 percent year-on-year.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_091f4fd81d#2",
+    "doc_id": "vneconomy_en_20261103_091f4fd81d",
+    "sent_idx": 2,
+    "text": "For the ten-month period, growth was spearheaded by the manufacturing and processing sector, which expanded by 13.0 percent and contributed 10.2 percentage points to the overall increase.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_091f4fd81d#3",
+    "doc_id": "vneconomy_en_20261103_091f4fd81d",
+    "sent_idx": 3,
+    "text": "Mining grew by 7.1 percent (contributing 1.1 percentage points), electricity production and distribution rose by 10.6 percent (contributing 1.0 percentage point), and water supply, waste management, and wastewater treatment increased by 9.2 percent (contributing 0.1 percentage point).",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_091f4fd81d#4",
+    "doc_id": "vneconomy_en_20261103_091f4fd81d",
+    "sent_idx": 4,
+    "text": "During the ten-month period, several key Tier-2 industrial sectors recorded robust year-on-year growth.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_091f4fd81d#5",
+    "doc_id": "vneconomy_en_20261103_091f4fd81d",
+    "sent_idx": 5,
+    "text": "Standouts included metal production, which surged by 25.6 percent; beverage manufacturing, up 17.5 percent; computer, electronic, and optical product manufacturing, up 15.2 percent; and motor vehicle manufacturing, up 14.6 percent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_091f4fd81d#6",
+    "doc_id": "vneconomy_en_20261103_091f4fd81d",
+    "sent_idx": 6,
+    "text": "Conversely, the manufacture of leather and related products saw modest growth of 4.3 percent, while hard and brown coal mining down 0.6 percent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_091f4fd81d#7",
+    "doc_id": "vneconomy_en_20261103_091f4fd81d",
+    "sent_idx": 7,
+    "text": "Regarding key industrial products, tablets up 36.6 percent, motorbikes up 26.8 percent, laptops up 25.9 percent, automobiles up 25.1 percent, and rolled steel up 24.0 percent posted substantial gains.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_091f4fd81d#8",
+    "doc_id": "vneconomy_en_20261103_091f4fd81d",
+    "sent_idx": 8,
+    "text": "On the flip side, decreases were recorded in monosodium glutamate down 6.7 percent, NPK mixed fertilizers down 6.3 percent, televisions down 5.1 percent, and liquefied petroleum gas down 4.9 percent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_091f4fd81d#9",
+    "doc_id": "vneconomy_en_20261103_091f4fd81d",
+    "sent_idx": 9,
+    "text": "Geographically, ten-month IIP increased in 33 among the total 34 cities and provinces nationwide, while northern mountainous Son La province was the sole province to register a decline, down 5.0 percent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_091f4fd81d#10",
+    "doc_id": "vneconomy_en_20261103_091f4fd81d",
+    "sent_idx": 10,
+    "text": "Employment conditions within industrial enterprises continued to brighten.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_091f4fd81d#11",
+    "doc_id": "vneconomy_en_20261103_091f4fd81d",
+    "sent_idx": 11,
+    "text": "As of October 1, total employment up 0.8 percent from the previous month and up 3.2 percent year-on-year.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_091f4fd81d#12",
+    "doc_id": "vneconomy_en_20261103_091f4fd81d",
+    "sent_idx": 12,
+    "text": "By sector, employment in mining inched up 0.1 percent monthly but down 2.3 percent annually.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261103_091f4fd81d#13",
+    "doc_id": "vneconomy_en_20261103_091f4fd81d",
+    "sent_idx": 13,
+    "text": "Meanwhile, manufacturing and processing saw respective monthly and annual increases of up 0.9 percent and up 3.4 percent; electricity, gas, hot water, and air conditioning supply up 0.2 percent and up 1.8 percent; and water supply and waste management up 0.2 percent and up 3.9 percent, reflecting expanding operational scales to meet economic recovery demands.",
+    "lang": "en",
+    "is_title": false
+  }
+]

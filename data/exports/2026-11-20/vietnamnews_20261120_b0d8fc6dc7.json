@@ -1,0 +1,186 @@
+[
+  {
+    "sent_id": "vietnamnews_20261120_b0d8fc6dc7#0",
+    "doc_id": "vietnamnews_20261120_b0d8fc6dc7",
+    "sent_idx": 0,
+    "text": "NA passes SME development, asset auction laws",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261120_b0d8fc6dc7#1",
+    "doc_id": "vietnamnews_20261120_b0d8fc6dc7",
+    "sent_idx": 1,
+    "text": "HÀ NỘI - The National Assembly (NA) on November 20 passed the Law on Small and Medium-sized Enterprise (SME) Development and the amended Law on Asset Auction, which introduce changes aimed at improving support for businesses, expanding market access and strengthening transparency in asset auctions.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261120_b0d8fc6dc7#2",
+    "doc_id": "vietnamnews_20261120_b0d8fc6dc7",
+    "sent_idx": 2,
+    "text": "During the ongoing second session of the 16th NA, the Law on SME Development was approved with all 485 lawmakers participating in the vote in favour.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261120_b0d8fc6dc7#3",
+    "doc_id": "vietnamnews_20261120_b0d8fc6dc7",
+    "sent_idx": 3,
+    "text": "Presenting the Government's report on the draft law's revisions and explanations, Minister of Justice Hoàng Thanh Tùng said the Government had worked to ensure that criteria for classifying SMEs were practical, stable and easy to apply.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261120_b0d8fc6dc7#4",
+    "doc_id": "vietnamnews_20261120_b0d8fc6dc7",
+    "sent_idx": 4,
+    "text": "Regarding newly established businesses without financial statements for the previous year, enterprises operating in multiple sectors, those employing seasonal workers and businesses whose size changes while receiving support, the Government will provide detailed guidance in an implementing decree.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261120_b0d8fc6dc7#5",
+    "doc_id": "vietnamnews_20261120_b0d8fc6dc7",
+    "sent_idx": 5,
+    "text": "On tax support, specific provisions on eligible beneficiaries, conditions, incentive levels and duration will be incorporated into amendments to the Law on Corporate Income Tax, the Law on Personal Income Tax and other relevant tax laws, also submitted to the National Assembly for consideration at this session.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261120_b0d8fc6dc7#6",
+    "doc_id": "vietnamnews_20261120_b0d8fc6dc7",
+    "sent_idx": 6,
+    "text": "Supports in access to land, public procurement and market development, and improving businesses' competitiveness have also been reviewed to avoid duplication, with the law setting out the overall policy framework and the Government providing detailed implementation guidance.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261120_b0d8fc6dc7#7",
+    "doc_id": "vietnamnews_20261120_b0d8fc6dc7",
+    "sent_idx": 7,
+    "text": "The Law on SME Development comprises four chapters and 32 articles and will take effect on July 1, 2027.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261120_b0d8fc6dc7#8",
+    "doc_id": "vietnamnews_20261120_b0d8fc6dc7",
+    "sent_idx": 8,
+    "text": "Earlier on the same day, the NA also passed the amended Law on Asset Auction, with 475 of the 482 lawmakers participating in the vote supporting the legislation.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261120_b0d8fc6dc7#9",
+    "doc_id": "vietnamnews_20261120_b0d8fc6dc7",
+    "sent_idx": 9,
+    "text": "Presenting the Government's report on the draft law, Tùng outlined several revisions concerning deposits, bidding procedures, disqualification from auctions and online auctions.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261120_b0d8fc6dc7#10",
+    "doc_id": "vietnamnews_20261120_b0d8fc6dc7",
+    "sent_idx": 10,
+    "text": "Regarding deposits, the draft adds a provision authorising the Government to establish principles and criteria for determining specific deposit levels within the legal limits.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261120_b0d8fc6dc7#11",
+    "doc_id": "vietnamnews_20261120_b0d8fc6dc7",
+    "sent_idx": 11,
+    "text": "The approach is intended to reflect the characteristics of different types of assets and local conditions while avoiding unreasonable financial barriers for auction participants.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261120_b0d8fc6dc7#12",
+    "doc_id": "vietnamnews_20261120_b0d8fc6dc7",
+    "sent_idx": 12,
+    "text": "For auctions of land-use rights allocated for residential purposes to individuals, the Government proposed retaining the deposit range of 20-50 per cent of the starting price.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261120_b0d8fc6dc7#13",
+    "doc_id": "vietnamnews_20261120_b0d8fc6dc7",
+    "sent_idx": 13,
+    "text": "The measure is intended to address cases in which participants submit exceptionally high bids and subsequently forfeit their deposits.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261120_b0d8fc6dc7#14",
+    "doc_id": "vietnamnews_20261120_b0d8fc6dc7",
+    "sent_idx": 14,
+    "text": "The draft retains the existing principle that participants are not required to bid above the starting price, leaving the decision on whether to offer a higher price to individual bidders.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261120_b0d8fc6dc7#15",
+    "doc_id": "vietnamnews_20261120_b0d8fc6dc7",
+    "sent_idx": 15,
+    "text": "Where several participants accept the starting price and no higher bid is made, drawing lots will be used to determine the winner, ensuring an objective, transparent and fair process.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261120_b0d8fc6dc7#16",
+    "doc_id": "vietnamnews_20261120_b0d8fc6dc7",
+    "sent_idx": 16,
+    "text": "If all participants refuse to draw lots, the auction will be declared unsuccessful.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261120_b0d8fc6dc7#17",
+    "doc_id": "vietnamnews_20261120_b0d8fc6dc7",
+    "sent_idx": 17,
+    "text": "Those refusing to participate in the draw will be considered to have withdrawn their bids, with their deposits handled in accordance with the law.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261120_b0d8fc6dc7#18",
+    "doc_id": "vietnamnews_20261120_b0d8fc6dc7",
+    "sent_idx": 18,
+    "text": "The drawing of lots will be supervised by the owner of the auctioned asset.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261120_b0d8fc6dc7#19",
+    "doc_id": "vietnamnews_20261120_b0d8fc6dc7",
+    "sent_idx": 19,
+    "text": "The amended law also expands the circumstances in which individuals and organisations can be barred from participating in auctions.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261120_b0d8fc6dc7#20",
+    "doc_id": "vietnamnews_20261120_b0d8fc6dc7",
+    "sent_idx": 20,
+    "text": "In addition to violations of payment obligations resulting in the cancellation of an approved auction result, the new law adds two cases, including refusing to accept a winning bid and refusing to sign the auction minutes.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261120_b0d8fc6dc7#21",
+    "doc_id": "vietnamnews_20261120_b0d8fc6dc7",
+    "sent_idx": 21,
+    "text": "This is intended to address violations at different stages of the auction process and deter participants from making abnormally high bids before refusing to honour the results for personal gain.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261120_b0d8fc6dc7#22",
+    "doc_id": "vietnamnews_20261120_b0d8fc6dc7",
+    "sent_idx": 22,
+    "text": "The amended Law on Asset Auction comprises seven chapters and 66 articles and will also take effect on July 1, 2027. - VNS",
+    "lang": "en",
+    "is_title": false
+  }
+]

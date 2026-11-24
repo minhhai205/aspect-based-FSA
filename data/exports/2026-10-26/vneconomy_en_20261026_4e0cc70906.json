@@ -1,0 +1,378 @@
+[
+  {
+    "sent_id": "vneconomy_en_20261026_4e0cc70906#0",
+    "doc_id": "vneconomy_en_20261026_4e0cc70906",
+    "sent_idx": 0,
+    "text": "Funding the new growth cycle",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vneconomy_en_20261026_4e0cc70906#1",
+    "doc_id": "vneconomy_en_20261026_4e0cc70906",
+    "sent_idx": 1,
+    "text": "Vietnam is entering a new phase of development, with a target of average annual GDP growth of at least 10 per cent from 2026 to 2030.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261026_4e0cc70906#2",
+    "doc_id": "vneconomy_en_20261026_4e0cc70906",
+    "sent_idx": 2,
+    "text": "Supporting this target is estimated to require total investment of around VND38,500 trillion ($1.48 trillion).",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261026_4e0cc70906#3",
+    "doc_id": "vneconomy_en_20261026_4e0cc70906",
+    "sent_idx": 3,
+    "text": "According to Deloitte, investment demand in the new growth cycle will focus on strategic infrastructure; energy and the green transition; technology, innovation, and high-value industries; and the development of the private sector.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261026_4e0cc70906#4",
+    "doc_id": "vneconomy_en_20261026_4e0cc70906",
+    "sent_idx": 4,
+    "text": "These are all areas that require large amounts of long-term capital, with varying levels of risk.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261026_4e0cc70906#5",
+    "doc_id": "vneconomy_en_20261026_4e0cc70906",
+    "sent_idx": 5,
+    "text": "The banking system currently remains the dominant channel for financing the economy.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261026_4e0cc70906#6",
+    "doc_id": "vneconomy_en_20261026_4e0cc70906",
+    "sent_idx": 6,
+    "text": "Vietnam's credit-to-GDP ratio stood at around 145 per cent in 2025.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261026_4e0cc70906#7",
+    "doc_id": "vneconomy_en_20261026_4e0cc70906",
+    "sent_idx": 7,
+    "text": "A similar situation is found across the Asia-Pacific region.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261026_4e0cc70906#8",
+    "doc_id": "vneconomy_en_20261026_4e0cc70906",
+    "sent_idx": 8,
+    "text": "According to analysis by Deloitte Access Economics, bank credit across 13 major economies in the region is equivalent to an average of 122 per cent of GDP, or around $54 trillion.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261026_4e0cc70906#9",
+    "doc_id": "vneconomy_en_20261026_4e0cc70906",
+    "sent_idx": 9,
+    "text": "However, banks cannot meet the full demand for long-term capital required by Vietnam's investment priorities in the new growth cycle.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261026_4e0cc70906#10",
+    "doc_id": "vneconomy_en_20261026_4e0cc70906",
+    "sent_idx": 10,
+    "text": "Over the longer term, Vietnam's financial market still has significant room for development.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261026_4e0cc70906#11",
+    "doc_id": "vneconomy_en_20261026_4e0cc70906",
+    "sent_idx": 11,
+    "text": "The country's financial market remains considerably less developed than those of other economies in the region in terms of market depth, access to capital, and operational efficiency.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261026_4e0cc70906#12",
+    "doc_id": "vneconomy_en_20261026_4e0cc70906",
+    "sent_idx": 12,
+    "text": "However, the value added of Vietnam's financial services sector is forecast to achieve a compound annual growth rate (CAGR) of 9.1 per cent between 2024 and 2035 under a high-growth scenario, placing Vietnam among the region's high-growth economies.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261026_4e0cc70906#13",
+    "doc_id": "vneconomy_en_20261026_4e0cc70906",
+    "sent_idx": 13,
+    "text": "The objective, therefore, is not to reduce the role of banks, but to build a multi-tier capital ecosystem that facilitates and accelerates the development of other funding channels, allocating capital according to maturity, risk, and investment objectives.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261026_4e0cc70906#14",
+    "doc_id": "vneconomy_en_20261026_4e0cc70906",
+    "sent_idx": 14,
+    "text": "Fundamentally, this multi-tier capital ecosystem consists of three main layers.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261026_4e0cc70906#15",
+    "doc_id": "vneconomy_en_20261026_4e0cc70906",
+    "sent_idx": 15,
+    "text": "First is foundational capital from banks.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261026_4e0cc70906#16",
+    "doc_id": "vneconomy_en_20261026_4e0cc70906",
+    "sent_idx": 16,
+    "text": "This remains the primary source of working capital, corporate credit, cash flow-based financing, co-financing, and guarantees.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261026_4e0cc70906#17",
+    "doc_id": "vneconomy_en_20261026_4e0cc70906",
+    "sent_idx": 17,
+    "text": "Second is growth and long-term capital.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261026_4e0cc70906#18",
+    "doc_id": "vneconomy_en_20261026_4e0cc70906",
+    "sent_idx": 18,
+    "text": "This comes from equity markets, bond markets, private equity, private credit, and institutional investors.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261026_4e0cc70906#19",
+    "doc_id": "vneconomy_en_20261026_4e0cc70906",
+    "sent_idx": 19,
+    "text": "These sources of capital are better suited to business expansion, technological innovation, infrastructure, and energy.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261026_4e0cc70906#20",
+    "doc_id": "vneconomy_en_20261026_4e0cc70906",
+    "sent_idx": 20,
+    "text": "Third is the international connectivity platform.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261026_4e0cc70906#21",
+    "doc_id": "vneconomy_en_20261026_4e0cc70906",
+    "sent_idx": 21,
+    "text": "The Vietnam International Financial Center (VIFC) is not a separate \"pool of capital.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261026_4e0cc70906#22",
+    "doc_id": "vneconomy_en_20261026_4e0cc70906",
+    "sent_idx": 22,
+    "text": "Its role is to connect Vietnam with international institutions, financial products and models, global standards, and international capital flows.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261026_4e0cc70906#23",
+    "doc_id": "vneconomy_en_20261026_4e0cc70906",
+    "sent_idx": 23,
+    "text": "Drawing on Deloitte's advisory experience, the ability to convert capital into growth depends on three closely interconnected conditions.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261026_4e0cc70906#24",
+    "doc_id": "vneconomy_en_20261026_4e0cc70906",
+    "sent_idx": 24,
+    "text": "First, strengthen the legal framework and enforcement mechanisms.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261026_4e0cc70906#25",
+    "doc_id": "vneconomy_en_20261026_4e0cc70906",
+    "sent_idx": 25,
+    "text": "Vietnam needs to align three pillars: breakthrough policies to deepen the capital and bond markets; a clear legal framework that approaches international standards; and transparent enforcement mechanisms to protect investors and strengthen confidence.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261026_4e0cc70906#26",
+    "doc_id": "vneconomy_en_20261026_4e0cc70906",
+    "sent_idx": 26,
+    "text": "Vietnam is known for its strong reform efforts.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261026_4e0cc70906#27",
+    "doc_id": "vneconomy_en_20261026_4e0cc70906",
+    "sent_idx": 27,
+    "text": "However, meaningful reform will depend not only on the number of laws and regulations introduced, but also on the ability to translate policies into concrete processes that can be implemented, measured, and effectively supervised.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261026_4e0cc70906#28",
+    "doc_id": "vneconomy_en_20261026_4e0cc70906",
+    "sent_idx": 28,
+    "text": "Second, expand partners and investors.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261026_4e0cc70906#29",
+    "doc_id": "vneconomy_en_20261026_4e0cc70906",
+    "sent_idx": 29,
+    "text": "To create sustained demand for the capital markets, Vietnam needs more \"anchor investors,\" including State-owned funds and enterprises, insurers, pension funds, and investment funds.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261026_4e0cc70906#30",
+    "doc_id": "vneconomy_en_20261026_4e0cc70906",
+    "sent_idx": 30,
+    "text": "It also needs to expand private equity, private credit, and international institutional capital to meet long-term funding needs with higher risk profiles.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261026_4e0cc70906#31",
+    "doc_id": "vneconomy_en_20261026_4e0cc70906",
+    "sent_idx": 31,
+    "text": "However, expanding the investor base does not mean loosening controls.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261026_4e0cc70906#32",
+    "doc_id": "vneconomy_en_20261026_4e0cc70906",
+    "sent_idx": 32,
+    "text": "Rather, it requires risk-based supervision, stronger post-investment monitoring, and clearer accountability.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261026_4e0cc70906#33",
+    "doc_id": "vneconomy_en_20261026_4e0cc70906",
+    "sent_idx": 33,
+    "text": "Sustainable capital flows can only emerge when investors are matched with appropriate risk-return structures and credible governance mechanisms.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261026_4e0cc70906#34",
+    "doc_id": "vneconomy_en_20261026_4e0cc70906",
+    "sent_idx": 34,
+    "text": "The final lever is turning connectivity into transactions.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261026_4e0cc70906#35",
+    "doc_id": "vneconomy_en_20261026_4e0cc70906",
+    "sent_idx": 35,
+    "text": "The VIFC can serve as a gateway connecting Vietnam with international institutions, financial products, and capital flows.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261026_4e0cc70906#36",
+    "doc_id": "vneconomy_en_20261026_4e0cc70906",
+    "sent_idx": 36,
+    "text": "The immediate priority should be developing long-term capital for infrastructure, energy, and technology.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261026_4e0cc70906#37",
+    "doc_id": "vneconomy_en_20261026_4e0cc70906",
+    "sent_idx": 37,
+    "text": "But having financial products alone is not enough.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261026_4e0cc70906#38",
+    "doc_id": "vneconomy_en_20261026_4e0cc70906",
+    "sent_idx": 38,
+    "text": "The market also needs a reliable data platform covering projects, capital requirements, cash flows, and investment opportunities so that investors can assess opportunities and make informed decisions.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261026_4e0cc70906#39",
+    "doc_id": "vneconomy_en_20261026_4e0cc70906",
+    "sent_idx": 39,
+    "text": "Drawing on Deloitte's experience in operating models, data, and transformation, products can only create meaningful impact when data, accountability, and implementation mechanisms are designed to work together.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261026_4e0cc70906#40",
+    "doc_id": "vneconomy_en_20261026_4e0cc70906",
+    "sent_idx": 40,
+    "text": "The challenge for Vietnam's new growth cycle is therefore not simply to mobilize more capital, but to ensure that capital is converted effectively into productive capacity and economic growth.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261026_4e0cc70906#41",
+    "doc_id": "vneconomy_en_20261026_4e0cc70906",
+    "sent_idx": 41,
+    "text": "This requires the financial system to allocate capital according to the characteristics of each investment need.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261026_4e0cc70906#42",
+    "doc_id": "vneconomy_en_20261026_4e0cc70906",
+    "sent_idx": 42,
+    "text": "Banks will continue to provide foundational financing, while equity and bond markets, private capital, institutional investors, and international funding can play a greater role in providing medium and long-term capital for infrastructure, energy, technology, innovation, and business expansion.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261026_4e0cc70906#43",
+    "doc_id": "vneconomy_en_20261026_4e0cc70906",
+    "sent_idx": 43,
+    "text": "At the same time, expanding the supply of capital must go hand-in-hand with stronger connections between investors and viable investment opportunities.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261026_4e0cc70906#44",
+    "doc_id": "vneconomy_en_20261026_4e0cc70906",
+    "sent_idx": 44,
+    "text": "Reliable data on projects, capital needs, cash flows, and investment opportunities will be critical for investors to assess risks and make decisions.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261026_4e0cc70906#45",
+    "doc_id": "vneconomy_en_20261026_4e0cc70906",
+    "sent_idx": 45,
+    "text": "Ultimately, Vietnam needs an ecosystem in which each source of capital has a clearly-defined role, different funding channels are effectively connected, and capital can reach the areas where it can generate the greatest long-term economic impact.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261026_4e0cc70906#46",
+    "doc_id": "vneconomy_en_20261026_4e0cc70906",
+    "sent_idx": 46,
+    "text": "This will be critical to transforming the country's ambitious growth targets into sustainable economic growth.",
+    "lang": "en",
+    "is_title": false
+  }
+]

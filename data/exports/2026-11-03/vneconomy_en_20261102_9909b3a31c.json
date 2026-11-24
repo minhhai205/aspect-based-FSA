@@ -1,0 +1,98 @@
+[
+  {
+    "sent_id": "vneconomy_en_20261102_9909b3a31c#0",
+    "doc_id": "vneconomy_en_20261102_9909b3a31c",
+    "sent_idx": 0,
+    "text": "Hai Phong plans $5 mln in support for eco-industrial park transition",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_9909b3a31c#1",
+    "doc_id": "vneconomy_en_20261102_9909b3a31c",
+    "sent_idx": 1,
+    "text": "Authorities in northern port Hai Phòng city are seeking approval for a package of incentives and support mechanisms aimed at accelerating the transition to eco-industrial parks, with total funding of VND127.55 billion (nearly $5 million), earmarked for the 2026-2030 period.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_9909b3a31c#2",
+    "doc_id": "vneconomy_en_20261102_9909b3a31c",
+    "sent_idx": 2,
+    "text": "Under the proposal submitted by the Hai Phong People's Committee to the municipal People's Council, VND103.6 billion ($4 million) would come from the city budget, while the remaining would be sourced from other lawful funding channels.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_9909b3a31c#3",
+    "doc_id": "vneconomy_en_20261102_9909b3a31c",
+    "sent_idx": 3,
+    "text": "The largest allocation, VND80 billion ($3.1 billion), is intended for technical assistance, assessments and technology-related support.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_9909b3a31c#4",
+    "doc_id": "vneconomy_en_20261102_9909b3a31c",
+    "sent_idx": 4,
+    "text": "Another VND4 billion would be used to subsidize interest payments for investments in shared infrastructure, while VND2 billion is set aside to promote industrial symbiosis, networking and cooperation among businesses.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_9909b3a31c#5",
+    "doc_id": "vneconomy_en_20261102_9909b3a31c",
+    "sent_idx": 5,
+    "text": "The remaining VND17.6 billion (nearly $684,000) would fund measures to streamline investment, administrative and customs procedures, develop shared infrastructure and data platforms, research regulatory sandbox mechanisms, and provide training to strengthen management and operational capacity at eco-industrial parks.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_9909b3a31c#6",
+    "doc_id": "vneconomy_en_20261102_9909b3a31c",
+    "sent_idx": 6,
+    "text": "The draft policy would also provide technical assistance to industrial park infrastructure developers.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_9909b3a31c#7",
+    "doc_id": "vneconomy_en_20261102_9909b3a31c",
+    "sent_idx": 7,
+    "text": "Support would cover assessments of readiness and compliance with eco-industrial park criteria, development of baseline studies and action plans, energy and water audits, resource-efficiency evaluations, cleaner production assessments, greenhouse-gas inventories and preparation of certification applications.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_9909b3a31c#8",
+    "doc_id": "vneconomy_en_20261102_9909b3a31c",
+    "sent_idx": 8,
+    "text": "To encourage industrial symbiosis and circular economy initiatives, the city is proposing an interest-rate subsidy of 2% per year on outstanding medium- and long-term loans denominated in Vietnamese currency (VND) and provided by the Hai Phong Development Investment Fund.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_9909b3a31c#9",
+    "doc_id": "vneconomy_en_20261102_9909b3a31c",
+    "sent_idx": 9,
+    "text": "The subsidy would apply only to projects involving shared technical infrastructure, including wastewater treatment and water reuse facilities, energy storage systems, common-use pipeline networks and industrial by-product transfer stations.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_9909b3a31c#10",
+    "doc_id": "vneconomy_en_20261102_9909b3a31c",
+    "sent_idx": 10,
+    "text": "Support would be capped at three years and limited to a maximum of VND1 billion per project.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_9909b3a31c#11",
+    "doc_id": "vneconomy_en_20261102_9909b3a31c",
+    "sent_idx": 11,
+    "text": "In addition, Hai Phong plans to explore controlled pilot mechanisms for the exchange and supply of treated industrial water, the sharing and trading of self-generated electricity within industrial parks, and the exchange and reuse of industrial by-products.",
+    "lang": "en",
+    "is_title": false
+  }
+]

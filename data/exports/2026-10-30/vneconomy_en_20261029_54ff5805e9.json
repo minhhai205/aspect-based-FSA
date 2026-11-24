@@ -1,0 +1,746 @@
+[
+  {
+    "sent_id": "vneconomy_en_20261029_54ff5805e9#0",
+    "doc_id": "vneconomy_en_20261029_54ff5805e9",
+    "sent_idx": 0,
+    "text": "Multiple levels of value",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vneconomy_en_20261029_54ff5805e9#1",
+    "doc_id": "vneconomy_en_20261029_54ff5805e9",
+    "sent_idx": 1,
+    "text": "In today's context, marine spatial planning (MSP) must go beyond determining which industries can operate where.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261029_54ff5805e9#2",
+    "doc_id": "vneconomy_en_20261029_54ff5805e9",
+    "sent_idx": 2,
+    "text": "It must become a tool for value creation, interest coordination, and the organization of multifunctional development spaces.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261029_54ff5805e9#3",
+    "doc_id": "vneconomy_en_20261029_54ff5805e9",
+    "sent_idx": 3,
+    "text": "This requires a shift from sectoral management to integrated governance, and from static planning to dynamic, data-driven planning.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261029_54ff5805e9#4",
+    "doc_id": "vneconomy_en_20261029_54ff5805e9",
+    "sent_idx": 4,
+    "text": "These changes will be critical to Vietnam's ability to turn its maritime advantages into economic strength and national standing by 2045.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261029_54ff5805e9#5",
+    "doc_id": "vneconomy_en_20261029_54ff5805e9",
+    "sent_idx": 5,
+    "text": "This direction is consistent with the requirements set out in Resolution No. 36-NQ/TW, dated October 22, 2018, on the Strategy for Sustainable Development of Vietnam's Marine Economy to 2030, with a Vision to 2045, and Resolution No. 20-NQ/TW, dated July 28, 2026, on building and developing Vietnam into a strong maritime nation.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261029_54ff5805e9#6",
+    "doc_id": "vneconomy_en_20261029_54ff5805e9",
+    "sent_idx": 6,
+    "text": "The latter identifies the reform of national marine spatial governance as a core, breakthrough component of the institutional framework needed to develop a strong maritime nation.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261029_54ff5805e9#7",
+    "doc_id": "vneconomy_en_20261029_54ff5805e9",
+    "sent_idx": 7,
+    "text": "From spatial allocation to value creation",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261029_54ff5805e9#8",
+    "doc_id": "vneconomy_en_20261029_54ff5805e9",
+    "sent_idx": 8,
+    "text": "According to UNESCO's Intergovernmental Oceanographic Commission (IOC), MSP is a public process for analyzing and allocating the spatial and temporal distribution of human activities in marine areas to achieve ecological, economic, and social objectives.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261029_54ff5805e9#9",
+    "doc_id": "vneconomy_en_20261029_54ff5805e9",
+    "sent_idx": 9,
+    "text": "MSP is an integrated, science-based governance process that involves stakeholders, adapts to changing circumstances, and is updated over time.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261029_54ff5805e9#10",
+    "doc_id": "vneconomy_en_20261029_54ff5805e9",
+    "sent_idx": 10,
+    "text": "This requirement is particularly significant for Vietnam.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261029_54ff5805e9#11",
+    "doc_id": "vneconomy_en_20261029_54ff5805e9",
+    "sent_idx": 11,
+    "text": "A distinctive feature of marine space is that many economic activities tend to be concentrated in the same areas with the most favorable natural conditions.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261029_54ff5805e9#12",
+    "doc_id": "vneconomy_en_20261029_54ff5805e9",
+    "sent_idx": 12,
+    "text": "Shipping routes, for example, require sufficient water depth and suitable oceanographic conditions.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261029_54ff5805e9#13",
+    "doc_id": "vneconomy_en_20261029_54ff5805e9",
+    "sent_idx": 13,
+    "text": "Seaports need favorable locations for vessel access and connections to the mainland.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261029_54ff5805e9#14",
+    "doc_id": "vneconomy_en_20261029_54ff5805e9",
+    "sent_idx": 14,
+    "text": "Industrial aquaculture requires waters with suitable environmental conditions, while capture fisheries depend on productive fishing grounds.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261029_54ff5805e9#15",
+    "doc_id": "vneconomy_en_20261029_54ff5805e9",
+    "sent_idx": 15,
+    "text": "The economic value of a marine area depends on its suitability for each activity.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261029_54ff5805e9#16",
+    "doc_id": "vneconomy_en_20261029_54ff5805e9",
+    "sent_idx": 16,
+    "text": "As multiple industries compete for the most favorable locations, marine space becomes an increasingly scarce resource.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261029_54ff5805e9#17",
+    "doc_id": "vneconomy_en_20261029_54ff5805e9",
+    "sent_idx": 17,
+    "text": "Traditional MSP typically begins by asking what a particular area should be used for.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261029_54ff5805e9#18",
+    "doc_id": "vneconomy_en_20261029_54ff5805e9",
+    "sent_idx": 18,
+    "text": "Next-generation planning must begin with a broader question: What kinds of value can this space generate, which activities are compatible, and which spatial arrangements can maximize overall value within ecological limits?",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261029_54ff5805e9#19",
+    "doc_id": "vneconomy_en_20261029_54ff5805e9",
+    "sent_idx": 19,
+    "text": "This represents a fundamental shift in thinking.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261029_54ff5805e9#20",
+    "doc_id": "vneconomy_en_20261029_54ff5805e9",
+    "sent_idx": 20,
+    "text": "On June 28, 2024, the 15th National Assembly adopted Resolution No. 139/2024/QH15 on National Marine Spatial Planning for the 2021-2030 Period, with a Vision to 2050.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261029_54ff5805e9#21",
+    "doc_id": "vneconomy_en_20261029_54ff5805e9",
+    "sent_idx": 21,
+    "text": "The Resolution defines the plan as a framework that is comprehensive, integrated, cross-sectoral, dynamic, open, and guiding in nature.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261029_54ff5805e9#22",
+    "doc_id": "vneconomy_en_20261029_54ff5805e9",
+    "sent_idx": 22,
+    "text": "Its purpose is to allocate and organize marine space rationally across industries and sectors, promoting sustainability, balancing interests, and minimizing conflicts over the exploitation and use of marine resources and space.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261029_54ff5805e9#23",
+    "doc_id": "vneconomy_en_20261029_54ff5805e9",
+    "sent_idx": 23,
+    "text": "Thus, at the national planning level, the sea is already being approached as an integrated space rather than a mechanical aggregation of areas assigned to different industries.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261029_54ff5805e9#24",
+    "doc_id": "vneconomy_en_20261029_54ff5805e9",
+    "sent_idx": 24,
+    "text": "This means next-generation planning must increasingly rely on data, digital technologies, modeling, and analytical capabilities to identify conflicts, assess carrying capacity, and update development arrangements as conditions change.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261029_54ff5805e9#25",
+    "doc_id": "vneconomy_en_20261029_54ff5805e9",
+    "sent_idx": 25,
+    "text": "More importantly, next-generation MSP must become a tool for coordinating and allocating resources.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261029_54ff5805e9#26",
+    "doc_id": "vneconomy_en_20261029_54ff5805e9",
+    "sent_idx": 26,
+    "text": "This changes the fundamental nature of planning.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261029_54ff5805e9#27",
+    "doc_id": "vneconomy_en_20261029_54ff5805e9",
+    "sent_idx": 27,
+    "text": "A good map should not simply indicate where development is permitted.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261029_54ff5805e9#28",
+    "doc_id": "vneconomy_en_20261029_54ff5805e9",
+    "sent_idx": 28,
+    "text": "It should also help the government and the market identify where investment should be prioritized, which infrastructure needs to come first, which industries can generate spillover effects, and which areas should be reserved for conservation or restoration.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261029_54ff5805e9#29",
+    "doc_id": "vneconomy_en_20261029_54ff5805e9",
+    "sent_idx": 29,
+    "text": "Planning then becomes a tool for market creation and investment risk reduction, rather than merely a mechanism for managing and allocating space.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261029_54ff5805e9#30",
+    "doc_id": "vneconomy_en_20261029_54ff5805e9",
+    "sent_idx": 30,
+    "text": "Another important step is to move beyond the idea that marine space should be divided only across the horizontal plane.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261029_54ff5805e9#31",
+    "doc_id": "vneconomy_en_20261029_54ff5805e9",
+    "sent_idx": 31,
+    "text": "The sea contains multiple layers of value.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261029_54ff5805e9#32",
+    "doc_id": "vneconomy_en_20261029_54ff5805e9",
+    "sent_idx": 32,
+    "text": "Surface waters support shipping, tourism, marine aquaculture, and service activities.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261029_54ff5805e9#33",
+    "doc_id": "vneconomy_en_20261029_54ff5805e9",
+    "sent_idx": 33,
+    "text": "The water column contains ecosystems and fisheries resources as well as conditions suitable for different forms of aquaculture.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261029_54ff5805e9#34",
+    "doc_id": "vneconomy_en_20261029_54ff5805e9",
+    "sent_idx": 34,
+    "text": "The seabed holds geological resources, submarine cables, pipelines, and infrastructure networks.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261029_54ff5805e9#35",
+    "doc_id": "vneconomy_en_20261029_54ff5805e9",
+    "sent_idx": 35,
+    "text": "This creates opportunities for multilevel, multipurpose spatial organization rather than assuming that a marine area can serve only one industry.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261029_54ff5805e9#36",
+    "doc_id": "vneconomy_en_20261029_54ff5805e9",
+    "sent_idx": 36,
+    "text": "However, multipurpose use should be permitted only when activities are sufficiently compatible, do not push cumulative ecosystem impacts beyond acceptable thresholds, and are governed by clear management arrangements.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261029_54ff5805e9#37",
+    "doc_id": "vneconomy_en_20261029_54ff5805e9",
+    "sent_idx": 37,
+    "text": "International guidelines for ecosystem-based MSP consistently emphasize the need to identify conflicts and synergies, assess carrying capacity and cumulative impacts, and consider alternative spatial arrangements.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261029_54ff5805e9#38",
+    "doc_id": "vneconomy_en_20261029_54ff5805e9",
+    "sent_idx": 38,
+    "text": "Consider a marine area with strong wind potential.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261029_54ff5805e9#39",
+    "doc_id": "vneconomy_en_20261029_54ff5805e9",
+    "sent_idx": 39,
+    "text": "Under a single-sector approach, it might simply be designated for offshore wind power.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261029_54ff5805e9#40",
+    "doc_id": "vneconomy_en_20261029_54ff5805e9",
+    "sent_idx": 40,
+    "text": "An ecosystem-oriented approach, however, raises broader questions.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261029_54ff5805e9#41",
+    "doc_id": "vneconomy_en_20261029_54ff5805e9",
+    "sent_idx": 41,
+    "text": "Could part of the area accommodate high-tech marine aquaculture?",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261029_54ff5805e9#42",
+    "doc_id": "vneconomy_en_20261029_54ff5805e9",
+    "sent_idx": 42,
+    "text": "Could a port serving offshore wind projects also support maritime logistics and other offshore industrial activities?",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261029_54ff5805e9#43",
+    "doc_id": "vneconomy_en_20261029_54ff5805e9",
+    "sent_idx": 43,
+    "text": "Could service, repair, and maintenance vessels help establish a new marine industrial value chain?",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261029_54ff5805e9#44",
+    "doc_id": "vneconomy_en_20261029_54ff5805e9",
+    "sent_idx": 44,
+    "text": "Could data from project monitoring stations support meteorological and oceanographic research?",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261029_54ff5805e9#45",
+    "doc_id": "vneconomy_en_20261029_54ff5805e9",
+    "sent_idx": 45,
+    "text": "Could the placement of offshore structures create restricted-use areas that contribute to the recovery of certain ecosystems or marine resources?",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261029_54ff5805e9#46",
+    "doc_id": "vneconomy_en_20261029_54ff5805e9",
+    "sent_idx": 46,
+    "text": "The answer will not always be yes.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261029_54ff5805e9#47",
+    "doc_id": "vneconomy_en_20261029_54ff5805e9",
+    "sent_idx": 47,
+    "text": "But planning must provide the means to answer these questions through scientific data, impact assessments, and cost-benefit analysis.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261029_54ff5805e9#48",
+    "doc_id": "vneconomy_en_20261029_54ff5805e9",
+    "sent_idx": 48,
+    "text": "While zoning provides the structural framework for MSP, ecological carrying capacity is one of its most important constraints.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261029_54ff5805e9#49",
+    "doc_id": "vneconomy_en_20261029_54ff5805e9",
+    "sent_idx": 49,
+    "text": "The sea can accommodate a certain level of human activity, but that capacity is not unlimited.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261029_54ff5805e9#50",
+    "doc_id": "vneconomy_en_20261029_54ff5805e9",
+    "sent_idx": 50,
+    "text": "An individual project may be assessed as having an acceptable environmental impact, yet multiple projects within the same ecosystem can collectively generate far greater impacts.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261029_54ff5805e9#51",
+    "doc_id": "vneconomy_en_20261029_54ff5805e9",
+    "sent_idx": 51,
+    "text": "This is one of the most complex challenges in modern MSP.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261029_54ff5805e9#52",
+    "doc_id": "vneconomy_en_20261029_54ff5805e9",
+    "sent_idx": 52,
+    "text": "Planning must therefore move beyond assessing projects individually toward evaluating cumulative impacts across space and time.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261029_54ff5805e9#53",
+    "doc_id": "vneconomy_en_20261029_54ff5805e9",
+    "sent_idx": 53,
+    "text": "This is also a key principle of the ecosystem-based approach to MSP internationally.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261029_54ff5805e9#54",
+    "doc_id": "vneconomy_en_20261029_54ff5805e9",
+    "sent_idx": 54,
+    "text": "The EU emphasizes the use of the best available scientific knowledge, the assessment of cumulative impacts, the application of the precautionary principle, and the monitoring and adjustment of plans in response to actual conditions.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261029_54ff5805e9#55",
+    "doc_id": "vneconomy_en_20261029_54ff5805e9",
+    "sent_idx": 55,
+    "text": "For Vietnam, this approach could represent a major advance in marine governance, turning planning into a tool for development decision-making rather than simply an administrative map.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261029_54ff5805e9#56",
+    "doc_id": "vneconomy_en_20261029_54ff5805e9",
+    "sent_idx": 56,
+    "text": "A key component of the National MSP is functional zoning and the establishment of priorities for marine space use.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261029_54ff5805e9#57",
+    "doc_id": "vneconomy_en_20261029_54ff5805e9",
+    "sent_idx": 57,
+    "text": "The plan identifies broad functional categories and defines different levels of use, ranging from prohibited activities and conditional use to strict protection, encouraged development, and multipurpose use.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261029_54ff5805e9#58",
+    "doc_id": "vneconomy_en_20261029_54ff5805e9",
+    "sent_idx": 58,
+    "text": "This approach is necessary because not every conflict can be resolved through shared use.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261029_54ff5805e9#59",
+    "doc_id": "vneconomy_en_20261029_54ff5805e9",
+    "sent_idx": 59,
+    "text": "Planning must therefore establish a clear hierarchy of priorities.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261029_54ff5805e9#60",
+    "doc_id": "vneconomy_en_20261029_54ff5805e9",
+    "sent_idx": 60,
+    "text": "International practice has developed compatibility and conflict matrices for marine activities, distinguishing those that cannot coexist from those that can be coordinated or mutually reinforce one another.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261029_54ff5805e9#61",
+    "doc_id": "vneconomy_en_20261029_54ff5805e9",
+    "sent_idx": 61,
+    "text": "This is particularly relevant to Vietnam's emerging marine industries.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261029_54ff5805e9#62",
+    "doc_id": "vneconomy_en_20261029_54ff5805e9",
+    "sent_idx": 62,
+    "text": "Another important step for future planning is to view marine space in multiple dimensions, including the sea surface, water column, seabed, and airspace above the sea, each of which serves different functions.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261029_54ff5805e9#63",
+    "doc_id": "vneconomy_en_20261029_54ff5805e9",
+    "sent_idx": 63,
+    "text": "In other words, marine space must be organized not only horizontally on a map but also vertically and over time.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261029_54ff5805e9#64",
+    "doc_id": "vneconomy_en_20261029_54ff5805e9",
+    "sent_idx": 64,
+    "text": "This provides the foundation for multilevel, cross-sectoral planning.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261029_54ff5805e9#65",
+    "doc_id": "vneconomy_en_20261029_54ff5805e9",
+    "sent_idx": 65,
+    "text": "A single area may accommodate different functions at different spatial levels, provided these arrangements are supported by assessments of compatibility, cumulative impacts, ecological carrying capacity, and national defense and security requirements.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261029_54ff5805e9#66",
+    "doc_id": "vneconomy_en_20261029_54ff5805e9",
+    "sent_idx": 66,
+    "text": "The objective is not to maximize the number of uses, but to organize marine space as intelligently as possible.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261029_54ff5805e9#67",
+    "doc_id": "vneconomy_en_20261029_54ff5805e9",
+    "sent_idx": 67,
+    "text": "MSP should therefore move toward three-dimensional marine geographic information systems (GIS) that integrate spatial and temporal data with information on depth, oceanographic conditions, ecosystems, and economic activities.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261029_54ff5805e9#68",
+    "doc_id": "vneconomy_en_20261029_54ff5805e9",
+    "sent_idx": 68,
+    "text": "This is essential to improving the quality of decision-making.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261029_54ff5805e9#69",
+    "doc_id": "vneconomy_en_20261029_54ff5805e9",
+    "sent_idx": 69,
+    "text": "This direction has become even clearer following the adoption of Resolution No. 20, which places the completion of a national marine database and the acceleration of digitization, integration, and data sharing on resources, the environment, infrastructure, and maritime activities within the broader agenda for marine governance reform.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261029_54ff5805e9#70",
+    "doc_id": "vneconomy_en_20261029_54ff5805e9",
+    "sent_idx": 70,
+    "text": "Once data systems are interconnected, MSP can evolve from a product developed at fixed intervals into a governance system capable of continuous monitoring, analysis, early warning, and adjustment.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261029_54ff5805e9#71",
+    "doc_id": "vneconomy_en_20261029_54ff5805e9",
+    "sent_idx": 71,
+    "text": "The OECD has recently emphasized that marine data, much of which is generated by public monitoring systems, underpins ocean knowledge and marine economic governance.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261029_54ff5805e9#72",
+    "doc_id": "vneconomy_en_20261029_54ff5805e9",
+    "sent_idx": 72,
+    "text": "Data-driven value chains built on public marine data can deliver substantial benefits for MSP, conservation, disaster risk reduction, renewable energy, and transportation.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261029_54ff5805e9#73",
+    "doc_id": "vneconomy_en_20261029_54ff5805e9",
+    "sent_idx": 73,
+    "text": "For Vietnam, this points to an important requirement: marine data must be treated as national infrastructure, on par with transportation, energy, and telecommunications infrastructure.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261029_54ff5805e9#74",
+    "doc_id": "vneconomy_en_20261029_54ff5805e9",
+    "sent_idx": 74,
+    "text": "One of the most important principles is that planning must function as a dynamic system.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261029_54ff5805e9#75",
+    "doc_id": "vneconomy_en_20261029_54ff5805e9",
+    "sent_idx": 75,
+    "text": "Resolution No. 139 explicitly defines the National MSP as \"dynamic and open.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261029_54ff5805e9#76",
+    "doc_id": "vneconomy_en_20261029_54ff5805e9",
+    "sent_idx": 76,
+    "text": "Dynamic planning does not mean arbitrary changes.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261029_54ff5805e9#77",
+    "doc_id": "vneconomy_en_20261029_54ff5805e9",
+    "sent_idx": 77,
+    "text": "Rather, it requires a clear distinction between stable principles and components that can be adjusted as circumstances evolve.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261029_54ff5805e9#78",
+    "doc_id": "vneconomy_en_20261029_54ff5805e9",
+    "sent_idx": 78,
+    "text": "This is the essence of adaptive governance.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261029_54ff5805e9#79",
+    "doc_id": "vneconomy_en_20261029_54ff5805e9",
+    "sent_idx": 79,
+    "text": "UNESCO's IOC emphasizes that MSP should be science-based, integrated, adaptive, strategic, and participatory.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261029_54ff5805e9#80",
+    "doc_id": "vneconomy_en_20261029_54ff5805e9",
+    "sent_idx": 80,
+    "text": "International guidelines also treat monitoring, evaluation, and updating as integral parts of the planning cycle, rather than activities undertaken after a plan has been completed.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261029_54ff5805e9#81",
+    "doc_id": "vneconomy_en_20261029_54ff5805e9",
+    "sent_idx": 81,
+    "text": "For the National MSP to become a genuine foundation for development, Vietnam must move from having a plan to operationalizing it through a new governance system.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261029_54ff5805e9#82",
+    "doc_id": "vneconomy_en_20261029_54ff5805e9",
+    "sent_idx": 82,
+    "text": "This should include seven priorities: establishing a strong and unified marine spatial coordination mechanism; building a national marine data system; placing ecological carrying capacity and cumulative impacts at the center of planning; developing multipurpose marine space-use models; establishing dynamic planning mechanisms; turning planning into a tool for reducing investment risks; and quantifying the efficiency of marine space use.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261029_54ff5805e9#83",
+    "doc_id": "vneconomy_en_20261029_54ff5805e9",
+    "sent_idx": 83,
+    "text": "By 2045, Vietnam's marine space will look very different from today.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261029_54ff5805e9#84",
+    "doc_id": "vneconomy_en_20261029_54ff5805e9",
+    "sent_idx": 84,
+    "text": "It will accommodate more economic activities, more technologies, and more infrastructure, while facing greater pressures at the same time.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261029_54ff5805e9#85",
+    "doc_id": "vneconomy_en_20261029_54ff5805e9",
+    "sent_idx": 85,
+    "text": "Vietnam's challenge is therefore not to preserve its current marine space unchanged, but to organize it in a way that accommodates new drivers of development without undermining the ecological foundations and long-term national interests.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261029_54ff5805e9#86",
+    "doc_id": "vneconomy_en_20261029_54ff5805e9",
+    "sent_idx": 86,
+    "text": "This is why MSP must occupy a central position in Vietnam's national maritime strategy.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261029_54ff5805e9#87",
+    "doc_id": "vneconomy_en_20261029_54ff5805e9",
+    "sent_idx": 87,
+    "text": "Under this approach, the sea becomes a development ecosystem.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261029_54ff5805e9#88",
+    "doc_id": "vneconomy_en_20261029_54ff5805e9",
+    "sent_idx": 88,
+    "text": "From this perspective, MSP to 2045 should be regarded as a component of Vietnam's national maritime capabilities.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261029_54ff5805e9#89",
+    "doc_id": "vneconomy_en_20261029_54ff5805e9",
+    "sent_idx": 89,
+    "text": "The more integrated the planning, the more comprehensive the data, the more advanced the technology, and the more effective the coordination mechanisms, the greater the value that can be generated from marine space.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261029_54ff5805e9#90",
+    "doc_id": "vneconomy_en_20261029_54ff5805e9",
+    "sent_idx": 90,
+    "text": "At the same time, the country will be better equipped to manage conflicts, protect ecosystems, and safeguard the national interest.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261029_54ff5805e9#91",
+    "doc_id": "vneconomy_en_20261029_54ff5805e9",
+    "sent_idx": 91,
+    "text": "On the journey toward 2045, Vietnam must shift from dividing space to creating spaces for development; from optimizing individual sectors' interests to maximizing overall value; from managing according to administrative boundaries to governing based on ecosystems; from fragmented data to national marine data infrastructure; and from static planning to adaptive planning.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261029_54ff5805e9#92",
+    "doc_id": "vneconomy_en_20261029_54ff5805e9",
+    "sent_idx": 92,
+    "text": "Ultimately, the value of MSP will not be measured by how many square kilometers Vietnam allocates to different activities, but by how much value, technological capability, high-quality employment, ecosystem restoration, and national strength the country can generate from this finite maritime space by 2045.",
+    "lang": "en",
+    "is_title": false
+  }
+]

@@ -1,0 +1,250 @@
+[
+  {
+    "sent_id": "vietnamnews_20261109_70491385f0#0",
+    "doc_id": "vietnamnews_20261109_70491385f0",
+    "sent_idx": 0,
+    "text": "Market faces short-term correction, anticipates November bottom",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261109_70491385f0#1",
+    "doc_id": "vietnamnews_20261109_70491385f0",
+    "sent_idx": 1,
+    "text": "HÀ NỘI - The stock market may continue to face short-term correction pressure, with the VN-Index expected to fluctuate around the 1,700-1,730-point support range before establishing a clearer direction.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261109_70491385f0#2",
+    "doc_id": "vietnamnews_20261109_70491385f0",
+    "sent_idx": 2,
+    "text": "Securities firms see the possibility of a short-term market bottom forming this month, although investor demand remains a key factor to watch.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261109_70491385f0#3",
+    "doc_id": "vietnamnews_20261109_70491385f0",
+    "sent_idx": 3,
+    "text": "The VN-Index, representing the Hochiminh Stock Exchange (HoSE) ended last week at 1,725.36 points, down 0.93 per cent from the previous week, marking its second consecutive weekly decline.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261109_70491385f0#4",
+    "doc_id": "vietnamnews_20261109_70491385f0",
+    "sent_idx": 4,
+    "text": "The HNX-Index on the Hanoi Stock Exchange (HNX) performed better, rising 1.58 per cent to 256.73 points.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261109_70491385f0#5",
+    "doc_id": "vietnamnews_20261109_70491385f0",
+    "sent_idx": 5,
+    "text": "Average matched trading value on the HoSE improved 20.5 per cent week-on-week to around VNĐ14.1 trillion (US$55.1 million) per session.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261109_70491385f0#6",
+    "doc_id": "vietnamnews_20261109_70491385f0",
+    "sent_idx": 6,
+    "text": "However, foreign investors remained net sellers, offloading approximately VNĐ869 billion worth of shares on HoSE, although they returned to net buying on the final trading day.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261109_70491385f0#7",
+    "doc_id": "vietnamnews_20261109_70491385f0",
+    "sent_idx": 7,
+    "text": "Nevertheless, SSI Securities Corporation (SSI) offered a more positive assessment, saying November could mark the formation of a short-term market bottom following the correction in September and October.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261109_70491385f0#8",
+    "doc_id": "vietnamnews_20261109_70491385f0",
+    "sent_idx": 8,
+    "text": "According to SSI Research, market valuations have become more attractive after the prolonged decline.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261109_70491385f0#9",
+    "doc_id": "vietnamnews_20261109_70491385f0",
+    "sent_idx": 9,
+    "text": "The VN-Index is trading at an estimated 2026 price-to-earnings (P/E) ratio of around 11.7 times, falling to approximately nine times excluding Vingroup stocks.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261109_70491385f0#10",
+    "doc_id": "vietnamnews_20261109_70491385f0",
+    "sent_idx": 10,
+    "text": "Based on projected 2027 earnings, the corresponding ratios are 10.7 times and 8.1 times.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261109_70491385f0#11",
+    "doc_id": "vietnamnews_20261109_70491385f0",
+    "sent_idx": 11,
+    "text": "SSI Research said these valuations suggest that stock prices have already reflected part of the expected slowdown in earnings growth over the coming quarters.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261109_70491385f0#12",
+    "doc_id": "vietnamnews_20261109_70491385f0",
+    "sent_idx": 12,
+    "text": "Macroeconomic conditions could also provide support.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261109_70491385f0#13",
+    "doc_id": "vietnamnews_20261109_70491385f0",
+    "sent_idx": 13,
+    "text": "Việt Nam's gross domestic product (GDP) grew 9.95 per cent year-on-year in the third quarter of 2026, bringing nine-month growth to 9.01 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261109_70491385f0#14",
+    "doc_id": "vietnamnews_20261109_70491385f0",
+    "sent_idx": 14,
+    "text": "Industrial production increased by 15 per cent in October, while cumulative growth for the first 10 months reached 12.4 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261109_70491385f0#15",
+    "doc_id": "vietnamnews_20261109_70491385f0",
+    "sent_idx": 15,
+    "text": "SSI identified public investment as the main growth driver in the fourth quarter, with around VNĐ350 trillion in public investment capital still awaiting disbursement.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261109_70491385f0#16",
+    "doc_id": "vietnamnews_20261109_70491385f0",
+    "sent_idx": 16,
+    "text": "The disbursement deadline extends to the end of January 2027, meaning some of its positive effects could continue into the first quarter of next year.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261109_70491385f0#17",
+    "doc_id": "vietnamnews_20261109_70491385f0",
+    "sent_idx": 17,
+    "text": "The securities firm also noted that deposit interest rates had declined by around 50-70 basis points and might have peaked in the short term.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261109_70491385f0#18",
+    "doc_id": "vietnamnews_20261109_70491385f0",
+    "sent_idx": 18,
+    "text": "Meanwhile, global oil prices had fallen by more than 15 per cent, while the Vietnamese dong had appreciated by over 2 per cent against the US dollar since the beginning of the year.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261109_70491385f0#19",
+    "doc_id": "vietnamnews_20261109_70491385f0",
+    "sent_idx": 19,
+    "text": "These factors could help support market sentiment.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261109_70491385f0#20",
+    "doc_id": "vietnamnews_20261109_70491385f0",
+    "sent_idx": 20,
+    "text": "However, SSI cautioned that past performance would not guarantee a repeat of the pattern.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261109_70491385f0#21",
+    "doc_id": "vietnamnews_20261109_70491385f0",
+    "sent_idx": 21,
+    "text": "It said investors should monitor whether market cash flows improve sustainably.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261109_70491385f0#22",
+    "doc_id": "vietnamnews_20261109_70491385f0",
+    "sent_idx": 22,
+    "text": "The firm recommended selective accumulation during market corrections rather than chasing prices during rebounds.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261109_70491385f0#23",
+    "doc_id": "vietnamnews_20261109_70491385f0",
+    "sent_idx": 23,
+    "text": "Its preferred targets are companies with solid earnings prospects in the fourth quarter of 2026 and 2027, exposure to public investment and limited dependence on a low-interest-rate environment.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261109_70491385f0#24",
+    "doc_id": "vietnamnews_20261109_70491385f0",
+    "sent_idx": 24,
+    "text": "This week, securities firms expect the VN-Index to remain volatile as buying interest has yet to show broad-based strength.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261109_70491385f0#25",
+    "doc_id": "vietnamnews_20261109_70491385f0",
+    "sent_idx": 25,
+    "text": "Bao Viet Securities Company (BVSC) said the index needed to establish a higher short-term low and stage a sufficiently strong rebound to break above its downward trendline.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261109_70491385f0#26",
+    "doc_id": "vietnamnews_20261109_70491385f0",
+    "sent_idx": 26,
+    "text": "It identified support at 1,700-1,710 points and resistance at 1,740-1,750 points.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261109_70491385f0#27",
+    "doc_id": "vietnamnews_20261109_70491385f0",
+    "sent_idx": 27,
+    "text": "BIDV Securities Company (BSC) expected the market to move sideways within a range of 1,715-1,750 points.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261109_70491385f0#28",
+    "doc_id": "vietnamnews_20261109_70491385f0",
+    "sent_idx": 28,
+    "text": "It said selling pressure remained significant near resistance levels, despite improved liquidity as the index recovered from around 1,700 points.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261109_70491385f0#29",
+    "doc_id": "vietnamnews_20261109_70491385f0",
+    "sent_idx": 29,
+    "text": "Vietcombank Securities Company (VCBS) also warned that correction pressure persisted as the VN-Index tested support around 1,720-1,730 points.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261109_70491385f0#30",
+    "doc_id": "vietnamnews_20261109_70491385f0",
+    "sent_idx": 30,
+    "text": "It advised investors to maintain positions in stocks that continue to hold their support levels and stable upward trends, while waiting for clearer signs of market balance rather than rushing to buy at the bottom. - BIZHUB/VNS",
+    "lang": "en",
+    "is_title": false
+  }
+]

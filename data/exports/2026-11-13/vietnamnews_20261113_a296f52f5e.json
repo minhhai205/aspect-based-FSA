@@ -1,0 +1,218 @@
+[
+  {
+    "sent_id": "vietnamnews_20261113_a296f52f5e#0",
+    "doc_id": "vietnamnews_20261113_a296f52f5e",
+    "sent_idx": 0,
+    "text": "Việt Nam urged to prioritise foreign investment quality over investment scale",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261113_a296f52f5e#1",
+    "doc_id": "vietnamnews_20261113_a296f52f5e",
+    "sent_idx": 1,
+    "text": "HÀ NỘI - Việt Nam needs to move beyond headline foreign investment figures and place greater emphasis on investment quality, technology transfer and links with domestic businesses, experts have said, as registered foreign investment reached an 18-year high in the first 10 months of 2026.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261113_a296f52f5e#2",
+    "doc_id": "vietnamnews_20261113_a296f52f5e",
+    "sent_idx": 2,
+    "text": "The country attracted US$54.85 billion in registered foreign investment during the January-October period, up 74 per cent from a year earlier and the highest level since 2008, according to the Ministry of Finance's National Statistics Office.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261113_a296f52f5e#3",
+    "doc_id": "vietnamnews_20261113_a296f52f5e",
+    "sent_idx": 3,
+    "text": "However, realised investment rose by just 13 per cent to $24.08 billion, highlighting a widening gap between investment commitments and actual capital disbursements.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261113_a296f52f5e#4",
+    "doc_id": "vietnamnews_20261113_a296f52f5e",
+    "sent_idx": 4,
+    "text": "The ratio of realised to registered capital fell to 44 per cent in the first 10 months of 2026, from approximately 68 per cent in the same period last year.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261113_a296f52f5e#5",
+    "doc_id": "vietnamnews_20261113_a296f52f5e",
+    "sent_idx": 5,
+    "text": "While the increase in realised capital remained positive, the disparity highlighted why Việt Nam should not assess the effectiveness of its foreign investment policies solely through registered investment figures, said Phan Hữu Thắng, former director of the Foreign Investment Agency under the former Ministry of Planning and Investment.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261113_a296f52f5e#6",
+    "doc_id": "vietnamnews_20261113_a296f52f5e",
+    "sent_idx": 6,
+    "text": "The processing and manufacturing sector remained the largest recipient of foreign investment, attracting $14.61 billion in newly registered capital, equivalent to 47.5 per cent of the total.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261113_a296f52f5e#7",
+    "doc_id": "vietnamnews_20261113_a296f52f5e",
+    "sent_idx": 7,
+    "text": "Including additional capital registered by existing projects, investment in the sector reached $24.19 billion, accounting for 51.6 per cent of the combined value of new and adjusted investment.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261113_a296f52f5e#8",
+    "doc_id": "vietnamnews_20261113_a296f52f5e",
+    "sent_idx": 8,
+    "text": "The concentration of realised investment in manufacturing was consistent with Việt Nam's ambition to develop into a regional manufacturing hub, Thắng told vnbusiness.vn.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261113_a296f52f5e#9",
+    "doc_id": "vietnamnews_20261113_a296f52f5e",
+    "sent_idx": 9,
+    "text": "However, the sector's share alone did not indicate the quality of investment, which should also be assessed through technological capabilities, domestic value added and links with Vietnamese companies.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261113_a296f52f5e#10",
+    "doc_id": "vietnamnews_20261113_a296f52f5e",
+    "sent_idx": 10,
+    "text": "Projects involving research and development (R&D), design and advanced technologies could generate substantially greater economic benefits than those focused primarily on assembly, he added.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261113_a296f52f5e#11",
+    "doc_id": "vietnamnews_20261113_a296f52f5e",
+    "sent_idx": 11,
+    "text": "Vương Thị Minh Hiếu, deputy director of the Ministry of Finance's Foreign Investment Agency, also called for a shift from prioritising investment scale to improving the quality and efficiency of foreign investment.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261113_a296f52f5e#12",
+    "doc_id": "vietnamnews_20261113_a296f52f5e",
+    "sent_idx": 12,
+    "text": "She said priority should be given to high-tech industries, electronics, semiconductors, supporting industries and R&D, while projects should be assessed based on their ability to connect with domestic businesses, facilitate technology transfer and increase added value.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261113_a296f52f5e#13",
+    "doc_id": "vietnamnews_20261113_a296f52f5e",
+    "sent_idx": 13,
+    "text": "A high-quality foreign-invested project should not be measured solely by its registered capital or the modernity of its production lines, Hiếu said.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261113_a296f52f5e#14",
+    "doc_id": "vietnamnews_20261113_a296f52f5e",
+    "sent_idx": 14,
+    "text": "Its contribution should also be reflected in the development of domestic suppliers, the creation of skilled jobs and improvements in local production capacity.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261113_a296f52f5e#15",
+    "doc_id": "vietnamnews_20261113_a296f52f5e",
+    "sent_idx": 15,
+    "text": "If enterprises remain confined to simple production stages while most components and materials are imported, the spillover benefits of foreign investment will remain limited, she added.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261113_a296f52f5e#16",
+    "doc_id": "vietnamnews_20261113_a296f52f5e",
+    "sent_idx": 16,
+    "text": "Although investors from 80 countries and territories registered new projects in Việt Nam during the first 10 months, capital remained heavily concentrated among a small number of economies, Thắng noted.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261113_a296f52f5e#17",
+    "doc_id": "vietnamnews_20261113_a296f52f5e",
+    "sent_idx": 17,
+    "text": "Singapore led with $9.52 billion in newly registered capital, followed by South Korea ($5.81 billion), Luxembourg ($4.99 billion), mainland China ($3.77 billion), Hong Kong ($3.57 billion) and Japan ($1.58 billion).",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261113_a296f52f5e#18",
+    "doc_id": "vietnamnews_20261113_a296f52f5e",
+    "sent_idx": 18,
+    "text": "Together, the six economies accounted for $29.24 billion, or more than 95 per cent of total newly registered capital.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261113_a296f52f5e#19",
+    "doc_id": "vietnamnews_20261113_a296f52f5e",
+    "sent_idx": 19,
+    "text": "Thắng said greater attention should be paid to identifying the ultimate beneficial owners, the actual origins of investment capital and the technologies being introduced into Việt Nam, rather than relying solely on the jurisdictions where investors are registered.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261113_a296f52f5e#20",
+    "doc_id": "vietnamnews_20261113_a296f52f5e",
+    "sent_idx": 20,
+    "text": "He added that the concentration also exposed Việt Nam's foreign investment inflows to potential changes in investment policies and economic cycles in a relatively small group of major source markets.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261113_a296f52f5e#21",
+    "doc_id": "vietnamnews_20261113_a296f52f5e",
+    "sent_idx": 21,
+    "text": "Focus shifts towards strategic investment",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261113_a296f52f5e#22",
+    "doc_id": "vietnamnews_20261113_a296f52f5e",
+    "sent_idx": 22,
+    "text": "The experts said Việt Nam's foreign investment strategy should be aligned with Politburo Resolution No 10-NQ/TW, issued on June 8, 2026, on developing the foreign-invested economic sector.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261113_a296f52f5e#23",
+    "doc_id": "vietnamnews_20261113_a296f52f5e",
+    "sent_idx": 23,
+    "text": "The resolution calls for priority to be given to projects using advanced technologies and modern management practices, ensuring environmental protection and strengthening links with the domestic economy.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261113_a296f52f5e#24",
+    "doc_id": "vietnamnews_20261113_a296f52f5e",
+    "sent_idx": 24,
+    "text": "Alongside attracting major multinational corporations, local authorities need to select projects capable of developing supplier networks and helping Vietnamese enterprises participate more deeply in global value chains, Hiếu said.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261113_a296f52f5e#25",
+    "doc_id": "vietnamnews_20261113_a296f52f5e",
+    "sent_idx": 25,
+    "text": "Meanwhile, Thắng said Việt Nam should shift from attracting foreign investment primarily in terms of volume towards selectively pursuing strategic investment, with greater emphasis on technology transfer, localisation, domestic supply-chain participation and workforce development.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261113_a296f52f5e#26",
+    "doc_id": "vietnamnews_20261113_a296f52f5e",
+    "sent_idx": 26,
+    "text": "Such efforts should also safeguard economic and technological security and protect the environment. - VNS",
+    "lang": "en",
+    "is_title": false
+  }
+]

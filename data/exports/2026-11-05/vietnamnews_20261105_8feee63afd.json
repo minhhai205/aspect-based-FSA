@@ -1,0 +1,194 @@
+[
+  {
+    "sent_id": "vietnamnews_20261105_8feee63afd#0",
+    "doc_id": "vietnamnews_20261105_8feee63afd",
+    "sent_idx": 0,
+    "text": "VN-Index edges higher as VIC offsets losses in banking, technology stocks",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261105_8feee63afd#1",
+    "doc_id": "vietnamnews_20261105_8feee63afd",
+    "sent_idx": 1,
+    "text": "HÀ NỘI - Việt Nam's benchmark VN-Index edged higher on Thursday, with gains in property heavyweight VIC helping the market stay above 1,740 points despite mixed trading across sectors.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261105_8feee63afd#2",
+    "doc_id": "vietnamnews_20261105_8feee63afd",
+    "sent_idx": 2,
+    "text": "The Hochiminh Stock Exchange's index closed at 1,740.73 points, up 0.45 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261105_8feee63afd#3",
+    "doc_id": "vietnamnews_20261105_8feee63afd",
+    "sent_idx": 3,
+    "text": "It fluctuated in a narrow range during the afternoon session before finishing in positive territory thanks to rising buying returned towards the close.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261105_8feee63afd#4",
+    "doc_id": "vietnamnews_20261105_8feee63afd",
+    "sent_idx": 4,
+    "text": "The gain followed Wednesday's stronger rebound, when the VN-Index surged nearly 2 per cent as broad-based buying lifted sentiment after a recent period of losses.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261105_8feee63afd#5",
+    "doc_id": "vietnamnews_20261105_8feee63afd",
+    "sent_idx": 5,
+    "text": "Thursday's more modest advance suggested that the recovery was continuing, although buying momentum had weakened.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261105_8feee63afd#6",
+    "doc_id": "vietnamnews_20261105_8feee63afd",
+    "sent_idx": 6,
+    "text": "Real estate shares led Thursday's gains, rising 1.21 per cent on average, tracked by Vietstock Finance, mainly thanks to Vingroup (VIC), which climbed 1.71 per cent and contributed 6.54 points to the VN-Index - the largest positive contribution among listed stocks.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261105_8feee63afd#7",
+    "doc_id": "vietnamnews_20261105_8feee63afd",
+    "sent_idx": 7,
+    "text": "VIC's performance came as investors continued to assess the potential impact of Việt Nam's inclusion in FTSE equity indices.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261105_8feee63afd#8",
+    "doc_id": "vietnamnews_20261105_8feee63afd",
+    "sent_idx": 8,
+    "text": "In a report released on November 5, Mirae Asset Securities (Vietnam) estimated that passive funds tracking FTSE indices could bring total inflows of about US$2.1 billion into the market once the allocation process is completed.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261105_8feee63afd#9",
+    "doc_id": "vietnamnews_20261105_8feee63afd",
+    "sent_idx": 9,
+    "text": "The report's headline estimate put potential inflows into VIC at $655 million, well above those for other stocks.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261105_8feee63afd#10",
+    "doc_id": "vietnamnews_20261105_8feee63afd",
+    "sent_idx": 10,
+    "text": "However, gains were uneven.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261105_8feee63afd#11",
+    "doc_id": "vietnamnews_20261105_8feee63afd",
+    "sent_idx": 11,
+    "text": "Non-essential consumer stocks rose 0.89 per cent, communication services gained 0.69 per cent, while materials and industrials each added 0.27 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261105_8feee63afd#12",
+    "doc_id": "vietnamnews_20261105_8feee63afd",
+    "sent_idx": 12,
+    "text": "Financial stocks edged up 0.19 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261105_8feee63afd#13",
+    "doc_id": "vietnamnews_20261105_8feee63afd",
+    "sent_idx": 13,
+    "text": "Six financial stocks featured among the 10 biggest positive contributors to the VN-Index, including Vietinbank (CTG), Sacombank (STB), Military Bank (MBB) and Ho Chi Minh Development Bank (HDB).",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261105_8feee63afd#14",
+    "doc_id": "vietnamnews_20261105_8feee63afd",
+    "sent_idx": 14,
+    "text": "But the sector also saw notable declines with names including Vietcombank (VCB), BIDV (BID), VPBank (VPB) and Vietnam International Bank (VIB).",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261105_8feee63afd#15",
+    "doc_id": "vietnamnews_20261105_8feee63afd",
+    "sent_idx": 15,
+    "text": "Information technology was the weakest sector, falling 1.81 per cent as FPT declined 1.86 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261105_8feee63afd#16",
+    "doc_id": "vietnamnews_20261105_8feee63afd",
+    "sent_idx": 16,
+    "text": "On the Hanoi Stock Exchange, the HNX-Index fell 0.49 per cent to close at 256.61.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261105_8feee63afd#17",
+    "doc_id": "vietnamnews_20261105_8feee63afd",
+    "sent_idx": 17,
+    "text": "Liquidity declined slightly on both exchanges, with total market trading value reaching nearly VNĐ16.8 trillion ($646 million), down nearly 12 per cent from the previous session.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261105_8feee63afd#18",
+    "doc_id": "vietnamnews_20261105_8feee63afd",
+    "sent_idx": 18,
+    "text": "Foreign investors increased their sells on both exchanges, offloading shares worth combined VNĐ236 billion.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261105_8feee63afd#19",
+    "doc_id": "vietnamnews_20261105_8feee63afd",
+    "sent_idx": 19,
+    "text": "According to analysts, market outlooks remained cautiously positive.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261105_8feee63afd#20",
+    "doc_id": "vietnamnews_20261105_8feee63afd",
+    "sent_idx": 20,
+    "text": "Analysts from TPB Securities said the broad-based rebound, supported by trading value above the market average, showed that bargain-hunting demand had returned rather than a technical bounce.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261105_8feee63afd#21",
+    "doc_id": "vietnamnews_20261105_8feee63afd",
+    "sent_idx": 21,
+    "text": "However, they warned that the VN-Index could face volatility around the 1,740-1,750 point resistance zone as shares bought during the recent decline become available for trading.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261105_8feee63afd#22",
+    "doc_id": "vietnamnews_20261105_8feee63afd",
+    "sent_idx": 22,
+    "text": "Meanwhile, Asean Securities said the index remained in an accumulation phase, as it had yet to regain its short-term moving average and price movements were not fully supported by trading volume.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261105_8feee63afd#23",
+    "doc_id": "vietnamnews_20261105_8feee63afd",
+    "sent_idx": 23,
+    "text": "They expected the market to fluctuate within a narrow range before stocks showed clearer divergence, and advised short-term investors to maintain moderate exposure and avoid chasing gains. - VNS",
+    "lang": "en",
+    "is_title": false
+  }
+]

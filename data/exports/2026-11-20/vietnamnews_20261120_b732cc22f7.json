@@ -1,0 +1,58 @@
+[
+  {
+    "sent_id": "vietnamnews_20261120_b732cc22f7#0",
+    "doc_id": "vietnamnews_20261120_b732cc22f7",
+    "sent_idx": 0,
+    "text": "Four companies win 2026 sugar import quota auction",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261120_b732cc22f7#1",
+    "doc_id": "vietnamnews_20261120_b732cc22f7",
+    "sent_idx": 1,
+    "text": "HÀ NỘI - Four companies have been awarded a combined 75,000 tonnes of sugar import tariff quotas for 2026 through an auction.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261120_b732cc22f7#2",
+    "doc_id": "vietnamnews_20261120_b732cc22f7",
+    "sent_idx": 2,
+    "text": "The council for allocating 2026 sugar import tariff quotas recently held the auction under HS code 17.01.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261120_b732cc22f7#3",
+    "doc_id": "vietnamnews_20261120_b732cc22f7",
+    "sent_idx": 3,
+    "text": "According to the auction results, five traders submitted applications to register for 2026 sugar import tariff quotas.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261120_b732cc22f7#4",
+    "doc_id": "vietnamnews_20261120_b732cc22f7",
+    "sent_idx": 4,
+    "text": "Of these, four submitted complete and valid applications and bidding forms, qualifying for quota allocation.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261120_b732cc22f7#5",
+    "doc_id": "vietnamnews_20261120_b732cc22f7",
+    "sent_idx": 5,
+    "text": "The four successful bidders were Viet Nam Sugar Joint Stock Company, which received a quota of 20,000 tonnes; Thanh Thanh Cong - Bien Hoa Joint Stock Company, with 20,000 tonnes; Lam Son Sugar Cane Joint Stock Corporation at 15,000 tonnes; and AgriS Ninh Hoa Import Export Joint Stock Company, with 20,000 tonnes.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261120_b732cc22f7#6",
+    "doc_id": "vietnamnews_20261120_b732cc22f7",
+    "sent_idx": 6,
+    "text": "The total volume allocated through the auction was 75,000 tonnes, equivalent to 53.95 per cent of the 139,000-tonne sugar import tariff quota announced for the year. - VNS",
+    "lang": "en",
+    "is_title": false
+  }
+]

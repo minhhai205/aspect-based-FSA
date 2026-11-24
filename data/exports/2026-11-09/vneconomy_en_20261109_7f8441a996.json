@@ -1,0 +1,58 @@
+[
+  {
+    "sent_id": "vneconomy_en_20261109_7f8441a996#0",
+    "doc_id": "vneconomy_en_20261109_7f8441a996",
+    "sent_idx": 0,
+    "text": "$2.63 billion raised through government bond auctions in October",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vneconomy_en_20261109_7f8441a996#1",
+    "doc_id": "vneconomy_en_20261109_7f8441a996",
+    "sent_idx": 1,
+    "text": "The Hanoi Stock Exchange (HNX) conducted 20 government bond auctions in October 2026 on behalf of the State Treasury, raising VND69.362 trillion ($2.63 billion), equivalent to 173% of the issuance target for the month.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261109_7f8441a996#2",
+    "doc_id": "vneconomy_en_20261109_7f8441a996",
+    "sent_idx": 2,
+    "text": "The State Treasury raised a cumulative VND368.4225 trillion ($14 billion) from the beginning of the year to the end of October through government bond auctions , fulfilling 92% of its full-year plan.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261109_7f8441a996#3",
+    "doc_id": "vneconomy_en_20261109_7f8441a996",
+    "sent_idx": 3,
+    "text": "Issuance was concentrated mainly in five-year and 10-year maturities, which accounted for 50.9% and 48.3% of the total volume, respectively.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261109_7f8441a996#4",
+    "doc_id": "vneconomy_en_20261109_7f8441a996",
+    "sent_idx": 4,
+    "text": "During October, the State Treasury offered bonds with five maturities: three, five, 10, 15 and 30 years.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261109_7f8441a996#5",
+    "doc_id": "vneconomy_en_20261109_7f8441a996",
+    "sent_idx": 5,
+    "text": "Successful bids were recorded for the three-year, five-year and 10-year tenors.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261109_7f8441a996#6",
+    "doc_id": "vneconomy_en_20261109_7f8441a996",
+    "sent_idx": 6,
+    "text": "At the final auction of the month, the winning yields for these maturities stood at 3.55%, 4.27% and 4.43% per year, respectively.",
+    "lang": "en",
+    "is_title": false
+  }
+]

@@ -1,0 +1,698 @@
+[
+  {
+    "sent_id": "vneconomy_en_20261030_a9729cbc0d#0",
+    "doc_id": "vneconomy_en_20261030_a9729cbc0d",
+    "sent_idx": 0,
+    "text": "New growth avenues",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vneconomy_en_20261030_a9729cbc0d#1",
+    "doc_id": "vneconomy_en_20261030_a9729cbc0d",
+    "sent_idx": 1,
+    "text": "Vietnam has abundant fisheries resources, with relatively stable output.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261030_a9729cbc0d#2",
+    "doc_id": "vneconomy_en_20261030_a9729cbc0d",
+    "sent_idx": 2,
+    "text": "Fishing and aquaculture are essential livelihoods, providing a stable source of income for millions of Vietnamese people.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261030_a9729cbc0d#3",
+    "doc_id": "vneconomy_en_20261030_a9729cbc0d",
+    "sent_idx": 3,
+    "text": "Since 2014, with export value growing steadily each year, Vietnam has firmly established itself as one of the world's three largest seafood exporters by value, behind only China and Norway, while ranking fourth in total fisheries production from capture fisheries and aquaculture.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261030_a9729cbc0d#4",
+    "doc_id": "vneconomy_en_20261030_a9729cbc0d",
+    "sent_idx": 4,
+    "text": "This achievement reflects not only production capacity but also a strategic shift from exporting raw products to deeper processing, increasing the value-added per unit of output.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261030_a9729cbc0d#5",
+    "doc_id": "vneconomy_en_20261030_a9729cbc0d",
+    "sent_idx": 5,
+    "text": "Vietnam's seas also contain a vast and largely untapped asset base: marine biological resources.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261030_a9729cbc0d#6",
+    "doc_id": "vneconomy_en_20261030_a9729cbc0d",
+    "sent_idx": 6,
+    "text": "These include genetic resources, microorganisms, microalgae, seaweed, enzymes, peptides, proteins, polysaccharides, pigments, natural compounds, and biological mechanisms that have evolved in marine environments.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261030_a9729cbc0d#7",
+    "doc_id": "vneconomy_en_20261030_a9729cbc0d",
+    "sent_idx": 7,
+    "text": "These resources provide inputs for knowledge-intensive industries such as biotechnology, pharmaceuticals, cosmetics, functional foods, biomaterials, industrial enzymes, agricultural biotechnology, and environmental technology.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261030_a9729cbc0d#8",
+    "doc_id": "vneconomy_en_20261030_a9729cbc0d",
+    "sent_idx": 8,
+    "text": "Scientific research has made clear that marine biological resources become genuine economic assets only when converted into value through research, intellectual property, and commercialization.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261030_a9729cbc0d#9",
+    "doc_id": "vneconomy_en_20261030_a9729cbc0d",
+    "sent_idx": 9,
+    "text": "This represents an important shift in the approach to marine economic development.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261030_a9729cbc0d#10",
+    "doc_id": "vneconomy_en_20261030_a9729cbc0d",
+    "sent_idx": 10,
+    "text": "The gap between possessing natural resources and capturing their value has therefore become one of the most important challenges facing Vietnam's marine economy.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261030_a9729cbc0d#11",
+    "doc_id": "vneconomy_en_20261030_a9729cbc0d",
+    "sent_idx": 11,
+    "text": "Marine biotechnology involves more than using seaweed or aquatic species to manufacture products.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261030_a9729cbc0d#12",
+    "doc_id": "vneconomy_en_20261030_a9729cbc0d",
+    "sent_idx": 12,
+    "text": "It also encompasses the use of marine organisms, microorganisms, microalgae, seaweed, enzymes, genes, cells, and marine-derived molecules to develop valuable products and processes.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261030_a9729cbc0d#13",
+    "doc_id": "vneconomy_en_20261030_a9729cbc0d",
+    "sent_idx": 13,
+    "text": "Its commercial applications range from functional foods, pharmaceuticals and cosmetics, and fermentation ingredients to aquaculture feed, biofertilizers, biogels, biomaterials, and environmental remediation.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261030_a9729cbc0d#14",
+    "doc_id": "vneconomy_en_20261030_a9729cbc0d",
+    "sent_idx": 14,
+    "text": "Long-term competitiveness depends not only on the scale of available raw materials but also on the ability to master key technologies, including enzymes, extraction and purification, formulation, high-throughput biological analysis, and intellectual property systems linked to products and technologies.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261030_a9729cbc0d#15",
+    "doc_id": "vneconomy_en_20261030_a9729cbc0d",
+    "sent_idx": 15,
+    "text": "The value chain can therefore be developed at several levels.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261030_a9729cbc0d#16",
+    "doc_id": "vneconomy_en_20261030_a9729cbc0d",
+    "sent_idx": 16,
+    "text": "At the most basic level, it involves harvesting and supplying biomass.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261030_a9729cbc0d#17",
+    "doc_id": "vneconomy_en_20261030_a9729cbc0d",
+    "sent_idx": 17,
+    "text": "The next level encompasses preliminary processing, fractionation, and the production of higher-value ingredients, followed by extraction, purification, and the recovery of bioactive compounds.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261030_a9729cbc0d#18",
+    "doc_id": "vneconomy_en_20261030_a9729cbc0d",
+    "sent_idx": 18,
+    "text": "Building on these capabilities, businesses can develop formulations, products, and specialized applications.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261030_a9729cbc0d#19",
+    "doc_id": "vneconomy_en_20261030_a9729cbc0d",
+    "sent_idx": 19,
+    "text": "At more advanced technological levels, the discovery of new molecules, genes, or enzymes, followed by the establishment of intellectual property rights and development into pharmaceuticals, biomaterials, diagnostic products, or other applied technologies, can generate substantially greater value.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261030_a9729cbc0d#20",
+    "doc_id": "vneconomy_en_20261030_a9729cbc0d",
+    "sent_idx": 20,
+    "text": "This approach demonstrates that the value of marine biological resources lies not simply in the volume of biomass that can be harvested, but also in the knowledge, technology, and intellectual property incorporated into the process of converting those resources into products.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261030_a9729cbc0d#21",
+    "doc_id": "vneconomy_en_20261030_a9729cbc0d",
+    "sent_idx": 21,
+    "text": "Inputs to the value chain may include fish skin and bones, shrimp shells, seaweed, and algae.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261030_a9729cbc0d#22",
+    "doc_id": "vneconomy_en_20261030_a9729cbc0d",
+    "sent_idx": 22,
+    "text": "Outputs can range from proteins, polysaccharides, peptides, chitin, agar, and carrageenan to collagen peptides, oligochitosan, standardized extracts, health supplements, cosmetics, biostimulants, pharmaceuticals, and biomaterials.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261030_a9729cbc0d#23",
+    "doc_id": "vneconomy_en_20261030_a9729cbc0d",
+    "sent_idx": 23,
+    "text": "This approach allows a single raw material to be separated, processed, and developed into multiple product categories with different levels of value added, rather than generating only one end product.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261030_a9729cbc0d#24",
+    "doc_id": "vneconomy_en_20261030_a9729cbc0d",
+    "sent_idx": 24,
+    "text": "This is a defining feature of a biotechnology-driven marine economy: maximizing the value obtained from each raw material through product diversification and expanded applications.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261030_a9729cbc0d#25",
+    "doc_id": "vneconomy_en_20261030_a9729cbc0d",
+    "sent_idx": 25,
+    "text": "A paradox in Vietnam's marine bioeconomy is that raw material availability is not the greatest weakness.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261030_a9729cbc0d#26",
+    "doc_id": "vneconomy_en_20261030_a9729cbc0d",
+    "sent_idx": 26,
+    "text": "The more significant gap lies in the ability to transform raw materials into high-value products.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261030_a9729cbc0d#27",
+    "doc_id": "vneconomy_en_20261030_a9729cbc0d",
+    "sent_idx": 27,
+    "text": "Vietnam already has leading businesses and several commercially available product categories.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261030_a9729cbc0d#28",
+    "doc_id": "vneconomy_en_20261030_a9729cbc0d",
+    "sent_idx": 28,
+    "text": "However, its core technology enterprise ecosystem remains limited in scale.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261030_a9729cbc0d#29",
+    "doc_id": "vneconomy_en_20261030_a9729cbc0d",
+    "sent_idx": 29,
+    "text": "R&D activities are fragmented, applied laboratory capabilities and pilot-scale facilities are constrained, and standardization of premium products and the availability of interdisciplinary talent remain insufficient.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261030_a9729cbc0d#30",
+    "doc_id": "vneconomy_en_20261030_a9729cbc0d",
+    "sent_idx": 30,
+    "text": "These are among the major bottlenecks to commercialization.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261030_a9729cbc0d#31",
+    "doc_id": "vneconomy_en_20261030_a9729cbc0d",
+    "sent_idx": 31,
+    "text": "While seafood by-products offer opportunities that can be developed relatively quickly, marine biodiversity and genetic resources open up a longer-term field of value creation.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261030_a9729cbc0d#32",
+    "doc_id": "vneconomy_en_20261030_a9729cbc0d",
+    "sent_idx": 32,
+    "text": "Less-studied ecosystems, particularly deep-sea environments, may contain microorganisms, genes, enzymes, and compounds that science has yet to discover or fully exploit.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261030_a9729cbc0d#33",
+    "doc_id": "vneconomy_en_20261030_a9729cbc0d",
+    "sent_idx": 33,
+    "text": "In this field, however, the mindset of resource extraction must give way to one of responsible discovery.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261030_a9729cbc0d#34",
+    "doc_id": "vneconomy_en_20261030_a9729cbc0d",
+    "sent_idx": 34,
+    "text": "Each biological specimen is more than a source of raw material.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261030_a9729cbc0d#35",
+    "doc_id": "vneconomy_en_20261030_a9729cbc0d",
+    "sent_idx": 35,
+    "text": "It is part of an ecosystem, a unit of scientific data, and potentially the foundation for future intellectual property rights.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261030_a9729cbc0d#36",
+    "doc_id": "vneconomy_en_20261030_a9729cbc0d",
+    "sent_idx": 36,
+    "text": "Bioprospecting must therefore be accompanied by scientific surveys, environmental assessments, specimen preservation, genetic data management, traceability, and benefit-sharing mechanisms.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261030_a9729cbc0d#37",
+    "doc_id": "vneconomy_en_20261030_a9729cbc0d",
+    "sent_idx": 37,
+    "text": "Vietnam's Law on Biodiversity establishes a foundation for genetic resource management, including provisions governing the rights and obligations of organizations and individuals managing genetic resources, procedures for accessing those resources, and benefit-sharing arrangements.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261030_a9729cbc0d#38",
+    "doc_id": "vneconomy_en_20261030_a9729cbc0d",
+    "sent_idx": 38,
+    "text": "The Law also provides for benefit-sharing arising from research results and commercial product development, as well as intellectual property rights over innovations based on access to genetic resources.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261030_a9729cbc0d#39",
+    "doc_id": "vneconomy_en_20261030_a9729cbc0d",
+    "sent_idx": 39,
+    "text": "A fundamental misconception is to regard conservation and development as opposing objectives.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261030_a9729cbc0d#40",
+    "doc_id": "vneconomy_en_20261030_a9729cbc0d",
+    "sent_idx": 40,
+    "text": "In the marine bioeconomy, conservation is precisely what protects the underlying capital for research and innovation.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261030_a9729cbc0d#41",
+    "doc_id": "vneconomy_en_20261030_a9729cbc0d",
+    "sent_idx": 41,
+    "text": "Degraded ecosystems can result in the loss of genes, microbial strains, or compounds that have never been studied.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261030_a9729cbc0d#42",
+    "doc_id": "vneconomy_en_20261030_a9729cbc0d",
+    "sent_idx": 42,
+    "text": "Biodiversity conservation therefore does more than maintain landscapes and ecological functions.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261030_a9729cbc0d#43",
+    "doc_id": "vneconomy_en_20261030_a9729cbc0d",
+    "sent_idx": 43,
+    "text": "It also preserves the technological options available to current and future generations.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261030_a9729cbc0d#44",
+    "doc_id": "vneconomy_en_20261030_a9729cbc0d",
+    "sent_idx": 44,
+    "text": "This is why the Agreement on the Conservation and Sustainable Use of Marine Biological Diversity of Areas Beyond National Jurisdiction (BBNJ Agreement) establishes a framework that combines marine biodiversity conservation and sustainable use with benefit-sharing, environmental impact assessments, capacity-building, and technology transfer.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261030_a9729cbc0d#45",
+    "doc_id": "vneconomy_en_20261030_a9729cbc0d",
+    "sent_idx": 45,
+    "text": "For Vietnam, these principles should be incorporated throughout the value chain, from surveys and research to commercialization.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261030_a9729cbc0d#46",
+    "doc_id": "vneconomy_en_20261030_a9729cbc0d",
+    "sent_idx": 46,
+    "text": "A strong marine biotechnology industry cannot be built if the resources on which it depends continue to decline.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261030_a9729cbc0d#47",
+    "doc_id": "vneconomy_en_20261030_a9729cbc0d",
+    "sent_idx": 47,
+    "text": "Vietnam has several significant advantages for developing marine biotechnology, including a relatively large biomass base, diverse raw material sources, an established seafood industry with substantial export capacity, and the emergence of businesses capable of participating in global value chains.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261030_a9729cbc0d#48",
+    "doc_id": "vneconomy_en_20261030_a9729cbc0d",
+    "sent_idx": 48,
+    "text": "However, current constraints are concentrated further along the value chain.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261030_a9729cbc0d#49",
+    "doc_id": "vneconomy_en_20261030_a9729cbc0d",
+    "sent_idx": 49,
+    "text": "These include limited capacity to convert raw materials and research findings into commercial products; insufficient pilot-scale and pre-commercial testing facilities; an underdeveloped network of shared applied laboratories; a lack of standardized premium-grade products; fragmented R&D activities; and weak links between research institutes and businesses.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261030_a9729cbc0d#50",
+    "doc_id": "vneconomy_en_20261030_a9729cbc0d",
+    "sent_idx": 50,
+    "text": "Other constraints include shortages of interdisciplinary talent and limited statistical data for assessing the industry's scale, capabilities, and market potential.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261030_a9729cbc0d#51",
+    "doc_id": "vneconomy_en_20261030_a9729cbc0d",
+    "sent_idx": 51,
+    "text": "Four issues therefore require particular attention and early action: fragmented raw material supplies, limited pilot-scale capacity, the need to standardize active ingredients and products, and restricted access to long-term capital.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261030_a9729cbc0d#52",
+    "doc_id": "vneconomy_en_20261030_a9729cbc0d",
+    "sent_idx": 52,
+    "text": "These factors can directly affect the ability to move research from laboratories into production and onto the market.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261030_a9729cbc0d#53",
+    "doc_id": "vneconomy_en_20261030_a9729cbc0d",
+    "sent_idx": 53,
+    "text": "Rather than simply increasing the number of standalone research projects, a priority should be to strengthen infrastructure and capabilities for translating research into products.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261030_a9729cbc0d#54",
+    "doc_id": "vneconomy_en_20261030_a9729cbc0d",
+    "sent_idx": 54,
+    "text": "This includes pilot facilities, applied laboratories, standardization, intellectual property, quality testing, business partnerships, and financing for commercialization.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261030_a9729cbc0d#55",
+    "doc_id": "vneconomy_en_20261030_a9729cbc0d",
+    "sent_idx": 55,
+    "text": "On this basis, Vietnam could explore establishing a national Marine Biotech Program with an integrated approach and the following priority workstreams: develop a database and map of marine biological resources; establish a Blue BioBank and complete the mechanisms for genetic resource access, benefit-sharing, and genetic resource management in accordance with regulations; develop pilot-scale infrastructure and shared applied laboratories and testing facilities to support the transition from research to production; establish programs to develop domestic alternatives to imported functional ingredients for product categories with strong demand and viable domestic production potential; and help businesses develop product standards, quality control systems, certification, and intellectual property protection in target markets.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261030_a9729cbc0d#56",
+    "doc_id": "vneconomy_en_20261030_a9729cbc0d",
+    "sent_idx": 56,
+    "text": "Last but not least, explore appropriate financing mechanisms for emerging technology projects, particularly those with long testing and payback periods.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261030_a9729cbc0d#57",
+    "doc_id": "vneconomy_en_20261030_a9729cbc0d",
+    "sent_idx": 57,
+    "text": "Potential options include public-private investment models and blended finance.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261030_a9729cbc0d#58",
+    "doc_id": "vneconomy_en_20261030_a9729cbc0d",
+    "sent_idx": 58,
+    "text": "During 2026-2028, the priority should be to commercialize products for which raw material supplies, technologies, and markets are relatively well established; map raw material sources; standardize specifications; establish application and quality laboratories; and deploy pilot-to-commercial production lines.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261030_a9729cbc0d#59",
+    "doc_id": "vneconomy_en_20261030_a9729cbc0d",
+    "sent_idx": 59,
+    "text": "During 2028-2031, Vietnam could develop Blue Biorefinery clusters around raw material supply areas, increase the proportion of by-products converted into higher-value products, and begin exporting functional ingredients.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261030_a9729cbc0d#60",
+    "doc_id": "vneconomy_en_20261030_a9729cbc0d",
+    "sent_idx": 60,
+    "text": "In the 2031-2035 period, the focus should shift more decisively toward microalgae, specialized peptides, and biomaterials, alongside the establishment of a national pilot center, the development of an intellectual property portfolio, and capabilities in contract development and manufacturing (CDMO).",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261030_a9729cbc0d#61",
+    "doc_id": "vneconomy_en_20261030_a9729cbc0d",
+    "sent_idx": 61,
+    "text": "During 2035-2040, the goal should be to advance toward blue pharmaceuticals, technology licensing, patents, biomedical materials, and the development of a regional innovation hub.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261030_a9729cbc0d#62",
+    "doc_id": "vneconomy_en_20261030_a9729cbc0d",
+    "sent_idx": 62,
+    "text": "By 2045, the broader objective should be more than simply establishing several marine biotechnology plants.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261030_a9729cbc0d#63",
+    "doc_id": "vneconomy_en_20261030_a9729cbc0d",
+    "sent_idx": 63,
+    "text": "It should be to build a marine bioeconomy ecosystem in which Vietnam can discover biological resources and genetic materials; develop biological databases; master technologies; own intellectual property; develop products; mobilize capital; manufacture to international standards; export ingredients and finished products; license technologies; provide R&D and CDMO services; and participate in global marine biotechnology value chains.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261030_a9729cbc0d#64",
+    "doc_id": "vneconomy_en_20261030_a9729cbc0d",
+    "sent_idx": 64,
+    "text": "This would mark the transition from a country with marine resources to one with the capabilities to create value from those resources.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261030_a9729cbc0d#65",
+    "doc_id": "vneconomy_en_20261030_a9729cbc0d",
+    "sent_idx": 65,
+    "text": "For marine biotechnology to become a genuine economic sector, Vietnam must move from a project-by-project approach to an ecosystem-based model.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261030_a9729cbc0d#66",
+    "doc_id": "vneconomy_en_20261030_a9729cbc0d",
+    "sent_idx": 66,
+    "text": "First, marine biotechnology should be established as a strategic component of the blue marine economy and the national bioeconomy, linked to strategies for science and technology, innovation, biodiversity, and fisheries.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261030_a9729cbc0d#67",
+    "doc_id": "vneconomy_en_20261030_a9729cbc0d",
+    "sent_idx": 67,
+    "text": "Second, Vietnam needs a national map of marine biological resources and seafood by-products.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261030_a9729cbc0d#68",
+    "doc_id": "vneconomy_en_20261030_a9729cbc0d",
+    "sent_idx": 68,
+    "text": "Industrial planning is impossible without accurate information on where raw materials are located, their volumes, seasonal availability, quality, and ownership.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261030_a9729cbc0d#69",
+    "doc_id": "vneconomy_en_20261030_a9729cbc0d",
+    "sent_idx": 69,
+    "text": "Third, the country needs a national Blue BioBank with clear governance arrangements for genetic resources, specimens, data, and access rights.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261030_a9729cbc0d#70",
+    "doc_id": "vneconomy_en_20261030_a9729cbc0d",
+    "sent_idx": 70,
+    "text": "Fourth, priority should be given to pilot facilities and application laboratories rather than simply increasing investment in basic research.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261030_a9729cbc0d#71",
+    "doc_id": "vneconomy_en_20261030_a9729cbc0d",
+    "sent_idx": 71,
+    "text": "Fifth, dedicated financing mechanisms for biotechnology should be designed, combining State budgets, investment funds, businesses, development finance institutions (DFIs), green finance, and blended finance.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261030_a9729cbc0d#72",
+    "doc_id": "vneconomy_en_20261030_a9729cbc0d",
+    "sent_idx": 72,
+    "text": "Sixth, Vietnam should establish a targeted import substitution program.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261030_a9729cbc0d#73",
+    "doc_id": "vneconomy_en_20261030_a9729cbc0d",
+    "sent_idx": 73,
+    "text": "Rather than adopting the general objective of replacing imports, the country should identify specific product categories, grades, standards, customers, and implementation timelines.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261030_a9729cbc0d#74",
+    "doc_id": "vneconomy_en_20261030_a9729cbc0d",
+    "sent_idx": 74,
+    "text": "Seventh, intellectual property must be addressed from the outset.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261030_a9729cbc0d#75",
+    "doc_id": "vneconomy_en_20261030_a9729cbc0d",
+    "sent_idx": 75,
+    "text": "Every bioprospecting, R&D, and product development program should incorporate an intellectual property strategy.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261030_a9729cbc0d#76",
+    "doc_id": "vneconomy_en_20261030_a9729cbc0d",
+    "sent_idx": 76,
+    "text": "Eighth, interdisciplinary human resources must be developed.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261030_a9729cbc0d#77",
+    "doc_id": "vneconomy_en_20261030_a9729cbc0d",
+    "sent_idx": 77,
+    "text": "Marine biotechnology requires more than biologists.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261030_a9729cbc0d#78",
+    "doc_id": "vneconomy_en_20261030_a9729cbc0d",
+    "sent_idx": 78,
+    "text": "It also needs process engineers, data specialists, quality experts, managers, intellectual property professionals, finance specialists, and international trade experts.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261030_a9729cbc0d#79",
+    "doc_id": "vneconomy_en_20261030_a9729cbc0d",
+    "sent_idx": 79,
+    "text": "Ninth, CDMO, original design manufacturing (ODM), and original equipment manufacturing (OEM) capabilities should be strengthened to enable Vietnamese businesses to participate more deeply in international supply chains.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261030_a9729cbc0d#80",
+    "doc_id": "vneconomy_en_20261030_a9729cbc0d",
+    "sent_idx": 80,
+    "text": "Tenth, a commercialization-oriented key performance indicator (KPI) system should be established, covering patents, licensing, revenue from new products, the number of technologies transferred, import substitution value, and exports of high-tech products.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261030_a9729cbc0d#81",
+    "doc_id": "vneconomy_en_20261030_a9729cbc0d",
+    "sent_idx": 81,
+    "text": "With abundant fisheries resources and marine biological resources, Vietnam could establish a new growth avenue for its marine economy by developing an integrated value chain spanning resource surveys, gene and specimen banks, laboratory research, technology development, intellectual property, testing, production, and commercialization.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261030_a9729cbc0d#82",
+    "doc_id": "vneconomy_en_20261030_a9729cbc0d",
+    "sent_idx": 82,
+    "text": "This direction is consistent with the spirit of:",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261030_a9729cbc0d#83",
+    "doc_id": "vneconomy_en_20261030_a9729cbc0d",
+    "sent_idx": 83,
+    "text": "- Resolution No. 36-NQ/TW, dated October 22, 2018, issued by the 12th Party Central Committee on the Strategy for Sustainable Development of Vietnam's Marine Economy to 2030, with a Vision to 2045;",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261030_a9729cbc0d#84",
+    "doc_id": "vneconomy_en_20261030_a9729cbc0d",
+    "sent_idx": 84,
+    "text": "- Resolution No. 57-NQ/TW, dated December 22, 2024, issued by the Politburo on breakthroughs in science, technology, and innovation;",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261030_a9729cbc0d#85",
+    "doc_id": "vneconomy_en_20261030_a9729cbc0d",
+    "sent_idx": 85,
+    "text": "- Resolution No. 29-NQ/TW, dated November 17, 2022, issued by the 13th Party Central Committee on continuing to accelerate industrialization and modernization; and",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261030_a9729cbc0d#86",
+    "doc_id": "vneconomy_en_20261030_a9729cbc0d",
+    "sent_idx": 86,
+    "text": "- Resolution No. 20-NQ/TW, dated July 28, 2026, issued by the 14th Party Central Committee on building and developing Vietnam into a strong maritime nation.",
+    "lang": "en",
+    "is_title": false
+  }
+]

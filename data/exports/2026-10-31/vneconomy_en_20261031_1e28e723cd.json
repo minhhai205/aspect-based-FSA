@@ -1,0 +1,66 @@
+[
+  {
+    "sent_id": "vneconomy_en_20261031_1e28e723cd#0",
+    "doc_id": "vneconomy_en_20261031_1e28e723cd",
+    "sent_idx": 0,
+    "text": "Hai Phong plans land rent fee reductions for businesses using public properties",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vneconomy_en_20261031_1e28e723cd#1",
+    "doc_id": "vneconomy_en_20261031_1e28e723cd",
+    "sent_idx": 1,
+    "text": "The People's Committee of northern Hai Phong port city is proposing to reduce rents for public-owned buildings and land not designated for residential purpose, targetting three groups of businesses: small and medium-sized enterprises (SMEs), supporting-industry companies and innovative businesses.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261031_1e28e723cd#2",
+    "doc_id": "vneconomy_en_20261031_1e28e723cd",
+    "sent_idx": 2,
+    "text": "This is part of the committee's draft regulations outlining the list of public assets available for lease, eligibility criteria, support levels, forms of assistance and procedures for leasing these properties to qualifying businesses in the city.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261031_1e28e723cd#3",
+    "doc_id": "vneconomy_en_20261031_1e28e723cd",
+    "sent_idx": 3,
+    "text": "Under the proposed support mechanism, the rent reduction would equal the land rental component included in the overall property rent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261031_1e28e723cd#4",
+    "doc_id": "vneconomy_en_20261031_1e28e723cd",
+    "sent_idx": 4,
+    "text": "The reduction would apply throughout the entire lease period, including any extension.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261031_1e28e723cd#5",
+    "doc_id": "vneconomy_en_20261031_1e28e723cd",
+    "sent_idx": 5,
+    "text": "The duration of the support would be determined according to the lease term specified in each contract by the organisation responsible for managing and operating public properties.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261031_1e28e723cd#6",
+    "doc_id": "vneconomy_en_20261031_1e28e723cd",
+    "sent_idx": 6,
+    "text": "Eligible assets would include buildings and land not used for residential purposes that have been assigned to local organisations responsible for managing and exploiting public properties.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261031_1e28e723cd#7",
+    "doc_id": "vneconomy_en_20261031_1e28e723cd",
+    "sent_idx": 7,
+    "text": "The city expects the proposed rent reduction policy to be approved in 2026 and take effect immediately upon approval, providing financial support to eligible businesses and encouraging the development of SMEs, supporting industries and innovation.",
+    "lang": "en",
+    "is_title": false
+  }
+]

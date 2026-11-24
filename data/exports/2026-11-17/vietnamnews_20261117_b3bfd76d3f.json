@@ -1,0 +1,106 @@
+[
+  {
+    "sent_id": "vietnamnews_20261117_b3bfd76d3f#0",
+    "doc_id": "vietnamnews_20261117_b3bfd76d3f",
+    "sent_idx": 0,
+    "text": "New decree changes rules for declaring product origin",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261117_b3bfd76d3f#1",
+    "doc_id": "vietnamnews_20261117_b3bfd76d3f",
+    "sent_idx": 1,
+    "text": "HÀ NỘI - Products manufactured or assembled in Việt Nam are no longer automatically entitled to be labelled as Vietnamese-origin goods, as businesses must prove they meet specific origin criteria, according to a new Government decree to take effect on January 1, 2027.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_b3bfd76d3f#2",
+    "doc_id": "vietnamnews_20261117_b3bfd76d3f",
+    "sent_idx": 2,
+    "text": "Decree 384/2026/NĐ-CP on determining Vietnamese origin for goods manufactured and circulated domestically allows businesses to independently determine and declare the origin of their products without having to obtain certification from State authorities.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_b3bfd76d3f#3",
+    "doc_id": "vietnamnews_20261117_b3bfd76d3f",
+    "sent_idx": 3,
+    "text": "However, companies using imported materials and components must demonstrate that their products meet the prescribed origin requirements.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_b3bfd76d3f#4",
+    "doc_id": "vietnamnews_20261117_b3bfd76d3f",
+    "sent_idx": 4,
+    "text": "Finishing or assembling imported components in Việt Nam alone is insufficient to establish Vietnamese origin.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_b3bfd76d3f#5",
+    "doc_id": "vietnamnews_20261117_b3bfd76d3f",
+    "sent_idx": 5,
+    "text": "Trịnh Thị Thu Hiền, deputy director of the Ministry of Industry and Trade's Import-Export Department, said the Government has issued various regulations on rules of origin for export and import activities, but previously lacked a separate, unified legal framework for determining the origin of goods manufactured and sold domestically.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_b3bfd76d3f#6",
+    "doc_id": "vietnamnews_20261117_b3bfd76d3f",
+    "sent_idx": 6,
+    "text": "The new decree establishes a legal basis for businesses to determine and declare product origin, while providing a transparent and consistent set of criteria for companies to follow and regulators to supervise and inspect.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_b3bfd76d3f#7",
+    "doc_id": "vietnamnews_20261117_b3bfd76d3f",
+    "sent_idx": 7,
+    "text": "It also aims to prevent origin fraud and misrepresentation, curb counterfeit and substandard goods, and protect the reputation and brands of Vietnamese products, Hiền said.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_b3bfd76d3f#8",
+    "doc_id": "vietnamnews_20261117_b3bfd76d3f",
+    "sent_idx": 8,
+    "text": "Under the decree, businesses dealing with goods that are not wholly obtained in Việt Nam can choose one of two criteria to establish Vietnamese origin: a change in tariff classification in the four-digit heading of Harmonised System (HS) code, or a minimum Vietnamese Value Content of 30 per cent calculated on the Ex-Works price.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_b3bfd76d3f#9",
+    "doc_id": "vietnamnews_20261117_b3bfd76d3f",
+    "sent_idx": 9,
+    "text": "Businesses must also ensure that their production goes beyond simple processing or manufacturing operations that are explicitly excluded from establishing Vietnamese origin.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_b3bfd76d3f#10",
+    "doc_id": "vietnamnews_20261117_b3bfd76d3f",
+    "sent_idx": 10,
+    "text": "The decree lists activities such as repackaging, packaging, labelling and simple assembly of components into a finished product as insufficient to confer Vietnamese origin.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_b3bfd76d3f#11",
+    "doc_id": "vietnamnews_20261117_b3bfd76d3f",
+    "sent_idx": 11,
+    "text": "This means that operating a factory in Việt Nam, importing components, assembling them and selling the finished goods domestically does not automatically make those products Vietnamese-origin.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_b3bfd76d3f#12",
+    "doc_id": "vietnamnews_20261117_b3bfd76d3f",
+    "sent_idx": 12,
+    "text": "Companies must assess their actual production processes against the decree's criteria and ensure that manufacturing activities extend beyond the simple operations excluded under the regulations.",
+    "lang": "en",
+    "is_title": false
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "sent_id": "vneconomy_en_20261105_5f7dd93426#0",
+    "doc_id": "vneconomy_en_20261105_5f7dd93426",
+    "sent_idx": 0,
+    "text": "HCM City welcomes over 53 million visitors in 10M",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_5f7dd93426#1",
+    "doc_id": "vneconomy_en_20261105_5f7dd93426",
+    "sent_idx": 1,
+    "text": "Ho Chi Minh City welcomed more than 9.3 million international visitors and over 44 million domestic tourists in the first 10 months of 2026, generating total tourism revenue of more than VND307 trillion ($11.6 billion), according to the municipal Department of Tourism.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_5f7dd93426#2",
+    "doc_id": "vneconomy_en_20261105_5f7dd93426",
+    "sent_idx": 2,
+    "text": "Tourism revenue for the period exceeded 93% of the full-year target.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_5f7dd93426#3",
+    "doc_id": "vneconomy_en_20261105_5f7dd93426",
+    "sent_idx": 3,
+    "text": "International arrivals reached nearly 85% of the annual goal, while domestic visitor numbers achieved 88%, providing a foundation for the city to achieve its tourism targets for the year.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_5f7dd93426#4",
+    "doc_id": "vneconomy_en_20261105_5f7dd93426",
+    "sent_idx": 4,
+    "text": "The department plans to step up tourism promotion, develop new products and stimulate visitor spending during the remaining months of 2026.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_5f7dd93426#5",
+    "doc_id": "vneconomy_en_20261105_5f7dd93426",
+    "sent_idx": 5,
+    "text": "One of the city's key advantages is its expanding tourism space, which brings together a diverse range of attractions, from urban destinations and cultural-historical sites to rivers, ecological areas, industrial facilities and coastal and island destinations.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_5f7dd93426#6",
+    "doc_id": "vneconomy_en_20261105_5f7dd93426",
+    "sent_idx": 6,
+    "text": "This diversity creates opportunities to develop interconnected tourism routes rather than concentrating visitor activities in familiar destinations in the city centre.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_5f7dd93426#7",
+    "doc_id": "vneconomy_en_20261105_5f7dd93426",
+    "sent_idx": 7,
+    "text": "Cultural tourism, traditional craft villages, community-based experiences, ecotourism and beach resorts could be combined into longer itineraries, helping distribute visitor flows across more areas.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_5f7dd93426#8",
+    "doc_id": "vneconomy_en_20261105_5f7dd93426",
+    "sent_idx": 8,
+    "text": "The city is also targeting higher-value visitors and longer stays while developing products in MICE tourism, medical tourism, waterway travel, the night-time economy and resort tourism.",
+    "lang": "en",
+    "is_title": false
+  }
+]

@@ -1,0 +1,330 @@
+[
+  {
+    "sent_id": "vietnamnews_20261114_fba2e956be#0",
+    "doc_id": "vietnamnews_20261114_fba2e956be",
+    "sent_idx": 0,
+    "text": "Furniture firms step up preparations for 2027 export season",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261114_fba2e956be#1",
+    "doc_id": "vietnamnews_20261114_fba2e956be",
+    "sent_idx": 1,
+    "text": "HCM CITY - Vietnamese furniture manufacturers need to strengthen supply-chain traceability, adapt designs to changing market demand and offer more comprehensive services to remain competitive internationally in 2027, industry experts said at a seminar in HCM City on November 12.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261114_fba2e956be#2",
+    "doc_id": "vietnamnews_20261114_fba2e956be",
+    "sent_idx": 2,
+    "text": "The seminar, \"Vietnam's Furniture Industry Ready for 2027: EUDR, Design Trends and Future-Proof Strategies\", was organised by the Handicraft and Wood Industry Association of HCM City (HAWA) ahead of HawaExpo.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261114_fba2e956be#3",
+    "doc_id": "vietnamnews_20261114_fba2e956be",
+    "sent_idx": 3,
+    "text": "HAWA said Việt Nam's wood and furniture industry faced growing pressure to move beyond contract manufacturing as EU Deforestation Regulation (EUDR), changing consumer preferences and more demanding buyers in key markets such as the EU and the US reshape the industry.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261114_fba2e956be#4",
+    "doc_id": "vietnamnews_20261114_fba2e956be",
+    "sent_idx": 4,
+    "text": "Reine Karlsson, CEO of Finland-based furniture sourcing company Scale Up Oy Ltd, said European buyers now require structured and reliable \"upstream information\" demonstrating that products are not associated with deforestation or forest degradation, are legally produced and supported by systematic due diligence.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261114_fba2e956be#5",
+    "doc_id": "vietnamnews_20261114_fba2e956be",
+    "sent_idx": 5,
+    "text": "He said certifications such as those issued by the Forest Stewardship Council remained useful but could not replace a product-level evidence chain.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261114_fba2e956be#6",
+    "doc_id": "vietnamnews_20261114_fba2e956be",
+    "sent_idx": 6,
+    "text": "\"Compliance must be demonstrated at product level, with the documentation relating directly to the product being manufactured and sold,\" he said.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261114_fba2e956be#7",
+    "doc_id": "vietnamnews_20261114_fba2e956be",
+    "sent_idx": 7,
+    "text": "Manufacturers should link finished products and production batches to their materials, suppliers, harvesting locations and supporting documents.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261114_fba2e956be#8",
+    "doc_id": "vietnamnews_20261114_fba2e956be",
+    "sent_idx": 8,
+    "text": "They should also identify wood species and maintain electronic records and detailed bills of materials.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261114_fba2e956be#9",
+    "doc_id": "vietnamnews_20261114_fba2e956be",
+    "sent_idx": 9,
+    "text": "Karlsson urged companies to integrate traceability into product development and supplier management rather than wait for buyers to request documentation.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261114_fba2e956be#10",
+    "doc_id": "vietnamnews_20261114_fba2e956be",
+    "sent_idx": 10,
+    "text": "\"EUDR readiness is not a certificate.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261114_fba2e956be#11",
+    "doc_id": "vietnamnews_20261114_fba2e956be",
+    "sent_idx": 11,
+    "text": "It is a repeatable supply-chain capability,\" he said, adding that verifiable supply chains could help build buyer confidence when competing suppliers offered similar prices and quality.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261114_fba2e956be#12",
+    "doc_id": "vietnamnews_20261114_fba2e956be",
+    "sent_idx": 12,
+    "text": "The EUDR is scheduled to apply from December 30, 2026, according to information presented at the seminar.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261114_fba2e956be#13",
+    "doc_id": "vietnamnews_20261114_fba2e956be",
+    "sent_idx": 13,
+    "text": "It requires businesses to demonstrate that covered products are deforestation-free, legally produced and supported by due diligence information.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261114_fba2e956be#14",
+    "doc_id": "vietnamnews_20261114_fba2e956be",
+    "sent_idx": 14,
+    "text": "Hoàng Trọng Nhân, director of Nhân Hoàng Furniture, said his company had begun preparations about a year ago and obtained the necessary certifications.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261114_fba2e956be#15",
+    "doc_id": "vietnamnews_20261114_fba2e956be",
+    "sent_idx": 15,
+    "text": "Nearly all its raw material supplies now meet the relevant requirements.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261114_fba2e956be#16",
+    "doc_id": "vietnamnews_20261114_fba2e956be",
+    "sent_idx": 16,
+    "text": "The company worked closely with suppliers, particularly European timber suppliers, to collect documents proving the origin of wood materials.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261114_fba2e956be#17",
+    "doc_id": "vietnamnews_20261114_fba2e956be",
+    "sent_idx": 17,
+    "text": "\"Having the certifications gives us a considerable advantage and makes it easier to approach customers and the European market,\" he said.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261114_fba2e956be#18",
+    "doc_id": "vietnamnews_20261114_fba2e956be",
+    "sent_idx": 18,
+    "text": "The company has secured a full order book for 2027.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261114_fba2e956be#19",
+    "doc_id": "vietnamnews_20261114_fba2e956be",
+    "sent_idx": 19,
+    "text": "It mainly exports upholstered furniture, including sofas, headboards and dining chairs, and targets growth of about 30 per cent next year.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261114_fba2e956be#20",
+    "doc_id": "vietnamnews_20261114_fba2e956be",
+    "sent_idx": 20,
+    "text": "Dr Trương Tất Đơ of the Forestry and Forest Protection Department, who is secretary of the EUDR Working Group for the Forestry Sector, outlined Việt Nam's preparations, including a forest map and polygon coordinate tool to help businesses verify timber origins.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261114_fba2e956be#21",
+    "doc_id": "vietnamnews_20261114_fba2e956be",
+    "sent_idx": 21,
+    "text": "He recommended that businesses understand EUDR requirements and develop appropriate adaptation plans, review their production models and supply chains, and maintain complete records of raw material origins for risk assessments.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261114_fba2e956be#22",
+    "doc_id": "vietnamnews_20261114_fba2e956be",
+    "sent_idx": 22,
+    "text": "They should also provide supporting evidence when requested by customers, limit imports from high-risk countries, and prioritise legally sourced, certified and traceable materials.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261114_fba2e956be#23",
+    "doc_id": "vietnamnews_20261114_fba2e956be",
+    "sent_idx": 23,
+    "text": "Product innovation and buyer expectations",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261114_fba2e956be#24",
+    "doc_id": "vietnamnews_20261114_fba2e956be",
+    "sent_idx": 24,
+    "text": "Beyond regulatory compliance, the seminar highlighted the need to respond to changing consumer demand, particularly in the US, Việt Nam's largest furniture export market.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261114_fba2e956be#25",
+    "doc_id": "vietnamnews_20261114_fba2e956be",
+    "sent_idx": 25,
+    "text": "Trần Lam Sơn, vice chairman of Thiên Minh Furniture and a member of HAWA's executive committee, said the US furniture market, valued at about US$125 billion, was facing slow housing market growth and greater consumer price sensitivity.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261114_fba2e956be#26",
+    "doc_id": "vietnamnews_20261114_fba2e956be",
+    "sent_idx": 26,
+    "text": "US retailers were tightening inventory management and favouring suppliers offering flexible order quantities, reliable delivery and domestic distribution support.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261114_fba2e956be#27",
+    "doc_id": "vietnamnews_20261114_fba2e956be",
+    "sent_idx": 27,
+    "text": "Demand was also shifting towards upholstered and motion furniture, as well as products incorporating technology and wellness features, he said.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261114_fba2e956be#28",
+    "doc_id": "vietnamnews_20261114_fba2e956be",
+    "sent_idx": 28,
+    "text": "Joseph Trần, general manager of Direct Source Vietnam, and Jerome Pham, former managing director of Home Depot Vietnam, shared their experience working with US buyers.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261114_fba2e956be#29",
+    "doc_id": "vietnamnews_20261114_fba2e956be",
+    "sent_idx": 29,
+    "text": "Joseph said international buyers were looking beyond furniture manufacturers for partners able to develop products, select suitable materials and offer solutions for living spaces.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261114_fba2e956be#30",
+    "doc_id": "vietnamnews_20261114_fba2e956be",
+    "sent_idx": 30,
+    "text": "Vietnamese manufacturers therefore needed to demonstrate broader capabilities rather than compete mainly on price.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261114_fba2e956be#31",
+    "doc_id": "vietnamnews_20261114_fba2e956be",
+    "sent_idx": 31,
+    "text": "Jerome noted that the number of capable Vietnamese outdoor furniture manufacturers had grown from about 15 two decades ago to an estimated 50-70, intensifying competition.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261114_fba2e956be#32",
+    "doc_id": "vietnamnews_20261114_fba2e956be",
+    "sent_idx": 32,
+    "text": "US retailers increasingly sought partners able to provide comprehensive services, from original design manufacturing (ODM) and product development to local warehousing and sales support.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261114_fba2e956be#33",
+    "doc_id": "vietnamnews_20261114_fba2e956be",
+    "sent_idx": 33,
+    "text": "Manufacturers also needed to shorten sample-making and quotation times, propose new products proactively and ensure consistent quality and delivery, he said.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261114_fba2e956be#34",
+    "doc_id": "vietnamnews_20261114_fba2e956be",
+    "sent_idx": 34,
+    "text": "The seminar was part of the HawaExpo Preshow programme, which also featured Furniture Matching Day held ahead of the event, bringing together about 100 Vietnamese companies and 30 international buyers.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261114_fba2e956be#35",
+    "doc_id": "vietnamnews_20261114_fba2e956be",
+    "sent_idx": 35,
+    "text": "The meetings gave manufacturers opportunities to showcase their production capabilities, understand buyers' requirements and explore potential partnerships.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261114_fba2e956be#36",
+    "doc_id": "vietnamnews_20261114_fba2e956be",
+    "sent_idx": 36,
+    "text": "Phùng Quốc Mẫn, chairman of HAWA, said the preshow activities were designed to help exhibitors understand market requirements and prepare suitable products and resources ahead of the 2027 export season.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261114_fba2e956be#37",
+    "doc_id": "vietnamnews_20261114_fba2e956be",
+    "sent_idx": 37,
+    "text": "HawaExpo 2027 will take place from March 3 to 6 at the Saigon Exhibition and Convention Centre in HCM City.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261114_fba2e956be#38",
+    "doc_id": "vietnamnews_20261114_fba2e956be",
+    "sent_idx": 38,
+    "text": "The event is expected to feature more than 500 exhibitors with over 2,700 booths, attracting about 20,000 trade buyers and visitors from 100 countries and territories.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261114_fba2e956be#39",
+    "doc_id": "vietnamnews_20261114_fba2e956be",
+    "sent_idx": 39,
+    "text": "HawaExpo will also partner with the Quy Nhon International Outdoor Lifestyle Fair (QFair), scheduled for March 5-8, 2027, in Gia Lai Province.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261114_fba2e956be#40",
+    "doc_id": "vietnamnews_20261114_fba2e956be",
+    "sent_idx": 40,
+    "text": "The collaboration aims to help international buyers source indoor and outdoor furniture from two of Việt Nam's major manufacturing hubs during a single business trip. - VNS",
+    "lang": "en",
+    "is_title": false
+  }
+]

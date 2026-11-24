@@ -1,0 +1,626 @@
+[
+  {
+    "sent_id": "vneconomy_en_20261107_0d3d0a7919#0",
+    "doc_id": "vneconomy_en_20261107_0d3d0a7919",
+    "sent_idx": 0,
+    "text": "The future of banking begins with people",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vneconomy_en_20261107_0d3d0a7919#1",
+    "doc_id": "vneconomy_en_20261107_0d3d0a7919",
+    "sent_idx": 1,
+    "text": "From her first visits to Vietnam more than three decades ago to her experience in banking and digital payments, Eximbank independent director Ms. Ooi Huey Tyng has witnessed a country in transformation.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261107_0d3d0a7919#2",
+    "doc_id": "vneconomy_en_20261107_0d3d0a7919",
+    "sent_idx": 2,
+    "text": "Today, she believes the next chapter of banking will be shaped not simply by technology but by how well banks understand the people they serve.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261107_0d3d0a7919#3",
+    "doc_id": "vneconomy_en_20261107_0d3d0a7919",
+    "sent_idx": 3,
+    "text": "More than three decades ago, Ms. Ooi first arrived in Vietnam as a young analyst with Otis Elevator.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261107_0d3d0a7919#4",
+    "doc_id": "vneconomy_en_20261107_0d3d0a7919",
+    "sent_idx": 4,
+    "text": "She visited Hanoi four or five times a year, and the people she met left a lasting impression.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261107_0d3d0a7919#5",
+    "doc_id": "vneconomy_en_20261107_0d3d0a7919",
+    "sent_idx": 5,
+    "text": "\"I was impressed by the hardworking, friendly people and lovely food around the lake,\" she said.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261107_0d3d0a7919#6",
+    "doc_id": "vneconomy_en_20261107_0d3d0a7919",
+    "sent_idx": 6,
+    "text": "Some seven or eight years ago, she returned in a different capacity, as GrabPay's regional head for Southeast Asia.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261107_0d3d0a7919#7",
+    "doc_id": "vneconomy_en_20261107_0d3d0a7919",
+    "sent_idx": 7,
+    "text": "The change she found was remarkable: modern buildings, cars, and a hungry, digitally-savvy young population.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261107_0d3d0a7919#8",
+    "doc_id": "vneconomy_en_20261107_0d3d0a7919",
+    "sent_idx": 8,
+    "text": "The figures tell a similar story.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261107_0d3d0a7919#9",
+    "doc_id": "vneconomy_en_20261107_0d3d0a7919",
+    "sent_idx": 9,
+    "text": "Vietnam's GDP grew 8.02 per cent in 2025; the second-fastest pace since 2011, according to the National Statistics Office (NSO) at the Ministry of Finance.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261107_0d3d0a7919#10",
+    "doc_id": "vneconomy_en_20261107_0d3d0a7919",
+    "sent_idx": 10,
+    "text": "Vietnam has a solid internet penetration rate, at around 84 per cent, while it ranked seventh globally in terms of the speed and rate of adoption of the latest-generation internet protocol - IPv6.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261107_0d3d0a7919#11",
+    "doc_id": "vneconomy_en_20261107_0d3d0a7919",
+    "sent_idx": 11,
+    "text": "\"The transformation was just amazing,\" she said.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261107_0d3d0a7919#12",
+    "doc_id": "vneconomy_en_20261107_0d3d0a7919",
+    "sent_idx": 12,
+    "text": "When the opportunity came to join Eximbank's Board of Directors, Ms. Ooi was excited by the prospect of contributing to Vietnam's growth story.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261107_0d3d0a7919#13",
+    "doc_id": "vneconomy_en_20261107_0d3d0a7919",
+    "sent_idx": 13,
+    "text": "She is now an independent member of the Board for the 2025-2030 term.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261107_0d3d0a7919#14",
+    "doc_id": "vneconomy_en_20261107_0d3d0a7919",
+    "sent_idx": 14,
+    "text": "Her career spans more than 30 years, across traditional banking, payments, and fintech, with roles at Citibank, United Overseas Bank (UOB), DBS, Visa, and Grab.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261107_0d3d0a7919#15",
+    "doc_id": "vneconomy_en_20261107_0d3d0a7919",
+    "sent_idx": 15,
+    "text": "She also serves as an independent director of several organizations across the region, chairing or sitting on their risk, audit, nomination, and remuneration committees.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261107_0d3d0a7919#16",
+    "doc_id": "vneconomy_en_20261107_0d3d0a7919",
+    "sent_idx": 16,
+    "text": "Yet what attracted her to Eximbank was not simply the opportunity to bring international experience to a growing market.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261107_0d3d0a7919#17",
+    "doc_id": "vneconomy_en_20261107_0d3d0a7919",
+    "sent_idx": 17,
+    "text": "She saw value in the bank's long heritage and established customer relationships, alongside its decision to bring in independent directors committed to strengthening corporate governance.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261107_0d3d0a7919#18",
+    "doc_id": "vneconomy_en_20261107_0d3d0a7919",
+    "sent_idx": 18,
+    "text": "For Ms. Ooi, these foundations offer an opportunity to rethink how a bank can serve a country whose people, businesses, and expectations continue to evolve.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261107_0d3d0a7919#19",
+    "doc_id": "vneconomy_en_20261107_0d3d0a7919",
+    "sent_idx": 19,
+    "text": "Think about how people use technology in everyday life.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261107_0d3d0a7919#20",
+    "doc_id": "vneconomy_en_20261107_0d3d0a7919",
+    "sent_idx": 20,
+    "text": "Ordering food, booking a ride, or shopping online now takes just a few taps.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261107_0d3d0a7919#21",
+    "doc_id": "vneconomy_en_20261107_0d3d0a7919",
+    "sent_idx": 21,
+    "text": "In Vietnam, the shift shows in how people pay.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261107_0d3d0a7919#22",
+    "doc_id": "vneconomy_en_20261107_0d3d0a7919",
+    "sent_idx": 22,
+    "text": "Non-cash transactions rose 42.21 per cent in volume in 2025, with internet-based transactions up almost 54 per cent, according to the State Bank of Vietnam.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261107_0d3d0a7919#23",
+    "doc_id": "vneconomy_en_20261107_0d3d0a7919",
+    "sent_idx": 23,
+    "text": "These experiences have also changed what people expect from their banks.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261107_0d3d0a7919#24",
+    "doc_id": "vneconomy_en_20261107_0d3d0a7919",
+    "sent_idx": 24,
+    "text": "\"Digital expectations are compared against shopping, ride-hailing, and food apps, where instant gratification is mandatory,\" she said.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261107_0d3d0a7919#25",
+    "doc_id": "vneconomy_en_20261107_0d3d0a7919",
+    "sent_idx": 25,
+    "text": "Customers, in other words, no longer measure a bank only against other financial institutions.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261107_0d3d0a7919#26",
+    "doc_id": "vneconomy_en_20261107_0d3d0a7919",
+    "sent_idx": 26,
+    "text": "They compare it with the digital services they use every day.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261107_0d3d0a7919#27",
+    "doc_id": "vneconomy_en_20261107_0d3d0a7919",
+    "sent_idx": 27,
+    "text": "Yet convenience is only part of the story.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261107_0d3d0a7919#28",
+    "doc_id": "vneconomy_en_20261107_0d3d0a7919",
+    "sent_idx": 28,
+    "text": "As the economy grows, financial needs diversify.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261107_0d3d0a7919#29",
+    "doc_id": "vneconomy_en_20261107_0d3d0a7919",
+    "sent_idx": 29,
+    "text": "Ms. Ooi sees significant potential in Vietnam's young mass affluent population, its entrepreneurs, and its small and medium-sized enterprises (SMEs).",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261107_0d3d0a7919#30",
+    "doc_id": "vneconomy_en_20261107_0d3d0a7919",
+    "sent_idx": 30,
+    "text": "The business market alone is vast: the NSO's 2026 economic census counted 859,048 enterprises operating and generating revenue as of the end of 2025, employing nearly 17.6 million workers, as well as more than 5 million household businesses around the country.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261107_0d3d0a7919#31",
+    "doc_id": "vneconomy_en_20261107_0d3d0a7919",
+    "sent_idx": 31,
+    "text": "These groups have different circumstances and financial priorities.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261107_0d3d0a7919#32",
+    "doc_id": "vneconomy_en_20261107_0d3d0a7919",
+    "sent_idx": 32,
+    "text": "Eximbank, she believes, must understand what she calls the customer of tomorrow and grow alongside them with tailored solutions.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261107_0d3d0a7919#33",
+    "doc_id": "vneconomy_en_20261107_0d3d0a7919",
+    "sent_idx": 33,
+    "text": "Rather than a one-size-fits-all approach, she favors customization for each segment, enabled by proper data architecture.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261107_0d3d0a7919#34",
+    "doc_id": "vneconomy_en_20261107_0d3d0a7919",
+    "sent_idx": 34,
+    "text": "A well-designed digital platform, supported by the right data, can make services more relevant and personalized.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261107_0d3d0a7919#35",
+    "doc_id": "vneconomy_en_20261107_0d3d0a7919",
+    "sent_idx": 35,
+    "text": "Across the banking industry, digital transformation and AI have become major investment priorities.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261107_0d3d0a7919#36",
+    "doc_id": "vneconomy_en_20261107_0d3d0a7919",
+    "sent_idx": 36,
+    "text": "Yet Ms. Ooi believes technological leadership should not be treated as an end in itself.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261107_0d3d0a7919#37",
+    "doc_id": "vneconomy_en_20261107_0d3d0a7919",
+    "sent_idx": 37,
+    "text": "A bank can invest heavily in digital capabilities without necessarily improving the customer experience.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261107_0d3d0a7919#38",
+    "doc_id": "vneconomy_en_20261107_0d3d0a7919",
+    "sent_idx": 38,
+    "text": "Meaningful progress requires institutions to understand customer difficulties and redesign processes before deciding which technologies to introduce.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261107_0d3d0a7919#39",
+    "doc_id": "vneconomy_en_20261107_0d3d0a7919",
+    "sent_idx": 39,
+    "text": "\" Tech is an enabler to remove friction and make banking simpler,\" she said.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261107_0d3d0a7919#40",
+    "doc_id": "vneconomy_en_20261107_0d3d0a7919",
+    "sent_idx": 40,
+    "text": "In her view, the most useful technology is not always the newest or most sophisticated.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261107_0d3d0a7919#41",
+    "doc_id": "vneconomy_en_20261107_0d3d0a7919",
+    "sent_idx": 41,
+    "text": "It is the technology that helps customers complete everyday tasks more easily, access relevant services, and make better financial decisions.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261107_0d3d0a7919#42",
+    "doc_id": "vneconomy_en_20261107_0d3d0a7919",
+    "sent_idx": 42,
+    "text": "She also sees potential advantages in learning from innovations already tested elsewhere in the banking industry.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261107_0d3d0a7919#43",
+    "doc_id": "vneconomy_en_20261107_0d3d0a7919",
+    "sent_idx": 43,
+    "text": "Early experimentation with emerging technologies can involve considerable costs and uncertainty.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261107_0d3d0a7919#44",
+    "doc_id": "vneconomy_en_20261107_0d3d0a7919",
+    "sent_idx": 44,
+    "text": "Rather than pursuing every new development, a bank can evaluate proven solutions and determine which are appropriate for its customers, capabilities, and long-term strategy.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261107_0d3d0a7919#45",
+    "doc_id": "vneconomy_en_20261107_0d3d0a7919",
+    "sent_idx": 45,
+    "text": "For Eximbank, this represents a potential opportunity rather than an automatic advantage arising from its existing technology systems.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261107_0d3d0a7919#46",
+    "doc_id": "vneconomy_en_20261107_0d3d0a7919",
+    "sent_idx": 46,
+    "text": "But successful transformation also depends on something less visible than digital platforms: the organization's ability to align people, strategy, and execution.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261107_0d3d0a7919#47",
+    "doc_id": "vneconomy_en_20261107_0d3d0a7919",
+    "sent_idx": 47,
+    "text": "Ms. Ooi identifies three connected foundations for transformation: a shared vision and strategy, system modernization driven by customer needs, and a culture that consistently puts customers first.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261107_0d3d0a7919#48",
+    "doc_id": "vneconomy_en_20261107_0d3d0a7919",
+    "sent_idx": 48,
+    "text": "That alignment matters, from the Board and management through to employees who serve customers every day, while preserving the distinction between governance oversight and operational responsibilities.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261107_0d3d0a7919#49",
+    "doc_id": "vneconomy_en_20261107_0d3d0a7919",
+    "sent_idx": 49,
+    "text": "A shared direction makes it easier for teams to understand what needs to change and why those changes matter.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261107_0d3d0a7919#50",
+    "doc_id": "vneconomy_en_20261107_0d3d0a7919",
+    "sent_idx": 50,
+    "text": "Ms. Ooi's experience across traditional banks and fintech businesses has also shaped her views on innovation and risk.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261107_0d3d0a7919#51",
+    "doc_id": "vneconomy_en_20261107_0d3d0a7919",
+    "sent_idx": 51,
+    "text": "Drawing on lessons from DBS, she highlights the importance of intelligent risk-taking: recognizing that meaningful innovation involves uncertainty, but that risks must be understood and managed. \" If you want zero risk, you get zero innovation,\" she said.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261107_0d3d0a7919#52",
+    "doc_id": "vneconomy_en_20261107_0d3d0a7919",
+    "sent_idx": 52,
+    "text": "In banking, however, this does not mean pursuing innovation without appropriate safeguards.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261107_0d3d0a7919#53",
+    "doc_id": "vneconomy_en_20261107_0d3d0a7919",
+    "sent_idx": 53,
+    "text": "Rather, it points to the importance of creating room for carefully assessed experimentation within established risk-management and governance frameworks.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261107_0d3d0a7919#54",
+    "doc_id": "vneconomy_en_20261107_0d3d0a7919",
+    "sent_idx": 54,
+    "text": "New technologies or service concepts can be evaluated through limited testing, with clearly defined objectives, risk parameters, and appropriate oversight before broader implementation is considered.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261107_0d3d0a7919#55",
+    "doc_id": "vneconomy_en_20261107_0d3d0a7919",
+    "sent_idx": 55,
+    "text": "Results should be assessed not only for customer benefits and commercial potential, but also for their implications for security, compliance, financial risk, and operational resilience.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261107_0d3d0a7919#56",
+    "doc_id": "vneconomy_en_20261107_0d3d0a7919",
+    "sent_idx": 56,
+    "text": "For Ms. Ooi, innovation and risk management should reinforce each other.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261107_0d3d0a7919#57",
+    "doc_id": "vneconomy_en_20261107_0d3d0a7919",
+    "sent_idx": 57,
+    "text": "New ideas require the confidence to explore better approaches, while sound governance provides the discipline needed to evaluate those ideas responsibly.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261107_0d3d0a7919#58",
+    "doc_id": "vneconomy_en_20261107_0d3d0a7919",
+    "sent_idx": 58,
+    "text": "Despite her extensive experience in digital payments and fintech, Ms. Ooi believes one of the greatest strengths of established banks is something technology alone cannot deliver: customer trust.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261107_0d3d0a7919#59",
+    "doc_id": "vneconomy_en_20261107_0d3d0a7919",
+    "sent_idx": 59,
+    "text": "Having worked in fintech, she understands how difficult it can be for newer financial platforms to build the confidence that established banks have developed through long-standing relationships.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261107_0d3d0a7919#60",
+    "doc_id": "vneconomy_en_20261107_0d3d0a7919",
+    "sent_idx": 60,
+    "text": "For Eximbank, she sees that trust as an invaluable foundation. \" The trust of depositors at Eximbank is an invaluable asset we must protect and build upon through strong governance,\" she said.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261107_0d3d0a7919#61",
+    "doc_id": "vneconomy_en_20261107_0d3d0a7919",
+    "sent_idx": 61,
+    "text": "For customers, depositing money in a bank is an act of confidence.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261107_0d3d0a7919#62",
+    "doc_id": "vneconomy_en_20261107_0d3d0a7919",
+    "sent_idx": 62,
+    "text": "Their savings may represent years of work, a family's financial security, or the resources a business relies on to operate.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261107_0d3d0a7919#63",
+    "doc_id": "vneconomy_en_20261107_0d3d0a7919",
+    "sent_idx": 63,
+    "text": "Protecting that confidence is among the most important responsibilities of a financial institution.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261107_0d3d0a7919#64",
+    "doc_id": "vneconomy_en_20261107_0d3d0a7919",
+    "sent_idx": 64,
+    "text": "This is where Ms. Ooi sees the role of corporate governance extending beyond policies and formal structures.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261107_0d3d0a7919#65",
+    "doc_id": "vneconomy_en_20261107_0d3d0a7919",
+    "sent_idx": 65,
+    "text": "Good governance helps establish clear responsibilities, supports sound decision-making, and provides the oversight necessary to identify and manage risks.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261107_0d3d0a7919#66",
+    "doc_id": "vneconomy_en_20261107_0d3d0a7919",
+    "sent_idx": 66,
+    "text": "The Board is responsible for strategic direction and oversight, while management remains accountable for the bank's day-to-day operations and execution.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261107_0d3d0a7919#67",
+    "doc_id": "vneconomy_en_20261107_0d3d0a7919",
+    "sent_idx": 67,
+    "text": "From an independent director's perspective, governance also involves ensuring that important decisions receive appropriate scrutiny, that risks are properly considered, and that the institution's long-term interests remain central.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261107_0d3d0a7919#68",
+    "doc_id": "vneconomy_en_20261107_0d3d0a7919",
+    "sent_idx": 68,
+    "text": "Transparency and accountability are essential to this process.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261107_0d3d0a7919#69",
+    "doc_id": "vneconomy_en_20261107_0d3d0a7919",
+    "sent_idx": 69,
+    "text": "They help create confidence that decisions are made through appropriate processes, with responsibilities clearly understood and outcomes subject to oversight.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261107_0d3d0a7919#70",
+    "doc_id": "vneconomy_en_20261107_0d3d0a7919",
+    "sent_idx": 70,
+    "text": "For Ms. Ooi, governance should be viewed as a continuing process of institutional development rather than simply a problem that requires fixing.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261107_0d3d0a7919#71",
+    "doc_id": "vneconomy_en_20261107_0d3d0a7919",
+    "sent_idx": 71,
+    "text": "Her aspiration is to contribute international perspectives that can help Eximbank continue strengthening its governance standards and maturity, with the ambition of progressing beyond prevailing industry benchmarks.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261107_0d3d0a7919#72",
+    "doc_id": "vneconomy_en_20261107_0d3d0a7919",
+    "sent_idx": 72,
+    "text": "This becomes particularly important as banks explore new technologies, develop more personalized services, and consider innovative approaches to financing.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261107_0d3d0a7919#73",
+    "doc_id": "vneconomy_en_20261107_0d3d0a7919",
+    "sent_idx": 73,
+    "text": "Such opportunities can create value, but they also require careful decisions about customer data, risk exposure, and the protection of depositors' interests.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261107_0d3d0a7919#74",
+    "doc_id": "vneconomy_en_20261107_0d3d0a7919",
+    "sent_idx": 74,
+    "text": "Ultimately, customers may never see the decisions made in a boardroom, but they experience their consequences in the reliability of services and the confidence they place in their bank.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261107_0d3d0a7919#75",
+    "doc_id": "vneconomy_en_20261107_0d3d0a7919",
+    "sent_idx": 75,
+    "text": "For Ms. Ooi, the future of Eximbank should make that trust tangible: everyday transactions that are easy and enjoyable through digital channels, and personal advice readily available at branches when customers need it.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261107_0d3d0a7919#76",
+    "doc_id": "vneconomy_en_20261107_0d3d0a7919",
+    "sent_idx": 76,
+    "text": "More than three decades after her first visits to Vietnam, her vision remains rooted in the people who impressed her then.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261107_0d3d0a7919#77",
+    "doc_id": "vneconomy_en_20261107_0d3d0a7919",
+    "sent_idx": 77,
+    "text": "Technology should make their financial lives easier, while strong governance helps ensure that the trust behind every banking relationship is protected.",
+    "lang": "en",
+    "is_title": false
+  }
+]

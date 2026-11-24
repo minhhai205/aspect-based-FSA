@@ -1,0 +1,66 @@
+[
+  {
+    "sent_id": "vneconomy_en_20261107_31618ae49e#0",
+    "doc_id": "vneconomy_en_20261107_31618ae49e",
+    "sent_idx": 0,
+    "text": "Ho Chi Minh City expands clean industrial cluster space for sustainable growth",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vneconomy_en_20261107_31618ae49e#1",
+    "doc_id": "vneconomy_en_20261107_31618ae49e",
+    "sent_idx": 1,
+    "text": "According to a decision dated September 21, issued by the People's Committee of Ho Chi Mình City, the Chau Duc Industrial Cluster aims to create a centralized manufacturing space to meet the relocation and expansion needs of small and medium-sized enterprises, cooperatives, collaborative groups, and production facilities in the area.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261107_31618ae49e#2",
+    "doc_id": "vneconomy_en_20261107_31618ae49e",
+    "sent_idx": 2,
+    "text": "The multi-sector cluster prioritizes processing, manufacturing, supporting industries, high technology, clean industry, and production support services.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261107_31618ae49e#3",
+    "doc_id": "vneconomy_en_20261107_31618ae49e",
+    "sent_idx": 3,
+    "text": "The city encourages industrial and handicraft facilities that cause or pose risks of environmental pollution in residential areas and craft villages in Binh Gia Commune to relocate into the cluster, where production processes are subject to environmental control.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261107_31618ae49e#4",
+    "doc_id": "vneconomy_en_20261107_31618ae49e",
+    "sent_idx": 4,
+    "text": "Across the 32-hectare site, the investor will construct a synchronized infrastructure system, including internal roads, water supply, drainage, power supply, telecommunications, green spaces, and a centralized wastewater treatment plant.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261107_31618ae49e#5",
+    "doc_id": "vneconomy_en_20261107_31618ae49e",
+    "sent_idx": 5,
+    "text": "This infrastructure provides a framework to better control industrial wastewater while improving operational infrastructure for businesses.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261107_31618ae49e#6",
+    "doc_id": "vneconomy_en_20261107_31618ae49e",
+    "sent_idx": 6,
+    "text": "Located near the Binh Trung-Quang Thanh route, National Highway 56, the Bien Hoa-Vung Tau Expressway, and the Cai Mep-Thi Vai port system, the cluster offers favorable conditions for developing supporting, processing, and manufacturing industries linked to regional logistics and supply chains.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261107_31618ae49e#7",
+    "doc_id": "vneconomy_en_20261107_31618ae49e",
+    "sent_idx": 7,
+    "text": "By prioritizing clean industries, strengthening environmental treatment infrastructure, and encouraging renewable energy use, the industrial cluster is expected to create additional space for enterprises to transition toward greener, resource-efficient production, reducing environmental impact and advancing sustainable manufacturing.",
+    "lang": "en",
+    "is_title": false
+  }
+]

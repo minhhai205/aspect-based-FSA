@@ -1,0 +1,338 @@
+[
+  {
+    "sent_id": "vneconomy_en_20261102_7d197b86a0#0",
+    "doc_id": "vneconomy_en_20261102_7d197b86a0",
+    "sent_idx": 0,
+    "text": "Combining talent, data, and AI agents to drive Vietnam's martech growth",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_7d197b86a0#1",
+    "doc_id": "vneconomy_en_20261102_7d197b86a0",
+    "sent_idx": 1,
+    "text": "Held on November 1, 2026, both offline in Hanoi and Ho Chi Minh City and via online channels, Vietnam Martech Day 2026 brought together leading experts from Vietnam, Singapore, Thailand, and Australia.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_7d197b86a0#2",
+    "doc_id": "vneconomy_en_20261102_7d197b86a0",
+    "sent_idx": 2,
+    "text": "The event delivered strategic insights and pioneering Martech solutions to the business community.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_7d197b86a0#3",
+    "doc_id": "vneconomy_en_20261102_7d197b86a0",
+    "sent_idx": 3,
+    "text": "The rapid rise of Artificial Intelligence Agents (AI Agents) is triggering a revolution that is reshaping how businesses engage with customers and run their marketing operations.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_7d197b86a0#4",
+    "doc_id": "vneconomy_en_20261102_7d197b86a0",
+    "sent_idx": 4,
+    "text": "The future of Vietnam's marketing technology (Martech) landscape no longer hinges on a simple race to acquire software tools.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_7d197b86a0#5",
+    "doc_id": "vneconomy_en_20261102_7d197b86a0",
+    "sent_idx": 5,
+    "text": "Instead, it depends on a business's capacity to build strategic synergy between Human Talent, Contextual Data, and AI Agents to unlock breakthrough growth.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_7d197b86a0#6",
+    "doc_id": "vneconomy_en_20261102_7d197b86a0",
+    "sent_idx": 6,
+    "text": "Centering on the theme \"The Future of Vietnam's Martech Lies in Combining Human Talent, Data, and AI Agents to Drive Growth,\" the conference gathered prominent thought leaders across Vietnam, Singapore, Thailand, and Australia.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_7d197b86a0#7",
+    "doc_id": "vneconomy_en_20261102_7d197b86a0",
+    "sent_idx": 7,
+    "text": "Across seven in-depth keynotes and a executive panel discussion, Vietnam Martech Day 2026 outlined a practical roadmap through the real-world experiences of nine renowned speakers, offering sharp insights for the marketing technology digital transformation journey.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_7d197b86a0#8",
+    "doc_id": "vneconomy_en_20261102_7d197b86a0",
+    "sent_idx": 8,
+    "text": "Opening the conference, Dr. Dinh Le Dat, Co-Founder and Chairman of Vietnam Martech, observed that the global Martech landscape, boasting over 15,500 tools is shifting from the era of \"Golden Customer\" data consolidation (Martech 3.0) to the era of \"Golden Context\" context-driven marketing powered by intelligent agents (Martech 4.0).",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_7d197b86a0#9",
+    "doc_id": "vneconomy_en_20261102_7d197b86a0",
+    "sent_idx": 9,
+    "text": "In this emerging landscape, AI Agents are driving three distinct waves of adoption: assisting marketers by automating routine tasks; acting as corporate representatives to proactively engage across omnichannel touchpoints such as Websites, App Push, Zalo, SMS, and Email; and, most disruptively, acting as consumer representatives that autonomously search, compare, and execute transactions on behalf of shoppers.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_7d197b86a0#10",
+    "doc_id": "vneconomy_en_20261102_7d197b86a0",
+    "sent_idx": 10,
+    "text": "Citing Walmart's decision last October to open its APIs so AI models like ChatGPT, Claude, and Gemini can directly facilitate shopping, Dr. Dat stressed that Vietnamese brands must immediately prepare standardized data infrastructures.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_7d197b86a0#11",
+    "doc_id": "vneconomy_en_20261102_7d197b86a0",
+    "sent_idx": 11,
+    "text": "Products must be structured not only for human browsing, but also for AI Agents to easily read, interpret, and place orders on behalf of consumers-turning AI Agents into an entirely new distribution and transaction channel.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_7d197b86a0#12",
+    "doc_id": "vneconomy_en_20261102_7d197b86a0",
+    "sent_idx": 12,
+    "text": "Addressing corporate governance from an advisory perspective, Ms. Phuong Pham, CEO of AKA Digital, outlined the evolution of the Martech ecosystem: data integration in 2023, data activation in 2024, measurement optimization in 2025, and modular layer-based architecture in 2026.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_7d197b86a0#13",
+    "doc_id": "vneconomy_en_20261102_7d197b86a0",
+    "sent_idx": 13,
+    "text": "She highlighted four strategic imperatives facing every enterprise.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_7d197b86a0#14",
+    "doc_id": "vneconomy_en_20261102_7d197b86a0",
+    "sent_idx": 14,
+    "text": "When deciding whether to build or buy solutions, enterprises should prioritize purchasing proven, standardized capabilities to conserve resources for building their unique competitive advantages.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_7d197b86a0#15",
+    "doc_id": "vneconomy_en_20261102_7d197b86a0",
+    "sent_idx": 15,
+    "text": "Furthermore, organizations must resolve internal friction over project ownership between IT and Business teams by establishing shared accountability tied to final business outcomes.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_7d197b86a0#16",
+    "doc_id": "vneconomy_en_20261102_7d197b86a0",
+    "sent_idx": 16,
+    "text": "They should also implement a hybrid operational model combining internal brand-savvy staff with external consultants, while viewing Agentic AI realistically as an operational capability requiring careful data preparation and governance, rather than overhyping it as a magic bullet.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_7d197b86a0#17",
+    "doc_id": "vneconomy_en_20261102_7d197b86a0",
+    "sent_idx": 17,
+    "text": "Beyond technology frameworks, the conference delivered grounded, practical analysis on changing consumer behaviors and novel cash-flow growth models.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_7d197b86a0#18",
+    "doc_id": "vneconomy_en_20261102_7d197b86a0",
+    "sent_idx": 18,
+    "text": "Analyzing empirical data from over 2,000 physical retail stores nationwide, Dr. Thong Do, Founder and CEO of Palexy, delivered a realistic and timely warning for the year-end shopping season.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_7d197b86a0#19",
+    "doc_id": "vneconomy_en_20261102_7d197b86a0",
+    "sent_idx": 19,
+    "text": "In-store foot-traffic metrics show that store visits have stalled and growth rates have dropped sharply.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_7d197b86a0#20",
+    "doc_id": "vneconomy_en_20261102_7d197b86a0",
+    "sent_idx": 20,
+    "text": "However, average order values per visitor rose by 16%, leading to an overall conversion rate drop of roughly 3 percentage points.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_7d197b86a0#21",
+    "doc_id": "vneconomy_en_20261102_7d197b86a0",
+    "sent_idx": 21,
+    "text": "Consumers are making fewer trips and deliberating more carefully, but spending more per purchase decision.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_7d197b86a0#22",
+    "doc_id": "vneconomy_en_20261102_7d197b86a0",
+    "sent_idx": 22,
+    "text": "Given the 4-to-8-week lag effect of fuel price volatility and macroeconomic shifts, Dr. Thong advised retailers to prepare contingency plans for a soft year-end purchasing power environment.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_7d197b86a0#23",
+    "doc_id": "vneconomy_en_20261102_7d197b86a0",
+    "sent_idx": 23,
+    "text": "Key revenue drivers will include optimizing on-site conversion rates, analyzing behavioral data from store visitors who left without purchasing, and tailoring marketing messages by region.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_7d197b86a0#24",
+    "doc_id": "vneconomy_en_20261102_7d197b86a0",
+    "sent_idx": 24,
+    "text": "Complementing the retail discussion, Mr. Sonny Tran, Co-Founder and CTO of Finternet Foundry, joined virtually from Singapore to introduce the concept of FinMartech-demonstrating the convergence of financial technology and marketing technology.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_7d197b86a0#25",
+    "doc_id": "vneconomy_en_20261102_7d197b86a0",
+    "sent_idx": 25,
+    "text": "Drawing lessons from Starbucks-which manages over $1.8 billion in zero-interest customer pre-funded balances-he demonstrated how a loyalty program can transform from a marketing expense into a source of working capital and a financial growth engine.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_7d197b86a0#26",
+    "doc_id": "vneconomy_en_20261102_7d197b86a0",
+    "sent_idx": 26,
+    "text": "In Vietnam, driven by the boom in QR payments, high debit card usage, and an open regulatory framework around OpenAPIs and personal data protection, a three-way partnership model between brands, banks or insurers, and FinMartech infrastructure providers represents the optimal path forward.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_7d197b86a0#27",
+    "doc_id": "vneconomy_en_20261102_7d197b86a0",
+    "sent_idx": 27,
+    "text": "Enterprises can retain customers while leveraging behavioral data to score credit and distribute contextually relevant financial services, effectively turning Loyalty points into a proprietary currency that backs sustained growth.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_7d197b86a0#28",
+    "doc_id": "vneconomy_en_20261102_7d197b86a0",
+    "sent_idx": 28,
+    "text": "From an operational standpoint, Mr. Phu Vo, Co-Founder and CEO of Every Half, represented the young F&B sector by sharing how his coffee chain transitioned from physical stamp cards to a digital loyalty platform integrated with a CDP and omnichannel engagement tools in just four months.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_7d197b86a0#29",
+    "doc_id": "vneconomy_en_20261102_7d197b86a0",
+    "sent_idx": 29,
+    "text": "By focusing on a single, high-frequency core task-a \"Buy 10, Get 1 Free\" feature on a Mini App-the company successfully identified 45% of total in-store transactions.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_7d197b86a0#30",
+    "doc_id": "vneconomy_en_20261102_7d197b86a0",
+    "sent_idx": 30,
+    "text": "Building on that foundation, Every Half expanded into more than 30 automated customer lifecycle scenarios, introduced pre-ordering and location-based recognition at store locations, and moved toward consolidating data across physical stores, website, and food delivery platforms.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_7d197b86a0#31",
+    "doc_id": "vneconomy_en_20261102_7d197b86a0",
+    "sent_idx": 31,
+    "text": "The key takeaway for small and medium enterprises (SMEs) is to start with simple, everyday customer tasks before expanding into a broader tech ecosystem.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_7d197b86a0#32",
+    "doc_id": "vneconomy_en_20261102_7d197b86a0",
+    "sent_idx": 32,
+    "text": "Addressing transformation at an enterprise scale, Ms. Nhi Huynh, Senior Manager of OmniChannel & Martech at PNJ, joined virtually from Sydney to share practical insights from managing PNJ's nationwide network of hundreds of retail stores.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_7d197b86a0#33",
+    "doc_id": "vneconomy_en_20261102_7d197b86a0",
+    "sent_idx": 33,
+    "text": "She emphasized that the primary bottleneck in large-scale Martech projects is never software or AI, but rather alignment and cross-functional buy-in.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_7d197b86a0#34",
+    "doc_id": "vneconomy_en_20261102_7d197b86a0",
+    "sent_idx": 34,
+    "text": "To execute large O2O (Online-to-Offline) campaigns successfully, PNJ relies on three critical lessons: establishing a cross-departmental project steering committee and partnering closely with consulting advisors from the proposal stage; lifting operational burdens off frontline store staff using simple technology, such as CDPs connected to Zalo Mini Apps to collect clean data and push actionable leads directly back to store staff; and maintaining real-time data tracking mechanisms to pivot tactics mid-campaign when needed.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_7d197b86a0#35",
+    "doc_id": "vneconomy_en_20261102_7d197b86a0",
+    "sent_idx": 35,
+    "text": "In the closing panel discussion moderated by Dr. Dinh Le Dat featuring Mr. Minh Nguyen from AKA Digital & LAVA Digital Group, Dr. Tai Huynh from Kyanon Digital, Dr. Thong Do from Palexy, and Mr. Sonny Tran from Finternet Foundry, the panelists focused on operational bottlenecks and strategic priorities for the coming phase.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_7d197b86a0#36",
+    "doc_id": "vneconomy_en_20261102_7d197b86a0",
+    "sent_idx": 36,
+    "text": "Mr. Minh Nguyen stressed that the single biggest hurdle today is the shortage of qualified operational talent alongside high staff turnover, making it imperative for enterprises to build a centralized, unified customer data layer before deploying AI solutions.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_7d197b86a0#37",
+    "doc_id": "vneconomy_en_20261102_7d197b86a0",
+    "sent_idx": 37,
+    "text": "Dr. Tai Huynh highlighted a positive trend: Vietnamese enterprises are proactively investing in data infrastructure.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_7d197b86a0#38",
+    "doc_id": "vneconomy_en_20261102_7d197b86a0",
+    "sent_idx": 38,
+    "text": "He proposed a three-step roadmap for the coming year: consolidate fragmented tools, establish ownership of first-party data, and begin experimenting with AI Agents.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_7d197b86a0#39",
+    "doc_id": "vneconomy_en_20261102_7d197b86a0",
+    "sent_idx": 39,
+    "text": "Dr. Thong Do and Mr. Sonny Tran concurred on the substantial gap between the digital and physical worlds at retail touchpoints, noting that combining behavioral context analytics with integrated digital financial solutions will unlock substantial growth potential.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_7d197b86a0#40",
+    "doc_id": "vneconomy_en_20261102_7d197b86a0",
+    "sent_idx": 40,
+    "text": "The event concluded with the official handover of the Vietnam Martech Chairmanship to Dr. Dinh Le Dat for the new term.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261102_7d197b86a0#41",
+    "doc_id": "vneconomy_en_20261102_7d197b86a0",
+    "sent_idx": 41,
+    "text": "The conference summarized its core actionable takeaways: organizational capabilities ultimately determine tech ROI; enterprises must immediately pivot from merely owning data to extracting contextual intelligence via Agentic AI; and high-quality talent paired with strong ecosystem collaboration will be the deciding factors in elevating Vietnam's Martech sector both regionally and globally.",
+    "lang": "en",
+    "is_title": false
+  }
+]

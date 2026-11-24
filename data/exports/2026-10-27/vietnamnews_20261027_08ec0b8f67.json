@@ -1,0 +1,250 @@
+[
+  {
+    "sent_id": "vietnamnews_20261027_08ec0b8f67#0",
+    "doc_id": "vietnamnews_20261027_08ec0b8f67",
+    "sent_idx": 0,
+    "text": "VINPA chairman proposes centralised management of petrol price stabilisation fund",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261027_08ec0b8f67#1",
+    "doc_id": "vietnamnews_20261027_08ec0b8f67",
+    "sent_idx": 1,
+    "text": "HÀ NỘI - Bùi Ngọc Bảo, chairman of the Vietnam Petroleum Association (VINPA), has called for a review of the petrol price stabilisation fund's role and management, suggesting that it be managed centrally by the Ministry of Industry and Trade (MoIT) or the Ministry of Finance (MoF), rather than by individual petroleum wholesalers.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_08ec0b8f67#2",
+    "doc_id": "vietnamnews_20261027_08ec0b8f67",
+    "sent_idx": 2,
+    "text": "The proposal comes as the MoIT, in the 14th draft of a decree on petroleum trading, has proposed removing the fund from the list of price stabilisation measures and ending contributions and disbursements from January 1, 2027.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_08ec0b8f67#3",
+    "doc_id": "vietnamnews_20261027_08ec0b8f67",
+    "sent_idx": 3,
+    "text": "The draft is being finalised following consultation.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_08ec0b8f67#4",
+    "doc_id": "vietnamnews_20261027_08ec0b8f67",
+    "sent_idx": 4,
+    "text": "Bảo said the fund, established in 2014 under the Government's Decree No. 83/2014/NĐ-CP and governed by subsequent amendments, had helped stabilise domestic petroleum prices over the past decade, particularly during periods of sharp increases or volatility in global oil prices that affected the economy.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_08ec0b8f67#5",
+    "doc_id": "vietnamnews_20261027_08ec0b8f67",
+    "sent_idx": 5,
+    "text": "Under the current system, 33 major petroleum traders manage the fund through bank accounts.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_08ec0b8f67#6",
+    "doc_id": "vietnamnews_20261027_08ec0b8f67",
+    "sent_idx": 6,
+    "text": "The authorities determine contribution and disbursement levels at each price adjustment.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_08ec0b8f67#7",
+    "doc_id": "vietnamnews_20261027_08ec0b8f67",
+    "sent_idx": 7,
+    "text": "The fund operates outside the state budget.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_08ec0b8f67#8",
+    "doc_id": "vietnamnews_20261027_08ec0b8f67",
+    "sent_idx": 8,
+    "text": "Bảo said its resources belonged to consumers and businesses, rather than the State.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_08ec0b8f67#9",
+    "doc_id": "vietnamnews_20261027_08ec0b8f67",
+    "sent_idx": 9,
+    "text": "Article 19 of the 2023 Law on Prices lists the use of price stabilisation funds as one of five measures to stabilise prices.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_08ec0b8f67#10",
+    "doc_id": "vietnamnews_20261027_08ec0b8f67",
+    "sent_idx": 10,
+    "text": "However, Bảo said the current management system had exposed shortcomings, leaving major petroleum traders vulnerable to risks, particularly when required to cover losses or undergo inspections.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_08ec0b8f67#11",
+    "doc_id": "vietnamnews_20261027_08ec0b8f67",
+    "sent_idx": 11,
+    "text": "Bảo said the fund could not be abolished solely through the decree on petroleum trading, as its use was also provided for under the Law on Prices.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_08ec0b8f67#12",
+    "doc_id": "vietnamnews_20261027_08ec0b8f67",
+    "sent_idx": 12,
+    "text": "Amid sharp fluctuations in global oil prices linked to geopolitical tensions in the Middle East, the Prime Minister approved an advance from the state budget to the fund in March 2026.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_08ec0b8f67#13",
+    "doc_id": "vietnamnews_20261027_08ec0b8f67",
+    "sent_idx": 13,
+    "text": "In April, the MoIT issued regulations governing the advance, contributions and disbursements, and repayment to the state budget.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_08ec0b8f67#14",
+    "doc_id": "vietnamnews_20261027_08ec0b8f67",
+    "sent_idx": 14,
+    "text": "VINPA therefore proposes placing the fund under the centralised management of the MoIT or the MoF.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_08ec0b8f67#15",
+    "doc_id": "vietnamnews_20261027_08ec0b8f67",
+    "sent_idx": 15,
+    "text": "The association believes this could address shortcomings in the current system and improve transparency in how the fund is managed and used.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_08ec0b8f67#16",
+    "doc_id": "vietnamnews_20261027_08ec0b8f67",
+    "sent_idx": 16,
+    "text": "VINPA also proposes establishing centrally managed commercial petroleum reserves as an additional source of supply, with support from the fund.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_08ec0b8f67#17",
+    "doc_id": "vietnamnews_20261027_08ec0b8f67",
+    "sent_idx": 17,
+    "text": "During periods of sharp price fluctuations, the authorities could determine how much fuel to release onto the market to help stabilise prices, complementing releases from national petroleum reserves.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_08ec0b8f67#18",
+    "doc_id": "vietnamnews_20261027_08ec0b8f67",
+    "sent_idx": 18,
+    "text": "Bảo said the proposal to discontinue the fund from 2027 required further consideration.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_08ec0b8f67#19",
+    "doc_id": "vietnamnews_20261027_08ec0b8f67",
+    "sent_idx": 19,
+    "text": "Ending the fund could lead to higher petroleum prices at certain times, but would also allow domestic prices to reflect market conditions more closely.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_08ec0b8f67#20",
+    "doc_id": "vietnamnews_20261027_08ec0b8f67",
+    "sent_idx": 20,
+    "text": "When oil prices were low, consumers would no longer have to contribute through their fuel purchases to subsidise prices at other times.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_08ec0b8f67#21",
+    "doc_id": "vietnamnews_20261027_08ec0b8f67",
+    "sent_idx": 21,
+    "text": "Each approach had advantages and disadvantages, he said.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_08ec0b8f67#22",
+    "doc_id": "vietnamnews_20261027_08ec0b8f67",
+    "sent_idx": 22,
+    "text": "Other measures, including tax and fee reductions, could also help stabilise the domestic petroleum market during periods of global oil price volatility.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_08ec0b8f67#23",
+    "doc_id": "vietnamnews_20261027_08ec0b8f67",
+    "sent_idx": 23,
+    "text": "Bảo stressed the need to expand national petroleum reserves to strengthen the country's ability to respond to market fluctuations.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_08ec0b8f67#24",
+    "doc_id": "vietnamnews_20261027_08ec0b8f67",
+    "sent_idx": 24,
+    "text": "Việt Nam's petroleum stocks fall into three main categories: commercial stocks held by major petroleum traders and distributors, stocks held by the country's two oil refineries for production, and national reserves.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_08ec0b8f67#25",
+    "doc_id": "vietnamnews_20261027_08ec0b8f67",
+    "sent_idx": 25,
+    "text": "Commercial stocks held by major traders cover around 20 days of consumption, while distributors' stocks cover approximately five days.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_08ec0b8f67#26",
+    "doc_id": "vietnamnews_20261027_08ec0b8f67",
+    "sent_idx": 26,
+    "text": "National reserves currently cover around seven days of consumption, equivalent to about nine days of net imports.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_08ec0b8f67#27",
+    "doc_id": "vietnamnews_20261027_08ec0b8f67",
+    "sent_idx": 27,
+    "text": "The Politburo's Resolution No. 70-NQ/TW, issued on August 20, 2025, on national energy security through 2030, with a vision to 2045, sets a target of increasing petroleum reserves to approximately 90 days of net imports by 2030.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_08ec0b8f67#28",
+    "doc_id": "vietnamnews_20261027_08ec0b8f67",
+    "sent_idx": 28,
+    "text": "It also calls for the development of onshore and offshore crude oil and petroleum storage facilities to support socio-economic development and ensure national energy security.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_08ec0b8f67#29",
+    "doc_id": "vietnamnews_20261027_08ec0b8f67",
+    "sent_idx": 29,
+    "text": "Achieving this target would require substantial state funding and investment in storage infrastructure.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261027_08ec0b8f67#30",
+    "doc_id": "vietnamnews_20261027_08ec0b8f67",
+    "sent_idx": 30,
+    "text": "Bảo therefore proposed encouraging businesses with the necessary capacity to invest in petroleum storage facilities that meet required standards, which the State could then lease to hold national reserves. - VNS",
+    "lang": "en",
+    "is_title": false
+  }
+]

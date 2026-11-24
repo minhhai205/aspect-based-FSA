@@ -1,0 +1,290 @@
+[
+  {
+    "sent_id": "vietnamnews_20261118_5691f3fbfe#0",
+    "doc_id": "vietnamnews_20261118_5691f3fbfe",
+    "sent_idx": 0,
+    "text": "Firms step up efforts to put AI to work",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261118_5691f3fbfe#1",
+    "doc_id": "vietnamnews_20261118_5691f3fbfe",
+    "sent_idx": 1,
+    "text": "HÀ NỘI - Vietnamese businesses, particularly small and medium-sized enterprises (SMEs), need to move beyond experimental AI projects and integrate the technology into core operations to improve productivity, experts said at the Vietnam Artificial Intelligence Forum (AI360 Forum) in Hà Nội on Wednesday.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261118_5691f3fbfe#2",
+    "doc_id": "vietnamnews_20261118_5691f3fbfe",
+    "sent_idx": 2,
+    "text": "The discussions at AI360 focused on practical AI applications, infrastructure costs, data readiness and the organisational changes required to deploy AI effectively, in line with Việt Nam's broader technology and digital transformation agenda under Politburo Resolution 57-NQ/TW.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261118_5691f3fbfe#3",
+    "doc_id": "vietnamnews_20261118_5691f3fbfe",
+    "sent_idx": 3,
+    "text": "Nguyễn Văn Khoa, chairman of the Vietnam Software and IT Services Association (VINASA), said the focus of AI development has shifted from the emergence of generative AI in 2023 and 2024 towards assessing the economic value and practical applications delivered by the technology.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261118_5691f3fbfe#4",
+    "doc_id": "vietnamnews_20261118_5691f3fbfe",
+    "sent_idx": 4,
+    "text": "He said Việt Nam has moved towards a more comprehensive national approach, citing the National Strategy on Artificial Intelligence to 2030 issued on August 28, 2026.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261118_5691f3fbfe#5",
+    "doc_id": "vietnamnews_20261118_5691f3fbfe",
+    "sent_idx": 5,
+    "text": "The strategy sets a target for Việt Nam to rank among the three leading countries in Southeast Asia in AI research and development by 2030, integrate AI into all online public services and develop 10 Vietnamese AI brands capable of competing regionally and internationally.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261118_5691f3fbfe#6",
+    "doc_id": "vietnamnews_20261118_5691f3fbfe",
+    "sent_idx": 6,
+    "text": "By 2045, Việt Nam aims to rank among the 10 leading AI countries in Asia.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261118_5691f3fbfe#7",
+    "doc_id": "vietnamnews_20261118_5691f3fbfe",
+    "sent_idx": 7,
+    "text": "Khoa said the strategy marks a shift from simply applying AI towards comprehensive national AI transformation.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261118_5691f3fbfe#8",
+    "doc_id": "vietnamnews_20261118_5691f3fbfe",
+    "sent_idx": 8,
+    "text": "\"AI's value lies in improving productivity,\" he said, adding that businesses able to keep pace with the technology could gain significant opportunities for growth.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261118_5691f3fbfe#9",
+    "doc_id": "vietnamnews_20261118_5691f3fbfe",
+    "sent_idx": 9,
+    "text": "The VINASA chairman also called for the early operation of the national AI development fund and support mechanisms to help SMEs adopt AI solutions developed by Vietnamese companies.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261118_5691f3fbfe#10",
+    "doc_id": "vietnamnews_20261118_5691f3fbfe",
+    "sent_idx": 10,
+    "text": "Other priorities include public-private partnerships to develop shared AI platforms, wider access to Vietnamese-language datasets and computing infrastructure, and simpler compliance procedures and incentives for AI investment.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261118_5691f3fbfe#11",
+    "doc_id": "vietnamnews_20261118_5691f3fbfe",
+    "sent_idx": 11,
+    "text": "AI adoption requires clear business objectives",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261118_5691f3fbfe#12",
+    "doc_id": "vietnamnews_20261118_5691f3fbfe",
+    "sent_idx": 12,
+    "text": "Trần Anh Tú, deputy director of the Department of Digital Technology and AI under the Ministry of Science and Technology, said AI transformation needs to be tied to measurable outcomes rather than technology adoption alone.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261118_5691f3fbfe#13",
+    "doc_id": "vietnamnews_20261118_5691f3fbfe",
+    "sent_idx": 13,
+    "text": "Business leaders should identify priority areas, set clear objectives and assign responsibilities, while implementation should be accompanied by process adjustments, data preparation and workforce skills development.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261118_5691f3fbfe#14",
+    "doc_id": "vietnamnews_20261118_5691f3fbfe",
+    "sent_idx": 14,
+    "text": "Companies also need baseline measurements to assess the costs and benefits of AI deployment, he said.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261118_5691f3fbfe#15",
+    "doc_id": "vietnamnews_20261118_5691f3fbfe",
+    "sent_idx": 15,
+    "text": "In manufacturing, evaluation should cover productivity, product quality and the ability to develop new products and services.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261118_5691f3fbfe#16",
+    "doc_id": "vietnamnews_20261118_5691f3fbfe",
+    "sent_idx": 16,
+    "text": "For public services, relevant indicators include accuracy, processing time and convenience for citizens and businesses.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261118_5691f3fbfe#17",
+    "doc_id": "vietnamnews_20261118_5691f3fbfe",
+    "sent_idx": 17,
+    "text": "Tú said AI development should be closely linked to market demand, with practical needs translated into specific problems, usage requirements, expected outputs and clear conditions for adoption.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261118_5691f3fbfe#18",
+    "doc_id": "vietnamnews_20261118_5691f3fbfe",
+    "sent_idx": 18,
+    "text": "He also highlighted the importance of data governance, access to computing capacity and shared models.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261118_5691f3fbfe#19",
+    "doc_id": "vietnamnews_20261118_5691f3fbfe",
+    "sent_idx": 19,
+    "text": "For SMEs and household businesses, AI solutions should be easy to deploy, have transparent costs and come with effective operational support.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261118_5691f3fbfe#20",
+    "doc_id": "vietnamnews_20261118_5691f3fbfe",
+    "sent_idx": 20,
+    "text": "AI management should follow a risk-based approach, with responsibilities clearly defined for providers, deployers and users.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261118_5691f3fbfe#21",
+    "doc_id": "vietnamnews_20261118_5691f3fbfe",
+    "sent_idx": 21,
+    "text": "Systems need to be monitored throughout their operation, while authorised personnel should retain the ability to review AI-generated results, intervene and address errors.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261118_5691f3fbfe#22",
+    "doc_id": "vietnamnews_20261118_5691f3fbfe",
+    "sent_idx": 22,
+    "text": "Reducing infrastructure costs and protecting data",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261118_5691f3fbfe#23",
+    "doc_id": "vietnamnews_20261118_5691f3fbfe",
+    "sent_idx": 23,
+    "text": "At the forum, Nguyễn Khương Duy, deputy director of the Cloud Technology Division at FPT Smart Cloud, presented FPT Token Factory as an approach to addressing the infrastructure costs and operational requirements of AI deployment.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261118_5691f3fbfe#24",
+    "doc_id": "vietnamnews_20261118_5691f3fbfe",
+    "sent_idx": 24,
+    "text": "The platform provides access to different AI models through a unified application programming interface, allowing businesses to select models based on cost, latency and data sovereignty requirements.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261118_5691f3fbfe#25",
+    "doc_id": "vietnamnews_20261118_5691f3fbfe",
+    "sent_idx": 25,
+    "text": "Duy outlined three ways to run AI: purchasing and operating graphics processing units (GPUs), renting GPU capacity, or paying for AI tokens based on actual usage.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261118_5691f3fbfe#26",
+    "doc_id": "vietnamnews_20261118_5691f3fbfe",
+    "sent_idx": 26,
+    "text": "Buying and operating GPUs requires substantial capital expenditure, power and cooling infrastructure, as well as a dedicated technical team.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261118_5691f3fbfe#27",
+    "doc_id": "vietnamnews_20261118_5691f3fbfe",
+    "sent_idx": 27,
+    "text": "Renting GPUs can be suitable for model fine-tuning and custom training, while token-based services can support applications such as chatbots, coding tools, retrieval-augmented generation and AI agents without upfront infrastructure investment, he said.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261118_5691f3fbfe#28",
+    "doc_id": "vietnamnews_20261118_5691f3fbfe",
+    "sent_idx": 28,
+    "text": "Nguyễn Thanh Tùng, director of the Technology Training Institute at MISA Corporation, shared the company's experience deploying AI agents in customer support and sales operations.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261118_5691f3fbfe#29",
+    "doc_id": "vietnamnews_20261118_5691f3fbfe",
+    "sent_idx": 29,
+    "text": "MISA's AVA customer support assistant initially faced challenges when it was piloted across five products in October 2025.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261118_5691f3fbfe#30",
+    "doc_id": "vietnamnews_20261118_5691f3fbfe",
+    "sent_idx": 30,
+    "text": "At that stage, only 23 per cent of customer requests were successfully resolved.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261118_5691f3fbfe#31",
+    "doc_id": "vietnamnews_20261118_5691f3fbfe",
+    "sent_idx": 31,
+    "text": "The company identified gaps in the knowledge base, including missing context, foreign language content and outdated information, as well as insufficient coordination between technology, product and customer support teams.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261118_5691f3fbfe#32",
+    "doc_id": "vietnamnews_20261118_5691f3fbfe",
+    "sent_idx": 32,
+    "text": "MISA subsequently standardised its knowledge base, redesigned conversations to better identify user needs and introduced continuous evaluation based on real interactions.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261118_5691f3fbfe#33",
+    "doc_id": "vietnamnews_20261118_5691f3fbfe",
+    "sent_idx": 33,
+    "text": "Technology, product and customer support teams worked together to improve the system.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261118_5691f3fbfe#34",
+    "doc_id": "vietnamnews_20261118_5691f3fbfe",
+    "sent_idx": 34,
+    "text": "By October, the successful resolution rate had risen to 67 per cent, while the number of products using AVA Support had increased from five to 75. Its support workload was equivalent to that handled by more than 300 consultants.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261118_5691f3fbfe#35",
+    "doc_id": "vietnamnews_20261118_5691f3fbfe",
+    "sent_idx": 35,
+    "text": "Tùng identified four lessons from implementation: start with specific tasks that create value, prepare knowledge and connect data, delegate tasks to AI with appropriate controls and measure performance continuously before expanding deployment. - BIZHUB/VNS",
+    "lang": "en",
+    "is_title": false
+  }
+]

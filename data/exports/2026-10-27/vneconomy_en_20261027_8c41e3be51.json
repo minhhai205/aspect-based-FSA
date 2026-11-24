@@ -1,0 +1,154 @@
+[
+  {
+    "sent_id": "vneconomy_en_20261027_8c41e3be51#0",
+    "doc_id": "vneconomy_en_20261027_8c41e3be51",
+    "sent_idx": 0,
+    "text": "Eight social insurance services go fully digital",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vneconomy_en_20261027_8c41e3be51#1",
+    "doc_id": "vneconomy_en_20261027_8c41e3be51",
+    "sent_idx": 1,
+    "text": "The Ministry of Finance has issued Decision No. 3040/QD-BTC approving a restructuring plan for eight administrative procedures in the field of social insurance.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261027_8c41e3be51#2",
+    "doc_id": "vneconomy_en_20261027_8c41e3be51",
+    "sent_idx": 2,
+    "text": "The initiative aims to cut paperwork, maximize inter-connected data usage, and significantly shorten processing times for citizens and businesses.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261027_8c41e3be51#3",
+    "doc_id": "vneconomy_en_20261027_8c41e3be51",
+    "sent_idx": 3,
+    "text": "Under the decision, the eight restructured procedures include applications for sickness, maternity, and post-illness recovery benefits, as well as allowances for occupational accidents and occupational diseases.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261027_8c41e3be51#4",
+    "doc_id": "vneconomy_en_20261027_8c41e3be51",
+    "sent_idx": 4,
+    "text": "The plan also covers changing payout methods or locations for monthly pensions and social insurance allowances, settling monthly retirement benefits for commune-level officials, and processing one-time social insurance payouts.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261027_8c41e3be51#5",
+    "doc_id": "vneconomy_en_20261027_8c41e3be51",
+    "sent_idx": 5,
+    "text": "Additionally, the streamlined procedures encompass registration and adjustments for compulsory social insurance, health insurance, unemployment insurance, and voluntary occupational accident insurance, along with the issuance and reissuance of social insurance books and health insurance cards.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261027_8c41e3be51#6",
+    "doc_id": "vneconomy_en_20261027_8c41e3be51",
+    "sent_idx": 6,
+    "text": "At the core of the reform is the extraction, utilization, and reuse of shared data across national and specialized databases to automatically pre-fill electronic forms (E-Forms).",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261027_8c41e3be51#7",
+    "doc_id": "vneconomy_en_20261027_8c41e3be51",
+    "sent_idx": 7,
+    "text": "This mechanism minimizes manual data entry and paper submissions for individuals and enterprises, requiring them to provide only information not yet available in the system.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261027_8c41e3be51#8",
+    "doc_id": "vneconomy_en_20261027_8c41e3be51",
+    "sent_idx": 8,
+    "text": "The procedures leverage data from national databases on population, insurance, residency, digital civil status, and healthcare records.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261027_8c41e3be51#9",
+    "doc_id": "vneconomy_en_20261027_8c41e3be51",
+    "sent_idx": 9,
+    "text": "Once the Vietnam Social Security (VSS) retrieves legally valid electronic data, applicants no longer need to submit corresponding physical documents.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261027_8c41e3be51#10",
+    "doc_id": "vneconomy_en_20261027_8c41e3be51",
+    "sent_idx": 10,
+    "text": "For instance, when registering for health insurance or updating social insurance books, policyholders will not need to submit physical proofs to claim higher benefit tiers if VSS can verify the information through connected databases.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261027_8c41e3be51#11",
+    "doc_id": "vneconomy_en_20261027_8c41e3be51",
+    "sent_idx": 11,
+    "text": "Similarly, digital civil status data will automatically verify birth and death records for benefit settlements and voluntary social insurance registration.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261027_8c41e3be51#12",
+    "doc_id": "vneconomy_en_20261027_8c41e3be51",
+    "sent_idx": 12,
+    "text": "The newly restructured administrative workflow consists of five steps: E-Form completion and data retrieval; automated data verification; application receiving and routing; appraisal and decision issuance; and digital result delivery.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261027_8c41e3be51#13",
+    "doc_id": "vneconomy_en_20261027_8c41e3be51",
+    "sent_idx": 13,
+    "text": "Citizens can access these services via the National Public Service Portal using level-2 VNeID accounts, while organizations and enterprises will use designated electronic identification accounts.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261027_8c41e3be51#14",
+    "doc_id": "vneconomy_en_20261027_8c41e3be51",
+    "sent_idx": 14,
+    "text": "Identity details will be automatically populated, and system notifications will guide users if additional data is required or if corrections are needed.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261027_8c41e3be51#15",
+    "doc_id": "vneconomy_en_20261027_8c41e3be51",
+    "sent_idx": 15,
+    "text": "Final results will be delivered digitally to individual and organizational accounts on the National Public Service Portal.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261027_8c41e3be51#16",
+    "doc_id": "vneconomy_en_20261027_8c41e3be51",
+    "sent_idx": 16,
+    "text": "Electronic social insurance books and health insurance cards will also be updated on the VssID app, sent via email, and synchronized with level-2 VNeID accounts.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261027_8c41e3be51#17",
+    "doc_id": "vneconomy_en_20261027_8c41e3be51",
+    "sent_idx": 17,
+    "text": "The decision also outlines contingency plans for data connection disruptions or network congestion.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261027_8c41e3be51#18",
+    "doc_id": "vneconomy_en_20261027_8c41e3be51",
+    "sent_idx": 18,
+    "text": "In such cases, the system will accept attached electronic copies or digitized paper applications to ensure processing remains uninterrupted and strictly adheres to legal deadlines.",
+    "lang": "en",
+    "is_title": false
+  }
+]

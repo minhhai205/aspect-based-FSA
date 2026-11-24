@@ -1,0 +1,58 @@
+[
+  {
+    "sent_id": "vneconomy_en_20261112_8caae8a7e5#0",
+    "doc_id": "vneconomy_en_20261112_8caae8a7e5",
+    "sent_idx": 0,
+    "text": "Ho Chi Minh City People's Committee has a new chairman",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_8caae8a7e5#1",
+    "doc_id": "vneconomy_en_20261112_8caae8a7e5",
+    "sent_idx": 1,
+    "text": "The 11th Ho Chi Minh City People's Council, at its seventh specialized session on November 12, elected Mr. Le Quoc Phong, member of the Party Central Committee, Permanent Deputy Secretary of the Ho Chi Minh City Party Committee, as Chairman of the Ho Chi Minh City People's Committee, replacing Mr. Nguyen Van Duoc, who had been relieved by the municipal People's Council from his position as Chairman of the municipal People's Committee.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_8caae8a7e5#2",
+    "doc_id": "vneconomy_en_20261112_8caae8a7e5",
+    "sent_idx": 2,
+    "text": "Mr. Le Quoc Phong, born on May 3, 1978, in Hanoi, holds a doctorate in biotechnology.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_8caae8a7e5#3",
+    "doc_id": "vneconomy_en_20261112_8caae8a7e5",
+    "sent_idx": 3,
+    "text": "He has experienced various positions at both central and local levels, accumulating rich practical experience.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_8caae8a7e5#4",
+    "doc_id": "vneconomy_en_20261112_8caae8a7e5",
+    "sent_idx": 4,
+    "text": "Starting from youth and student movement, he has held important positions such as Deputy Secretary and Secretary of the Ho Chi Minh City Communist Youth Union; Secretary of the Central Committee of the Ho Chi Minh Communist Youth Union, Chairman of the Vietnam Student Association, and First Secretary of the Central Committee of the Ho Chi Minh Communist Youth Union.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_8caae8a7e5#5",
+    "doc_id": "vneconomy_en_20261112_8caae8a7e5",
+    "sent_idx": 5,
+    "text": "In October 2020, at the age of 42, he was appointed by the Politburo as Secretary of the Dong Thap Provincial Party Committee, becoming the youngest Provincial Party Secretary in the country at that time.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261112_8caae8a7e5#6",
+    "doc_id": "vneconomy_en_20261112_8caae8a7e5",
+    "sent_idx": 6,
+    "text": "Five years later, in October 2025, he was appointed by the Politburo as Permanent Deputy Secretary of the Ho Chi Minh City Party Committee.",
+    "lang": "en",
+    "is_title": false
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "sent_id": "vneconomy_en_20261111_5fe3c406e9#0",
+    "doc_id": "vneconomy_en_20261111_5fe3c406e9",
+    "sent_idx": 0,
+    "text": "Three mountainous and central expressway projects require over VND162 trillion",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vneconomy_en_20261111_5fe3c406e9#1",
+    "doc_id": "vneconomy_en_20261111_5fe3c406e9",
+    "sent_idx": 1,
+    "text": "The government plans to allocate nearly VND119.4 trillion from the central budget during the 2026-2030 period to invest in three expressway routes: Bao Ha - Lai Chau, Quang Ngai - Kon Tum, and Moc Chau - Son La - Dien Bien, with a total capital exceeding VND 162.393 trillion.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261111_5fe3c406e9#2",
+    "doc_id": "vneconomy_en_20261111_5fe3c406e9",
+    "sent_idx": 2,
+    "text": "The National Assembly on October 10 discussed the investment policy for the three expressway projects.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261111_5fe3c406e9#3",
+    "doc_id": "vneconomy_en_20261111_5fe3c406e9",
+    "sent_idx": 3,
+    "text": "According to the government's proposal, the three projects have a total length of approximately 430.5 km, including the Moc Chau - Son La - Dien Bien expressway (179.5 km), the Bao Ha - Lai Chau expressway (119 km), and the Quang Ngai - Kon Tum expressway (132 km).",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261111_5fe3c406e9#4",
+    "doc_id": "vneconomy_en_20261111_5fe3c406e9",
+    "sent_idx": 4,
+    "text": "The preliminary total investment for the three projects is estimated at VND162.393 trillion (more than $6.32 billion), including VND 63.120 trillion for the Moc Chau - Son La - Dien Bien expressway, VND 50.990 trillion for Bao Ha - Lai Chau expressway; and VND 48.283 trillion for Quang Ngai - Kon Tum route.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261111_5fe3c406e9#5",
+    "doc_id": "vneconomy_en_20261111_5fe3c406e9",
+    "sent_idx": 5,
+    "text": "Regarding the capital structure, the central budget is expected to allocate approximately VND 158.342 trillion, and local budgets about VND 4.051 trillion.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261111_5fe3c406e9#6",
+    "doc_id": "vneconomy_en_20261111_5fe3c406e9",
+    "sent_idx": 6,
+    "text": "According to the projected timeline, investment preparation will be carried out in the 2026-2027 period; compensation, support, resettlement, and groundbreaking will commence in 2027.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261111_5fe3c406e9#7",
+    "doc_id": "vneconomy_en_20261111_5fe3c406e9",
+    "sent_idx": 7,
+    "text": "The projects are expected to be largely completed by 2030 and put into operation in 2031.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261111_5fe3c406e9#8",
+    "doc_id": "vneconomy_en_20261111_5fe3c406e9",
+    "sent_idx": 8,
+    "text": "According to Minister of Construction Tran Hong Minh, all three projects are designed with a 4-lane expressway scale, including emergency stopping lanes, consistent with specialized planning and transportation demand forecasts, and meeting the National Technical Regulation on Expressways QCVN 117:2024/BGTVT.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261111_5fe3c406e9#9",
+    "doc_id": "vneconomy_en_20261111_5fe3c406e9",
+    "sent_idx": 9,
+    "text": "Regarding design speed, in mountainous areas with difficult terrain and steep slopes, a design speed of 80 km/h has been chosen to ensure technical requirements and safety.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261111_5fe3c406e9#10",
+    "doc_id": "vneconomy_en_20261111_5fe3c406e9",
+    "sent_idx": 10,
+    "text": "Sections through flat areas have design speeds ranging from 100 to 120 km/h.",
+    "lang": "en",
+    "is_title": false
+  }
+]

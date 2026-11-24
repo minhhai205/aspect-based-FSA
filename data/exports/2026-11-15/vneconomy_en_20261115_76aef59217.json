@@ -1,0 +1,74 @@
+[
+  {
+    "sent_id": "vneconomy_en_20261115_76aef59217#0",
+    "doc_id": "vneconomy_en_20261115_76aef59217",
+    "sent_idx": 0,
+    "text": "Ha Tinh to build expressway connecting Ho Chi Minh Road to Cau Treo International Border Gate",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vneconomy_en_20261115_76aef59217#1",
+    "doc_id": "vneconomy_en_20261115_76aef59217",
+    "sent_idx": 1,
+    "text": "The Ministry of Construction has assigned central Ha Tinh province to invest in an expressway section running from the Ho Chi Minh Road to Cau Treo International Border Gate.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261115_76aef59217#2",
+    "doc_id": "vneconomy_en_20261115_76aef59217",
+    "sent_idx": 2,
+    "text": "The 51-km section is part of the Ha Tinh - Cau Treo expressway.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261115_76aef59217#3",
+    "doc_id": "vneconomy_en_20261115_76aef59217",
+    "sent_idx": 3,
+    "text": "It is planned to have four lanes.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261115_76aef59217#4",
+    "doc_id": "vneconomy_en_20261115_76aef59217",
+    "sent_idx": 4,
+    "text": "Total investment capital is estimated at VND15 trillion ($570 million).",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261115_76aef59217#5",
+    "doc_id": "vneconomy_en_20261115_76aef59217",
+    "sent_idx": 5,
+    "text": "The Ha Tinh-Cau Treo Expressway is projected to have a total planned length of approximately 85km, divided into two sections.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261115_76aef59217#6",
+    "doc_id": "vneconomy_en_20261115_76aef59217",
+    "sent_idx": 6,
+    "text": "The first section, about 34km long, will connect the eastern North-South Expressway with Ho Chi Minh Road.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261115_76aef59217#7",
+    "doc_id": "vneconomy_en_20261115_76aef59217",
+    "sent_idx": 7,
+    "text": "It is planned to have six lanes, beginning at an interchange with the North-South Expressway in Truong Luu Commune.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261115_76aef59217#8",
+    "doc_id": "vneconomy_en_20261115_76aef59217",
+    "sent_idx": 8,
+    "text": "The second section will run approximately 51km from Ho Chi Minh Road to Cau Treo International Border Gate.",
+    "lang": "en",
+    "is_title": false
+  }
+]

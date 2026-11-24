@@ -1,0 +1,242 @@
+[
+  {
+    "sent_id": "vietnamnews_20261102_8001a3019e#0",
+    "doc_id": "vietnamnews_20261102_8001a3019e",
+    "sent_idx": 0,
+    "text": "Market looks ahead to new trading regulations this month",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261102_8001a3019e#1",
+    "doc_id": "vietnamnews_20261102_8001a3019e",
+    "sent_idx": 1,
+    "text": "HÀ NỘI - The stock market ended last week lower, reversing part of the previous week's recovery as liquidity weakened and foreign investors accelerated net selling, while market participants looked ahead to new trading regulations and further reforms following the country's market upgrade.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261102_8001a3019e#2",
+    "doc_id": "vietnamnews_20261102_8001a3019e",
+    "sent_idx": 2,
+    "text": "On the Hochiminh Stock Exchange (HoSE), the VN-Index closed at 1,741.62 points, down 1.83 per cent from the previous week, while the HNX-Index on the Hanoi Stock Exchange (HNX) dropped 3.79 per cent to 252.74 points.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261102_8001a3019e#3",
+    "doc_id": "vietnamnews_20261102_8001a3019e",
+    "sent_idx": 3,
+    "text": "According to Saigon-Hanoi Securities (SHS), trading volume on HoSE declined 9.9 per cent week-on-week, with average daily trading value at approximately VNĐ14.7 trillion (US$570 million).",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261102_8001a3019e#4",
+    "doc_id": "vietnamnews_20261102_8001a3019e",
+    "sent_idx": 4,
+    "text": "Foreign investor activity was another source of pressure.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261102_8001a3019e#5",
+    "doc_id": "vietnamnews_20261102_8001a3019e",
+    "sent_idx": 5,
+    "text": "Foreign investors recorded net selling in all five sessions, with combined net sales exceeding VNĐ2.6 trillion across the two exchanges.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261102_8001a3019e#6",
+    "doc_id": "vietnamnews_20261102_8001a3019e",
+    "sent_idx": 6,
+    "text": "HoSE saw net selling of nearly VNĐ2.7 trillion, while the HNX recorded net buying of approximately VNĐ40 billion.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261102_8001a3019e#7",
+    "doc_id": "vietnamnews_20261102_8001a3019e",
+    "sent_idx": 7,
+    "text": "Closing out October, the VN-Index fell 1.53 per cent from the end of September.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261102_8001a3019e#8",
+    "doc_id": "vietnamnews_20261102_8001a3019e",
+    "sent_idx": 8,
+    "text": "Market liquidity has also mostly declined since the beginning of 2026, reflecting investors' cautious sentiment amid uncertainty over the medium-term market trend.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261102_8001a3019e#9",
+    "doc_id": "vietnamnews_20261102_8001a3019e",
+    "sent_idx": 9,
+    "text": "According to SHS, investment opportunities remain limited, as most sectors are still in downtrends or undergoing medium- to long-term accumulation.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261102_8001a3019e#10",
+    "doc_id": "vietnamnews_20261102_8001a3019e",
+    "sent_idx": 10,
+    "text": "Against this backdrop, investors seem to be exercising caution and prioritising risk management rather than expanding their positions.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261102_8001a3019e#11",
+    "doc_id": "vietnamnews_20261102_8001a3019e",
+    "sent_idx": 11,
+    "text": "Meanwhile, BIDV Securities Company (BSC) identified 1,735 points as an important support level that the market needs to hold.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261102_8001a3019e#12",
+    "doc_id": "vietnamnews_20261102_8001a3019e",
+    "sent_idx": 12,
+    "text": "After several sessions in which the VN-Index failed to break above 1,770 points, the current decline is likely to remain part of an accumulation phase.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261102_8001a3019e#13",
+    "doc_id": "vietnamnews_20261102_8001a3019e",
+    "sent_idx": 13,
+    "text": "Although short-term signals are not entirely negative, the market could continue to experience volatility as selling pressure spreads across more sectors.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261102_8001a3019e#14",
+    "doc_id": "vietnamnews_20261102_8001a3019e",
+    "sent_idx": 14,
+    "text": "If sellers maintain the upper hand, the index may retest the 1,735-1,740 point range.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261102_8001a3019e#15",
+    "doc_id": "vietnamnews_20261102_8001a3019e",
+    "sent_idx": 15,
+    "text": "Whether it can hold this support zone will be crucial in determining if the market can sustain its accumulation phase or needs to seek a lower price level.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261102_8001a3019e#16",
+    "doc_id": "vietnamnews_20261102_8001a3019e",
+    "sent_idx": 16,
+    "text": "Regarding the market's short-term outlook, CSI Securities expected the VN-Index to fill the upward price gap around 1,740 points.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261102_8001a3019e#17",
+    "doc_id": "vietnamnews_20261102_8001a3019e",
+    "sent_idx": 17,
+    "text": "The securities firm recommended that investors consider exploratory purchases only when the index tests the 1,738-1,740 point support range.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261102_8001a3019e#18",
+    "doc_id": "vietnamnews_20261102_8001a3019e",
+    "sent_idx": 18,
+    "text": "Tien Phong Securities (TPS), however, maintained a more positive assessment, saying the short-term uptrend had not been broken.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261102_8001a3019e#19",
+    "doc_id": "vietnamnews_20261102_8001a3019e",
+    "sent_idx": 19,
+    "text": "It viewed the current decline as potentially a period of reaccumulation before the market gathers sufficient momentum to overcome resistance levels.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261102_8001a3019e#20",
+    "doc_id": "vietnamnews_20261102_8001a3019e",
+    "sent_idx": 20,
+    "text": "With capital flows remaining selective, banking stocks continue to be viewed as an important source of support.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261102_8001a3019e#21",
+    "doc_id": "vietnamnews_20261102_8001a3019e",
+    "sent_idx": 21,
+    "text": "Techcombank (TCB), HD Bank (HDB), VPBank (VPB), Vietinbank (CTG) and TPBank (TPB) were among the stocks highlighted by some analysts as worth watching in November.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261102_8001a3019e#22",
+    "doc_id": "vietnamnews_20261102_8001a3019e",
+    "sent_idx": 22,
+    "text": "Construction, infrastructure and companies with prospects for business recovery could also attract investor interest.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261102_8001a3019e#23",
+    "doc_id": "vietnamnews_20261102_8001a3019e",
+    "sent_idx": 23,
+    "text": "A regulatory change under Circular 145/2026/TT-BTC was issued by the Ministry of Finance on September 30 and will take effect from November 16. It will replace Circular 119/2020/TT-BTC governing securities registration, custody, clearing and settlement.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261102_8001a3019e#24",
+    "doc_id": "vietnamnews_20261102_8001a3019e",
+    "sent_idx": 24,
+    "text": "Under the new circular, securities borrowing and lending will be conducted through either negotiated transactions or order matching between borrowers and lenders.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261102_8001a3019e#25",
+    "doc_id": "vietnamnews_20261102_8001a3019e",
+    "sent_idx": 25,
+    "text": "Borrowers must provide collateral in cash or securities that meet the operational criteria set by the Vietnam Securities Depository and Clearing Corporation (VSDC).",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261102_8001a3019e#26",
+    "doc_id": "vietnamnews_20261102_8001a3019e",
+    "sent_idx": 26,
+    "text": "The collateral value must be at least 110 per cent of the loan value.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261102_8001a3019e#27",
+    "doc_id": "vietnamnews_20261102_8001a3019e",
+    "sent_idx": 27,
+    "text": "Lending interest rates will be agreed upon by the parties.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261102_8001a3019e#28",
+    "doc_id": "vietnamnews_20261102_8001a3019e",
+    "sent_idx": 28,
+    "text": "Loans may be repaid in the securities borrowed or in cash, subject to the lender's approval.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261102_8001a3019e#29",
+    "doc_id": "vietnamnews_20261102_8001a3019e",
+    "sent_idx": 29,
+    "text": "VSDC will be responsible for organising, managing and operating the securities borrowing and lending activities. - BIZHUB/VNS",
+    "lang": "en",
+    "is_title": false
+  }
+]

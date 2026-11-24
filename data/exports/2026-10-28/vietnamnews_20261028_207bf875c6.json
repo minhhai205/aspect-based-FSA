@@ -1,0 +1,146 @@
+[
+  {
+    "sent_id": "vietnamnews_20261028_207bf875c6#0",
+    "doc_id": "vietnamnews_20261028_207bf875c6",
+    "sent_idx": 0,
+    "text": "HCM City unveils 12 investment projects worth billions of dollars",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261028_207bf875c6#1",
+    "doc_id": "vietnamnews_20261028_207bf875c6",
+    "sent_idx": 1,
+    "text": "HCM CITY - HCM City announced 12 investment projects covering seaports, logistics, urban development, manufacturing, and high technology at the 2026 Autumn Economic Forum on Wednesday.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_207bf875c6#2",
+    "doc_id": "vietnamnews_20261028_207bf875c6",
+    "sent_idx": 2,
+    "text": "The projects, which have received in-principle investment approval or licences, include several multibillion-dollar developments.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_207bf875c6#3",
+    "doc_id": "vietnamnews_20261028_207bf875c6",
+    "sent_idx": 3,
+    "text": "Among them is the Cái Mép Gemadept-Terminal Link Port in Tân Phước Ward, developed by Gemadept-Terminal Link Port JSC at a cost of VNĐ16.84 trillion (US$643.1 million).",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_207bf875c6#4",
+    "doc_id": "vietnamnews_20261028_207bf875c6",
+    "sent_idx": 4,
+    "text": "Khai Anh Bình Thuận JSC's Mỹ Xuân 6 Terminal will cost an estimated VNĐ1.74 trillion ($66.6 million).",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_207bf875c6#5",
+    "doc_id": "vietnamnews_20261028_207bf875c6",
+    "sent_idx": 5,
+    "text": "Lotte Properties HCMC Co., Ltd is investing VNĐ60 trillion ($2.29 billion) in a smart complex in Functional Zone 2A of the Thủ Thiêm New Urban Area.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_207bf875c6#6",
+    "doc_id": "vietnamnews_20261028_207bf875c6",
+    "sent_idx": 6,
+    "text": "The Cần Giờ International Transshipment Port, a joint project by the Vietnam Maritime Corporation, Sài Gòn Port JSC, and Terminal Investment Limited Holding SA, has a price tag of VNĐ128.87 trillion ($4.92 billion).",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_207bf875c6#7",
+    "doc_id": "vietnamnews_20261028_207bf875c6",
+    "sent_idx": 7,
+    "text": "Singapore-based Tokgistic Pte.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_207bf875c6#8",
+    "doc_id": "vietnamnews_20261028_207bf875c6",
+    "sent_idx": 8,
+    "text": "Ltd is investing VNĐ25.85 trillion ($987.4 million) in the Swift Logistics project.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_207bf875c6#9",
+    "doc_id": "vietnamnews_20261028_207bf875c6",
+    "sent_idx": 9,
+    "text": "The International University Township, developed by Berjaya Vietnam International University Township JSC, will cost VNĐ173.12 trillion ($6.61 billion).",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_207bf875c6#10",
+    "doc_id": "vietnamnews_20261028_207bf875c6",
+    "sent_idx": 10,
+    "text": "In industrial infrastructure, the first phase of the Vĩnh Lập Industrial Park will cost more than VNĐ9.7 trillion ($379.7 million) for the Vietnam-Singapore Industrial Park Joint Venture Co., Ltd, Becamex IDC Corporation, and VSIP Quảng Ngãi Co., Ltd.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_207bf875c6#11",
+    "doc_id": "vietnamnews_20261028_207bf875c6",
+    "sent_idx": 11,
+    "text": "GL Cables Electric Cable Co., Ltd is investing VNĐ600 billion ($22.9 million) in a high-tech electrical cable manufacturing plant.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_207bf875c6#12",
+    "doc_id": "vietnamnews_20261028_207bf875c6",
+    "sent_idx": 12,
+    "text": "Xinyi Glass Việt Nam Co., Ltd is investing $230 million in a factory producing energy-saving float glass, low-emissivity coated glass, mirrors, laminated safety glass, and specialised automotive glass.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_207bf875c6#13",
+    "doc_id": "vietnamnews_20261028_207bf875c6",
+    "sent_idx": 13,
+    "text": "Chang Yue Technology Co., Ltd is investing $70 million in iron, steel, and non-ferrous metal casting and mechanical processing.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_207bf875c6#14",
+    "doc_id": "vietnamnews_20261028_207bf875c6",
+    "sent_idx": 14,
+    "text": "II-VI Việt Nam Co., Ltd is investing $45 million in the production of thermoelectric semiconductor materials and cooling devices.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_207bf875c6#15",
+    "doc_id": "vietnamnews_20261028_207bf875c6",
+    "sent_idx": 15,
+    "text": "ITO Automation Technologies Việt Nam Co., Ltd is investing $8 million in the manufacture of automation equipment, robots, and sensors, and the development of data management solutions.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_207bf875c6#16",
+    "doc_id": "vietnamnews_20261028_207bf875c6",
+    "sent_idx": 16,
+    "text": "Organisers said the announcement highlighted the city's investment priorities and sought to strengthen links between investors, technology partners, and financial institutions.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261028_207bf875c6#17",
+    "doc_id": "vietnamnews_20261028_207bf875c6",
+    "sent_idx": 17,
+    "text": "City leaders congratulated the investors and expressed hope that their projects would be implemented soon, helping develop infrastructure, strengthen industrial production, and promote the use of advanced technology. - VNS",
+    "lang": "en",
+    "is_title": false
+  }
+]

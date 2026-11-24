@@ -1,0 +1,1098 @@
+[
+  {
+    "sent_id": "vneconomy_en_20261108_c9d6bb4fc9#0",
+    "doc_id": "vneconomy_en_20261108_c9d6bb4fc9",
+    "sent_idx": 0,
+    "text": "Addressing problems for enterprises in practice",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vneconomy_en_20261108_c9d6bb4fc9#1",
+    "doc_id": "vneconomy_en_20261108_c9d6bb4fc9",
+    "sent_idx": 1,
+    "text": "Businesses are expected to play a growing role in Vietnam's economic development, not only by creating jobs and contributing to the State budget but also by driving innovation, boosting productivity, expanding markets, and strengthening the country's position in global value chains.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261108_c9d6bb4fc9#2",
+    "doc_id": "vneconomy_en_20261108_c9d6bb4fc9",
+    "sent_idx": 2,
+    "text": "Realizing this potential requires a regulatory environment that enables businesses and entrepreneurs to grow rather than constrains them with unnecessary obstacles.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261108_c9d6bb4fc9#3",
+    "doc_id": "vneconomy_en_20261108_c9d6bb4fc9",
+    "sent_idx": 3,
+    "text": "This calls for a fundamental shift in institutional reform, from a focus on administrative control to one of enabling development.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261108_c9d6bb4fc9#4",
+    "doc_id": "vneconomy_en_20261108_c9d6bb4fc9",
+    "sent_idx": 4,
+    "text": "Through concerted efforts by the government, the National Assembly (NA), and relevant ministries and agencies, legal bottlenecks are gradually being removed to unlock business potential and mobilize resources for economic growth.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261108_c9d6bb4fc9#5",
+    "doc_id": "vneconomy_en_20261108_c9d6bb4fc9",
+    "sent_idx": 5,
+    "text": "Against this backdrop, and in response to the Prime Minister's directive under Conclusion Notice No. 394/TB-VPCP, dated July 21, 2026, following a meeting between the Standing Committee of the government and the business community, the Vietnam Chamber of Commerce and Industry (VCCI) reviewed and compiled a wide range of business concerns and regulatory obstacles encountered in practice.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261108_c9d6bb4fc9#6",
+    "doc_id": "vneconomy_en_20261108_c9d6bb4fc9",
+    "sent_idx": 6,
+    "text": "Reports from VCCI highlight both the scale and urgency of existing legal obstacles.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261108_c9d6bb4fc9#7",
+    "doc_id": "vneconomy_en_20261108_c9d6bb4fc9",
+    "sent_idx": 7,
+    "text": "Its July 2026 report identified 65 issues across multiple industries and sectors, falling under the primary responsibility of eight ministries and agencies: the Ministry of Agriculture and Environment (MAE), the Ministry of Finance (MoF) the Ministry of Construction (MoC), the Ministry of Industry and Trade (MoIT), the Ministry of Science and Technology (MoST) and the State Bank of Vietnam (SBV), the Ministry of Home Affairs, and the Ministry of Public Security (MPS).",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261108_c9d6bb4fc9#8",
+    "doc_id": "vneconomy_en_20261108_c9d6bb4fc9",
+    "sent_idx": 8,
+    "text": "In August, VCCI compiled 57 more urgent issues arising from business operations.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261108_c9d6bb4fc9#9",
+    "doc_id": "vneconomy_en_20261108_c9d6bb4fc9",
+    "sent_idx": 9,
+    "text": "The Chamber's review identified five root causes of persistent business obstacles.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261108_c9d6bb4fc9#10",
+    "doc_id": "vneconomy_en_20261108_c9d6bb4fc9",
+    "sent_idx": 10,
+    "text": "First, conflicts and inconsistencies between sector-specific laws.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261108_c9d6bb4fc9#11",
+    "doc_id": "vneconomy_en_20261108_c9d6bb4fc9",
+    "sent_idx": 11,
+    "text": "Overlapping regulations are common, including between the Law on Animal Husbandry and the Law on Veterinary Medicine, the Law on Minerals and maritime legislation, and the Law on Chemicals and customs regulations.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261108_c9d6bb4fc9#12",
+    "doc_id": "vneconomy_en_20261108_c9d6bb4fc9",
+    "sent_idx": 12,
+    "text": "As a result, businesses may have to complete two or three rounds of procedures for the same regulated activity.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261108_c9d6bb4fc9#13",
+    "doc_id": "vneconomy_en_20261108_c9d6bb4fc9",
+    "sent_idx": 13,
+    "text": "Second, regulations have not kept pace with the transition to a two-tier local government system.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261108_c9d6bb4fc9#14",
+    "doc_id": "vneconomy_en_20261108_c9d6bb4fc9",
+    "sent_idx": 14,
+    "text": "Many responsibilities have been devolved to commune-level authorities without a corresponding increase in specialized personnel.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261108_c9d6bb4fc9#15",
+    "doc_id": "vneconomy_en_20261108_c9d6bb4fc9",
+    "sent_idx": 15,
+    "text": "Transitional arrangements also remain inadequate for land price lists, legal records, product labels, and business addresses.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261108_c9d6bb4fc9#16",
+    "doc_id": "vneconomy_en_20261108_c9d6bb4fc9",
+    "sent_idx": 16,
+    "text": "Third, preventive controls continue to dominate many regulatory processes.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261108_c9d6bb4fc9#17",
+    "doc_id": "vneconomy_en_20261108_c9d6bb4fc9",
+    "sent_idx": 17,
+    "text": "Requirements for direct clinical examinations, restrictions on the validity of marketing authorizations, and specialized inspections of small-scale research chemicals impose substantial costs without commensurate improvements in regulatory effectiveness.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261108_c9d6bb4fc9#18",
+    "doc_id": "vneconomy_en_20261108_c9d6bb4fc9",
+    "sent_idx": 18,
+    "text": "Fourth, retroactive legal risks and enforcement measures that overlook the substance of transactions.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261108_c9d6bb4fc9#19",
+    "doc_id": "vneconomy_en_20261108_c9d6bb4fc9",
+    "sent_idx": 19,
+    "text": "Businesses have faced demands to repay tax refunds already received, account freezes before land has been handed over, and penalties for circumstances beyond their control, such as shipping company errors.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261108_c9d6bb4fc9#20",
+    "doc_id": "vneconomy_en_20261108_c9d6bb4fc9",
+    "sent_idx": 20,
+    "text": "These issues have significantly undermined investor confidence.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261108_c9d6bb4fc9#21",
+    "doc_id": "vneconomy_en_20261108_c9d6bb4fc9",
+    "sent_idx": 21,
+    "text": "Fifth, pricing mechanisms and administrative procedures have failed to keep pace with cost fluctuations and actual planning conditions.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261108_c9d6bb4fc9#22",
+    "doc_id": "vneconomy_en_20261108_c9d6bb4fc9",
+    "sent_idx": 22,
+    "text": "Electricity generation price frameworks, assessments of planning compliance, and transitional arrangements for existing administrative decisions have lagged behind developments on the ground.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261108_c9d6bb4fc9#23",
+    "doc_id": "vneconomy_en_20261108_c9d6bb4fc9",
+    "sent_idx": 23,
+    "text": "Businesses are consequently left waiting for conditions beyond their control to be met or face the risk of having previously fulfilled obligations reassessed.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261108_c9d6bb4fc9#24",
+    "doc_id": "vneconomy_en_20261108_c9d6bb4fc9",
+    "sent_idx": 24,
+    "text": "Mr. Dau Anh Tuan, Vice Secretary-General and Director of the Legal Department at VCCI, said the Chamber had been tasked with compiling business concerns and submitting them to relevant ministries and agencies ahead of the first meeting between the Standing Committee of the government and the business community during the current term.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261108_c9d6bb4fc9#25",
+    "doc_id": "vneconomy_en_20261108_c9d6bb4fc9",
+    "sent_idx": 25,
+    "text": "Businesses subsequently received detailed responses to their concerns.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261108_c9d6bb4fc9#26",
+    "doc_id": "vneconomy_en_20261108_c9d6bb4fc9",
+    "sent_idx": 26,
+    "text": "All responses were also published on the government's official information portal and the websites of the MoF, the Ministry of Justice, and VCCI, allowing businesses and the public to assess the quality of the resolutions.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261108_c9d6bb4fc9#27",
+    "doc_id": "vneconomy_en_20261108_c9d6bb4fc9",
+    "sent_idx": 27,
+    "text": "Mr. Bui Anh Tuan, Director General of the Department of Private Enterprise and Collective Economy Development at the MoF, also reported progress.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261108_c9d6bb4fc9#28",
+    "doc_id": "vneconomy_en_20261108_c9d6bb4fc9",
+    "sent_idx": 28,
+    "text": "During the first two months of the new coordination mechanism, the Ministry and VCCI reviewed 202 detailed business recommendations.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261108_c9d6bb4fc9#29",
+    "doc_id": "vneconomy_en_20261108_c9d6bb4fc9",
+    "sent_idx": 29,
+    "text": "More than 100 were fully resolved, with formal written responses issued, while nearly 100 others were accepted for consideration and added to the list of proposed amendments to upcoming legal documents.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261108_c9d6bb4fc9#30",
+    "doc_id": "vneconomy_en_20261108_c9d6bb4fc9",
+    "sent_idx": 30,
+    "text": "An interagency working group comprising the MoF, its Department of Private Enterprise and Collective Economy Development, VCCI's Legal Department, and the Government Office has also been established.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261108_c9d6bb4fc9#31",
+    "doc_id": "vneconomy_en_20261108_c9d6bb4fc9",
+    "sent_idx": 31,
+    "text": "The group updates its data weekly, tracking recommendations by responsible agency, area of concern, relevant legal provision, and resolution status.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261108_c9d6bb4fc9#32",
+    "doc_id": "vneconomy_en_20261108_c9d6bb4fc9",
+    "sent_idx": 32,
+    "text": "In areas generating frequent complaints, particularly taxation and customs, MoF leaders have instructed relevant units to contact businesses directly to clarify the underlying issues.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261108_c9d6bb4fc9#33",
+    "doc_id": "vneconomy_en_20261108_c9d6bb4fc9",
+    "sent_idx": 33,
+    "text": "The aim is to avoid generic responses and ensure that solutions identify both the root cause and the agency responsible.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261108_c9d6bb4fc9#34",
+    "doc_id": "vneconomy_en_20261108_c9d6bb4fc9",
+    "sent_idx": 34,
+    "text": "At the recent \"Pioneering Entrepreneurs - Enabling Government in a New Era\" forum, organized by VCCI, Mr. Phan Duc Hieu, full-time member of the NA's Economic and Financial Committee, highlighted major changes in the legislative process aimed at supporting businesses and resolving their difficulties.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261108_c9d6bb4fc9#35",
+    "doc_id": "vneconomy_en_20261108_c9d6bb4fc9",
+    "sent_idx": 35,
+    "text": "The NA has recently reviewed and passed an unprecedented volume of legislation.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261108_c9d6bb4fc9#36",
+    "doc_id": "vneconomy_en_20261108_c9d6bb4fc9",
+    "sent_idx": 36,
+    "text": "At its most recent session, it adopted more than 80 laws and resolutions; a record in the country's legislative history.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261108_c9d6bb4fc9#37",
+    "doc_id": "vneconomy_en_20261108_c9d6bb4fc9",
+    "sent_idx": 37,
+    "text": "The most notable changes concern the speed and methods of lawmaking.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261108_c9d6bb4fc9#38",
+    "doc_id": "vneconomy_en_20261108_c9d6bb4fc9",
+    "sent_idx": 38,
+    "text": "For the first time, the legislature completed and adopted Resolution No. 198/2025/QH15 on the private economy in just 12 days and nights.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261108_c9d6bb4fc9#39",
+    "doc_id": "vneconomy_en_20261108_c9d6bb4fc9",
+    "sent_idx": 39,
+    "text": "To ensure that institutional reform leads the way for development, the NA has adopted a more flexible approach involving three types of sessions: regular sessions, extra-ordinary sessions, and sessions dedicated to full-time deputies.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261108_c9d6bb4fc9#40",
+    "doc_id": "vneconomy_en_20261108_c9d6bb4fc9",
+    "sent_idx": 40,
+    "text": "Legislation is also being passed on a rolling basis.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261108_c9d6bb4fc9#41",
+    "doc_id": "vneconomy_en_20261108_c9d6bb4fc9",
+    "sent_idx": 41,
+    "text": "Once a draft law has incorporated feedback and met quality requirements, it can be put to a vote immediately rather than being held until the end of a session.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261108_c9d6bb4fc9#42",
+    "doc_id": "vneconomy_en_20261108_c9d6bb4fc9",
+    "sent_idx": 42,
+    "text": "This allows policies to take effect more quickly.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261108_c9d6bb4fc9#43",
+    "doc_id": "vneconomy_en_20261108_c9d6bb4fc9",
+    "sent_idx": 43,
+    "text": "Another major development is the adoption of special resolutions to address problems arising in practice.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261108_c9d6bb4fc9#44",
+    "doc_id": "vneconomy_en_20261108_c9d6bb4fc9",
+    "sent_idx": 44,
+    "text": "Previously, projects affected by procedural errors in land allocation could be required to restart from scratch, causing substantial waste.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261108_c9d6bb4fc9#45",
+    "doc_id": "vneconomy_en_20261108_c9d6bb4fc9",
+    "sent_idx": 45,
+    "text": "The NA's new approach is to hold individuals accountable for violations while allowing the projects themselves to proceed.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261108_c9d6bb4fc9#46",
+    "doc_id": "vneconomy_en_20261108_c9d6bb4fc9",
+    "sent_idx": 46,
+    "text": "This is intended to unlock thousands of stalled projects and return resources to the economy.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261108_c9d6bb4fc9#47",
+    "doc_id": "vneconomy_en_20261108_c9d6bb4fc9",
+    "sent_idx": 47,
+    "text": "Resolution No. 206/2025/QH15 has also established an unprecedentedly-flexible mechanism for addressing obstacles in laws and decrees through resolutions from the NA Standing Committee and the government.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261108_c9d6bb4fc9#48",
+    "doc_id": "vneconomy_en_20261108_c9d6bb4fc9",
+    "sent_idx": 48,
+    "text": "With the mechanism in place through the end of 2027, the government has abolished thousands of unnecessary business conditions and licensing requirements in a short period, saving businesses considerable time and money.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261108_c9d6bb4fc9#49",
+    "doc_id": "vneconomy_en_20261108_c9d6bb4fc9",
+    "sent_idx": 49,
+    "text": "Recent legislation further reflects a shift toward enabling development.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261108_c9d6bb4fc9#50",
+    "doc_id": "vneconomy_en_20261108_c9d6bb4fc9",
+    "sent_idx": 50,
+    "text": "Under the amended Law on Investment, for example, the list of projects requiring in-principle investment approval follows a transparent exclusion-based approach.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261108_c9d6bb4fc9#51",
+    "doc_id": "vneconomy_en_20261108_c9d6bb4fc9",
+    "sent_idx": 51,
+    "text": "Businesses need to seek approval only for projects explicitly included on the list; other projects can proceed without it.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261108_c9d6bb4fc9#52",
+    "doc_id": "vneconomy_en_20261108_c9d6bb4fc9",
+    "sent_idx": 52,
+    "text": "The principle that each project should require in-principle approval only once is also being applied rigorously to eliminate overlapping requirements.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261108_c9d6bb4fc9#53",
+    "doc_id": "vneconomy_en_20261108_c9d6bb4fc9",
+    "sent_idx": 53,
+    "text": "In planning, the amended Law on Planning introduces a new \"1+1\" principle.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261108_c9d6bb4fc9#54",
+    "doc_id": "vneconomy_en_20261108_c9d6bb4fc9",
+    "sent_idx": 54,
+    "text": "When considering in-principle investment approval or appraising project designs, regulatory authorities need to refer only to the most directly applicable planning framework, rather than requiring compliance with multiple plans.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261108_c9d6bb4fc9#55",
+    "doc_id": "vneconomy_en_20261108_c9d6bb4fc9",
+    "sent_idx": 55,
+    "text": "If planning frameworks conflict, the authorities will select one under which the project can proceed while the remaining plans are adjusted in parallel.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261108_c9d6bb4fc9#56",
+    "doc_id": "vneconomy_en_20261108_c9d6bb4fc9",
+    "sent_idx": 56,
+    "text": "O ne issue of particular concern to me is the role of large businesses in bringing smaller enterprises, cooperatives, and farming households into value chains.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261108_c9d6bb4fc9#57",
+    "doc_id": "vneconomy_en_20261108_c9d6bb4fc9",
+    "sent_idx": 57,
+    "text": "A chain made up only of large businesses cannot generate broad-based benefits.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261108_c9d6bb4fc9#58",
+    "doc_id": "vneconomy_en_20261108_c9d6bb4fc9",
+    "sent_idx": 58,
+    "text": "Large enterprises should serve as the core of these networks, providing technology, standards, market access, and management expertise to help smaller businesses, cooperatives, and farmers participate.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261108_c9d6bb4fc9#59",
+    "doc_id": "vneconomy_en_20261108_c9d6bb4fc9",
+    "sent_idx": 59,
+    "text": "Beyond businesses' own efforts, a supportive business environment is essential for the private sector to drive growth.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261108_c9d6bb4fc9#60",
+    "doc_id": "vneconomy_en_20261108_c9d6bb4fc9",
+    "sent_idx": 60,
+    "text": "Businesses need a transparent, stable, and predictable legal framework to plan long-term investments.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261108_c9d6bb4fc9#61",
+    "doc_id": "vneconomy_en_20261108_c9d6bb4fc9",
+    "sent_idx": 61,
+    "text": "High-tech agricultural projects, in particular, require substantial capital and long investment horizons, involving land, infrastructure, raw material supply areas, environmental management, logistics, and market development.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261108_c9d6bb4fc9#62",
+    "doc_id": "vneconomy_en_20261108_c9d6bb4fc9",
+    "sent_idx": 62,
+    "text": "Local authorities must therefore work alongside businesses to address bottlenecks in administrative procedures, infrastructure, and production zone planning.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261108_c9d6bb4fc9#63",
+    "doc_id": "vneconomy_en_20261108_c9d6bb4fc9",
+    "sent_idx": 63,
+    "text": "I believe that \"an enabling government, pioneering businesses, and engaged citizens\" are the three pillars of a development ecosystem.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261108_c9d6bb4fc9#64",
+    "doc_id": "vneconomy_en_20261108_c9d6bb4fc9",
+    "sent_idx": 64,
+    "text": "Businesses cannot replace the government in building institutions, just as the government cannot replace businesses in finding markets, innovating, and taking commercial risks.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261108_c9d6bb4fc9#65",
+    "doc_id": "vneconomy_en_20261108_c9d6bb4fc9",
+    "sent_idx": 65,
+    "text": "Each must fulfill its role toward the shared goal of strengthening the economy's competitiveness.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261108_c9d6bb4fc9#66",
+    "doc_id": "vneconomy_en_20261108_c9d6bb4fc9",
+    "sent_idx": 66,
+    "text": "Businesses must be willing to invest for the long term, adopt new technologies, cooperate with major partners, and step outside their comfort zone.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261108_c9d6bb4fc9#67",
+    "doc_id": "vneconomy_en_20261108_c9d6bb4fc9",
+    "sent_idx": 67,
+    "text": "More importantly, we must build a business culture grounded in trust and integrity.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261108_c9d6bb4fc9#68",
+    "doc_id": "vneconomy_en_20261108_c9d6bb4fc9",
+    "sent_idx": 68,
+    "text": "This means not only keeping promises to customers but also fulfilling our responsibilities to employees, farmers, partners, communities, and our own commitments.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261108_c9d6bb4fc9#69",
+    "doc_id": "vneconomy_en_20261108_c9d6bb4fc9",
+    "sent_idx": 69,
+    "text": "P olitburo Resolution No. 68-NQ/TW on private sector development sets an important direction: making the private sector a major driver of the economy.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261108_c9d6bb4fc9#70",
+    "doc_id": "vneconomy_en_20261108_c9d6bb4fc9",
+    "sent_idx": 70,
+    "text": "Vietnamese entrepreneurs have strong ambitions.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261108_c9d6bb4fc9#71",
+    "doc_id": "vneconomy_en_20261108_c9d6bb4fc9",
+    "sent_idx": 71,
+    "text": "The challenge is turning those ambitions into investment, innovation, and sustained long-term growth.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261108_c9d6bb4fc9#72",
+    "doc_id": "vneconomy_en_20261108_c9d6bb4fc9",
+    "sent_idx": 72,
+    "text": "The business community wants a more transparent, stable, and predictable operating environment with lower compliance costs.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261108_c9d6bb4fc9#73",
+    "doc_id": "vneconomy_en_20261108_c9d6bb4fc9",
+    "sent_idx": 73,
+    "text": "Bottlenecks involving administrative procedures, land, investment, credit, human resources, science and technology, and markets must also be addressed.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261108_c9d6bb4fc9#74",
+    "doc_id": "vneconomy_en_20261108_c9d6bb4fc9",
+    "sent_idx": 74,
+    "text": "Businesses need an environment in which those who comply with the rules are protected, investment is encouraged, innovation is supported, and legitimate business risks are assessed objectively.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261108_c9d6bb4fc9#75",
+    "doc_id": "vneconomy_en_20261108_c9d6bb4fc9",
+    "sent_idx": 75,
+    "text": "Based on my experience, I propose six priorities.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261108_c9d6bb4fc9#76",
+    "doc_id": "vneconomy_en_20261108_c9d6bb4fc9",
+    "sent_idx": 76,
+    "text": "First, improve the institutional framework to make the business environment more stable, transparent, and predictable, giving businesses the confidence to plan long-term investments.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261108_c9d6bb4fc9#77",
+    "doc_id": "vneconomy_en_20261108_c9d6bb4fc9",
+    "sent_idx": 77,
+    "text": "Second, strengthen incentives for investment in science and technology, digital transformation, and innovation, with practical mechanisms that encourage businesses to test and adopt new technologies.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261108_c9d6bb4fc9#78",
+    "doc_id": "vneconomy_en_20261108_c9d6bb4fc9",
+    "sent_idx": 78,
+    "text": "Third, strengthen cooperation between the government, businesses, scientists, and educational institutions to better align the country's intellectual resources with business needs.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261108_c9d6bb4fc9#79",
+    "doc_id": "vneconomy_en_20261108_c9d6bb4fc9",
+    "sent_idx": 79,
+    "text": "Fourth, prioritize highly-skilled human resources, particularly those with international business expertise.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261108_c9d6bb4fc9#80",
+    "doc_id": "vneconomy_en_20261108_c9d6bb4fc9",
+    "sent_idx": 80,
+    "text": "Fifth, help Vietnamese businesses expand and strengthen their international competitiveness, enabling them to lead supply chains, build Vietnamese brands, and participate more deeply in global markets.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261108_c9d6bb4fc9#81",
+    "doc_id": "vneconomy_en_20261108_c9d6bb4fc9",
+    "sent_idx": 81,
+    "text": "Sixth, promote a modern Vietnamese business culture grounded in trust, legal compliance, fair competition, innovation, and social responsibility.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261108_c9d6bb4fc9#82",
+    "doc_id": "vneconomy_en_20261108_c9d6bb4fc9",
+    "sent_idx": 82,
+    "text": "O ur business focuses on treating and recycling industrial and agricultural waste.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261108_c9d6bb4fc9#83",
+    "doc_id": "vneconomy_en_20261108_c9d6bb4fc9",
+    "sent_idx": 83,
+    "text": "Fifteen years ago, waste treatment was a major environmental challenge in Vietnam.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261108_c9d6bb4fc9#84",
+    "doc_id": "vneconomy_en_20261108_c9d6bb4fc9",
+    "sent_idx": 84,
+    "text": "Today, technologies can turn ash and gypsum into construction materials, including concrete additives, lightweight bricks, and industrial mortar.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261108_c9d6bb4fc9#85",
+    "doc_id": "vneconomy_en_20261108_c9d6bb4fc9",
+    "sent_idx": 85,
+    "text": "Beyond technology, businesses face major barriers involving administrative procedures, regulatory standards, and management practices.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261108_c9d6bb4fc9#86",
+    "doc_id": "vneconomy_en_20261108_c9d6bb4fc9",
+    "sent_idx": 86,
+    "text": "Many specialized recycling projects have no established precedents, complicating licensing and certification at the local level.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261108_c9d6bb4fc9#87",
+    "doc_id": "vneconomy_en_20261108_c9d6bb4fc9",
+    "sent_idx": 87,
+    "text": "Timely intervention by the NA, the government, and relevant ministries and agencies helped us overcome these hurdles and establish integrated circular industrial complexes in several cities and provinces.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261108_c9d6bb4fc9#88",
+    "doc_id": "vneconomy_en_20261108_c9d6bb4fc9",
+    "sent_idx": 88,
+    "text": "However, technical standards and economic-technical norms are still issued too slowly.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261108_c9d6bb4fc9#89",
+    "doc_id": "vneconomy_en_20261108_c9d6bb4fc9",
+    "sent_idx": 89,
+    "text": "Some products have taken as long as five years to receive the norms required for use in construction projects.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261108_c9d6bb4fc9#90",
+    "doc_id": "vneconomy_en_20261108_c9d6bb4fc9",
+    "sent_idx": 90,
+    "text": "For the circular economy to grow, policies must be more complete and consistent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261108_c9d6bb4fc9#91",
+    "doc_id": "vneconomy_en_20261108_c9d6bb4fc9",
+    "sent_idx": 91,
+    "text": "Though the government and relevant ministries and agencies have introduced measures supporting green materials and encouraging their use in public procurement, implementation still requires closer oversight and more decisive action at both the central and local levels.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261108_c9d6bb4fc9#92",
+    "doc_id": "vneconomy_en_20261108_c9d6bb4fc9",
+    "sent_idx": 92,
+    "text": "Regulators should accelerate the issuance of economic-technical norms and shorten the certification process for new materials so that green products can reach the market faster.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261108_c9d6bb4fc9#93",
+    "doc_id": "vneconomy_en_20261108_c9d6bb4fc9",
+    "sent_idx": 93,
+    "text": "Preferential investment credit programs also need clear, detailed guidelines to make them more accessible to businesses and scientists.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261108_c9d6bb4fc9#94",
+    "doc_id": "vneconomy_en_20261108_c9d6bb4fc9",
+    "sent_idx": 94,
+    "text": "The government should strengthen the role of organizations such as the VCCI in connecting stakeholders.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261108_c9d6bb4fc9#95",
+    "doc_id": "vneconomy_en_20261108_c9d6bb4fc9",
+    "sent_idx": 95,
+    "text": "Above all, it must consistently recognize waste as a secondary resource, making this principle a key driver of green growth.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261108_c9d6bb4fc9#96",
+    "doc_id": "vneconomy_en_20261108_c9d6bb4fc9",
+    "sent_idx": 96,
+    "text": "S ustainable business development requires a transparent environment, fair competition, and fewer unnecessary burdens on enterprises.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261108_c9d6bb4fc9#97",
+    "doc_id": "vneconomy_en_20261108_c9d6bb4fc9",
+    "sent_idx": 97,
+    "text": "Decree No. 255/2026/ND-CP on related party transactions, which took effect on July 1, 2026, and applies from the 2026 corporate income tax period, tightens several tax management rules and has created compliance challenges for many businesses.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261108_c9d6bb4fc9#98",
+    "doc_id": "vneconomy_en_20261108_c9d6bb4fc9",
+    "sent_idx": 98,
+    "text": "The regulations were intended to prevent multinational corporations from using loans and related-party transactions to manipulate transfer prices and reduce taxable profits.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261108_c9d6bb4fc9#99",
+    "doc_id": "vneconomy_en_20261108_c9d6bb4fc9",
+    "sent_idx": 99,
+    "text": "However, Vietnamese businesses have also been significantly affected.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261108_c9d6bb4fc9#100",
+    "doc_id": "vneconomy_en_20261108_c9d6bb4fc9",
+    "sent_idx": 100,
+    "text": "Phuc Sinh is wholly Vietnamese-owned and operates primarily in agricultural exports.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261108_c9d6bb4fc9#101",
+    "doc_id": "vneconomy_en_20261108_c9d6bb4fc9",
+    "sent_idx": 101,
+    "text": "Coffee prices have risen by approximately 300 per cent and pepper prices by around 80 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261108_c9d6bb4fc9#102",
+    "doc_id": "vneconomy_en_20261108_c9d6bb4fc9",
+    "sent_idx": 102,
+    "text": "Purchasing the same volume of raw materials therefore requires substantially more capital, forcing the company to rely on bank loans.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261108_c9d6bb4fc9#103",
+    "doc_id": "vneconomy_en_20261108_c9d6bb4fc9",
+    "sent_idx": 103,
+    "text": "All companies within the group pay corporate income tax at 20 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261108_c9d6bb4fc9#104",
+    "doc_id": "vneconomy_en_20261108_c9d6bb4fc9",
+    "sent_idx": 104,
+    "text": "However, the rule limiting deductible interest expenses to 30 per cent of EBITDA (earnings before interest, taxes, depreciation, and amortization) leaves some interest expenses non-deductible, increasing the effective tax burden.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261108_c9d6bb4fc9#105",
+    "doc_id": "vneconomy_en_20261108_c9d6bb4fc9",
+    "sent_idx": 105,
+    "text": "At times, the actual tax rate has reached approximately 35.6 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261108_c9d6bb4fc9#106",
+    "doc_id": "vneconomy_en_20261108_c9d6bb4fc9",
+    "sent_idx": 106,
+    "text": "This is an exceptionally high burden for a domestic business competing internationally.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261108_c9d6bb4fc9#107",
+    "doc_id": "vneconomy_en_20261108_c9d6bb4fc9",
+    "sent_idx": 107,
+    "text": "I hope the regulations will be reviewed and adjusted to better reflect the realities of Vietnamese businesses, particularly those that need substantial working capital to purchase raw materials for export.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261108_c9d6bb4fc9#108",
+    "doc_id": "vneconomy_en_20261108_c9d6bb4fc9",
+    "sent_idx": 108,
+    "text": "I strongly support the principles of Resolution No. 79-NQ/TW, issued by the Politburo on January 6, 2026, on developing the State economy.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261108_c9d6bb4fc9#109",
+    "doc_id": "vneconomy_en_20261108_c9d6bb4fc9",
+    "sent_idx": 109,
+    "text": "The Resolution redefines the role of State-owned enterprises (SOEs), emphasizing their responsibility to lead and enable development rather than simply encompass the economy.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261108_c9d6bb4fc9#110",
+    "doc_id": "vneconomy_en_20261108_c9d6bb4fc9",
+    "sent_idx": 110,
+    "text": "Though the government has made considerable efforts to improve the business environment, more needs to be done to support long-term business development.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261108_c9d6bb4fc9#111",
+    "doc_id": "vneconomy_en_20261108_c9d6bb4fc9",
+    "sent_idx": 111,
+    "text": "Key challenges include lengthy investment procedures, limited access to long-term financing, and shortages of technical talent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261108_c9d6bb4fc9#112",
+    "doc_id": "vneconomy_en_20261108_c9d6bb4fc9",
+    "sent_idx": 112,
+    "text": "Delays increase capital costs and can cause businesses to miss market opportunities, while infrastructure and technology investments often require time to generate demand and returns.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261108_c9d6bb4fc9#113",
+    "doc_id": "vneconomy_en_20261108_c9d6bb4fc9",
+    "sent_idx": 113,
+    "text": "We recommend streamlining administrative procedures and improving investment evaluation, with better coordination across requirements for investment, land, construction, environmental protection, fire safety, and sector-specific approvals.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261108_c9d6bb4fc9#114",
+    "doc_id": "vneconomy_en_20261108_c9d6bb4fc9",
+    "sent_idx": 114,
+    "text": "For pioneering State-owned enterprise projects, evaluations should consider not only financial returns but also socio-economic benefits and the capabilities developed, while accounting for capital recovery periods and risks.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261108_c9d6bb4fc9#115",
+    "doc_id": "vneconomy_en_20261108_c9d6bb4fc9",
+    "sent_idx": 115,
+    "text": "Major projects should also help strengthen domestic suppliers and increase local content.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261108_c9d6bb4fc9#116",
+    "doc_id": "vneconomy_en_20261108_c9d6bb4fc9",
+    "sent_idx": 116,
+    "text": "Regulations should prioritize locally-manufactured equipment that meets technical, quality, safety, and delivery requirements.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261108_c9d6bb4fc9#117",
+    "doc_id": "vneconomy_en_20261108_c9d6bb4fc9",
+    "sent_idx": 117,
+    "text": "Minimum domestic content ratios and implementation road maps should be established for each equipment category, incorporated into tender documents and contracts, and monitored throughout project implementation.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261108_c9d6bb4fc9#118",
+    "doc_id": "vneconomy_en_20261108_c9d6bb4fc9",
+    "sent_idx": 118,
+    "text": "Contractor selection should consider life-cycle costs, maintainability, and domestic value creation.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261108_c9d6bb4fc9#119",
+    "doc_id": "vneconomy_en_20261108_c9d6bb4fc9",
+    "sent_idx": 119,
+    "text": "Where appropriate, projects should also support supplier development, workforce training, and technology transfer.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261108_c9d6bb4fc9#120",
+    "doc_id": "vneconomy_en_20261108_c9d6bb4fc9",
+    "sent_idx": 120,
+    "text": "Finally, technical workforce development requires closer cooperation between the government, educational institutions, and businesses, particularly in central Vietnam.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261108_c9d6bb4fc9#121",
+    "doc_id": "vneconomy_en_20261108_c9d6bb4fc9",
+    "sent_idx": 121,
+    "text": "Priority sectors include port operations, logistics, mechanical engineering, energy, and heavy industry.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261108_c9d6bb4fc9#122",
+    "doc_id": "vneconomy_en_20261108_c9d6bb4fc9",
+    "sent_idx": 122,
+    "text": "Businesses can define skills requirements and provide practical training, educational institutions can align curricula with industry needs, and the government can support retraining and specialist recruitment.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261108_c9d6bb4fc9#123",
+    "doc_id": "vneconomy_en_20261108_c9d6bb4fc9",
+    "sent_idx": 123,
+    "text": "M y greatest concern is how to help more domestic businesses become Tier 1 suppliers to foreign-invested enterprises.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261108_c9d6bb4fc9#124",
+    "doc_id": "vneconomy_en_20261108_c9d6bb4fc9",
+    "sent_idx": 124,
+    "text": "Beyond exporting products abroad, Vietnam must also pursue \"on-the-spot exports\" by integrating domestic businesses more deeply into foreign-invested factories operating in the country.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261108_c9d6bb4fc9#125",
+    "doc_id": "vneconomy_en_20261108_c9d6bb4fc9",
+    "sent_idx": 125,
+    "text": "The challenge is to increase domestic intellectual content and value-added across these production chains.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261108_c9d6bb4fc9#126",
+    "doc_id": "vneconomy_en_20261108_c9d6bb4fc9",
+    "sent_idx": 126,
+    "text": "Vietnamese businesses have a golden opportunity.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261108_c9d6bb4fc9#127",
+    "doc_id": "vneconomy_en_20261108_c9d6bb4fc9",
+    "sent_idx": 127,
+    "text": "Political stability and international recognition of our intellectual workforce and technical capabilities put us in a strong position.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261108_c9d6bb4fc9#128",
+    "doc_id": "vneconomy_en_20261108_c9d6bb4fc9",
+    "sent_idx": 128,
+    "text": "However, in the age of AI, this opportunity may last only another five to six years.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261108_c9d6bb4fc9#129",
+    "doc_id": "vneconomy_en_20261108_c9d6bb4fc9",
+    "sent_idx": 129,
+    "text": "Every organization must continually reinvent itself, from the most junior employees to senior leadership, upgrading skills and adapting quickly to avoid falling behind.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261108_c9d6bb4fc9#130",
+    "doc_id": "vneconomy_en_20261108_c9d6bb4fc9",
+    "sent_idx": 130,
+    "text": "Policy sandboxes for new technologies should also be prioritized, alongside the commercialization of domestically-developed products.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261108_c9d6bb4fc9#131",
+    "doc_id": "vneconomy_en_20261108_c9d6bb4fc9",
+    "sent_idx": 131,
+    "text": "Building a strong domestic market will provide a foundation for Vietnamese technology companies to expand globally.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261108_c9d6bb4fc9#132",
+    "doc_id": "vneconomy_en_20261108_c9d6bb4fc9",
+    "sent_idx": 132,
+    "text": "Support for research, testing, and market development must continue to improve to help these businesses break through.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261108_c9d6bb4fc9#133",
+    "doc_id": "vneconomy_en_20261108_c9d6bb4fc9",
+    "sent_idx": 133,
+    "text": "The Bac Ninh Semiconductor Association has also strengthened direct engagement among international semiconductor corporations, local authorities, and domestic businesses to accelerate cooperation.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261108_c9d6bb4fc9#134",
+    "doc_id": "vneconomy_en_20261108_c9d6bb4fc9",
+    "sent_idx": 134,
+    "text": "Looking ahead, Vietnamese businesses should aim to sell trust and culture, not just products.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261108_c9d6bb4fc9#135",
+    "doc_id": "vneconomy_en_20261108_c9d6bb4fc9",
+    "sent_idx": 135,
+    "text": "A reputable national brand would help businesses grow together.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261108_c9d6bb4fc9#136",
+    "doc_id": "vneconomy_en_20261108_c9d6bb4fc9",
+    "sent_idx": 136,
+    "text": "Businesses should also embrace a philosophy of five sources of positive impact: creating value for customers, employees, suppliers, the environment, and the country through their operations.",
+    "lang": "en",
+    "is_title": false
+  }
+]

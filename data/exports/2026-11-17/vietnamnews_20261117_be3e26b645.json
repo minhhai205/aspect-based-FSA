@@ -1,0 +1,194 @@
+[
+  {
+    "sent_id": "vietnamnews_20261117_be3e26b645#0",
+    "doc_id": "vietnamnews_20261117_be3e26b645",
+    "sent_idx": 0,
+    "text": "Finance ministry promotes dual digital, green transition to boost business competitiveness",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261117_be3e26b645#1",
+    "doc_id": "vietnamnews_20261117_be3e26b645",
+    "sent_idx": 1,
+    "text": "HÀ NỘI - The Ministry of Finance has introduced a framework to assess businesses' digital transformation maturity alongside their green transition, helping them identify capability gaps and develop roadmaps to improve productivity and competitiveness.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_be3e26b645#2",
+    "doc_id": "vietnamnews_20261117_be3e26b645",
+    "sent_idx": 2,
+    "text": "The framework was unveiled at a conference in Hà Nội on November 17 that was jointly organised by the Ministry of Finance and GIZ Viet Nam, as part of the German Government- supported Twin Transition Hub project.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_be3e26b645#3",
+    "doc_id": "vietnamnews_20261117_be3e26b645",
+    "sent_idx": 3,
+    "text": "Technology, innovation and data management are increasingly important to business competitiveness, while requirements for traceability, data transparency and carbon emissions reductions have become essential for companies seeking to participate more deeply in global value chains.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_be3e26b645#4",
+    "doc_id": "vietnamnews_20261117_be3e26b645",
+    "sent_idx": 4,
+    "text": "Politburo Resolution 68-NQ/TW identifies the private sector as a pioneering force in driving growth and improving national competitiveness, while calling for stronger digital and green transformation.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_be3e26b645#5",
+    "doc_id": "vietnamnews_20261117_be3e26b645",
+    "sent_idx": 5,
+    "text": "Addressing the event, Deputy Minister of Finance Trần Quốc Phương said the ministry focused on improving the institutional framework, mobilising resources and creating favourable conditions for businesses.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_be3e26b645#6",
+    "doc_id": "vietnamnews_20261117_be3e26b645",
+    "sent_idx": 6,
+    "text": "\"In a rapidly changing world, policies on business development must stay ahead of developments.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_be3e26b645#7",
+    "doc_id": "vietnamnews_20261117_be3e26b645",
+    "sent_idx": 7,
+    "text": "They should not only promptly address existing difficulties, but also anticipate emerging trends to help businesses operate more effectively,\" he said.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_be3e26b645#8",
+    "doc_id": "vietnamnews_20261117_be3e26b645",
+    "sent_idx": 8,
+    "text": "The ministry is working to finalise the draft Law on Small and Medium-sized Enterprise (SMEs) Development, shifting from providing direct support towards creating an enabling environment for business growth, according to Phương.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_be3e26b645#9",
+    "doc_id": "vietnamnews_20261117_be3e26b645",
+    "sent_idx": 9,
+    "text": "The draft aims to improve smaller firms' access to capital, technology, premises and markets, while linking support policies to their development stages and actual performance.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_be3e26b645#10",
+    "doc_id": "vietnamnews_20261117_be3e26b645",
+    "sent_idx": 10,
+    "text": "A key step was the issuance of Decision 2515/QĐ-BTC on September 8, introducing the Framework for Assessing Businesses' Digital Transformation Maturity in Association with the Green Transformation.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_be3e26b645#11",
+    "doc_id": "vietnamnews_20261117_be3e26b645",
+    "sent_idx": 11,
+    "text": "The framework has also been made available on the Business Information Portal.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_be3e26b645#12",
+    "doc_id": "vietnamnews_20261117_be3e26b645",
+    "sent_idx": 12,
+    "text": "It provides a standardised tool for businesses to assess their current capabilities, identify gaps and develop suitable transformation roadmaps.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_be3e26b645#13",
+    "doc_id": "vietnamnews_20261117_be3e26b645",
+    "sent_idx": 13,
+    "text": "Data collected through its use will also help the ministry and relevant agencies design more targeted support policies.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_be3e26b645#14",
+    "doc_id": "vietnamnews_20261117_be3e26b645",
+    "sent_idx": 14,
+    "text": "The framework is intended to be connected with international standards and certification systems, helping Vietnamese businesses access global supply chains.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_be3e26b645#15",
+    "doc_id": "vietnamnews_20261117_be3e26b645",
+    "sent_idx": 15,
+    "text": "At the conference, GIZ Country Director in Việt Nam Michaela Baur said: \"For SMEs, the twin transition is not just about adopting new technologies or meeting sustainability requirements.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_be3e26b645#16",
+    "doc_id": "vietnamnews_20261117_be3e26b645",
+    "sent_idx": 16,
+    "text": "It is about becoming more competitive, improving productivity, strengthening resilience and creating opportunities for sustainable growth.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_be3e26b645#17",
+    "doc_id": "vietnamnews_20261117_be3e26b645",
+    "sent_idx": 17,
+    "text": "Baur welcomed the launch of the assessment framework, saying the twin transition would require close cooperation among Government agencies, businesses, technology providers, financial institutions and development partners.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_be3e26b645#18",
+    "doc_id": "vietnamnews_20261117_be3e26b645",
+    "sent_idx": 18,
+    "text": "Phương said effective implementation would require coordinated efforts by State agencies at central and local levels, together with support from domestic and international partners.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_be3e26b645#19",
+    "doc_id": "vietnamnews_20261117_be3e26b645",
+    "sent_idx": 19,
+    "text": "He called on the Ministry of Finance's Agency for Private Enterprise and Collective Economy Development to finalise technical guidance, widely disseminate the framework and provide in-depth training for businesses.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_be3e26b645#20",
+    "doc_id": "vietnamnews_20261117_be3e26b645",
+    "sent_idx": 20,
+    "text": "Assessment results should also be linked to practical consultancy, training and business networking programmes.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_be3e26b645#21",
+    "doc_id": "vietnamnews_20261117_be3e26b645",
+    "sent_idx": 21,
+    "text": "At the local level, provincial and municipal Departments of Finance were urged to work with relevant agencies and business associations to encourage businesses to adopt the framework.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_be3e26b645#22",
+    "doc_id": "vietnamnews_20261117_be3e26b645",
+    "sent_idx": 22,
+    "text": "Wider implementation would help businesses assess their capabilities while giving local authorities a clearer picture of their needs and capability gaps, enabling them to develop more appropriate support measures.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261117_be3e26b645#23",
+    "doc_id": "vietnamnews_20261117_be3e26b645",
+    "sent_idx": 23,
+    "text": "Phương said the twin transition could become an important driver of productivity, growth quality and the competitiveness of Việt Nam's economy, provided there is strong commitment from Government agencies, engagement by businesses and continued support from international partners. - VNS",
+    "lang": "en",
+    "is_title": false
+  }
+]

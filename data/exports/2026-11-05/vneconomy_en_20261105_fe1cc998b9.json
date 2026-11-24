@@ -1,0 +1,170 @@
+[
+  {
+    "sent_id": "vneconomy_en_20261105_fe1cc998b9#0",
+    "doc_id": "vneconomy_en_20261105_fe1cc998b9",
+    "sent_idx": 0,
+    "text": "VNet and Quantropi join forces to prepare Vietnamese enterprises and organizations for the Post-Quantum Cryptography era",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_fe1cc998b9#1",
+    "doc_id": "vneconomy_en_20261105_fe1cc998b9",
+    "sent_idx": 1,
+    "text": "VNet Joint Stock Company and Canadian technology firm Quantropi have officially announced their strategic partnership alongside the Post-Quantum Cryptography (PQC) Readiness Assessment Program in Vietnam.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_fe1cc998b9#2",
+    "doc_id": "vneconomy_en_20261105_fe1cc998b9",
+    "sent_idx": 2,
+    "text": "Unveiled at the C-Level Leadership Roundtable Seminar themed \"Post-Quantum Security: Data Governance Challenges and Implementation Roadmaps for Enterprises and Organizations in Vietnam,\" the strategic initiative was jointly announced by VNet and Quantropi.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_fe1cc998b9#3",
+    "doc_id": "vneconomy_en_20261105_fe1cc998b9",
+    "sent_idx": 3,
+    "text": "Co-hosted by Tap chi Kinh te Vietnam / Vietnam Economic Times (VnEconomy), Quantropi, and VNet, the event centered on guiding Vietnamese entities through their security posture assessment and the strategic transition to quantum-resilient protection mechanisms.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_fe1cc998b9#4",
+    "doc_id": "vneconomy_en_20261105_fe1cc998b9",
+    "sent_idx": 4,
+    "text": "Mr. Duong Anh Duc, Vice Chairman of the Vietnam Anti-Counterfeiting and Brand Protection Association (VATAP) and Chairman of VNet, stated that the collaboration between the two parties extends far beyond a specific IT product or solution.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_fe1cc998b9#5",
+    "doc_id": "vneconomy_en_20261105_fe1cc998b9",
+    "sent_idx": 5,
+    "text": "Instead, it aims to foster broader cross-border cooperation between the two nations and progressively access international markets.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_fe1cc998b9#6",
+    "doc_id": "vneconomy_en_20261105_fe1cc998b9",
+    "sent_idx": 6,
+    "text": "According to Mr. Duc, Vietnam currently holds a valuable opportunity to engage more deeply in research, development, and the creation of technological products, moving away from mere reliance on imported solutions.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_fe1cc998b9#7",
+    "doc_id": "vneconomy_en_20261105_fe1cc998b9",
+    "sent_idx": 7,
+    "text": "He expressed his aspiration for all stakeholders to collaborate on developing high-quality, highly secure products capable of meeting rigorous global market demands.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_fe1cc998b9#8",
+    "doc_id": "vneconomy_en_20261105_fe1cc998b9",
+    "sent_idx": 8,
+    "text": "Mr. James Nguyen, Co-founder and CEO of Quantropi, introduced QiSpace as an advanced quantum-secure platform developed by his company.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_fe1cc998b9#9",
+    "doc_id": "vneconomy_en_20261105_fe1cc998b9",
+    "sent_idx": 9,
+    "text": "The platform integrates comprehensive data and system protection solutions against quantum computing threats, encompassing post-quantum cryptography, quantum random number generation (QRNG), and symmetric cryptography.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_fe1cc998b9#10",
+    "doc_id": "vneconomy_en_20261105_fe1cc998b9",
+    "sent_idx": 10,
+    "text": "In Vietnam, QiSpace is introduced through the partnership between Quantropi and VNet to empower enterprises in the post-quantum era while training the next generation of software developers in the country.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_fe1cc998b9#11",
+    "doc_id": "vneconomy_en_20261105_fe1cc998b9",
+    "sent_idx": 11,
+    "text": "He noted that QiSpace enables an unlimited number of applications, empowering individuals with programming knowledge and creative ideas to build applications resilient against both quantum computing and artificial intelligence challenges.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_fe1cc998b9#12",
+    "doc_id": "vneconomy_en_20261105_fe1cc998b9",
+    "sent_idx": 12,
+    "text": "Currently, QiSpace is undergoing deployment with a number of pilot customers.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_fe1cc998b9#13",
+    "doc_id": "vneconomy_en_20261105_fe1cc998b9",
+    "sent_idx": 13,
+    "text": "Looking ahead, both organizations expect to expand the platform across Vietnam's university network, evolving it into a collaborative hub connecting enterprises, academic institutions, government bodies, and the technology community.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_fe1cc998b9#14",
+    "doc_id": "vneconomy_en_20261105_fe1cc998b9",
+    "sent_idx": 14,
+    "text": "Representatives from Quantropi also revealed plans to establish a dedicated Research and Development (R&D) center for post-quantum cryptography, designed to encourage active participation from community members, universities, government agencies, and interested corporations.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_fe1cc998b9#15",
+    "doc_id": "vneconomy_en_20261105_fe1cc998b9",
+    "sent_idx": 15,
+    "text": "The establishment of this community platform is anticipated to create a conducive environment for stakeholders to explore, research, and develop PQC-related applications, thereby expanding the workforce and nurturing a next-generation security technology ecosystem in Vietnam.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_fe1cc998b9#16",
+    "doc_id": "vneconomy_en_20261105_fe1cc998b9",
+    "sent_idx": 16,
+    "text": "The cooperative activities between VNet and Quantropi unfold against a backdrop where the rapid evolution of quantum computing necessitates a fundamental reassessment of data protection across existing encryption systems.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_fe1cc998b9#17",
+    "doc_id": "vneconomy_en_20261105_fe1cc998b9",
+    "sent_idx": 17,
+    "text": "Early preparation - spanning readiness evaluation, workforce development, and application deployment serves as a vital step for organizations to proactively navigate the migration to post-quantum cryptography.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_fe1cc998b9#18",
+    "doc_id": "vneconomy_en_20261105_fe1cc998b9",
+    "sent_idx": 18,
+    "text": "To support this transition, VNet and Quantropi are actively developing a comprehensive ecosystem dedicated to research, training, and testing post-quantum security technologies.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_fe1cc998b9#19",
+    "doc_id": "vneconomy_en_20261105_fe1cc998b9",
+    "sent_idx": 19,
+    "text": "This initiative includes an information portal and technical documentation at https://quantum.vnet.vn/ , a simulation and practical testing environment (Sandbox) at https://quantum-sandbox.vnet.vn/ , and a community forum at https://quantum-forum.vnet.vn/ .",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261105_fe1cc998b9#20",
+    "doc_id": "vneconomy_en_20261105_fe1cc998b9",
+    "sent_idx": 20,
+    "text": "These digital spaces are designed to connect experts, researchers, engineers, and enterprises, facilitating knowledge exchange, experience sharing, solution testing, and the accelerated adoption of advanced technologies in Vietnam.",
+    "lang": "en",
+    "is_title": false
+  }
+]

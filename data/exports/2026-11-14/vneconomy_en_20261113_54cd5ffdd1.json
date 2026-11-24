@@ -1,0 +1,130 @@
+[
+  {
+    "sent_id": "vneconomy_en_20261113_54cd5ffdd1#0",
+    "doc_id": "vneconomy_en_20261113_54cd5ffdd1",
+    "sent_idx": 0,
+    "text": "Online fraud cases in Vietnam drop 20% in first 9 months",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vneconomy_en_20261113_54cd5ffdd1#1",
+    "doc_id": "vneconomy_en_20261113_54cd5ffdd1",
+    "sent_idx": 1,
+    "text": "Fraud offenses in Vietnam fell by approximately 20% in the first nine months of 2026 compared with the same period in 2025, according to statistics from the Department of Cybersecurity and High-Tech Crime Prevention (A05) under the Ministry of Public Security.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261113_54cd5ffdd1#2",
+    "doc_id": "vneconomy_en_20261113_54cd5ffdd1",
+    "sent_idx": 2,
+    "text": "Senior Colonel Nguyen Huy Luc from the department, shared the figures on November 13 during a seminar titled \"Building an Online Risk-Warning Network in Vietnam,\" co-organized by the National Cybersecurity Association alongside Google, the Digital Trust Alliance, and MoMo.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261113_54cd5ffdd1#3",
+    "doc_id": "vneconomy_en_20261113_54cd5ffdd1",
+    "sent_idx": 3,
+    "text": "Despite the decline, Mr. Luc warned that new risks and challenges to national cybersecurity are escalating.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261113_54cd5ffdd1#4",
+    "doc_id": "vneconomy_en_20261113_54cd5ffdd1",
+    "sent_idx": 4,
+    "text": "Cybercriminals are aggressively exploiting artificial intelligence (AI) to automate information operations, spread disinformation, and deploy malware.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261113_54cd5ffdd1#5",
+    "doc_id": "vneconomy_en_20261113_54cd5ffdd1",
+    "sent_idx": 5,
+    "text": "He also noted that the growing trend of nations and technology corporations relocating data centers, cloud computing infrastructure, and research facilities to third countries is heightening the risk of data and technology transit hubs emerging outside the jurisdiction of host countries.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261113_54cd5ffdd1#6",
+    "doc_id": "vneconomy_en_20261113_54cd5ffdd1",
+    "sent_idx": 6,
+    "text": "This creates potential vulnerabilities for illicit data harvesting, covert cyber-espionage, and controlled technology transfers.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261113_54cd5ffdd1#7",
+    "doc_id": "vneconomy_en_20261113_54cd5ffdd1",
+    "sent_idx": 7,
+    "text": "To counter these threats, State management agencies have recently rolled out decisive measures to eliminate unverified accounts that previously created loopholes for cybercriminals.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261113_54cd5ffdd1#8",
+    "doc_id": "vneconomy_en_20261113_54cd5ffdd1",
+    "sent_idx": 8,
+    "text": "Key measures include standardizing mobile subscriber records to curb unregistered SIM cards, mandating biometric authentication for financial transactions effective July 1, 2024, and tightening safeguards against electronic Know Your Customer (eKYC) fraud by cross-referencing citizen identity databases to cleanse user data.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261113_54cd5ffdd1#9",
+    "doc_id": "vneconomy_en_20261113_54cd5ffdd1",
+    "sent_idx": 9,
+    "text": "However, offenders continue to adapt by shifting toward social media applications and third-party calling platforms such as Zalo to approach victims, while utilizing cryptocurrencies to process illicit transactions.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261113_54cd5ffdd1#10",
+    "doc_id": "vneconomy_en_20261113_54cd5ffdd1",
+    "sent_idx": 10,
+    "text": "According to Senior Colonel Dr. Nguyen Hong Quan, Deputy Director of the Department of Cybersecurity and High-Tech Crime Prevention, risk-warning signals remain fragmented across various organizations and enterprises.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261113_54cd5ffdd1#11",
+    "doc_id": "vneconomy_en_20261113_54cd5ffdd1",
+    "sent_idx": 11,
+    "text": "While individual entities may detect isolated anomalies, a lack of connectivity and intelligence sharing hampers comprehensive detection and timely scam prevention.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261113_54cd5ffdd1#12",
+    "doc_id": "vneconomy_en_20261113_54cd5ffdd1",
+    "sent_idx": 12,
+    "text": "\"We cannot combat fraud in a hyper-connected cyberspace using isolated, fragmented alert mechanisms,\" Mr. Quan said.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261113_54cd5ffdd1#13",
+    "doc_id": "vneconomy_en_20261113_54cd5ffdd1",
+    "sent_idx": 13,
+    "text": "\"This reality demands an innovative approach-shifting from reactive, case-by-case handling to proactive risk identification and prevention, and moving from siloed system defenses to strengthened coordination and risk-signal sharing across sectors, platforms, and businesses.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261113_54cd5ffdd1#14",
+    "doc_id": "vneconomy_en_20261113_54cd5ffdd1",
+    "sent_idx": 14,
+    "text": "He noted that a single data leak or breach not only inflicts direct damage on organizations and individuals, but can also provide raw intelligence for bad actors to carry out further impersonation, fraud, and violations of citizens' rights.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261113_54cd5ffdd1#15",
+    "doc_id": "vneconomy_en_20261113_54cd5ffdd1",
+    "sent_idx": 15,
+    "text": "Additionally, he said, promoting risk-signal sharing must go hand in hand with ensuring data security, information confidentiality, and personal data protection.",
+    "lang": "en",
+    "is_title": false
+  }
+]

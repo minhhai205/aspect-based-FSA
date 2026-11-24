@@ -1,0 +1,74 @@
+[
+  {
+    "sent_id": "vneconomy_en_20261031_66db4f2565#0",
+    "doc_id": "vneconomy_en_20261031_66db4f2565",
+    "sent_idx": 0,
+    "text": "SEMIExpo Vietnam 2026 set to open in HCM City",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vneconomy_en_20261031_66db4f2565#1",
+    "doc_id": "vneconomy_en_20261031_66db4f2565",
+    "sent_idx": 1,
+    "text": "SEMIExpo Vietnam 2026, a major semiconductor industry exhibition, is scheduled to open in Ho Chi Minh City on December 3-4, under the theme \"Beyond Aspirations - Shaping the Future of Vietnam's Semiconductor Industry\", according to the SEMIExpo organizing board.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261031_66db4f2565#2",
+    "doc_id": "vneconomy_en_20261031_66db4f2565",
+    "sent_idx": 2,
+    "text": "The event is expected to bring together more than 4,000 delegates from over 20 countries and territories.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261031_66db4f2565#3",
+    "doc_id": "vneconomy_en_20261031_66db4f2565",
+    "sent_idx": 3,
+    "text": "The exhibition will be jointly organised by the Southeast Asia Semiconductor Association (SEMI SEA) and the National Innovation Centre (NIC) under the Ministry of Finance.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261031_66db4f2565#4",
+    "doc_id": "vneconomy_en_20261031_66db4f2565",
+    "sent_idx": 4,
+    "text": "The event will feature around 200 exhibition booths, alongside conferences, technology forums and business networking activities.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261031_66db4f2565#5",
+    "doc_id": "vneconomy_en_20261031_66db4f2565",
+    "sent_idx": 5,
+    "text": "It aims to promote industry cooperation, develop skilled talent and create opportunities for Vietnamese companies to participate more deeply in global semiconductor supply chains.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261031_66db4f2565#6",
+    "doc_id": "vneconomy_en_20261031_66db4f2565",
+    "sent_idx": 6,
+    "text": "Speaking at the press conference held on October 29, Mr. Vo Xuan Hoai, Deputy Director of the NIC, said rapid growth in the global semiconductor industry has created opportunities for Vietnam to strengthen its position in the global value chain.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261031_66db4f2565#7",
+    "doc_id": "vneconomy_en_20261031_66db4f2565",
+    "sent_idx": 7,
+    "text": "Vietnam's semiconductor industry has expanded rapidly, with the number of companies operating in the sector rising from approximately 50 in 2023 to around 100 today, including more than 50 chip design companies.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vneconomy_en_20261031_66db4f2565#8",
+    "doc_id": "vneconomy_en_20261031_66db4f2565",
+    "sent_idx": 8,
+    "text": "International technology groups such as Coherent, Qualcomm, Samsung, LG, SK and Thermo Fisher have also established a presence in Vietnam, contributing to the development of the country's domestic semiconductor ecosystem.",
+    "lang": "en",
+    "is_title": false
+  }
+]

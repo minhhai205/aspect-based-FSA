@@ -1,0 +1,122 @@
+[
+  {
+    "sent_id": "vietnamnews_20261109_c1c8f625c9#0",
+    "doc_id": "vietnamnews_20261109_c1c8f625c9",
+    "sent_idx": 0,
+    "text": "Administrative procedures on foreign currency transactions simplified",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261109_c1c8f625c9#1",
+    "doc_id": "vietnamnews_20261109_c1c8f625c9",
+    "sent_idx": 1,
+    "text": "HÀ NỘI - Some administrative procedures for foreign currency transactions between the State Bank of Vietnam (SBV) and credit institutions will be simplified from Monday, under a newly issued circular.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261109_c1c8f625c9#2",
+    "doc_id": "vietnamnews_20261109_c1c8f625c9",
+    "sent_idx": 2,
+    "text": "Under Circular 48/2026/TT-NHNN on foreign currency transactions between the State Bank of Vietnam (SBV) and credit institutions authorised to engage in foreign exchange activities, the number of required procedures has been cut from four to two.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261109_c1c8f625c9#3",
+    "doc_id": "vietnamnews_20261109_c1c8f625c9",
+    "sent_idx": 3,
+    "text": "Online submission is now also permitted, alongside in-person and postal submissions.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261109_c1c8f625c9#4",
+    "doc_id": "vietnamnews_20261109_c1c8f625c9",
+    "sent_idx": 4,
+    "text": "The registration dossier now comprises just two documents: an application to establish a foreign currency trading relationship with the SBV and standard payment instructions for foreign currency transactions with the central bank.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261109_c1c8f625c9#5",
+    "doc_id": "vietnamnews_20261109_c1c8f625c9",
+    "sent_idx": 5,
+    "text": "Credit institutions are no longer required to submit separate internal regulations governing the execution of foreign currency transactions with the SBV or descriptions of the means used to conduct such transactions.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261109_c1c8f625c9#6",
+    "doc_id": "vietnamnews_20261109_c1c8f625c9",
+    "sent_idx": 6,
+    "text": "In addition to simplifying procedures, Circular 48 amends regulations on the settlement of foreign currency transactions, delayed settlements and credit institutions' reporting obligations.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261109_c1c8f625c9#7",
+    "doc_id": "vietnamnews_20261109_c1c8f625c9",
+    "sent_idx": 7,
+    "text": "Foreign currency transactions must be settled in accordance with standard procedures registered with the SBV.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261109_c1c8f625c9#8",
+    "doc_id": "vietnamnews_20261109_c1c8f625c9",
+    "sent_idx": 8,
+    "text": "If a settlement is delayed beyond the agreed date, the party causing the delay must pay a penalty calculated based on the settlement currency.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261109_c1c8f625c9#9",
+    "doc_id": "vietnamnews_20261109_c1c8f625c9",
+    "sent_idx": 9,
+    "text": "For settlements in foreign currency, the penalty is set at 150 per cent of the overnight interest rate applied by the correspondent bank of the party affected by the delay.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261109_c1c8f625c9#10",
+    "doc_id": "vietnamnews_20261109_c1c8f625c9",
+    "sent_idx": 10,
+    "text": "For settlements in Vietnamese đồng , the penalty is set at 150 per cent of the overnight lending rate for interbank electronic payments announced by the SBV at the time of the delay.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261109_c1c8f625c9#11",
+    "doc_id": "vietnamnews_20261109_c1c8f625c9",
+    "sent_idx": 11,
+    "text": "The penalty is calculated based on the amount involved and the number of days of delay.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261109_c1c8f625c9#12",
+    "doc_id": "vietnamnews_20261109_c1c8f625c9",
+    "sent_idx": 12,
+    "text": "It does not apply when the delay results from a force majeure event as defined under the Civil Code.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261109_c1c8f625c9#13",
+    "doc_id": "vietnamnews_20261109_c1c8f625c9",
+    "sent_idx": 13,
+    "text": "The circular also allows the SBV to suspend a credit institution's foreign currency trading activities for three months if it fails to submit required reports or submits them late on at least three occasions within three consecutive months.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261109_c1c8f625c9#14",
+    "doc_id": "vietnamnews_20261109_c1c8f625c9",
+    "sent_idx": 14,
+    "text": "Credit institutions must also notify the SBV's Foreign Exchange Management Department in writing of any changes to previously registered information that require updating. - BIZHUB/VNS",
+    "lang": "en",
+    "is_title": false
+  }
+]

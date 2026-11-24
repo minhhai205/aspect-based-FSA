@@ -1,0 +1,298 @@
+[
+  {
+    "sent_id": "vietnamnews_20261120_bacbb55a8b#0",
+    "doc_id": "vietnamnews_20261120_bacbb55a8b",
+    "sent_idx": 0,
+    "text": "Viettel brings mobile coverage to more than 130,000 people in remote areas",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261120_bacbb55a8b#1",
+    "doc_id": "vietnamnews_20261120_bacbb55a8b",
+    "sent_idx": 1,
+    "text": "HÀ NỘI - Viettel has brought high-speed mobile connectivity to around 130,000 people in some of Việt Nam's most remote areas after installing 1,337 mobile base stations under a Government programme to eliminate mobile coverage gaps in remote, mountainous and border areas.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261120_bacbb55a8b#2",
+    "doc_id": "vietnamnews_20261120_bacbb55a8b",
+    "sent_idx": 2,
+    "text": "The results were announced at a conference held by the Ministry of National Defence on November 20 to review the 2026 programme, which was launched to provide mobile coverage to villages and residential clusters without access to mobile networks.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261120_bacbb55a8b#3",
+    "doc_id": "vietnamnews_20261120_bacbb55a8b",
+    "sent_idx": 3,
+    "text": "After more than seven months of implementation, the new base transceiver stations have provided coverage to 788 villages and 1,068 residential clusters with populations of more than 50 people, bringing Viettel's nationwide mobile population coverage to 99.7 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261120_bacbb55a8b#4",
+    "doc_id": "vietnamnews_20261120_bacbb55a8b",
+    "sent_idx": 4,
+    "text": "The conference was attended by General Phan Văn Giang, Deputy Prime Minister and Minister of National Defence, along with senior military officials, representatives of ministries and central agencies, Viettel leaders and representatives from 23 provinces and cities.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261120_bacbb55a8b#5",
+    "doc_id": "vietnamnews_20261120_bacbb55a8b",
+    "sent_idx": 5,
+    "text": "Politburo Resolution 57 identifies digital infrastructure as a foundation for national digital transformation, with people at its centre.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261120_bacbb55a8b#6",
+    "doc_id": "vietnamnews_20261120_bacbb55a8b",
+    "sent_idx": 6,
+    "text": "In March, then-Prime Minister Phạm Minh Chính assigned the Central Military Commission and the Ministry of National Defence to direct Viettel to eliminate mobile coverage gaps in remote, mountainous and border areas within the year.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261120_bacbb55a8b#7",
+    "doc_id": "vietnamnews_20261120_bacbb55a8b",
+    "sent_idx": 7,
+    "text": "The task represented one of the most challenging remaining stages in Việt Nam's more than three-decade journey of mobile network development, as the uncovered areas were scattered across mountainous and border regions with difficult terrain, where conventional vehicles often could not reach.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261120_bacbb55a8b#8",
+    "doc_id": "vietnamnews_20261120_bacbb55a8b",
+    "sent_idx": 8,
+    "text": "Viettel began simultaneous surveys, network design, site acquisition and equipment preparation in March.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261120_bacbb55a8b#9",
+    "doc_id": "vietnamnews_20261120_bacbb55a8b",
+    "sent_idx": 9,
+    "text": "Connectivity solutions were tailored to local terrain.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261120_bacbb55a8b#10",
+    "doc_id": "vietnamnews_20261120_bacbb55a8b",
+    "sent_idx": 10,
+    "text": "The company deployed 3,800km of fibre-optic cables and 10,000 transmission poles in areas accessible to cable infrastructure, while using 170 microwave transmission routes where fibre-optic connections were not feasible.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261120_bacbb55a8b#11",
+    "doc_id": "vietnamnews_20261120_bacbb55a8b",
+    "sent_idx": 11,
+    "text": "Low-Earth-orbit satellite connectivity was used for the most isolated locations.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261120_bacbb55a8b#12",
+    "doc_id": "vietnamnews_20261120_bacbb55a8b",
+    "sent_idx": 12,
+    "text": "For base stations without access to the national power grid, Viettel installed more than 600km of new power lines and solar power systems.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261120_bacbb55a8b#13",
+    "doc_id": "vietnamnews_20261120_bacbb55a8b",
+    "sent_idx": 13,
+    "text": "The programme brought together resources from multiple military units and local authorities.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261120_bacbb55a8b#14",
+    "doc_id": "vietnamnews_20261120_bacbb55a8b",
+    "sent_idx": 14,
+    "text": "Military Region 1, Military Region 2, Military Region 4, the Border Guard Command and provincial military commands in Lạng Sơn, Cao Bằng, Điện Biên and Quảng Trị worked to address difficulties on the ground and mobilise local forces to transport equipment and materials.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261120_bacbb55a8b#15",
+    "doc_id": "vietnamnews_20261120_bacbb55a8b",
+    "sent_idx": 15,
+    "text": "Local authorities, the electricity sector and residents also played an important role in supporting implementation.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261120_bacbb55a8b#16",
+    "doc_id": "vietnamnews_20261120_bacbb55a8b",
+    "sent_idx": 16,
+    "text": "Beyond expanding telecommunications infrastructure, the programme is expected to deliver tangible social benefits.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261120_bacbb55a8b#17",
+    "doc_id": "vietnamnews_20261120_bacbb55a8b",
+    "sent_idx": 17,
+    "text": "Mobile connectivity enables people in mountainous areas to receive timely disaster warnings and gives students better access to online learning resources.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261120_bacbb55a8b#18",
+    "doc_id": "vietnamnews_20261120_bacbb55a8b",
+    "sent_idx": 18,
+    "text": "In border areas, 48 newly installed stations also support border guard forces in patrols and border management.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261120_bacbb55a8b#19",
+    "doc_id": "vietnamnews_20261120_bacbb55a8b",
+    "sent_idx": 19,
+    "text": "For residents of previously isolated villages, the change is particularly significant.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261120_bacbb55a8b#20",
+    "doc_id": "vietnamnews_20261120_bacbb55a8b",
+    "sent_idx": 20,
+    "text": "Many had to walk three to five kilometres, or even farther, to find a mobile signal and contact their families.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261120_bacbb55a8b#21",
+    "doc_id": "vietnamnews_20261120_bacbb55a8b",
+    "sent_idx": 21,
+    "text": "Lý Văn May, a resident of Kiến Thiết Commune in Tuyên Quang Province, said: \"We are extremely grateful to Viettel for coming all the way here to complete this mission.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261120_bacbb55a8b#22",
+    "doc_id": "vietnamnews_20261120_bacbb55a8b",
+    "sent_idx": 22,
+    "text": "Our village is no longer isolated and can now connect with the wider world.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261120_bacbb55a8b#23",
+    "doc_id": "vietnamnews_20261120_bacbb55a8b",
+    "sent_idx": 23,
+    "text": "Addressing the conference, General Giang praised Viettel's spirit of self-reliance, initiative and determination, while recognising the close coordination among military units and the support of local authorities and residents.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261120_bacbb55a8b#24",
+    "doc_id": "vietnamnews_20261120_bacbb55a8b",
+    "sent_idx": 24,
+    "text": "\"The people's livelihoods are the goal of our Party and State.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261120_bacbb55a8b#25",
+    "doc_id": "vietnamnews_20261120_bacbb55a8b",
+    "sent_idx": 25,
+    "text": "Wherever people live and officials and soldiers are stationed to protect national sovereignty and border security, telecommunications infrastructure and digital services are needed,\" he said.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261120_bacbb55a8b#26",
+    "doc_id": "vietnamnews_20261120_bacbb55a8b",
+    "sent_idx": 26,
+    "text": "\"Completing the base stations today is only the beginning.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261120_bacbb55a8b#27",
+    "doc_id": "vietnamnews_20261120_bacbb55a8b",
+    "sent_idx": 27,
+    "text": "What matters now is ensuring that the infrastructure continues to operate reliably.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261120_bacbb55a8b#28",
+    "doc_id": "vietnamnews_20261120_bacbb55a8b",
+    "sent_idx": 28,
+    "text": "He urged Viettel to maintain stable and secure operations, prepare backup equipment and materials, and ensure on-site power supplies so that communications remain uninterrupted under all circumstances.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261120_bacbb55a8b#29",
+    "doc_id": "vietnamnews_20261120_bacbb55a8b",
+    "sent_idx": 29,
+    "text": "Military regions, border guard forces and units stationed in the areas were also asked to work together to manage, protect and make use of telecommunications infrastructure for national defence purposes.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261120_bacbb55a8b#30",
+    "doc_id": "vietnamnews_20261120_bacbb55a8b",
+    "sent_idx": 30,
+    "text": "The Border Guard Command was encouraged to take the lead in developing modern border management platforms.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261120_bacbb55a8b#31",
+    "doc_id": "vietnamnews_20261120_bacbb55a8b",
+    "sent_idx": 31,
+    "text": "Viettel Chairman and General Director Tào Đức Thắng said decisive leadership and close direction from the Government, the Central Military Commission and the Ministry of National Defence had been critical to the programme's success.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261120_bacbb55a8b#32",
+    "doc_id": "vietnamnews_20261120_bacbb55a8b",
+    "sent_idx": 32,
+    "text": "However, he stressed that the campaign would not end with the completion of the 1,337 stations.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261120_bacbb55a8b#33",
+    "doc_id": "vietnamnews_20261120_bacbb55a8b",
+    "sent_idx": 33,
+    "text": "\"There is still much work ahead.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261120_bacbb55a8b#34",
+    "doc_id": "vietnamnews_20261120_bacbb55a8b",
+    "sent_idx": 34,
+    "text": "Many residential clusters in even more challenging locations, with smaller populations of just 30-50 people, or even 10-30 people - equivalent to two to five households - are still waiting to be connected,\" he said.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261120_bacbb55a8b#35",
+    "doc_id": "vietnamnews_20261120_bacbb55a8b",
+    "sent_idx": 35,
+    "text": "Viettel will continue researching and applying suitable technologies to gradually extend coverage to less populated and harder-to-reach areas.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261120_bacbb55a8b#36",
+    "doc_id": "vietnamnews_20261120_bacbb55a8b",
+    "sent_idx": 36,
+    "text": "Each new base station built in remote border regions represents a concrete step towards ensuring that no one is left behind in the country's digital transformation journey. - VNS",
+    "lang": "en",
+    "is_title": false
+  }
+]

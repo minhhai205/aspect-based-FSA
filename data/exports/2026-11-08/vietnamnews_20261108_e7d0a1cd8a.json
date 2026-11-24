@@ -1,0 +1,114 @@
+[
+  {
+    "sent_id": "vietnamnews_20261108_e7d0a1cd8a#0",
+    "doc_id": "vietnamnews_20261108_e7d0a1cd8a",
+    "sent_idx": 0,
+    "text": "Việt Nam launches anti-dumping probe into stainless steel imports",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261108_e7d0a1cd8a#1",
+    "doc_id": "vietnamnews_20261108_e7d0a1cd8a",
+    "sent_idx": 1,
+    "text": "HÀ NỘI - Việt Nam's Ministry of Industry and Trade has launched an anti-dumping investigation into some cold-rolled stainless steel products imported from mainland China, Indonesia and Taiwan (China), following petitions from two domestic manufacturers.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261108_e7d0a1cd8a#2",
+    "doc_id": "vietnamnews_20261108_e7d0a1cd8a",
+    "sent_idx": 2,
+    "text": "On November 6, the ministry issued Decision 2948/QĐ-BCT to initiate the investigation into the application of anti-dumping measures on the products originating from the three markets.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261108_e7d0a1cd8a#3",
+    "doc_id": "vietnamnews_20261108_e7d0a1cd8a",
+    "sent_idx": 3,
+    "text": "The decision followed an assessment of petitions filed by Posco VST Co, Ltd and Tân Việt Metal Science and Technology Co, Ltd, which represent the domestic manufacturing industry.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261108_e7d0a1cd8a#4",
+    "doc_id": "vietnamnews_20261108_e7d0a1cd8a",
+    "sent_idx": 4,
+    "text": "The period of investigation for determining dumping runs from October 1, 2025 to September 30, 2026.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261108_e7d0a1cd8a#5",
+    "doc_id": "vietnamnews_20261108_e7d0a1cd8a",
+    "sent_idx": 5,
+    "text": "The period for assessing injury to the domestic industry covers October 1, 2022 to September 30, 2026.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261108_e7d0a1cd8a#6",
+    "doc_id": "vietnamnews_20261108_e7d0a1cd8a",
+    "sent_idx": 6,
+    "text": "In their petitions, the companies have proposed dumping margins of 76.6 per cent for imports from mainland China, 75.5 per cent for those from Indonesia and 51 per cent for imports from Taiwan (China).",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261108_e7d0a1cd8a#7",
+    "doc_id": "vietnamnews_20261108_e7d0a1cd8a",
+    "sent_idx": 7,
+    "text": "The products under investigation are cold-rolled stainless steel in coils, sheets or strips, with a thickness of no more than 3.5 mm.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261108_e7d0a1cd8a#8",
+    "doc_id": "vietnamnews_20261108_e7d0a1cd8a",
+    "sent_idx": 8,
+    "text": "They may or may not have undergone annealing, heat treatment, pickling or descaling to remove excess surface impurities.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261108_e7d0a1cd8a#9",
+    "doc_id": "vietnamnews_20261108_e7d0a1cd8a",
+    "sent_idx": 9,
+    "text": "The investigation covers products classified under nine Harmonised System (HS) codes: 7219.32.00, 7219.33.00, 7219.34.00, 7219.35.00, 7219.90.00, 7220.20.10, 7220.20.90, 7220.90.10 and 7220.90.90.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261108_e7d0a1cd8a#10",
+    "doc_id": "vietnamnews_20261108_e7d0a1cd8a",
+    "sent_idx": 10,
+    "text": "Following the initiation of the investigation, the ministry will collect information from relevant parties.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261108_e7d0a1cd8a#11",
+    "doc_id": "vietnamnews_20261108_e7d0a1cd8a",
+    "sent_idx": 11,
+    "text": "The information collected will be used to assess whether exporters in the markets concerned have engaged in dumping, the extent of injury to the domestic industry, and the causal link between the alleged dumping and the injury identified.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261108_e7d0a1cd8a#12",
+    "doc_id": "vietnamnews_20261108_e7d0a1cd8a",
+    "sent_idx": 12,
+    "text": "Based on its preliminary findings, the investigating authority may recommend that the Minister of Industry and Trade impose provisional anti-dumping duties if deemed necessary.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261108_e7d0a1cd8a#13",
+    "doc_id": "vietnamnews_20261108_e7d0a1cd8a",
+    "sent_idx": 13,
+    "text": "To protect their legitimate rights and interests, the ministry has urged organisations and individuals involved in importing, exporting, distributing, trading or using the products under investigation to register as interested parties and provide the necessary information to the ministry. - VNS",
+    "lang": "en",
+    "is_title": false
+  }
+]

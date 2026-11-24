@@ -1,0 +1,154 @@
+[
+  {
+    "sent_id": "vietnamnews_20261109_1c04e85bb0#0",
+    "doc_id": "vietnamnews_20261109_1c04e85bb0",
+    "sent_idx": 0,
+    "text": "Market falls on rising selling force",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261109_1c04e85bb0#1",
+    "doc_id": "vietnamnews_20261109_1c04e85bb0",
+    "sent_idx": 1,
+    "text": "HÀ NỘI - The market opened the new trading week on a negative note as selling pressure intensified, particularly among large-cap stocks, while foreign investors returned to heavy net selling.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261109_1c04e85bb0#2",
+    "doc_id": "vietnamnews_20261109_1c04e85bb0",
+    "sent_idx": 2,
+    "text": "On the Hochiminh Stock Exchange (HoSE), the VN-Index closed down 11.04 points, or 0.64 per cent, at 1,714.32 points.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261109_1c04e85bb0#3",
+    "doc_id": "vietnamnews_20261109_1c04e85bb0",
+    "sent_idx": 3,
+    "text": "The VN30-Index, which tracks the 30 largest stocks by market capitalisation and liquidity, fell 16.26 points, or 0.88 per cent, to 1,830.13 points.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261109_1c04e85bb0#4",
+    "doc_id": "vietnamnews_20261109_1c04e85bb0",
+    "sent_idx": 4,
+    "text": "Market breadth favoured decliners, with 187 stocks falling, compared with 129 gainers.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261109_1c04e85bb0#5",
+    "doc_id": "vietnamnews_20261109_1c04e85bb0",
+    "sent_idx": 5,
+    "text": "Liquidity remained subdued, with total trading value below VNĐ14 trillion (nearly US$549 million).",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261109_1c04e85bb0#6",
+    "doc_id": "vietnamnews_20261109_1c04e85bb0",
+    "sent_idx": 6,
+    "text": "Large-cap stocks weighed heavily on the benchmark.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261109_1c04e85bb0#7",
+    "doc_id": "vietnamnews_20261109_1c04e85bb0",
+    "sent_idx": 7,
+    "text": "Vinhomes (VHM) declined 274 per cent, leading the market's downturn and erasing 2.84 points.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261109_1c04e85bb0#8",
+    "doc_id": "vietnamnews_20261109_1c04e85bb0",
+    "sent_idx": 8,
+    "text": "Financial stocks showed clear divergence, with major banking and securities shares facing selling pressure.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261109_1c04e85bb0#9",
+    "doc_id": "vietnamnews_20261109_1c04e85bb0",
+    "sent_idx": 9,
+    "text": "Most other major financial stocks closed lower.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261109_1c04e85bb0#10",
+    "doc_id": "vietnamnews_20261109_1c04e85bb0",
+    "sent_idx": 10,
+    "text": "SSI Securities Corporation (SSI) dropped 2.45 per cent, VNDirect Securities Corporation (VND) fell 3.34 per cent and Ho Chi Minh City Securities Corporation (HCM) lost 1.27 per cent, while VIX Securities (VIX), VietinBank (CTG) and Vietcap Securities (VCI) fell 2.62 per cent, 0.63 per cent and 2.48 per cent, respectively.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261109_1c04e85bb0#11",
+    "doc_id": "vietnamnews_20261109_1c04e85bb0",
+    "sent_idx": 11,
+    "text": "Among banks, Sacombank (STB) declined 2.14 per cent, LPBank (LPB) fell 1.69 per cent and HDBank (HDB) lost 1.33 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261109_1c04e85bb0#12",
+    "doc_id": "vietnamnews_20261109_1c04e85bb0",
+    "sent_idx": 12,
+    "text": "In contrast, VPBank (VPB) rose 0.91 per cent, Asia Commercial Bank (ACB) gained 0.74 per cent and MBBank (MBB) edged up 0.26 per cent, while Vietcombank (VCB) ended unchanged.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261109_1c04e85bb0#13",
+    "doc_id": "vietnamnews_20261109_1c04e85bb0",
+    "sent_idx": 13,
+    "text": "On the Hanoi Stock Exchange (HNX), the HNX-Index also lost 1.49 points, or 0.58 per cent, to close at 255.24 points.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261109_1c04e85bb0#14",
+    "doc_id": "vietnamnews_20261109_1c04e85bb0",
+    "sent_idx": 14,
+    "text": "Foreign investors also stepped up selling, recording net outflows of nearly VNĐ900 billion during the session, their highest level in three weeks.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261109_1c04e85bb0#15",
+    "doc_id": "vietnamnews_20261109_1c04e85bb0",
+    "sent_idx": 15,
+    "text": "The analysis team at ACB Securities said the market's negative breadth indicated that selling pressure continued to dominate whenever the benchmark attempted to recover.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261109_1c04e85bb0#16",
+    "doc_id": "vietnamnews_20261109_1c04e85bb0",
+    "sent_idx": 16,
+    "text": "The securities firm advised investors to prioritise risk management and avoid chasing rising prices.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261109_1c04e85bb0#17",
+    "doc_id": "vietnamnews_20261109_1c04e85bb0",
+    "sent_idx": 17,
+    "text": "It suggested that investors could consider exploratory buying when the VN-Index approaches the 1,700-1,720-point range.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261109_1c04e85bb0#18",
+    "doc_id": "vietnamnews_20261109_1c04e85bb0",
+    "sent_idx": 18,
+    "text": "However, if continued selling pressure pushes the index below 1,700 points, investors should gradually reduce the proportion of equities in their portfolios, the team said. - BIZHUB/VNS",
+    "lang": "en",
+    "is_title": false
+  }
+]

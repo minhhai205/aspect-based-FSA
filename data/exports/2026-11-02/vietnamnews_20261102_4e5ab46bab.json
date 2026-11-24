@@ -1,0 +1,210 @@
+[
+  {
+    "sent_id": "vietnamnews_20261102_4e5ab46bab#0",
+    "doc_id": "vietnamnews_20261102_4e5ab46bab",
+    "sent_idx": 0,
+    "text": "Explainer: Why Việt Nam is cutting electricity prices and how the new five-tier tariff affects bills",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261102_4e5ab46bab#1",
+    "doc_id": "vietnamnews_20261102_4e5ab46bab",
+    "sent_idx": 1,
+    "text": "HÀ NỘI - Việt Nam has cut its average retail electricity price by 2 per cent from November 1, 2026, while replacing its six-tier household electricity tariff with a five-tier structure, in a move aimed at easing production costs and simplifying electricity billing.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261102_4e5ab46bab#2",
+    "doc_id": "vietnamnews_20261102_4e5ab46bab",
+    "sent_idx": 2,
+    "text": "The average retail electricity price has fallen to VNĐ2,159.9037 ($0.082) per kWh, excluding value-added tax (VAT), the first cut in around 20 years, excluding temporary electricity bill reductions and support measures introduced during the COVID-19 pandemic.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261102_4e5ab46bab#3",
+    "doc_id": "vietnamnews_20261102_4e5ab46bab",
+    "sent_idx": 3,
+    "text": "Together with strong cuts on petrol price on the same day, the electricity price cut is intended to ease financial pressure on households and businesses at a time when companies face significant cost pressures, including energy, fuel, financing and imported inputs.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261102_4e5ab46bab#4",
+    "doc_id": "vietnamnews_20261102_4e5ab46bab",
+    "sent_idx": 4,
+    "text": "The reduction comes as Việt Nam seeks to ease inflationary pressures, reduce business costs and support economic growth as the country is eyeing double-digit growth this year and over the 2026-30 period.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261102_4e5ab46bab#5",
+    "doc_id": "vietnamnews_20261102_4e5ab46bab",
+    "sent_idx": 5,
+    "text": "The Vietnamese economy is under significant pressure to expand by more than 12.5 per cent in the last quarter of this year to achieve the full-year target, after recording 9.01 per cent growth in the first nine months of 2026.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261102_4e5ab46bab#6",
+    "doc_id": "vietnamnews_20261102_4e5ab46bab",
+    "sent_idx": 6,
+    "text": "How does the new five-tier household tariff work?",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261102_4e5ab46bab#7",
+    "doc_id": "vietnamnews_20261102_4e5ab46bab",
+    "sent_idx": 7,
+    "text": "The Ministry of Industry and Trade on October 31 issued Decision No. 2892/QĐ-BCT, which replaced the six-tier residential electricity tariff with five tiers from November 1.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261102_4e5ab46bab#8",
+    "doc_id": "vietnamnews_20261102_4e5ab46bab",
+    "sent_idx": 8,
+    "text": "Under the new structure, households pay VNĐ1,901 per kWh for the first 100 kWh consumed each month, VNĐ2,289 for the next 100 kWh, VNĐ2,894 for consumption between 201 kWh and 400 kWh, VNĐ3,456 for 401-700 kWh, and VNĐ3,844 for each kWh above 700.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261102_4e5ab46bab#9",
+    "doc_id": "vietnamnews_20261102_4e5ab46bab",
+    "sent_idx": 9,
+    "text": "Compared with the previous six-tier structure, the first 50 kWh was charged at VNĐ1,984 per kWh, while consumption above 400 kWh fell into the highest tariff of VNĐ3,460 per kWh.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261102_4e5ab46bab#10",
+    "doc_id": "vietnamnews_20261102_4e5ab46bab",
+    "sent_idx": 10,
+    "text": "How will household electricity bills change?",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261102_4e5ab46bab#11",
+    "doc_id": "vietnamnews_20261102_4e5ab46bab",
+    "sent_idx": 11,
+    "text": "The impact depends on monthly consumption, with most households using moderate consumption expected to benefit, while some high-consumption households could pay more.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261102_4e5ab46bab#12",
+    "doc_id": "vietnamnews_20261102_4e5ab46bab",
+    "sent_idx": 12,
+    "text": "Calculations excluding VAT show that a household consuming 200 kWh per month will pay around VNĐ419,000 down VNĐ20,700 from the previous tariff.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261102_4e5ab46bab#13",
+    "doc_id": "vietnamnews_20261102_4e5ab46bab",
+    "sent_idx": 13,
+    "text": "For consumption of 400 kWh, the bill falls by VNĐ76,700 to approximately VNĐ997,800.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261102_4e5ab46bab#14",
+    "doc_id": "vietnamnews_20261102_4e5ab46bab",
+    "sent_idx": 14,
+    "text": "However, a household consuming 1,000 kWh will pay approximately VNĐ3.188 million, up VNĐ37,300.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261102_4e5ab46bab#15",
+    "doc_id": "vietnamnews_20261102_4e5ab46bab",
+    "sent_idx": 15,
+    "text": "The new pricing framework also introduces a separate electricity tariff for electric vehicle (EV) charging stations, with rates differentiated by time of use and voltage level, aiming to encourage charging during periods of lower demand.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261102_4e5ab46bab#16",
+    "doc_id": "vietnamnews_20261102_4e5ab46bab",
+    "sent_idx": 16,
+    "text": "Off-peak hours run from midnight to 6am daily.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261102_4e5ab46bab#17",
+    "doc_id": "vietnamnews_20261102_4e5ab46bab",
+    "sent_idx": 17,
+    "text": "Peak hours apply from Monday to Saturday, between 5:30pm and 10:30pm.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261102_4e5ab46bab#18",
+    "doc_id": "vietnamnews_20261102_4e5ab46bab",
+    "sent_idx": 18,
+    "text": "Sundays have no peak-price period.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261102_4e5ab46bab#19",
+    "doc_id": "vietnamnews_20261102_4e5ab46bab",
+    "sent_idx": 19,
+    "text": "All other hours are classified as normal.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261102_4e5ab46bab#20",
+    "doc_id": "vietnamnews_20261102_4e5ab46bab",
+    "sent_idx": 20,
+    "text": "For charging stations connected at a low voltage of up to 1 kV, electricity costs VNĐ1,626 per kWh during off-peak hours, VNĐ2,700 during normal hours and VNĐ4,212 during peak hours.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261102_4e5ab46bab#21",
+    "doc_id": "vietnamnews_20261102_4e5ab46bab",
+    "sent_idx": 21,
+    "text": "For facilities using medium voltage or higher, the respective rates are VNĐ1,534, VNĐ2,549 and VNĐ3,758 per kWh.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261102_4e5ab46bab#22",
+    "doc_id": "vietnamnews_20261102_4e5ab46bab",
+    "sent_idx": 22,
+    "text": "The difference can be substantial.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261102_4e5ab46bab#23",
+    "doc_id": "vietnamnews_20261102_4e5ab46bab",
+    "sent_idx": 23,
+    "text": "At low voltage, charging 100 kWh during off-peak hours costs VNĐ162,600 compared with VNĐ421,200 during peak hours.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261102_4e5ab46bab#24",
+    "doc_id": "vietnamnews_20261102_4e5ab46bab",
+    "sent_idx": 24,
+    "text": "Households charging electric vehicles through their ordinary residential meters will continue to pay under the household tariff rather than automatically receiving the special off-peak charging rate.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261102_4e5ab46bab#25",
+    "doc_id": "vietnamnews_20261102_4e5ab46bab",
+    "sent_idx": 25,
+    "text": "Tourist accommodation establishments have also been placed in a separate electricity pricing category, with rates differentiated by time of use and voltage level instead of being grouped under general business electricity tariffs. - BIZHUB/VNS",
+    "lang": "en",
+    "is_title": false
+  }
+]

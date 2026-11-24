@@ -1,0 +1,618 @@
+[
+  {
+    "sent_id": "vietnamnews_20261107_8e7ead0aa1#0",
+    "doc_id": "vietnamnews_20261107_8e7ead0aa1",
+    "sent_idx": 0,
+    "text": "Economic diplomacy takes centre stage in Việt Nam's energy security",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261107_8e7ead0aa1#1",
+    "doc_id": "vietnamnews_20261107_8e7ead0aa1",
+    "sent_idx": 1,
+    "text": "As Việt Nam faces declining domestic oil and gas production, growing dependence on imported energy and mounting geopolitical uncertainties, economic diplomacy is becoming increasingly important to national energy security.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_8e7ead0aa1#2",
+    "doc_id": "vietnamnews_20261107_8e7ead0aa1",
+    "sent_idx": 2,
+    "text": "Stronger international partnerships, diversified supplies, technology cooperation and a predictable legal framework will be essential to securing the industry's next phase of development.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_8e7ead0aa1#3",
+    "doc_id": "vietnamnews_20261107_8e7ead0aa1",
+    "sent_idx": 3,
+    "text": "The oil and gas industry that economic diplomacy helped build in the 1980s now needs diplomacy once again for its next phase of growth to secure partners, supplies and technology, and to shape the rules.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_8e7ead0aa1#4",
+    "doc_id": "vietnamnews_20261107_8e7ead0aa1",
+    "sent_idx": 4,
+    "text": "When the Strait of Hormuz was closed to tanker traffic at the end of February this year, the Government's initial response extended beyond Petrovietnam and domestic refineries to include the Ministry of Foreign Affairs.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_8e7ead0aa1#5",
+    "doc_id": "vietnamnews_20261107_8e7ead0aa1",
+    "sent_idx": 5,
+    "text": "Within days, Vietnamese leaders had made telephone calls to their counterparts in the Gulf, while a joint task force involving the energy sector, the foreign ministry and Petrovietnam was established.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_8e7ead0aa1#6",
+    "doc_id": "vietnamnews_20261107_8e7ead0aa1",
+    "sent_idx": 6,
+    "text": "The Government also called for a study of a national crude oil reserve.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_8e7ead0aa1#7",
+    "doc_id": "vietnamnews_20261107_8e7ead0aa1",
+    "sent_idx": 7,
+    "text": "The International Energy Agency's coordinated release of 400 million barrels on March 11 calmed the market.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_8e7ead0aa1#8",
+    "doc_id": "vietnamnews_20261107_8e7ead0aa1",
+    "sent_idx": 8,
+    "text": "But Brent crude had already climbed above US$100 a barrel, reminding every importing country of a simple fact: in an energy shock, what you can buy depends on whom you can call.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_8e7ead0aa1#9",
+    "doc_id": "vietnamnews_20261107_8e7ead0aa1",
+    "sent_idx": 9,
+    "text": "Việt Nam is particularly exposed to such risks.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_8e7ead0aa1#10",
+    "doc_id": "vietnamnews_20261107_8e7ead0aa1",
+    "sent_idx": 10,
+    "text": "Domestic crude oil production has fallen to roughly half its 2004 peak, reflecting the natural decline of mature oilfields.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_8e7ead0aa1#11",
+    "doc_id": "vietnamnews_20261107_8e7ead0aa1",
+    "sent_idx": 11,
+    "text": "Nghi Sơn, one of the country's two refineries, runs on Kuwaiti crude under the terms of its joint venture agreement.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_8e7ead0aa1#12",
+    "doc_id": "vietnamnews_20261107_8e7ead0aa1",
+    "sent_idx": 12,
+    "text": "Meanwhile, domestic fuel stocks cover about a month of consumption, well below the target of 90 days of net imports set for 2030 under the Party's Resolution 70 on ensuring national energy security, issued in August 2025.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_8e7ead0aa1#13",
+    "doc_id": "vietnamnews_20261107_8e7ead0aa1",
+    "sent_idx": 13,
+    "text": "The gas fields that fed the power plants in the southeastern region for three decades are also declining.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_8e7ead0aa1#14",
+    "doc_id": "vietnamnews_20261107_8e7ead0aa1",
+    "sent_idx": 14,
+    "text": "The liquefied natural gas (LNG) terminals built to offset the shortfall had, until this year, relied entirely on spot-market purchases for their supplies.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_8e7ead0aa1#15",
+    "doc_id": "vietnamnews_20261107_8e7ead0aa1",
+    "sent_idx": 15,
+    "text": "None of these is a story of failure, however.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_8e7ead0aa1#16",
+    "doc_id": "vietnamnews_20261107_8e7ead0aa1",
+    "sent_idx": 16,
+    "text": "They reflect the natural evolution of a maturing petroleum industry and highlight the need for Việt Nam to adapt its energy strategy to changing domestic and international conditions.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_8e7ead0aa1#17",
+    "doc_id": "vietnamnews_20261107_8e7ead0aa1",
+    "sent_idx": 17,
+    "text": "That is why the National Assembly passed a new Petroleum Law in August, scheduled to take effect on March 1 next year.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_8e7ead0aa1#18",
+    "doc_id": "vietnamnews_20261107_8e7ead0aa1",
+    "sent_idx": 18,
+    "text": "But while the legislation establishes a framework for managing and developing domestic resources, it cannot address the country's wider energy challenges on its own.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_8e7ead0aa1#19",
+    "doc_id": "vietnamnews_20261107_8e7ead0aa1",
+    "sent_idx": 19,
+    "text": "It does not answer the question of who will help us find the next oil and gas fields, who will sell us gas in the meantime, who will bring the technology to turn offshore platforms into wind farms and carbon stores, and under what rules all of this will happen.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_8e7ead0aa1#20",
+    "doc_id": "vietnamnews_20261107_8e7ead0aa1",
+    "sent_idx": 20,
+    "text": "Those are questions for economic diplomacy - and they are not new ones.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_8e7ead0aa1#21",
+    "doc_id": "vietnamnews_20261107_8e7ead0aa1",
+    "sent_idx": 21,
+    "text": "The history of Việt Nam's petroleum industry shows how diplomacy can translate into tangible economic development.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_8e7ead0aa1#22",
+    "doc_id": "vietnamnews_20261107_8e7ead0aa1",
+    "sent_idx": 22,
+    "text": "The country's oil industry began with a treaty.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_8e7ead0aa1#23",
+    "doc_id": "vietnamnews_20261107_8e7ead0aa1",
+    "sent_idx": 23,
+    "text": "The intergovernmental agreement with the Soviet Union in 1981 established Vietsovpetro, a joint venture that discovered oil in the fractured basement of Bạch Hổ field in 1986, a geological surprise because conventional geological thinking held that such formations could not contain oil.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_8e7ead0aa1#24",
+    "doc_id": "vietnamnews_20261107_8e7ead0aa1",
+    "sent_idx": 24,
+    "text": "Over 40 years later, Vietsovpetro has produced more than 250 million tonnes, generated over $89 billion in revenue and continues to account for about a third of national crude oil output.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_8e7ead0aa1#25",
+    "doc_id": "vietnamnews_20261107_8e7ead0aa1",
+    "sent_idx": 25,
+    "text": "Its sister venture in Russia's Nenets District, Rusvietpetro, has produced more than 40 million tonnes and remains one of Việt Nam's most successful overseas petroleum investments.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_8e7ead0aa1#26",
+    "doc_id": "vietnamnews_20261107_8e7ead0aa1",
+    "sent_idx": 26,
+    "text": "Both ventures were built on diplomatic agreements before they became engineering and commercial achievements.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_8e7ead0aa1#27",
+    "doc_id": "vietnamnews_20261107_8e7ead0aa1",
+    "sent_idx": 27,
+    "text": "Diplomacy continued to shape the industry's development in the decades that followed.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_8e7ead0aa1#28",
+    "doc_id": "vietnamnews_20261107_8e7ead0aa1",
+    "sent_idx": 28,
+    "text": "During the 1990s, Việt Nam opened its continental shelf to Western and Asian investors through production-sharing contracts, creating opportunities for international companies to participate in exploration and development.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_8e7ead0aa1#29",
+    "doc_id": "vietnamnews_20261107_8e7ead0aa1",
+    "sent_idx": 29,
+    "text": "The commercial arrangement with Malaysia over the overlapping PM3 area turned a potential dispute into a source of gas for Cà Mau Province.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_8e7ead0aa1#30",
+    "doc_id": "vietnamnews_20261107_8e7ead0aa1",
+    "sent_idx": 30,
+    "text": "Norway's Oil for Development programme provided Petrovietnam with its first national petroleum resource database, helped establish its safety management system and offered technical support for the 2008 revision of the Petroleum Law.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_8e7ead0aa1#31",
+    "doc_id": "vietnamnews_20261107_8e7ead0aa1",
+    "sent_idx": 31,
+    "text": "The largest project in the industry's history to date, the $12 billion Block B gas-to-power chain, exists because Japanese and Thai partners stayed through a decade of negotiations, with Japanese official development assistance now financing one of the Ô Môn plants.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_8e7ead0aa1#32",
+    "doc_id": "vietnamnews_20261107_8e7ead0aa1",
+    "sent_idx": 32,
+    "text": "First gas is expected in August 2027.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_8e7ead0aa1#33",
+    "doc_id": "vietnamnews_20261107_8e7ead0aa1",
+    "sent_idx": 33,
+    "text": "This pattern of international cooperation has continued this year, with a series of agreements aimed at diversifying supplies and attracting new investment.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_8e7ead0aa1#34",
+    "doc_id": "vietnamnews_20261107_8e7ead0aa1",
+    "sent_idx": 34,
+    "text": "In January, PV Gas signed Việt Nam's first long-term LNG supply contract - about 400,000 tonnes a year from Shell for 2027 to 2031 - and is now sounding the market for a second.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_8e7ead0aa1#35",
+    "doc_id": "vietnamnews_20261107_8e7ead0aa1",
+    "sent_idx": 35,
+    "text": "In September, during Party General Secretary and State President Tô Lâm's visit to the United States, Petrovietnam signed a framework agreement with Chevron to diversify its supply of crude oil, LNG and LPG.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_8e7ead0aa1#36",
+    "doc_id": "vietnamnews_20261107_8e7ead0aa1",
+    "sent_idx": 36,
+    "text": "The agreement covers crude for the Dung Quất refinery and gas for PV Gas's terminals, marking the first such framework with a US energy major and a concrete response to Washington's desire to increase US energy exports to Việt Nam.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_8e7ead0aa1#37",
+    "doc_id": "vietnamnews_20261107_8e7ead0aa1",
+    "sent_idx": 37,
+    "text": "At the same event, the operator of the Dung Quất refinery secured at least two million barrels a year of crude from ExxonMobil.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_8e7ead0aa1#38",
+    "doc_id": "vietnamnews_20261107_8e7ead0aa1",
+    "sent_idx": 38,
+    "text": "Meanwhile, Murphy Oil, with South Korea's SK Earthon, committed to developing the Lạc Đà Vàng field through 2039, with first oil expected this quarter.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_8e7ead0aa1#39",
+    "doc_id": "vietnamnews_20261107_8e7ead0aa1",
+    "sent_idx": 39,
+    "text": "An October agreement with Malaysia's Petronas gives Vietnamese buyers priority on PM3 gas and opens the way for long-term LNG supplies.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_8e7ead0aa1#40",
+    "doc_id": "vietnamnews_20261107_8e7ead0aa1",
+    "sent_idx": 40,
+    "text": "In June, Russia's Zarubezhneft secured two new exploration blocks.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_8e7ead0aa1#41",
+    "doc_id": "vietnamnews_20261107_8e7ead0aa1",
+    "sent_idx": 41,
+    "text": "At Petrovietnam's 50th anniversary last year, Party General Secretary and State President Tô Lâm described the group as an \"economic and industrial ambassador\".",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_8e7ead0aa1#42",
+    "doc_id": "vietnamnews_20261107_8e7ead0aa1",
+    "sent_idx": 42,
+    "text": "The description captures a relationship that works in both directions: the group carries Việt Nam's flag abroad, and Việt Nam's diplomats carry the group's agenda.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_8e7ead0aa1#43",
+    "doc_id": "vietnamnews_20261107_8e7ead0aa1",
+    "sent_idx": 43,
+    "text": "The challenge for the coming decade is to build on this foundation - and define what that agenda should be.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_8e7ead0aa1#44",
+    "doc_id": "vietnamnews_20261107_8e7ead0aa1",
+    "sent_idx": 44,
+    "text": "The first priority is to attract investment in increasingly challenging oil and gas resources.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_8e7ead0aa1#45",
+    "doc_id": "vietnamnews_20261107_8e7ead0aa1",
+    "sent_idx": 45,
+    "text": "Much of Việt Nam's remaining oil and gas potential lies in deepwater areas, far offshore or in geologically complex formations, including fields with high carbon dioxide content.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_8e7ead0aa1#46",
+    "doc_id": "vietnamnews_20261107_8e7ead0aa1",
+    "sent_idx": 46,
+    "text": "These are precisely the types of projects targeted for incentives under the new Petroleum Law and its draft implementing decree.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_8e7ead0aa1#47",
+    "doc_id": "vietnamnews_20261107_8e7ead0aa1",
+    "sent_idx": 47,
+    "text": "Countries that keep finding oil and gas - Norway, Malaysia, Brazil and Guyana - all run an annual, publicised licensing calendar and open their seismic data to anyone who registers.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_8e7ead0aa1#48",
+    "doc_id": "vietnamnews_20261107_8e7ead0aa1",
+    "sent_idx": 48,
+    "text": "Việt Nam's diplomatic missions need a clear licensing schedule to effectively promote the country's exploration opportunities to foreign investors.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_8e7ead0aa1#49",
+    "doc_id": "vietnamnews_20261107_8e7ead0aa1",
+    "sent_idx": 49,
+    "text": "Annual bidding rounds, publicised through embassies and at major industry events in Houston, London, Kuala Lumpur and Singapore, would provide a concrete basis for such efforts.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_8e7ead0aa1#50",
+    "doc_id": "vietnamnews_20261107_8e7ead0aa1",
+    "sent_idx": 50,
+    "text": "The draft decree's new provision for \"non-exclusive seismic agreements\", under which a geophysical company collects data at its own cost and markets it, is a good start; the licensing calendar is the missing half.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_8e7ead0aa1#51",
+    "doc_id": "vietnamnews_20261107_8e7ead0aa1",
+    "sent_idx": 51,
+    "text": "The second priority is to diversify energy supplies and strengthen strategic reserves.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_8e7ead0aa1#52",
+    "doc_id": "vietnamnews_20261107_8e7ead0aa1",
+    "sent_idx": 52,
+    "text": "The three-layer approach to energy security, maintaining stable traditional energy sources - developing flexible LNG supplies and storage capacity, and expanding new sources such as wind and nuclear power - will require coordinated diplomatic and commercial efforts.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_8e7ead0aa1#53",
+    "doc_id": "vietnamnews_20261107_8e7ead0aa1",
+    "sent_idx": 53,
+    "text": "For Việt Nam, diversification means securing long-term contracts with a broader range of partners, including the US, Qatar, Malaysia, Australia and Russia, rather than relying heavily on spot-market purchases.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_8e7ead0aa1#54",
+    "doc_id": "vietnamnews_20261107_8e7ead0aa1",
+    "sent_idx": 54,
+    "text": "The LNG supply agreement with Shell, the framework agreement with Chevron and the arrangement with Petronas provide a basis for expanding these partnerships.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_8e7ead0aa1#55",
+    "doc_id": "vietnamnews_20261107_8e7ead0aa1",
+    "sent_idx": 55,
+    "text": "The next step is to translate initial commitments into firm supply volumes, delivery schedules and commercially viable long-term contracts.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_8e7ead0aa1#56",
+    "doc_id": "vietnamnews_20261107_8e7ead0aa1",
+    "sent_idx": 56,
+    "text": "Building strategic petroleum reserves will also require international cooperation.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_8e7ead0aa1#57",
+    "doc_id": "vietnamnews_20261107_8e7ead0aa1",
+    "sent_idx": 57,
+    "text": "Beyond investment in storage facilities, Việt Nam will need arrangements covering financing, storage services and access to emergency supplies during periods of market disruption.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_8e7ead0aa1#58",
+    "doc_id": "vietnamnews_20261107_8e7ead0aa1",
+    "sent_idx": 58,
+    "text": "Closer engagement with the International Energy Agency would further strengthen the country's preparedness.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_8e7ead0aa1#59",
+    "doc_id": "vietnamnews_20261107_8e7ead0aa1",
+    "sent_idx": 59,
+    "text": "The agency's coordinated release of oil stocks in March demonstrated how international cooperation can help countries respond to major supply disruptions.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_8e7ead0aa1#60",
+    "doc_id": "vietnamnews_20261107_8e7ead0aa1",
+    "sent_idx": 60,
+    "text": "The 90-day reserve target set under Resolution 70 will therefore depend not only on domestic storage capacity but also on agreements that secure access to supplies when international markets are under pressure.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_8e7ead0aa1#61",
+    "doc_id": "vietnamnews_20261107_8e7ead0aa1",
+    "sent_idx": 61,
+    "text": "The third priority is technology for the transformation.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_8e7ead0aa1#62",
+    "doc_id": "vietnamnews_20261107_8e7ead0aa1",
+    "sent_idx": 62,
+    "text": "The offshore skills that drilled Bạch Hổ are the same skills that can build wind farms and carbon stores.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_8e7ead0aa1#63",
+    "doc_id": "vietnamnews_20261107_8e7ead0aa1",
+    "sent_idx": 63,
+    "text": "PTSC has already fabricated foundations for Ørsted in Taiwan (Chinese Taipei) and, in September, delivered four offshore substations for the Baltica 2 project in Poland, the first Vietnamese-built offshore wind structures exported to Europe.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_8e7ead0aa1#64",
+    "doc_id": "vietnamnews_20261107_8e7ead0aa1",
+    "sent_idx": 64,
+    "text": "Vietsovpetro and Zarubezhneft are also studying a wind farm off Vĩnh Phong.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_8e7ead0aa1#65",
+    "doc_id": "vietnamnews_20261107_8e7ead0aa1",
+    "sent_idx": 65,
+    "text": "The new Petroleum Law's chapters on carbon capture and on offshore energy built alongside petroleum operations open the legal door; what walks through it will depend on partners.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_8e7ead0aa1#66",
+    "doc_id": "vietnamnews_20261107_8e7ead0aa1",
+    "sent_idx": 66,
+    "text": "Regional cooperation on carbon capture, utilisation and storage could offer further opportunities.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_8e7ead0aa1#67",
+    "doc_id": "vietnamnews_20261107_8e7ead0aa1",
+    "sent_idx": 67,
+    "text": "Malaysia has passed an act on the issue and is already taking carbon dioxide across borders; Japan, South Korea and Singapore are looking for places to store theirs.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_8e7ead0aa1#68",
+    "doc_id": "vietnamnews_20261107_8e7ead0aa1",
+    "sent_idx": 68,
+    "text": "Việt Nam's depleted fields and high-CO₂ gas discoveries in the Sông Hồng and Nam Côn Sơn basins are a regional asset waiting for a regional agreement - and the Just Energy Transition Partnership of 2022, with its $15.5 billion of pledges, is the natural framework for financing the first projects.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_8e7ead0aa1#69",
+    "doc_id": "vietnamnews_20261107_8e7ead0aa1",
+    "sent_idx": 69,
+    "text": "The fourth priority is rules.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_8e7ead0aa1#70",
+    "doc_id": "vietnamnews_20261107_8e7ead0aa1",
+    "sent_idx": 70,
+    "text": "Every such project sits in waters whose legal status is governed by the 1982 UN Convention on the Law of the Sea.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_8e7ead0aa1#71",
+    "doc_id": "vietnamnews_20261107_8e7ead0aa1",
+    "sent_idx": 71,
+    "text": "Investors read the map before they read the tax code.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_8e7ead0aa1#72",
+    "doc_id": "vietnamnews_20261107_8e7ead0aa1",
+    "sent_idx": 72,
+    "text": "Before committing billions of dollars to offshore exploration or infrastructure that may take decades to generate returns, companies need confidence in the legal framework, the security of their investments and the stability of the surrounding waters.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_8e7ead0aa1#73",
+    "doc_id": "vietnamnews_20261107_8e7ead0aa1",
+    "sent_idx": 73,
+    "text": "This is where diplomacy makes one of its most important, although often least visible, contributions to energy security: helping preserve peace, upholding international law and protecting national sovereignty.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_8e7ead0aa1#74",
+    "doc_id": "vietnamnews_20261107_8e7ead0aa1",
+    "sent_idx": 74,
+    "text": "For countries like Việt Nam, the issue is how to stand on the side of what is right - on the side of international law, peaceful cooperation and respect for sovereignty.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_8e7ead0aa1#75",
+    "doc_id": "vietnamnews_20261107_8e7ead0aa1",
+    "sent_idx": 75,
+    "text": "That is as true of a gas field as anything else.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_8e7ead0aa1#76",
+    "doc_id": "vietnamnews_20261107_8e7ead0aa1",
+    "sent_idx": 76,
+    "text": "*Vũ Quang Minh is Senior Ambassador and former Deputy Minister of Foreign Affairs.",
+    "lang": "en",
+    "is_title": false
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "sent_id": "vietnamnews_20261107_b4dd42bc3d#0",
+    "doc_id": "vietnamnews_20261107_b4dd42bc3d",
+    "sent_idx": 0,
+    "text": "Việt Nam highlights integration achievements at WTO",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261107_b4dd42bc3d#1",
+    "doc_id": "vietnamnews_20261107_b4dd42bc3d",
+    "sent_idx": 1,
+    "text": "GENEVA - Việt Nam's third Trade Policy Review (TPR) took place on November 4-6 at the headquarters of the World Trade Organisation (WTO) in Geneva, Switzerland, providing an opportunity for the country to share its efforts and achievements in international economic integration and exchange views with WTO members on its trade policies.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_b4dd42bc3d#2",
+    "doc_id": "vietnamnews_20261107_b4dd42bc3d",
+    "sent_idx": 2,
+    "text": "The review was chaired by Ambassador Nella Pepe Tavita-Levy, Permanent Representative of Samoa to the WTO, with Ambassador Seongmee Yoon, Permanent Representative of the Republic of Korea, serving as discussant.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_b4dd42bc3d#3",
+    "doc_id": "vietnamnews_20261107_b4dd42bc3d",
+    "sent_idx": 3,
+    "text": "The Vietnamese delegation was led by Ambassador Mai Phan Dũng, Permanent Representative of Việt Nam to the United Nations, WTO and other international organisations in Geneva, and included representatives from the Ministry of Industry and Trade and other relevant ministries and agencies.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_b4dd42bc3d#4",
+    "doc_id": "vietnamnews_20261107_b4dd42bc3d",
+    "sent_idx": 4,
+    "text": "In his opening remarks, Dũng stressed that Việt Nam views the TPR not merely as a transparency obligation but also as an opportunity to objectively assess its achievements, listen to other members' views and identify areas for improvement.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_b4dd42bc3d#5",
+    "doc_id": "vietnamnews_20261107_b4dd42bc3d",
+    "sent_idx": 5,
+    "text": "He highlighted the country's economic performance since its previous review, with average GDP growth of around 6.2 per cent annually during 2021-2025.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_b4dd42bc3d#6",
+    "doc_id": "vietnamnews_20261107_b4dd42bc3d",
+    "sent_idx": 6,
+    "text": "In 2025, Việt Nam posted an economic growth of about 8 per cent and merchandise trade worth about US$930 billion, entering the upper-middle-income economy group.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_b4dd42bc3d#7",
+    "doc_id": "vietnamnews_20261107_b4dd42bc3d",
+    "sent_idx": 7,
+    "text": "He also outlined four major developments: institutional reforms and improvements to the business environment; deeper international economic integration; proactive contributions to trade rule-making; and consistent support for a rules-based multilateral trading system with the WTO at its centre.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_b4dd42bc3d#8",
+    "doc_id": "vietnamnews_20261107_b4dd42bc3d",
+    "sent_idx": 8,
+    "text": "The review attracted considerable interest from WTO members, with more than forty statements delivered.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_b4dd42bc3d#9",
+    "doc_id": "vietnamnews_20261107_b4dd42bc3d",
+    "sent_idx": 9,
+    "text": "Members commended Việt Nam's strong economic growth, resilience and deep integration into regional and global value chains.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_b4dd42bc3d#10",
+    "doc_id": "vietnamnews_20261107_b4dd42bc3d",
+    "sent_idx": 10,
+    "text": "They also recognised its administrative reforms, improvements to the investment climate and efforts to modernise customs procedures.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_b4dd42bc3d#11",
+    "doc_id": "vietnamnews_20261107_b4dd42bc3d",
+    "sent_idx": 11,
+    "text": "They praised the country's contributions to the WTO, including its ratification of the Agreement on Fisheries Subsidies, participation in the Multi-Party Interim Appeal Arbitration Arrangement (MPIA) and launch of the process to join the expanded Information Technology Agreement (ITA 2).",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_b4dd42bc3d#12",
+    "doc_id": "vietnamnews_20261107_b4dd42bc3d",
+    "sent_idx": 12,
+    "text": "Members also highlighted Việt Nam's role as Chair of the Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP) in 2026 and its hosting of the Asia-Pacific Economic Cooperation (APEC) Finance Ministers' Meeting in 2027.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_b4dd42bc3d#13",
+    "doc_id": "vietnamnews_20261107_b4dd42bc3d",
+    "sent_idx": 13,
+    "text": "They shared results of bilateral cooperation with Việt Nam, including the upgrading of partnerships and expansion of collaboration across various fields.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_b4dd42bc3d#14",
+    "doc_id": "vietnamnews_20261107_b4dd42bc3d",
+    "sent_idx": 14,
+    "text": "Meanwhile, members raised issues requiring further clarification, including institutional improvements, transparency and predictability in policymaking, the business environment, trade and investment facilitation, and implementation of international commitments.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_b4dd42bc3d#15",
+    "doc_id": "vietnamnews_20261107_b4dd42bc3d",
+    "sent_idx": 15,
+    "text": "Some also encouraged Việt Nam to contribute more actively to the WTO, particularly its reform process and initiatives.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_b4dd42bc3d#16",
+    "doc_id": "vietnamnews_20261107_b4dd42bc3d",
+    "sent_idx": 16,
+    "text": "At the November 6 session, the Vietnamese delegation thanked members for their constructive comments and recommendations, while providing further information, clarifying issues and addressing their concerns.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_b4dd42bc3d#17",
+    "doc_id": "vietnamnews_20261107_b4dd42bc3d",
+    "sent_idx": 17,
+    "text": "Việt Nam affirmed that it would continue studying the issues raised to refine its policies and legislation and improve the implementation of international commitments.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_b4dd42bc3d#18",
+    "doc_id": "vietnamnews_20261107_b4dd42bc3d",
+    "sent_idx": 18,
+    "text": "The review concluded successfully in an open, frank and constructive atmosphere, reflecting WTO members' strong interest in Việt Nam's trade policies and economic integration.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261107_b4dd42bc3d#19",
+    "doc_id": "vietnamnews_20261107_b4dd42bc3d",
+    "sent_idx": 19,
+    "text": "Its outcomes further underscored Việt Nam's image as a proactive and responsible member of the multilateral trading system and reaffirmed its consistent commitment to a fair, transparent and rules-based global trading system with the WTO at its centre. - VNA/VNS",
+    "lang": "en",
+    "is_title": false
+  }
+]

@@ -1,0 +1,186 @@
+[
+  {
+    "sent_id": "vietnamnews_20261113_23ff116655#0",
+    "doc_id": "vietnamnews_20261113_23ff116655",
+    "sent_idx": 0,
+    "text": "VN-Index gains slightly on large-cap stocks",
+    "lang": "en",
+    "is_title": true
+  },
+  {
+    "sent_id": "vietnamnews_20261113_23ff116655#1",
+    "doc_id": "vietnamnews_20261113_23ff116655",
+    "sent_idx": 1,
+    "text": "HÀ NỘI - The market traded differently on Friday, with gains in several large-cap stocks helping the benchmark VN-Index hold in positive territory despite widespread selling pressure.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261113_23ff116655#2",
+    "doc_id": "vietnamnews_20261113_23ff116655",
+    "sent_idx": 2,
+    "text": "On the Hochiminh Stock Exchange (HoSE), VN-Index rose slightly 0.18 points to close at 1,734.9 points.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261113_23ff116655#3",
+    "doc_id": "vietnamnews_20261113_23ff116655",
+    "sent_idx": 3,
+    "text": "The VN30-Index, tracking the 30 largest stocks by market capitalisation and liquidity, gained 5.48 points to 1,844.9 points.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261113_23ff116655#4",
+    "doc_id": "vietnamnews_20261113_23ff116655",
+    "sent_idx": 4,
+    "text": "Market breadth remained negative on the HoSE, with 192 stocks declining against 108 advancers.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261113_23ff116655#5",
+    "doc_id": "vietnamnews_20261113_23ff116655",
+    "sent_idx": 5,
+    "text": "Meanwhile, liquidity was broadly unchanged from the previous session, surpassing VNĐ15.1 trillion (US$588.4 million).",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261113_23ff116655#6",
+    "doc_id": "vietnamnews_20261113_23ff116655",
+    "sent_idx": 6,
+    "text": "Within the VN30 basket, Sacombank (STB) was the biggest positive contributor to the benchmark, adding 3.22 points.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261113_23ff116655#7",
+    "doc_id": "vietnamnews_20261113_23ff116655",
+    "sent_idx": 7,
+    "text": "FPT Corporation (FPT) contributed 1.42 points.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261113_23ff116655#8",
+    "doc_id": "vietnamnews_20261113_23ff116655",
+    "sent_idx": 8,
+    "text": "The shares rebounded 1.11 per cent to VNĐ50,100 per share, recovering from the previous session's decline.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261113_23ff116655#9",
+    "doc_id": "vietnamnews_20261113_23ff116655",
+    "sent_idx": 9,
+    "text": "On Thursday, the stock had at one point fallen below VNĐ50,000 per share, its lowest level in more than three years.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261113_23ff116655#10",
+    "doc_id": "vietnamnews_20261113_23ff116655",
+    "sent_idx": 10,
+    "text": "It was followed by VietJet Aviation (VJC) with 1.4 points and Techcombank (TCB) with 0.9 points.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261113_23ff116655#11",
+    "doc_id": "vietnamnews_20261113_23ff116655",
+    "sent_idx": 11,
+    "text": "On the downside, Vinamilk (VNM) was the largest drag, shaving 0.88 points off the VN-Index.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261113_23ff116655#12",
+    "doc_id": "vietnamnews_20261113_23ff116655",
+    "sent_idx": 12,
+    "text": "LPBank (LPB) and Sahabank (SHB) followed, reducing the benchmark by 0.3 points and 0.28 points, respectively.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261113_23ff116655#13",
+    "doc_id": "vietnamnews_20261113_23ff116655",
+    "sent_idx": 13,
+    "text": "Property stocks were largely flat, with Khang Dien House (KDH) gaining 0.96 per cent, while Vingroup (VIC), Vinhomes (VHM), Novaland (NVL) and Dat Xanh Group (DXG) traded almost unchanged.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261113_23ff116655#14",
+    "doc_id": "vietnamnews_20261113_23ff116655",
+    "sent_idx": 14,
+    "text": "Industrial stocks recorded gains in several names.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261113_23ff116655#15",
+    "doc_id": "vietnamnews_20261113_23ff116655",
+    "sent_idx": 15,
+    "text": "Gemadept Group Corporation (GMD) advanced 2.42 per cent and Coteccons Construction JSC (CTD) gained 3.4 per cent, while Gelex Group (GEX) declined 2.05 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261113_23ff116655#16",
+    "doc_id": "vietnamnews_20261113_23ff116655",
+    "sent_idx": 16,
+    "text": "PV Power (POW), in the utilities sector, climbed 3.57 per cent.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261113_23ff116655#17",
+    "doc_id": "vietnamnews_20261113_23ff116655",
+    "sent_idx": 17,
+    "text": "On the Hanoi Stock Exchange (HNX), the HNX-Index closed lower at 254.98 points, down 1.64 points.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261113_23ff116655#18",
+    "doc_id": "vietnamnews_20261113_23ff116655",
+    "sent_idx": 18,
+    "text": "Investors poured VNĐ714.3 billion into the northern market, equal to a trading volume of 79.43 million shares.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261113_23ff116655#19",
+    "doc_id": "vietnamnews_20261113_23ff116655",
+    "sent_idx": 19,
+    "text": "Foreign investors returned to net buying on HoSE, recording net purchases of nearly VNĐ321 billion.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261113_23ff116655#20",
+    "doc_id": "vietnamnews_20261113_23ff116655",
+    "sent_idx": 20,
+    "text": "VIX Securities (VIX) attracted the largest net inflow, at VNĐ308.05 billion, followed by POW with VNĐ86.41 billion, VJC with VNĐ57.75 billion and HDBank (HDB) with VNĐ57.61 billion.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261113_23ff116655#21",
+    "doc_id": "vietnamnews_20261113_23ff116655",
+    "sent_idx": 21,
+    "text": "On the HNX, foreign investors were net sellers of VNĐ12.7 billion.",
+    "lang": "en",
+    "is_title": false
+  },
+  {
+    "sent_id": "vietnamnews_20261113_23ff116655#22",
+    "doc_id": "vietnamnews_20261113_23ff116655",
+    "sent_idx": 22,
+    "text": "PetroVietnam Technical Services Corporation (PVS) saw the largest net outflow, at VNĐ6.56 billion, followed by MB Securities (MBS) at VNĐ6.23 billion, Petrolimex Information Technology and Telecommunication (PIA) at VNĐ3.91 billion and Tien Phong Plastic (NTP) at VNĐ1.13 billion. - BIZHUB/VNS",
+    "lang": "en",
+    "is_title": false
+  }
+]
