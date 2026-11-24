@@ -50,8 +50,14 @@ def _para_text(tag: Tag) -> str:
 
     Trong một <p> thì xuống dòng chỉ là cách xuống dòng của HTML, không phải
     ranh giới đoạn -> giữ lại sẽ làm tách câu cắt nhầm giữa câu.
+
+    Ghép chữ KHÔNG chèn dấu cách giữa các thẻ, giống cách trình duyệt hiển thị:
+    `<b>N</b>APAS` phải ra "NAPAS", không phải "N APAS" (chữ đầu đoạn tô màu),
+    `<a>VND</a>,` phải ra "VND,". Riêng <br> là ngắt dòng thật -> đổi thành dấu cách.
     """
-    return " ".join(normalize(tag.get_text(" ")).split())
+    for br in tag.find_all("br"):
+        br.replace_with(" ")
+    return " ".join(normalize(tag.get_text("")).split())
 
 
 def _looks_like_junk(tag: Tag) -> bool:
