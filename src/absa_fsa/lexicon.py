@@ -28,7 +28,7 @@ ENTITIES: tuple[Entity, ...] = (
     Entity("STOCK-MARKET", "index", ("stock market", "securities market")),
 
     # --- tiền tệ ---
-    Entity("VND", "currency", ("Vietnamese dong", "VND", "dong")),
+    Entity("VND", "currency", ("Vietnamese dong", "Vietnamese đồng", "VND", "VNĐ", "dong", "đồng")),
 
     # --- cơ quan quản lý ---
     Entity("SBV", "agency", ("State Bank of Vietnam", "SBV", "central bank")),
@@ -47,6 +47,7 @@ ENTITIES: tuple[Entity, ...] = (
     Entity("MWG", "company", ("Mobile World", "MWG")),
     Entity("FPT", "company", ("FPT Corporation", "FPT")),
     Entity("VCB", "company", ("Vietcombank", "VCB")),
+    Entity("VCBS", "company", ("Vietcombank Securities Company", "Vietcombank Securities", "VCBS")),   # công ty con, KHÔNG phải VCB
     Entity("BID", "company", ("BIDV", "BID")),
     Entity("CTG", "company", ("VietinBank", "CTG")),
     Entity("TCB", "company", ("Techcombank", "TCB")),
@@ -73,7 +74,7 @@ ENTITIES: tuple[Entity, ...] = (
     Entity("PDR", "company", ("Phat Dat", "PDR")),
     Entity("DXG", "company", ("Dat Xanh", "DXG")),
     Entity("KDH", "company", ("Khang Dien", "KDH")),
-    Entity("SAB", "company", ("Sabeco", "SAB")),
+    Entity("SAB", "company", ("Saigon Beer-Alcohol-Beverage Corporation", "Sabeco", "SABECO", "SAB")),
     Entity("POW", "company", ("PV Power", "POW")),
     Entity("REE", "company", ("REE Corporation", "REE")),
     Entity("PNJ", "company", ("Phu Nhuan Jewelry", "PNJ")),
@@ -81,6 +82,16 @@ ENTITIES: tuple[Entity, ...] = (
     Entity("GMD", "company", ("Gemadept", "GMD")),
     Entity("VTP", "company", ("Viettel Post", "VTP")),
     Entity("FRT", "company", ("FPT Retail", "FRT")),
+
+    # --- doanh nghiệp nhà nước lớn, CHƯA niêm yết (không có mã CK nên dùng mã nội bộ) ---
+    Entity("PVN", "company", ("Vietnam National Industry and Energy Group", "Vietnam Oil and Gas Group", "Petrovietnam", "PetroVietnam", "PVN")),
+    Entity("EVN", "company", ("Vietnam Electricity", "EVN")),
+    Entity("VIETTEL", "company", ("Viettel Group", "Viettel")),     # "Viettel Post" (VTP) dài hơn nên được ưu tiên khớp trước
+    Entity("VSP", "company", ("Vietsovpetro",)),
+
+    # --- tổ chức tài chính nhà nước ---
+    Entity("VAMC", "agency", ("Vietnam Asset Management Company", "VAMC")),
+    Entity("VIFC", "agency", ("Vietnam International Financial Centre", "Vietnam International Financial Center", "VIFC-HCMC", "VIFC")),
 )
 
 ENTITY_BY_ID = {e.canonical_id: e for e in ENTITIES}
