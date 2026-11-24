@@ -80,6 +80,14 @@ SOURCES: list[Source] = [
         section="economy",
         sitemap="https://vietnamnews.vn/sitemaps/news-{y}-{m}.xml",
         url_regex=r"^https://vietnamnews\.vn/economy/\d+/",
+    ),    Source(
+        slug="sggp_en",
+        name="Saigon Giai Phong English",
+        lang="en",
+        feed_url="https://en.sggp.org.vn/rss/business-3.rss",
+        section="business",
+        # Không khai báo sitemap: URL của SGGP không có tên mục, lấy sitemap sẽ kéo về cả trang
+        # (quốc tế, đời sống, TP.HCM...), chỉ ~4-14% liên quan. RSS mục business đủ trải 14 ngày.
     ),
 ]
 

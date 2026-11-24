@@ -1,13 +1,14 @@
 # Nguồn crawl
 
-13 feed RSS: 2 tiếng Anh, 11 tiếng Việt.
+14 feed RSS: 3 tiếng Anh, 11 tiếng Việt.
 
-## Tiếng Anh (2)
+## Tiếng Anh (3)
 
 | Nguồn              | Feed                                     |
 | ------------------ | ---------------------------------------- |
 | VnEconomy English  | `https://en.vneconomy.vn/economy.rss`    |
 | Vietnam News (VNA) | `https://vietnamnews.vn/rss/economy.rss` |
+| Saigon Giai Phong English (mục business) | `https://en.sggp.org.vn/rss/business-3.rss` |
 
 ## Tiếng Việt (11)
 
@@ -30,6 +31,7 @@
 ```
 en  https://en.vneconomy.vn/economy.rss
 en  https://vietnamnews.vn/rss/economy.rss
+en  https://en.sggp.org.vn/rss/business-3.rss
 vi  https://cafef.vn/thi-truong-chung-khoan.rss
 vi  https://cafef.vn/doanh-nghiep.rss
 vi  https://cafef.vn/tai-chinh-ngan-hang.rss

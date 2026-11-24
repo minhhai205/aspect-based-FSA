@@ -168,7 +168,12 @@ def crawl(sources: list[Source] | None = None, limit: int = 0) -> dict:
         fetcher = Fetcher()
 
         for src in sources:
-            st = crawl_source(conn, fetcher, src, seen, backfill, limit)
+            # Nguồn mới thêm vào DB đã có dữ liệu: lần đầu của riêng nó kéo về cả cửa sổ feed (cũ),
+            # nên cũng phải gắn is_backfill như lần chạy đầu của cả hệ thống.
+            first = backfill or not conn.execute("SELECT 1 FROM articles WHERE source = ? LIMIT 1", (src.slug,)).fetchone()
+            if first and not backfill:
+                log.info("[%s] nguồn mới -> lần đầu, gắn cờ is_backfill", src.slug)
+            st = crawl_source(conn, fetcher, src, seen, first, limit)
             for k in total:
                 total[k] += st[k]
 
